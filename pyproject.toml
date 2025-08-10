@@ -1,0 +1,32 @@
+[project]
+name = "pointed-discussion"
+version = "0.1.0"
+description = "Static site generator for Magic: The Gathering card comments archive"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "scrython>=1.8.0",
+    "requests>=2.31.0",
+    "Pillow>=10.0.0",
+    "jinja2>=3.1.0",
+]
+
+[project.scripts]
+pointed-discussion = "pointed_discussion.cli:main"
+download-mtg-images = "pointed_discussion.image_downloader:main"
+generate-cardmap = "pointed_discussion.generate_cardmap:run"
+fetch-scryfall-data = "pointed_discussion.fetch_scryfall_data:run"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.12.8",
+]

@@ -1,24 +1,81 @@
-name: Download Images
+name: Download MTG Images
 
 on:
+  # Allow manual trigger
   workflow_dispatch:
-    inputs:
-      message:
-        description: 'Optional message to display'
-        required: false
-        default: 'Hello World'
-        type: string
+
+  # Run bi-weekly to keep the cache fresh
+  schedule:
+    - cron: '0 2 * * 0'  # Every Sunday at 2 AM UTC
+    - cron: '0 2 * * 3'  # Every Wednesday at 2 AM UTC
+
 
 jobs:
-  hello-world:
+  download-images:
     runs-on: ubuntu-latest
-    steps:
-      - name: Print Hello World
-        run: echo "${{ github.event.inputs.message || 'Hello World' }}"
 
-      - name: Print workflow info
-        run: |
-          echo "This workflow was triggered manually"
-          echo "Repository: ${{ github.repository }}"
-          echo "Branch: ${{ github.ref_name }}"
-          echo "Actor: ${{ github.actor }}"
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+      with:
+        version: "latest"
+
+    - name: Set up Python
+      run: uv python install
+
+    - name: Create cache key from data files
+      id: cache-key
+      run: |
+        # Create a hash of all JSON data files to use as part of cache key
+        find data -name "*.json" -type f -exec sha256sum {} \; | sort | sha256sum | cut -d' ' -f1 > data-hash.txt
+        echo "data-hash=$(cat data-hash.txt)" >> $GITHUB_OUTPUT
+        echo "date=$(date +'%Y-%m')" >> $GITHUB_OUTPUT
+
+    - name: Cache downloaded images
+      uses: actions/cache@v4
+      id: image-cache
+      with:
+        path: images/
+        key: mtg-images-${{ steps.cache-key.outputs.data-hash }}
+        restore-keys: |
+          mtg-images-${{ steps.cache-key.outputs.date }}
+          mtg-images-
+
+    - name: Create images directory
+      run: mkdir -p images
+
+    - name: Download MTG images
+      run: |
+        echo "Starting image download..."
+        echo "Cache hit: ${{ steps.image-cache.outputs.cache-hit }}"
+
+        # Install dependencies and run the download script
+        uv sync
+        uv run download-mtg-images
+
+        # Show some stats about downloaded images
+        echo "Image download completed!"
+        echo "Total images: $(find images -name "*.webp" -o -name "*.jpg" -o -name "*.png" | wc -l)"
+        echo "Total size: $(du -sh images/ | cut -f1)"
+
+    - name: Upload images as artifact (for debugging)
+      if: failure()
+      uses: actions/upload-artifact@v4
+      with:
+        name: mtg-images-debug
+        path: images/
+        retention-days: 7
+
+    - name: Cache statistics
+      run: |
+        echo "=== Cache Statistics ==="
+        echo "Images directory size: $(du -sh images/ | cut -f1)"
+        echo "Number of image files: $(find images -type f | wc -l)"
+        echo "Image formats:"
+        find images -type f -name "*.webp" | wc -l | xargs echo "  WebP files:"
+        find images -type f -name "*.jpg" | wc -l | xargs echo "  JPG files:"
+        find images -type f -name "*.png" | wc -l | xargs echo "  PNG files:"
+        find images -type f -name "*.gif" | wc -l | xargs echo "  GIF files:"

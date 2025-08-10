@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ card.name }} - Pointed Discussion</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <header>
+        <h1>Pointed Discussion</h1>
+        <p>Magic: The Gathering Card Comments Archive</p>
+    </header>
+
+    <main>
+        <div class="card-container">
+            <div class="card-info">
+                <h2>{{ card.name }}</h2>
+                <p><strong>Multiverse ID:</strong> {{ card.multiverse_id }}</p>
+                {% if card.image_url %}
+                <div class="card-image">
+                    <img src="../{{ card.image_url }}" alt="{{ card.name }}" loading="lazy">
+                </div>
+                {% endif %}
+            </div>
+
+            <div class="comments-section">
+                <div class="comments-header">
+                    <h3>Comments ({{ card.comments|length }})</h3>
+                    {% if card.comments|length > 1 %}
+                    <div class="comment-sort-controls">
+                        <label for="comment-sort">Sort by:</label>
+                        <select id="comment-sort">
+                            <option value="rating">Highest Rated</option>
+                            <option value="date">Date (Newest First)</option>
+                            <option value="date-asc">Date (Oldest First)</option>
+                        </select>
+                    </div>
+                    {% endif %}
+                </div>
+
+                {% if card.comments %}
+                <div class="comments-list" id="comments-list">
+                    {% for comment in card.comments %}
+                    <article class="comment" data-comment-id="{{ comment.id }}"
+                             data-rating="{{ comment.star_rating }}"
+                             data-vote-count="{{ comment.vote_count }}"
+                             data-date="{{ comment.datetime }}"
+                             data-timestamp="{{ comment.timestamp }}">
+                        <header class="comment-header">
+                            <strong class="comment-author">{{ comment.author }}</strong>
+                            <time class="comment-date" datetime="{{ comment.datetime }}" title="{{ comment.datetime }}">
+                                {{ comment.datetime.split(' ')[0] }}
+                            </time>
+                            <div class="comment-rating">
+                                <span class="stars">{{ comment.star_display }}</span>
+                                {% if comment.vote_count > 0 %}
+                                <span class="vote-info">({{ comment.vote_count }} vote{{ 's' if comment.vote_count != 1 else '' }})</span>
+                                {% endif %}
+                            </div>
+                        </header>
+                        <div class="comment-content">
+                            {{ comment.text_parsed|safe }}
+                        </div>
+                    </article>
+                    {% endfor %}
+                </div>
+                {% else %}
+                <p class="no-comments">No comments found for this card.</p>
+                {% endif %}
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Generated from Gatherer Comment Section Archive</p>
+        <p><a href="../">← Back to Search</a></p>
+    </footer>
+
+    <script>
+        class CommentSorter {
+            constructor() {
+                this.commentsContainer = document.getElementById('comments-list');
+                this.sortSelect = document.getElementById('comment-sort');
+                this.comments = [];
+
+                if (this.commentsContainer && this.sortSelect) {
+                    this.extractComments();
+                    this.initializeSorting();
+                    // Set default sorting to highest rated
+                    this.sortComments('rating');
+                }
+            }
+
+            extractComments() {
+                const commentElements = this.commentsContainer.querySelectorAll('.comment');
+                this.comments = Array.from(commentElements).map(element => ({
+                    element: element,
+                    id: element.dataset.commentId,
+                    rating: parseFloat(element.dataset.rating) || 0,
+                    voteCount: parseInt(element.dataset.voteCount) || 0,
+                    date: element.dataset.date,
+                    timestamp: parseInt(element.dataset.timestamp) || 0
+                }));
+            }
+
+            initializeSorting() {
+                this.sortSelect.addEventListener('change', (e) => {
+                    this.sortComments(e.target.value);
+                });
+            }
+
+            sortComments(sortBy) {
+                let sortedComments;
+
+                switch (sortBy) {
+                    case 'rating':
+                        sortedComments = this.comments.sort((a, b) => {
+                            // First sort by rating (highest first)
+                            if (b.rating !== a.rating) {
+                                return b.rating - a.rating;
+                            }
+                            // If ratings are equal, sort by vote count (highest first)
+                            if (b.voteCount !== a.voteCount) {
+                                return b.voteCount - a.voteCount;
+                            }
+                            // If both are equal, sort by date (newest first)
+                            return b.timestamp - a.timestamp;
+                        });
+                        break;
+
+                    case 'date':
+                        sortedComments = this.comments.sort((a, b) => {
+                            return b.timestamp - a.timestamp; // Newest first
+                        });
+                        break;
+
+                    case 'date-asc':
+                        sortedComments = this.comments.sort((a, b) => {
+                            return a.timestamp - b.timestamp; // Oldest first
+                        });
+                        break;
+
+                    default:
+                        sortedComments = this.comments;
+                }
+
+                // Re-append elements in sorted order
+                sortedComments.forEach(comment => {
+                    this.commentsContainer.appendChild(comment.element);
+                });
+            }
+        }
+
+        // Initialize comment sorting when DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            new CommentSorter();
+        });
+    </script>
+
+    <style>
+        .comments-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .comment-sort-controls {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .comment-sort-controls label {
+            font-weight: 500;
+            color: #555;
+        }
+
+        .comment-sort-controls select {
+            padding: 0.25rem 0.5rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: white;
+            font-size: 0.9rem;
+        }
+
+        .comment-sort-controls select:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+        }
+
+        @media (max-width: 600px) {
+            .comments-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
+</body>
+</html>
