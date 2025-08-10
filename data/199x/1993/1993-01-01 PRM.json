@@ -1,0 +1,2608 @@
+{
+ "97042: Arena": [
+  {
+   "author": "Omenchild",
+   "author_id": 22718,
+   "datetime": "2010-04-30 22:48:13",
+   "id": 70172,
+   "text_parsed": "Man this card needs a reprint, jeez. Haha",
+   "text_posted": "Man this card needs a reprint, jeez. Haha",
+   "timestamp": "1272692893637",
+   "vote_count": 3,
+   "vote_sum": 3
+  },
+  {
+   "author": "izzet_guild_mage",
+   "author_id": 18936,
+   "datetime": "2010-09-13 16:46:55",
+   "id": 101904,
+   "text_parsed": "People of the Imperial City...<br />Welcome to the Arena!",
+   "text_posted": "People of the Imperial City...\nWelcome to the Arena!",
+   "timestamp": "1284421615973",
+   "vote_count": 8,
+   "vote_sum": 69
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-03-20 21:55:59",
+   "id": 145436,
+   "text_parsed": "Ah, yes... it's a <i>duel</i> land.",
+   "text_posted": "Ah, yes... it's a [i]duel[/i] land.",
+   "timestamp": "1300683359963",
+   "vote_count": 19,
+   "vote_sum": 177
+  },
+  {
+   "author": "Lateralis0ne",
+   "author_id": 6050,
+   "datetime": "2011-09-26 19:55:45",
+   "id": 200592,
+   "text_parsed": "Kribster<br /><br />BA-DUM BSH",
+   "text_posted": "Kribster\n\nBA-DUM BSH",
+   "timestamp": "1317092145123",
+   "vote_count": 2,
+   "vote_sum": 2
+  },
+  {
+   "author": "Salient",
+   "author_id": 67559,
+   "datetime": "2012-02-12 16:33:43",
+   "id": 191484,
+   "text_parsed": "The Oracle wording now clarifies that this is a targeted ability, so no going toe to toe with a <a href=\"/Pages/Card/Details.aspx?name=Progenitus\" class=\"autoCard\" data:cardname=\"Progenitus\">Progenitus</a>. A bit sad, since using one's own Progenitus as an effectively invincible Steel Cage Death Match Champion Supreme would be pretty cool. The soul of the world has returned... to defend his title!",
+   "text_posted": "The Oracle wording now clarifies that this is a targeted ability, so no going toe to toe with a [autocard]Progenitus[/autocard]. A bit sad, since using one's own Progenitus as an effectively invincible Steel Cage Death Match Champion Supreme would be pretty cool. The soul of the world has returned... to defend his title!",
+   "timestamp": "1329093223110",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "SirZapdos",
+   "author_id": 69870,
+   "datetime": "2012-03-07 11:52:17",
+   "id": 231926,
+   "text_parsed": "It would be a lot cooler if the art showed Garth in turquoise avenging the house of Oor-Tael.",
+   "text_posted": "It would be a lot cooler if the art showed Garth in turquoise avenging the house of Oor-Tael.",
+   "timestamp": "1331149937657",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Trygon_Predator",
+   "author_id": 81247,
+   "datetime": "2012-05-08 06:06:16",
+   "id": 244530,
+   "text_parsed": "Test your might!<br />Protip: choose something with deathtouch or infect as your champion.",
+   "text_posted": "Test your might!\nProtip: choose something with deathtouch or infect as your champion.",
+   "timestamp": "1336482376500",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "twiddleman12",
+   "author_id": 82387,
+   "datetime": "2012-08-24 08:28:38",
+   "id": 258368,
+   "text_parsed": "@izzet_guild_mage<br />Champion in an hour.<br />@Cirbster<br />Ugh.......<br />The card is also pretty good though.<br />4/5",
+   "text_posted": "@izzet_guild_mage\nChampion in an hour.\n@Cirbster\nUgh.......\nThe card is also pretty good though.\n4/5",
+   "timestamp": "1345822118730",
+   "vote_count": 1,
+   "vote_sum": 6
+  }
+ ],
+ "97043: Dirtcowl Wurm": [
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-03-20 21:58:23",
+   "id": 145437,
+   "text_parsed": "The only way you're likely to get much use out of him is if you can hurry him out for turn three with elves.",
+   "text_posted": "The only way you're likely to get much use out of him is if you can hurry him out for turn three with elves.",
+   "timestamp": "1300683503427",
+   "vote_count": 2,
+   "vote_sum": 16
+  },
+  {
+   "author": "jsttu",
+   "author_id": 53284,
+   "datetime": "2011-04-24 14:10:15",
+   "id": 153967,
+   "text_parsed": "EDH or another type of multiplayer. absolutely brutal when he gets on average +3/+3 a turn.",
+   "text_posted": "EDH or another type of multiplayer. absolutely brutal when he gets on average +3/+3 a turn.",
+   "timestamp": "1303679415870",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "WilloftheLisp",
+   "author_id": 63273,
+   "datetime": "2011-06-14 18:39:21",
+   "id": 168709,
+   "text_parsed": "Dirtcowl and <a href=\"/Pages/Card/Details.aspx?multiverseid=5769\" class=\"autoCard\" data:cardid=\"5769\">Argothian</a> Wurms rocked in a 'geddon deck.",
+   "text_posted": "Dirtcowl and [autocard multiverseid=\"5769\"]Argothian[/autocard] Wurms rocked in a 'geddon deck.",
+   "timestamp": "1308101961103",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Shadoflaam",
+   "author_id": 44951,
+   "datetime": "2011-10-08 18:50:58",
+   "id": 203033,
+   "text_parsed": "Whoa, Prerelease version! Wait, this is Weatherlight's <a href=\"/Pages/Card/Details.aspx?name=Wurmcoil Engine\" class=\"autoCard\" data:cardname=\"Wurmcoil Engine\">Wurmcoil Engine</a>? Ahahaha",
+   "text_posted": "Whoa, Prerelease version! Wait, this is Weatherlight's [autocard]Wurmcoil Engine[/autocard]? Ahahaha",
+   "timestamp": "1318125058340",
+   "vote_count": 1,
+   "vote_sum": 3
+  }
+ ],
+ "97044: False Prophet": [
+  {
+   "author": "cjgrimmreaper",
+   "author_id": 46876,
+   "datetime": "2010-10-07 00:37:09",
+   "id": 108332,
+   "text_parsed": "Is that highlighter?",
+   "text_posted": "Is that highlighter?",
+   "timestamp": "1286437029373",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Salient",
+   "author_id": 67559,
+   "datetime": "2012-01-28 17:50:26",
+   "id": 224290,
+   "text_parsed": "...everyone asks that when they first see the actual promo card, too.",
+   "text_posted": "...everyone asks that when they first see the actual promo card, too.",
+   "timestamp": "1327801826250",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97045: Giant Badger": [
+  {
+   "author": "sweetestsadist",
+   "author_id": 149,
+   "datetime": "2009-03-06 12:28:16",
+   "id": 3219,
+   "text_parsed": "I remember being the only player i knew who read in the early days of MTG.  I was the only one who had this card and I was envied by all.  It was great.",
+   "text_posted": "I remember being the only player i knew who read in the early days of MTG.  I was the only one who had this card and I was envied by all.  It was great.",
+   "timestamp": "1236371296120",
+   "vote_count": 8,
+   "vote_sum": 59
+  },
+  {
+   "author": "Dr_Draco",
+   "author_id": 2189,
+   "datetime": "2009-08-08 12:09:17",
+   "id": 16927,
+   "text_parsed": "Yeah, I wasn't so lucky, lol. I remember buying the old MtG books, but the offers for the promo cards were expired by a month :(... Talk about just missing out.",
+   "text_posted": "Yeah, I wasn't so lucky, lol. I remember buying the old MtG books, but the offers for the promo cards were expired by a month :(... Talk about just missing out.",
+   "timestamp": "1249758557297",
+   "vote_count": 5,
+   "vote_sum": 38
+  },
+  {
+   "author": "SirSabin33",
+   "author_id": 16219,
+   "datetime": "2009-10-30 11:36:52",
+   "id": 32690,
+   "text_parsed": "I still have the book from which this card originates.\r<br />'Whispering Woods'. It's on my book shelf with a bunch of other old, nearly forgotten books.\r<br />It was a decent read. Gull and Greensleeves and Towser and all that. Memories.",
+   "text_posted": "I still have the book from which this card originates.\r\n'Whispering Woods'. It's on my book shelf with a bunch of other old, nearly forgotten books.\r\nIt was a decent read. Gull and Greensleeves and Towser and all that. Memories.",
+   "timestamp": "1256927812580",
+   "vote_count": 7,
+   "vote_sum": 59
+  },
+  {
+   "author": "MasterOfEtherium",
+   "author_id": 1138,
+   "datetime": "2009-12-09 12:34:18",
+   "id": 40045,
+   "text_parsed": "Badgers Are *** Awesome",
+   "text_posted": "Badgers Are Fucking Awesome",
+   "timestamp": "1260390858600",
+   "vote_count": 7,
+   "vote_sum": 35
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2010-07-12 00:33:54",
+   "id": 84315,
+   "text_parsed": "&quot;in an battle&quot;? This was in a <i>book</i>, but the card designers didn't even bother to proofread the card's flavour text? Oh, the irony.",
+   "text_posted": "\"in an battle\"? This was in a [i]book[/i], but the card designers didn't even bother to proofread the card's flavour text? Oh, the irony.",
+   "timestamp": "1278920034643",
+   "vote_count": 8,
+   "vote_sum": 72
+  },
+  {
+   "author": "Superllama12",
+   "author_id": 52035,
+   "datetime": "2011-03-15 16:06:42",
+   "id": 144077,
+   "text_parsed": "And then God descended upon the unknowing people.  And some blind, dim-witted moron thought he looked like a badger.  And thus, the people rejoiced, for they had received the gift of a bushido badger.  But God was embarrassed, that maybe he combed his hair funny and looked like a badger.  So he permanently changed his form to a badger to make sure no one would ever make fun of him again.",
+   "text_posted": "And then God descended upon the unknowing people.  And some blind, dim-witted moron thought he looked like a badger.  And thus, the people rejoiced, for they had received the gift of a bushido badger.  But God was embarrassed, that maybe he combed his hair funny and looked like a badger.  So he permanently changed his form to a badger to make sure no one would ever make fun of him again.",
+   "timestamp": "1300230402400",
+   "vote_count": 5,
+   "vote_sum": 35
+  },
+  {
+   "author": "Alsebra",
+   "author_id": 56396,
+   "datetime": "2011-05-22 03:41:43",
+   "id": 162727,
+   "text_parsed": "When I got hold of the <i>Redwall</i> series, I wanted to build a deck based around the books.  Would've had this, <a href=\"/Pages/Card/Details.aspx?name=Stone-Throwing Devils\" class=\"autoCard\" data:cardname=\"Stone-Throwing Devils\">Stone-Throwing Devils</a> (the non-com members), <a href=\"/Pages/Card/Details.aspx?name=Aysen Abbey\" class=\"autoCard\" data:cardname=\"Aysen Abbey\">Aysen Abbey</a> (the only Abbey card), and others...",
+   "text_posted": "When I got hold of the [i]Redwall[/i] series, I wanted to build a deck based around the books.  Would've had this, [autocard]Stone-Throwing Devils[/autocard] (the non-com members), [autocard]Aysen Abbey[/autocard] (the only Abbey card), and others...",
+   "timestamp": "1306060903690",
+   "vote_count": 3,
+   "vote_sum": 21
+  },
+  {
+   "author": "Tiggurix",
+   "author_id": 36920,
+   "datetime": "2012-08-15 00:43:56",
+   "id": 262477,
+   "text_parsed": "Kickass artwork. Very reminiscent of some badger god or spirit, as Superllama pointed out.",
+   "text_posted": "Kickass artwork. Very reminiscent of some badger god or spirit, as Superllama pointed out.",
+   "timestamp": "1345016636663",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "greatspearman",
+   "author_id": 79297,
+   "datetime": "2013-05-17 09:44:18",
+   "id": 316505,
+   "text_parsed": "Go ahead, attack into him. Giant Badger doesn't give a SHIT.",
+   "text_posted": "Go ahead, attack into him. Giant Badger doesn't give a SHIT.",
+   "timestamp": "1368809058550",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "SeriouslyFacetious",
+   "author_id": 98300,
+   "datetime": "2013-09-12 07:29:44",
+   "id": 338646,
+   "text_parsed": "Elusive old card, I only know it from Shandalar. At least it's on gatherer, a lot of promo cards aren't. <br /><br />Anyway I always find it funny when the flavour text on old cards are pretty much playtesting anecdotes. See for example  <a href=\"/Pages/Card/Details.aspx?name=Artifact Blast\" class=\"autoCard\" data:cardname=\"Artifact Blast\">Artifact Blast</a>. In this case it seems obvious to me both Green Sleeves, and... ahem.... Karli, were someone's girlfriend lol.",
+   "text_posted": "Elusive old card, I only know it from Shandalar. At least it's on gatherer, a lot of promo cards aren't. \n\nAnyway I always find it funny when the flavour text on old cards are pretty much playtesting anecdotes. See for example  [autocard]Artifact Blast[/autocard]. In this case it seems obvious to me both Green Sleeves, and... ahem.... Karli, were someone's girlfriend lol.",
+   "timestamp": "1378996184347",
+   "vote_count": 1,
+   "vote_sum": 10
+  }
+ ],
+ "97046: Helm of Kaldra": [
+  {
+   "author": "McThor",
+   "author_id": 30592,
+   "datetime": "2010-05-04 15:33:32",
+   "id": 70984,
+   "text_parsed": "AH WANT MAH PITCHER!",
+   "text_posted": "AH WANT MAH PITCHER!",
+   "timestamp": "1273012412490",
+   "vote_count": 3,
+   "vote_sum": 12
+  },
+  {
+   "author": "Skwirlnutz",
+   "author_id": 39354,
+   "datetime": "2010-08-29 22:34:12",
+   "id": 99005,
+   "text_parsed": "LMAO, it is Morphed.",
+   "text_posted": "LMAO, it is Morphed.",
+   "timestamp": "1283146452043",
+   "vote_count": 5,
+   "vote_sum": 36
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-03-20 22:02:18",
+   "id": 145440,
+   "text_parsed": "I once made a deck with 60 cards that looked just like this....",
+   "text_posted": "I once made a deck with 60 cards that looked just like this....",
+   "timestamp": "1300683738850",
+   "vote_count": 4,
+   "vote_sum": 37
+  },
+  {
+   "author": "Chamale",
+   "author_id": 14953,
+   "datetime": "2011-03-22 15:44:17",
+   "id": 145899,
+   "text_parsed": "I, too, have made a deck with 60 cards that looked like this. Unfortunately, the judge penalized me for having upside-down cards in my library.",
+   "text_posted": "I, too, have made a deck with 60 cards that looked like this. Unfortunately, the judge penalized me for having upside-down cards in my library.",
+   "timestamp": "1300833857690",
+   "vote_count": 6,
+   "vote_sum": 60
+  },
+  {
+   "author": "Hellkitten",
+   "author_id": 58352,
+   "datetime": "2011-04-13 19:00:21",
+   "id": 151612,
+   "text_parsed": "New rules state you can only have 4 cards per deck that look like this, unless it's a basic land. And this isn't a basic land...",
+   "text_posted": "New rules state you can only have 4 cards per deck that look like this, unless it's a basic land. And this isn't a basic land...",
+   "timestamp": "1302746421590",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "endersblade",
+   "author_id": 60245,
+   "datetime": "2011-06-05 18:32:57",
+   "id": 166719,
+   "text_parsed": "The most overpowered card in the game.  Especially considering everybody who ever played magic ran with 60 + of them.  Combos with every other card in the game.  Isn't subject to the 4 copies rule.  5/5.",
+   "text_posted": "The most overpowered card in the game.  Especially considering everybody who ever played magic ran with 60 + of them.  Combos with every other card in the game.  Isn't subject to the 4 copies rule.  5/5.",
+   "timestamp": "1307323977343",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "Flop_It_Out",
+   "author_id": 65600,
+   "datetime": "2011-07-12 02:38:15",
+   "id": 178163,
+   "text_parsed": "combos with cover sleeves",
+   "text_posted": "combos with cover sleeves",
+   "timestamp": "1310463495680",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "JFM2796",
+   "author_id": 67306,
+   "datetime": "2011-07-31 12:29:23",
+   "id": 183852,
+   "text_parsed": "Broken",
+   "text_posted": "Broken",
+   "timestamp": "1312140563813",
+   "vote_count": 2,
+   "vote_sum": 14
+  },
+  {
+   "author": "Kryptnyt",
+   "author_id": 24840,
+   "datetime": "2011-10-11 09:04:47",
+   "id": 203627,
+   "text_parsed": "Morph 0 (<i>All cards have this ability. You may play this card face-down as a 2/2. Turn it face-up at any time for {0} to lose the game. If this card would be revealed, you lose the game. If the game ends, you instead lose the game.</i>)",
+   "text_posted": "Morph 0 ([i]All cards have this ability. You may play this card face-down as a 2/2. Turn it face-up at any time for {0} to lose the game. If this card would be revealed, you lose the game. If the game ends, you instead lose the game.[/i])",
+   "timestamp": "1318349087830",
+   "vote_count": 4,
+   "vote_sum": 31
+  },
+  {
+   "author": "Trygon_Predator",
+   "author_id": 81247,
+   "datetime": "2013-11-20 13:25:08",
+   "id": 352058,
+   "text_parsed": "This can actually work! To turn your <a href=\"/Pages/Card/Details.aspx?name=Helm of Kaldra\" class=\"autoCard\" data:cardname=\"Helm of Kaldra\">Helm of Kaldra</a> into a 2/2 morphed creature, use <a href=\"/Pages/Card/Details.aspx?name=March of the Machines\" class=\"autoCard\" data:cardname=\"March of the Machines\">March of the Machines</a> and <a href=\"/Pages/Card/Details.aspx?name=Ixidron\" class=\"autoCard\" data:cardname=\"Ixidron\">Ixidron</a>. <a href=\"/Pages/Card/Details.aspx?name=Ixidor, Reality Sculptor\" class=\"autoCard\" data:cardname=\"Ixidor, Reality Sculptor\">Ixidor, Reality Sculptor</a> can unmorph it whenever you like so you can block someone with equipment for the low cost of <img src=\"/Handlers/Image.ashx?size=small&amp;name=2&amp;type=symbol\" alt=\"2\" align=\"absbottom\" /><img src=\"/Handlers/Image.ashx?size=small&amp;name=U&amp;type=symbol\" alt=\"Blue\" align=\"absbottom\" />.",
+   "text_posted": "This can actually work! To turn your [autocard]Helm of Kaldra[/autocard] into a 2/2 morphed creature, use [autocard]March of the Machines[/autocard] and [autocard]Ixidron[/autocard]. [autocard]Ixidor, Reality Sculptor[/autocard] can unmorph it whenever you like so you can block someone with equipment for the low cost of [2][U].",
+   "timestamp": "1384982708100",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "car2n",
+   "author_id": 28949,
+   "datetime": "2014-05-08 02:01:34",
+   "id": 375061,
+   "text_parsed": "So simple, so elegant. Brought to you by Christopher Rush.<br />I wish the face of the cards reflected the archaic &quot;sorcerous&quot; look of the backs like they used to.",
+   "text_posted": "So simple, so elegant. Brought to you by Christopher Rush.\nI wish the face of the cards reflected the archaic \"sorcerous\" look of the backs like they used to.",
+   "timestamp": "1399539694860",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97047: Lightning Dragon": [
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2010-10-10 00:00:26",
+   "id": 109020,
+   "text_parsed": "The original foil card. Very cool.",
+   "text_posted": "The original foil card. Very cool.",
+   "timestamp": "1286694026283",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "penguinmage25",
+   "author_id": 59451,
+   "datetime": "2011-11-08 16:28:28",
+   "id": 210343,
+   "text_parsed": "yay",
+   "text_posted": "yay",
+   "timestamp": "1320798508980",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Paolino",
+   "author_id": 56748,
+   "datetime": "2012-01-27 02:17:25",
+   "id": 223229,
+   "text_parsed": "FIRST FOIL CARD IN <b>MAGIC</b>!!!",
+   "text_posted": "FIRST FOIL CARD IN [b]MAGIC[/b]!!!",
+   "timestamp": "1327659445767",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97048: Mana Crypt": [
+  {
+   "author": "Mode",
+   "author_id": 416,
+   "datetime": "2009-03-04 05:38:15",
+   "id": 3186,
+   "text_parsed": "Well, i guess they'll never reprint that card, therefore it likely won't be playable ever in any format.",
+   "text_posted": "Well, i guess they'll never reprint that card, therefore it likely won't be playable ever in any format.",
+   "timestamp": "1236173895780",
+   "vote_count": 6,
+   "vote_sum": 10
+  },
+  {
+   "author": "ddd",
+   "author_id": 2036,
+   "datetime": "2009-09-11 12:43:25",
+   "id": 22821,
+   "text_parsed": "this cardi is a must is any and all vintage decks plain and simple.",
+   "text_posted": "this cardi is a must is any and all vintage decks plain and simple.",
+   "timestamp": "1252698205467",
+   "vote_count": 1,
+   "vote_sum": 2
+  },
+  {
+   "author": "Omenchild",
+   "author_id": 22718,
+   "datetime": "2009-12-28 22:31:20",
+   "id": 43103,
+   "text_parsed": "Where was this card from? Its not in anything but Promo",
+   "text_posted": "Where was this card from? Its not in anything but Promo",
+   "timestamp": "1262068280507",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Tackle74",
+   "author_id": 33453,
+   "datetime": "2010-05-06 19:20:00",
+   "id": 71515,
+   "text_parsed": "This card was a book card, got it for buying one of the early Magic novels.",
+   "text_posted": "This card was a book card, got it for buying one of the early Magic novels.",
+   "timestamp": "1273198800947",
+   "vote_count": 3,
+   "vote_sum": 30
+  },
+  {
+   "author": "Havens",
+   "author_id": 24379,
+   "datetime": "2010-06-18 09:36:54",
+   "id": 80499,
+   "text_parsed": "@ Mode<br /><br />actually it sees play in vintage, 0 casting artifact that taps for 2 mana? hey i want free mana.",
+   "text_posted": "@ Mode\n\nactually it sees play in vintage, 0 casting artifact that taps for 2 mana? hey i want free mana.",
+   "timestamp": "1276879014893",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "Revelation666",
+   "author_id": 34796,
+   "datetime": "2010-07-01 15:04:28",
+   "id": 83454,
+   "text_parsed": "Sol Ring is a much better card, the only reason you'd use this is to get a 3CC card out on turn 1, but after that you will be taking a recurring 3 damage, screw that.",
+   "text_posted": "Sol Ring is a much better card, the only reason you'd use this is to get a 3CC card out on turn 1, but after that you will be taking a recurring 3 damage, screw that.",
+   "timestamp": "1278021868333",
+   "vote_count": 2,
+   "vote_sum": 2
+  },
+  {
+   "author": "spectermonger",
+   "author_id": 30282,
+   "datetime": "2010-07-04 22:03:24",
+   "id": 84092,
+   "text_parsed": "No Sol Ring is not better.  The games in which this sees play will be over in a couple turns...if not turn 1.",
+   "text_posted": "No Sol Ring is not better.  The games in which this sees play will be over in a couple turns...if not turn 1.",
+   "timestamp": "1278306204663",
+   "vote_count": 3,
+   "vote_sum": 14
+  },
+  {
+   "author": "EvilCleavage",
+   "author_id": 29260,
+   "datetime": "2010-07-21 23:03:37",
+   "id": 61689,
+   "text_parsed": "OHhhhh Maybe they won't reprint it but they are definitely circulating again! I pulled one of these about a month ago in a zendikar booossttter!!!! <br /><br /> EDIT: Ya Tackle74, and you made a good investment haha, that thing is worth 35 bucks now. ",
+   "text_posted": "OHhhhh Maybe they won't reprint it but they are definitely circulating again! I pulled one of these about a month ago in a zendikar booossttter!!!! \n\n EDIT: Ya Tackle74, and you made a good investment haha, that thing is worth 35 bucks now. ",
+   "timestamp": "1279778617090",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "GainsBanding",
+   "author_id": 2974,
+   "datetime": "2010-10-26 01:01:28",
+   "id": 112067,
+   "text_parsed": "Turn 1: Island, Mana Crypt, Tinker (sac Mana Crypt) = Inkwell Leviathan, Sphinx of the Steel Wind, Darksteel Colossus, or whatever robot happens to be fashionable at the time.  <br /><br />Most of the time you cast this, you don't intend to have it out for long.  Building up storm count (and getting 2 more mana) the turn you go off is another typical use.  ",
+   "text_posted": "Turn 1: Island, Mana Crypt, Tinker (sac Mana Crypt) = Inkwell Leviathan, Sphinx of the Steel Wind, Darksteel Colossus, or whatever robot happens to be fashionable at the time.  \n\nMost of the time you cast this, you don't intend to have it out for long.  Building up storm count (and getting 2 more mana) the turn you go off is another typical use.  ",
+   "timestamp": "1288080088407",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "Lateralis0ne",
+   "author_id": 6050,
+   "datetime": "2010-12-23 06:55:03",
+   "id": 124148,
+   "text_parsed": "I know that I've turn zero'd an active Time Vault with this card. Infinite turns out of the starting gate? I'd say this is pretty damn useful.",
+   "text_posted": "I know that I've turn zero'd an active Time Vault with this card. Infinite turns out of the starting gate? I'd say this is pretty damn useful.",
+   "timestamp": "1293116103647",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "land_comment",
+   "author_id": 56080,
+   "datetime": "2011-02-22 19:02:17",
+   "id": 139277,
+   "text_parsed": "Wierd card, but good for <img src=\"/Handlers/Image.ashx?size=small&amp;name=0&amp;type=symbol\" alt=\"0\" align=\"absbottom\" />.",
+   "text_posted": "Wierd card, but good for [0].",
+   "timestamp": "1298430137603",
+   "vote_count": 3,
+   "vote_sum": 12
+  },
+  {
+   "author": "Pontiac",
+   "author_id": 56295,
+   "datetime": "2011-04-04 10:19:20",
+   "id": 149474,
+   "text_parsed": "This card won me alot of games, put it in a deck with the following\r<br />\r<br />Mana Excel\r<br />\r<br />Sol Ring, Mox Jet, Mox Sapphire, Mox Ruby, Mox Pearl, Mox Emerald, Mox Opal, Mox Diamond, Mana Vault, Grim Monolith, Black Lotus, Lotus Petal, Chrome Mox and 4 Dark Rituals.\r<br />\r<br />Card Excel\r<br />\r<br />Windfall, Timetwister, Wheel of Fortune, Memory Jar, Ancestral Recall, yadda, yadda.\r<br />\r<br />Your first turn will pown every time, your going to have lots of mana to do something your opponent will not enjoy or most likely dump your hand and draw 7 till you do.\r<br />\r<br />Back in the day we called it Type 1, now it's Vintage I guess, but either way I used Mana Crypt. It can decide a game on the first turn, who cares about 3 damage, the game is over by 3rd turn max in that format, if can't do that then don't play type 1 or at least think your deck over again.",
+   "text_posted": "This card won me alot of games, put it in a deck with the following\r\n\r\nMana Excel\r\n\r\nSol Ring, Mox Jet, Mox Sapphire, Mox Ruby, Mox Pearl, Mox Emerald, Mox Opal, Mox Diamond, Mana Vault, Grim Monolith, Black Lotus, Lotus Petal, Chrome Mox and 4 Dark Rituals.\r\n\r\nCard Excel\r\n\r\nWindfall, Timetwister, Wheel of Fortune, Memory Jar, Ancestral Recall, yadda, yadda.\r\n\r\nYour first turn will pown every time, your going to have lots of mana to do something your opponent will not enjoy or most likely dump your hand and draw 7 till you do.\r\n\r\nBack in the day we called it Type 1, now it's Vintage I guess, but either way I used Mana Crypt. It can decide a game on the first turn, who cares about 3 damage, the game is over by 3rd turn max in that format, if can't do that then don't play type 1 or at least think your deck over again.",
+   "timestamp": "1301937560400",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "scumbling1",
+   "author_id": 3892,
+   "datetime": "2011-05-02 17:09:15",
+   "id": 157398,
+   "text_parsed": "The Harper Prism novel associated with this card must have been pretty bad; appearantly, they needed to give players broken artifact acceleration to buy it. The other books seem to have gotten by with offering relatively nothing at all.",
+   "text_posted": "The Harper Prism novel associated with this card must have been pretty bad; appearantly, they needed to give players broken artifact acceleration to buy it. The other books seem to have gotten by with offering relatively nothing at all.",
+   "timestamp": "1304381355803",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "pedrodyl",
+   "author_id": 67105,
+   "datetime": "2012-10-31 15:32:22",
+   "id": 279309,
+   "text_parsed": "The colorless mox really",
+   "text_posted": "The colorless mox really",
+   "timestamp": "1351722742363",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "Salient",
+   "author_id": 67559,
+   "datetime": "2013-01-08 14:48:41",
+   "id": 289248,
+   "text_parsed": "The blinker for <a href=\"/Pages/Card/Details.aspx?name=Tinker\" class=\"autoCard\" data:cardname=\"Tinker\">Tinker</a> to cheat out the <a href=\"/Pages/Card/Details.aspx?multiverseid=221563\" class=\"autoCard\" data:cardid=\"221563\">stinker</a>.",
+   "text_posted": "The blinker for [autocard]Tinker[/autocard] to cheat out the [autocard multiverseid=\"221563\"]stinker[/autocard].",
+   "timestamp": "1357685321863",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "TheWrathofShane",
+   "author_id": 34054,
+   "datetime": "2013-02-08 09:06:38",
+   "id": 298845,
+   "text_parsed": "Pay 2 Win.<br />I wouldn't give a shlt but they brought this broken trash online. Good luck competing in older formats without shelling out at least100+ bucks for all these vintage staples. And you wont even begin to cover lands with that low of a budget.<br /><br />To many tryhard spikes infesting the just for fun room.",
+   "text_posted": "Pay 2 Win.\nI wouldn't give a shlt but they brought this broken trash online. Good luck competing in older formats without shelling out at least100+ bucks for all these vintage staples. And you wont even begin to cover lands with that low of a budget.\n\nTo many tryhard spikes infesting the just for fun room.",
+   "timestamp": "1360343198553",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "supafly13",
+   "author_id": 70746,
+   "datetime": "2013-02-21 15:37:03",
+   "id": 301151,
+   "text_parsed": "I think the thing that many a player forget to understand is, as with The P9 (ie Moxen, Black Lotus, Sol Ring, etc) is that in 1995 there were no combo decks that existed like we know them today. And less than 10% of the card pool. It really wasn't THAT broken.",
+   "text_posted": "I think the thing that many a player forget to understand is, as with The P9 (ie Moxen, Black Lotus, Sol Ring, etc) is that in 1995 there were no combo decks that existed like we know them today. And less than 10% of the card pool. It really wasn't THAT broken.",
+   "timestamp": "1361489823377",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97049: Monstrous Hound": [
+  {
+   "author": "Fert12334",
+   "author_id": 53585,
+   "datetime": "2011-01-25 17:27:58",
+   "id": 130816,
+   "text_parsed": "At least it totally beats <a href=\"/Pages/Card/Details.aspx?name=Viashino Skeleton\" class=\"autoCard\" data:cardname=\"Viashino Skeleton\">Viashino Skeleton</a>.<br /><br />Not terrible with a land destruction or land ramp deck...<br /><br />2/5",
+   "text_posted": "At least it totally beats [autocard]Viashino Skeleton[/autocard].\n\nNot terrible with a land destruction or land ramp deck...\n\n2/5",
+   "timestamp": "1296005278427",
+   "vote_count": 3,
+   "vote_sum": 23
+  },
+  {
+   "author": "TheWrathofShane",
+   "author_id": 34054,
+   "datetime": "2013-10-29 15:11:15",
+   "id": 347823,
+   "text_parsed": "You have to build around it, and all it is, 4/4 vanilla. Not good by any means but back then 4/4 vanilla for 4 was playable.",
+   "text_posted": "You have to build around it, and all it is, 4/4 vanilla. Not good by any means but back then 4/4 vanilla for 4 was playable.",
+   "timestamp": "1383084675150",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97050: Nalathni Dragon": [
+  {
+   "author": "Mode",
+   "author_id": 416,
+   "datetime": "2009-08-20 07:37:09",
+   "id": 19099,
+   "text_parsed": "Currently overrated for being a promo card i guess.<br />Banding is actually not that useful since you won't get a band consistant only of flying creatures, which will make the dragon just easier to block as soon as he becomes part of a band.<br />Four mana for a tiny 1/1 flyer with a restricted pumping effect <i>(also a typical red one which won't increase toughness) </i>isn't impressive eiter.<br /><a href=\"/Pages/Card/Details.aspx?name=Dragon Whelp\" class=\"autoCard\" data:cardname=\"Dragon Whelp\">Dragon Whelp</a> is much more preferable to that one.",
+   "text_posted": "Currently overrated for being a promo card i guess.\nBanding is actually not that useful since you won't get a band consistant only of flying creatures, which will make the dragon just easier to block as soon as he becomes part of a band.\nFour mana for a tiny 1/1 flyer with a restricted pumping effect [i](also a typical red one which won't increase toughness) [/i]isn't impressive eiter.\n[autocard]Dragon Whelp[/autocard] is much more preferable to that one.",
+   "timestamp": "1250779029340",
+   "vote_count": 6,
+   "vote_sum": 32
+  },
+  {
+   "author": "Volcre",
+   "author_id": 2170,
+   "datetime": "2009-09-12 13:46:58",
+   "id": 22954,
+   "text_parsed": "Whats even good about this card?",
+   "text_posted": "Whats even good about this card?",
+   "timestamp": "1252788418810",
+   "vote_count": 4,
+   "vote_sum": 6
+  },
+  {
+   "author": "Zosk",
+   "author_id": 12846,
+   "datetime": "2009-11-20 11:09:36",
+   "id": 36473,
+   "text_parsed": "Well, one good thing about this card is the artwork. Michael Whelan is a fantastic artist, and this is the only card illustrated by him. Also, it is not available in any sets. This is one of the perks of having a promo card, yet it seems just about every other promo in Magic can be found in one set or another, at least lately.<br /><br />Would I use this in a deck? Not likely.",
+   "text_posted": "Well, one good thing about this card is the artwork. Michael Whelan is a fantastic artist, and this is the only card illustrated by him. Also, it is not available in any sets. This is one of the perks of having a promo card, yet it seems just about every other promo in Magic can be found in one set or another, at least lately.\n\nWould I use this in a deck? Not likely.",
+   "timestamp": "1258744176830",
+   "vote_count": 4,
+   "vote_sum": 31
+  },
+  {
+   "author": "MadMageQc",
+   "author_id": 982,
+   "datetime": "2010-01-16 19:31:06",
+   "id": 46390,
+   "text_parsed": "<b>2010/01/16</b>: Gatherer wrongly lists this card as not playable in any tournament format. It is actually fully legal in Legacy and Vintage. From the Magic tournament rules :<br /><br />3.3 Authorized Cards<br />Players may use any cards from special sets, supplements, and promotional printings that, unaltered, meet the following conditions:<br />• The card is published by Wizards of the Coast<br />• The card has a standard Magic back<br />• The card does not have squared corners<br />• The card has black or white borders<br />• The card is not damaged or modified in a way that might make it marked<br />• The card is otherwise legal for the tournament as defined by the format<br /><br />Nalathni Dragon, as well as <a href=\"/Pages/Card/Details.aspx?name=Sewers of Estark\" class=\"autoCard\" data:cardname=\"Sewers of Estark\">Sewers of Estark</a> and <a href=\"/Pages/Card/Details.aspx?name=Windseeker Centaur\" class=\"autoCard\" data:cardname=\"Windseeker Centaur\">Windseeker Centaur</a> are tournament-legal Magic cards, because they are published by WotC, they have Magic card backs, they do not have squared corners and they have black borders. They are legal in the Legacy and Vintage formats because all tournament-legal Magic cards are legal in those (unless they appear on the Banned and Restricted lists of course, and these three cards don't). Their sister card <a href=\"/Pages/Card/Details.aspx?name=Mana Crypt\" class=\"autoCard\" data:cardname=\"Mana Crypt\">Mana Crypt</a> is correctly classified as restricted in Vintage only because it is a more high-profile card that sees extensive play in that format.",
+   "text_posted": "[b]2010/01/16[/b]: Gatherer wrongly lists this card as not playable in any tournament format. It is actually fully legal in Legacy and Vintage. From the Magic tournament rules :\n\n3.3 Authorized Cards\nPlayers may use any cards from special sets, supplements, and promotional printings that, unaltered, meet the following conditions:\n• The card is published by Wizards of the Coast\n• The card has a standard Magic back\n• The card does not have squared corners\n• The card has black or white borders\n• The card is not damaged or modified in a way that might make it marked\n• The card is otherwise legal for the tournament as defined by the format\n\nNalathni Dragon, as well as [autocard]Sewers of Estark[/autocard] and [autocard]Windseeker Centaur[/autocard] are tournament-legal Magic cards, because they are published by WotC, they have Magic card backs, they do not have squared corners and they have black borders. They are legal in the Legacy and Vintage formats because all tournament-legal Magic cards are legal in those (unless they appear on the Banned and Restricted lists of course, and these three cards don't). Their sister card [autocard]Mana Crypt[/autocard] is correctly classified as restricted in Vintage only because it is a more high-profile card that sees extensive play in that format.",
+   "timestamp": "1263699066950",
+   "vote_count": 6,
+   "vote_sum": 54
+  },
+  {
+   "author": "berserkberserker",
+   "author_id": 24645,
+   "datetime": "2010-05-04 20:27:18",
+   "id": 71046,
+   "text_parsed": "Uhh. Dragon with banding. I'll take 4! ",
+   "text_posted": "Uhh. Dragon with banding. I'll take 4! ",
+   "timestamp": "1273030038957",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Sironos",
+   "author_id": 35244,
+   "datetime": "2010-06-20 08:09:26",
+   "id": 80960,
+   "text_parsed": "<a href=\"/Pages/Card/Details.aspx?name=Dragon whelp\" class=\"autoCard\" data:cardname=\"Dragon whelp\">Dragon whelp</a> is preferable imo.",
+   "text_posted": "[autocard]Dragon whelp[/autocard] is preferable imo.",
+   "timestamp": "1277046566907",
+   "vote_count": 4,
+   "vote_sum": 23
+  },
+  {
+   "author": "boneclub",
+   "author_id": 24188,
+   "datetime": "2010-07-20 10:19:08",
+   "id": 89484,
+   "text_parsed": "Fun fact: I'm pretty sure this is the only Red creature with Banding.",
+   "text_posted": "Fun fact: I'm pretty sure this is the only Red creature with Banding.",
+   "timestamp": "1279646348643",
+   "vote_count": 4,
+   "vote_sum": 31
+  },
+  {
+   "author": "Beekhead",
+   "author_id": 26790,
+   "datetime": "2010-10-05 09:29:08",
+   "id": 107957,
+   "text_parsed": "berserkberserker, I totally agree with you. When I saw this guy, I knew he was going to be an awesome addition to my dragon deck. I can band him with one of my other powerful dragons, essentially boost the dragon's power by 4 and prevent all combat damage that would be dealt to my dragon (therefore getting rid of those pesky reach creatures that kept trying to capture and eat my dragons).<br /><br />Woohoo! Dragon with banding for the win!<br /><br />Oh, and MadMageQc, good job! They corrected their mistake.",
+   "text_posted": "berserkberserker, I totally agree with you. When I saw this guy, I knew he was going to be an awesome addition to my dragon deck. I can band him with one of my other powerful dragons, essentially boost the dragon's power by 4 and prevent all combat damage that would be dealt to my dragon (therefore getting rid of those pesky reach creatures that kept trying to capture and eat my dragons).\n\nWoohoo! Dragon with banding for the win!\n\nOh, and MadMageQc, good job! They corrected their mistake.",
+   "timestamp": "1286296148050",
+   "vote_count": 3,
+   "vote_sum": 26
+  },
+  {
+   "author": "GainsBanding",
+   "author_id": 2974,
+   "datetime": "2011-02-27 00:52:58",
+   "id": 140227,
+   "text_parsed": "It's online now!  As a promo-only, fittingly enough.  Never seen it played.",
+   "text_posted": "It's online now!  As a promo-only, fittingly enough.  Never seen it played.",
+   "timestamp": "1298796778953",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "DarthParallax",
+   "author_id": 46041,
+   "datetime": "2011-11-08 18:36:25",
+   "id": 210366,
+   "text_parsed": "OK, I hate to be a real pain in the ass here- for the people who understand banding, you can skip this comment. For everyone else, observe: <br /><br /><br />Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, <b>you divide that creature's combat damage, not its controller</b>, among any of the creatures it's being blocked by or is blocking.<br /><br /><br />Alright, here's my problem. After reading this 12 times, I finally know what it does. The first 11 times I didn't know what it meant to 'divide a controller'.  Here's my proposal for new banding text:<br /><br />Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, <b>you, not its controller, divide that creature's combat damage</b> among any of the creatures it's being blocked by or is blocking.<br /><br />God banding sucks xP <br />I mean, ok, it might be somewhat useful, but it's not worth the headache it takes to read the damn reminder text. I swear to god, if anyone plays <a href=\"/Pages/Card/Details.aspx?name=Duh\" class=\"autoCard\" data:cardname=\"Duh\">Duh</a> on a creature with banding, they totally deserve to be kicked in the nuts.",
+   "text_posted": "OK, I hate to be a real pain in the ass here- for the people who understand banding, you can skip this comment. For everyone else, observe: \n\n\nAny creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, [b]you divide that creature's combat damage, not its controller[/b], among any of the creatures it's being blocked by or is blocking.\n\n\nAlright, here's my problem. After reading this 12 times, I finally know what it does. The first 11 times I didn't know what it meant to 'divide a controller'.  Here's my proposal for new banding text:\n\nAny creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, [b]you, not its controller, divide that creature's combat damage[/b] among any of the creatures it's being blocked by or is blocking.\n\nGod banding sucks xP \nI mean, ok, it might be somewhat useful, but it's not worth the headache it takes to read the damn reminder text. I swear to god, if anyone plays [autocard]Duh[/autocard] on a creature with banding, they totally deserve to be kicked in the nuts.",
+   "timestamp": "1320806185333",
+   "vote_count": 2,
+   "vote_sum": 3
+  },
+  {
+   "author": "Shadoflaam",
+   "author_id": 44951,
+   "datetime": "2011-11-12 15:38:16",
+   "id": 211073,
+   "text_parsed": "Not only is this the only Dragon that bands,<br /><br />THIS WAS THE FIRST AVAILABLE MAGIC CARD.<br /><br />Let that sink in. This noble beast was the first creature EVER PRINTED. And the first spell, the first Dragon, the first bander, the first CARD.",
+   "text_posted": "Not only is this the only Dragon that bands,\n\nTHIS WAS THE FIRST AVAILABLE MAGIC CARD.\n\nLet that sink in. This noble beast was the first creature EVER PRINTED. And the first spell, the first Dragon, the first bander, the first CARD.",
+   "timestamp": "1321141096133",
+   "vote_count": 1,
+   "vote_sum": 2
+  },
+  {
+   "author": "Lord_of_Tresserhorn",
+   "author_id": 55262,
+   "datetime": "2012-03-04 19:37:31",
+   "id": 231323,
+   "text_parsed": "Shadowflaam, what the hell are you talking about??\r<br />\r<br />This card was first handed out as a Dragon*Con promo in 1994, which seemed to have occurred in July...\r<br />\r<br />http://www.wizards.com/magic/magazine/Article.aspx?x=mtgcom/arcana/334\r<br />\r<br />It is therefore post-Revised but pre-The Dark.\r<br />\r<br />I actually have two of them, hidden all the way at the end of my Fallen Empires collection.\r<br />\r<br />Kind of fitting...",
+   "text_posted": "Shadowflaam, what the hell are you talking about??\r\n\r\nThis card was first handed out as a Dragon*Con promo in 1994, which seemed to have occurred in July...\r\n\r\nhttp://www.wizards.com/magic/magazine/Article.aspx?x=mtgcom/arcana/334\r\n\r\nIt is therefore post-Revised but pre-The Dark.\r\n\r\nI actually have two of them, hidden all the way at the end of my Fallen Empires collection.\r\n\r\nKind of fitting...",
+   "timestamp": "1330918651810",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "Admiral_Ferret",
+   "author_id": 81023,
+   "datetime": "2012-04-09 12:08:42",
+   "id": 236807,
+   "text_parsed": "I miss banding...",
+   "text_posted": "I miss banding...",
+   "timestamp": "1333998522947",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "tavaritz",
+   "author_id": 58371,
+   "datetime": "2012-05-17 05:28:25",
+   "id": 182971,
+   "text_parsed": "This, Portal 2 <a href=\"/Pages/Card/Details.aspx?name=Bee Sting\" class=\"autoCard\" data:cardname=\"Bee Sting\">Bee Sting</a>, <a href=\"/Pages/Card/Details.aspx?name=Coils of the Medusa\" class=\"autoCard\" data:cardname=\"Coils of the Medusa\">Coils of the Medusa</a>, <a href=\"/Pages/Card/Details.aspx?name=Dragon Mask\" class=\"autoCard\" data:cardname=\"Dragon Mask\">Dragon Mask</a>, <a href=\"/Pages/Card/Details.aspx?name=Flailing Ogre\" class=\"autoCard\" data:cardname=\"Flailing Ogre\">Flailing Ogre</a>, <a href=\"/Pages/Card/Details.aspx?name=Flint Golem\" class=\"autoCard\" data:cardname=\"Flint Golem\">Flint Golem</a>, <a href=\"/Pages/Card/Details.aspx?name=Hickory Woodlot\" class=\"autoCard\" data:cardname=\"Hickory Woodlot\">Hickory Woodlot</a>, <a href=\"/Pages/Card/Details.aspx?name=Look at Me, I'm the DCI\" class=\"autoCard\" data:cardname=\"Look at Me, I'm the DCI\">Look at Me, I'm the DCI</a>, <a href=\"/Pages/Card/Details.aspx?name=Meng Huo's Horde\" class=\"autoCard\" data:cardname=\"Meng Huo's Horde\">Meng Huo's Horde</a>, <a href=\"/Pages/Card/Details.aspx?name=Ruby Leech\" class=\"autoCard\" data:cardname=\"Ruby Leech\">Ruby Leech</a>, <a href=\"/Pages/Card/Details.aspx?name=Stasis\" class=\"autoCard\" data:cardname=\"Stasis\">Stasis</a> and <a href=\"/Pages/Card/Details.aspx?name=Verduran Emissary\" class=\"autoCard\" data:cardname=\"Verduran Emissary\">Verduran Emissary</a> are cards that were the only card by its illustrator, that I know. Are there any other?",
+   "text_posted": "This, Portal 2 [autocard]Bee Sting[/autocard], [autocard]Coils of the Medusa[/autocard], [autocard]Dragon Mask[/autocard], [autocard]Flailing Ogre[/autocard], [autocard]Flint Golem[/autocard], [autocard]Hickory Woodlot[/autocard], [autocard]Look at Me, I'm the DCI[/autocard], [autocard]Meng Huo's Horde[/autocard], [autocard]Ruby Leech[/autocard], [autocard]Stasis[/autocard] and [autocard]Verduran Emissary[/autocard] are cards that were the only card by its illustrator, that I know. Are there any other?",
+   "timestamp": "1337257705960",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "syrazemyla",
+   "author_id": 9657,
+   "datetime": "2012-11-20 20:03:55",
+   "id": 282384,
+   "text_parsed": "It's really quite simple to use.  You band it with a creature you like more, and assign all the damage to the dragon.  The <a href=\"/Pages/Card/Details.aspx?name=Dragon Whelp\" class=\"autoCard\" data:cardname=\"Dragon Whelp\">Dragon Whelp</a>-like ability doesn't bother it, because it would die from the entire damage being assigned to it anyways.",
+   "text_posted": "It's really quite simple to use.  You band it with a creature you like more, and assign all the damage to the dragon.  The [autocard]Dragon Whelp[/autocard]-like ability doesn't bother it, because it would die from the entire damage being assigned to it anyways.",
+   "timestamp": "1353470635193",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Anzu-chan",
+   "author_id": 87070,
+   "datetime": "2012-12-10 10:41:52",
+   "id": 285381,
+   "text_parsed": "One of the first promo card ever released (maybe the first one).<br />",
+   "text_posted": "One of the first promo card ever released (maybe the first one).\n",
+   "timestamp": "1355164912280",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "pedrodyl",
+   "author_id": 67105,
+   "datetime": "2012-12-22 15:58:21",
+   "id": 287023,
+   "text_parsed": "The guy with the spear is all, &quot;Awh, what a cute wittle dragon!&quot;<br />And then Nalathni Dragon is like, &quot;How dare you! That is slander where I come from good sir!&quot; and proceeds to breath fire on him three times.",
+   "text_posted": "The guy with the spear is all, \"Awh, what a cute wittle dragon!\"\nAnd then Nalathni Dragon is like, \"How dare you! That is slander where I come from good sir!\" and proceeds to breath fire on him three times.",
+   "timestamp": "1356220701917",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "imakuni67",
+   "author_id": 100939,
+   "datetime": "2013-09-02 06:14:15",
+   "id": 337363,
+   "text_parsed": "They need to bring back promo only. It is fun!",
+   "text_posted": "They need to bring back promo only. It is fun!",
+   "timestamp": "1378127655350",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97051: Overtaker": [
+  {
+   "author": "allmighty_abacus",
+   "author_id": 21705,
+   "datetime": "2010-07-17 16:21:11",
+   "id": 88706,
+   "text_parsed": "so... who's controlling who?",
+   "text_posted": "so... who's controlling who?",
+   "timestamp": "1279408871033",
+   "vote_count": 3,
+   "vote_sum": 10
+  },
+  {
+   "author": "Arglypuff",
+   "author_id": 27042,
+   "datetime": "2010-10-29 17:27:17",
+   "id": 112823,
+   "text_parsed": "Who is controlling &quot;whom?&quot;",
+   "text_posted": "Who is controlling \"whom?\"",
+   "timestamp": "1288398437103",
+   "vote_count": 5,
+   "vote_sum": 40
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2010-12-01 19:42:52",
+   "id": 119520,
+   "text_parsed": "Who is controlling &quot;whom&quot;?\r<br />\r<br />Punctuation placement is important.",
+   "text_posted": "Who is controlling \"whom\"?\r\n\r\nPunctuation placement is important.",
+   "timestamp": "1291261372750",
+   "vote_count": 6,
+   "vote_sum": 42
+  },
+  {
+   "author": "Three_Toe",
+   "author_id": 67157,
+   "datetime": "2011-08-05 14:23:54",
+   "id": 185437,
+   "text_parsed": "Magic players nitpick. You can tell by the fact that Captain Punctuation has 5 stars.",
+   "text_posted": "Magic players nitpick. You can tell by the fact that Captain Punctuation has 5 stars.",
+   "timestamp": "1312579434790",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "Billetron",
+   "author_id": 70027,
+   "datetime": "2011-08-28 14:51:43",
+   "id": 191853,
+   "text_parsed": "I figure I'll join the fray of punctuation snobs and say that both Kirbster and Arglypuff are correct.  Kirbster prefers the British style, while Arglypuff prefers the American style.  And... nobody cares.",
+   "text_posted": "I figure I'll join the fray of punctuation snobs and say that both Kirbster and Arglypuff are correct.  Kirbster prefers the British style, while Arglypuff prefers the American style.  And... nobody cares.",
+   "timestamp": "1314568303780",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "Kryptnyt",
+   "author_id": 24840,
+   "datetime": "2011-09-07 15:33:49",
+   "id": 194265,
+   "text_parsed": "I care! Also, both are incorrect, because I can't understand why either party is using quotation marks in the first place. Typically, when making a correction or edit on the internet, it would look like this.<br />Who is controlling who*m*?<br />The answer of who is controlling whom being, of course, unanswered. But the most clever among us will understand that we are all trolling all*m*.",
+   "text_posted": "I care! Also, both are incorrect, because I can't understand why either party is using quotation marks in the first place. Typically, when making a correction or edit on the internet, it would look like this.\nWho is controlling who*m*?\nThe answer of who is controlling whom being, of course, unanswered. But the most clever among us will understand that we are all trolling all*m*.",
+   "timestamp": "1315434829503",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "Majinkajisan",
+   "author_id": 80706,
+   "datetime": "2012-06-30 21:45:02",
+   "id": 253427,
+   "text_parsed": "I'd still rather have the <a href=\"/Pages/Card/Details.aspx?multiverseid=2528\" class=\"autoCard\" data:cardid=\"2528\">Element of Surprise</a>.",
+   "text_posted": "I'd still rather have the [autocard multiverseid=\"2528\"]Element of Surprise[/autocard].",
+   "timestamp": "1341117902220",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97052: Questing Phelddagrif": [
+  {
+   "author": "ScissorsLizard",
+   "author_id": 1310,
+   "datetime": "2010-02-27 09:25:43",
+   "id": 56754,
+   "text_parsed": "A 4/4 for 4 with interesting combo possibilities. ",
+   "text_posted": "A 4/4 for 4 with interesting combo possibilities. ",
+   "timestamp": "1267291543553",
+   "vote_count": 3,
+   "vote_sum": 28
+  },
+  {
+   "author": "Mudora",
+   "author_id": 1781,
+   "datetime": "2010-04-05 08:06:07",
+   "id": 63333,
+   "text_parsed": "Whaaat? I am so confused.",
+   "text_posted": "Whaaat? I am so confused.",
+   "timestamp": "1270479967033",
+   "vote_count": 2,
+   "vote_sum": 14
+  },
+  {
+   "author": "land_comment",
+   "author_id": 56080,
+   "datetime": "2011-03-27 08:25:49",
+   "id": 147375,
+   "text_parsed": "I like pheldagriffs. The art for this one is great, but why didn't they put it on this card?",
+   "text_posted": "I like pheldagriffs. The art for this one is great, but why didn't they put it on this card?",
+   "timestamp": "1301239549507",
+   "vote_count": 3,
+   "vote_sum": 21
+  },
+  {
+   "author": "Chamale",
+   "author_id": 14953,
+   "datetime": "2011-09-24 23:39:52",
+   "id": 199654,
+   "text_parsed": "I'll use this to point out something interesting about the backs of Magic cards. See that pen mark over the T in &quot;DECKMASTER&quot;? It wasn't supposed to be there, but someone accidentally marked the logo with a pen before they started printing it on the backs. They realized it after a large print run, and because the backs of all cards must be identical, that blue scribble has been there ever since.",
+   "text_posted": "I'll use this to point out something interesting about the backs of Magic cards. See that pen mark over the T in \"DECKMASTER\"? It wasn't supposed to be there, but someone accidentally marked the logo with a pen before they started printing it on the backs. They realized it after a large print run, and because the backs of all cards must be identical, that blue scribble has been there ever since.",
+   "timestamp": "1316932792077",
+   "vote_count": 6,
+   "vote_sum": 60
+  },
+  {
+   "author": "NeoKoda",
+   "author_id": 62969,
+   "datetime": "2011-12-09 19:53:52",
+   "id": 215592,
+   "text_parsed": "I hate how DotP changes the card back, it just looks bad with the yellow logo.",
+   "text_posted": "I hate how DotP changes the card back, it just looks bad with the yellow logo.",
+   "timestamp": "1323489232707",
+   "vote_count": 4,
+   "vote_sum": 26
+  },
+  {
+   "author": "Trygon_Predator",
+   "author_id": 81247,
+   "datetime": "2013-11-20 13:27:41",
+   "id": 352059,
+   "text_parsed": "It's gone questing.",
+   "text_posted": "It's gone questing.",
+   "timestamp": "1384982861893",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97053: Revenant": [
+  {
+   "author": "Kryptnyt",
+   "author_id": 24840,
+   "datetime": "2010-01-15 16:16:07",
+   "id": 46149,
+   "text_parsed": "Hans had better get runnin.",
+   "text_posted": "Hans had better get runnin.",
+   "timestamp": "1263600967000",
+   "vote_count": 5,
+   "vote_sum": 37
+  },
+  {
+   "author": "jsttu",
+   "author_id": 53284,
+   "datetime": "2011-02-12 19:08:29",
+   "id": 136995,
+   "text_parsed": "Love the flavor text, referencing the fact it is a black <a href=\"/Pages/Card/Details.aspx?name=Lhurgoyf\" class=\"autoCard\" data:cardname=\"Lhurgoyf\">Lhurgoyf</a>. This fits the color-pie, and the evasion is a nice touch. Still playable in casual i think, along with <a href=\"/Pages/Card/Details.aspx?name=Golgari grave-troll\" class=\"autoCard\" data:cardname=\"Golgari grave-troll\">Golgari grave-troll</a>, the original <a href=\"/Pages/Card/Details.aspx?name=Lhurgoyf\" class=\"autoCard\" data:cardname=\"Lhurgoyf\">Lhurgoyf</a> and <a href=\"/Pages/Card/Details.aspx?name=Bonehoard\" class=\"autoCard\" data:cardname=\"Bonehoard\">Bonehoard</a>. Add some dredge cards and you have a deck.",
+   "text_posted": "Love the flavor text, referencing the fact it is a black [autocard]Lhurgoyf[/autocard]. This fits the color-pie, and the evasion is a nice touch. Still playable in casual i think, along with [autocard]Golgari grave-troll[/autocard], the original [autocard]Lhurgoyf[/autocard] and [autocard]Bonehoard[/autocard]. Add some dredge cards and you have a deck.",
+   "timestamp": "1297566509187",
+   "vote_count": 3,
+   "vote_sum": 25
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-03-20 22:09:27",
+   "id": 145446,
+   "text_parsed": "I really don't see how Hans could visually equate this with the <a href=\"/Pages/Card/Details.aspx?name=Lhurgoyf\" class=\"autoCard\" data:cardname=\"Lhurgoyf\">Lhurgoyf</a>.",
+   "text_posted": "I really don't see how Hans could visually equate this with the [autocard]Lhurgoyf[/autocard].",
+   "timestamp": "1300684167227",
+   "vote_count": 6,
+   "vote_sum": 56
+  },
+  {
+   "author": "land_comment",
+   "author_id": 56080,
+   "datetime": "2011-03-30 06:21:49",
+   "id": 148221,
+   "text_parsed": "Poor hans.",
+   "text_posted": "Poor hans.",
+   "timestamp": "1301491309360",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Burningsickle",
+   "author_id": 66042,
+   "datetime": "2012-07-30 19:25:05",
+   "id": 260226,
+   "text_parsed": "the fact that it says &quot;prerelease&quot; bothers me... otherwise awesome card. 3/5<br />",
+   "text_posted": "the fact that it says \"prerelease\" bothers me... otherwise awesome card. 3/5\n",
+   "timestamp": "1343701505277",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "ESPRcon",
+   "author_id": 100139,
+   "datetime": "2013-08-23 18:21:50",
+   "id": 336197,
+   "text_parsed": "thats a funny flavor text if you look up <a href=\"/Pages/Card/Details.aspx?name=Lhurgoyf\" class=\"autoCard\" data:cardname=\"Lhurgoyf\">Lhurgoyf</a> flavor text",
+   "text_posted": "thats a funny flavor text if you look up [autocard]Lhurgoyf[/autocard] flavor text",
+   "timestamp": "1377307310683",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Mode",
+   "author_id": 416,
+   "datetime": "2013-09-30 15:54:15",
+   "id": 344055,
+   "text_parsed": "&quot;the fact that it says &quot;prerelease&quot; bothers me... otherwise awesome card. 3/5&quot;<br />If that bothers you, simply go for the <a href=\"/Pages/Card/Details.aspx?multiverseid=5211\" class=\"autoCard\" data:cardid=\"5211\">regular printing</a>.<br />It's the second pre-release card that ever existed (the first one being <a href=\"/Pages/Card/Details.aspx?multiverseid=97043\" class=\"autoCard\" data:cardid=\"97043\">Dirtcowl Wurm</a>), admittedly it's quite primitive in comparison to the newer once, since that gold stamp is the only difference from the regular version.<br />",
+   "text_posted": "\"the fact that it says \"prerelease\" bothers me... otherwise awesome card. 3/5\"\nIf that bothers you, simply go for the [autocard multiverseid=\"5211\"]regular printing[/autocard].\nIt's the second pre-release card that ever existed (the first one being [autocard multiverseid=\"97043\"]Dirtcowl Wurm[/autocard]), admittedly it's quite primitive in comparison to the newer once, since that gold stamp is the only difference from the regular version.\n",
+   "timestamp": "1380581655333",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "car2n",
+   "author_id": 28949,
+   "datetime": "2014-02-19 18:00:16",
+   "id": 364521,
+   "text_parsed": "Back in the day, along with <a href=\"/Pages/Card/Details.aspx?name=Living Death\" class=\"autoCard\" data:cardname=\"Living Death\">Living Death</a>, <a href=\"/Pages/Card/Details.aspx?name=Fallen Angel\" class=\"autoCard\" data:cardname=\"Fallen Angel\">Fallen Angel</a>, and <a href=\"/Pages/Card/Details.aspx?name=Skyshroud Vampire\" class=\"autoCard\" data:cardname=\"Skyshroud Vampire\">Skyshroud Vampire</a>, this card was really useful. The only kill cards were <a href=\"/Pages/Card/Details.aspx?name=Dark Banishing\" class=\"autoCard\" data:cardname=\"Dark Banishing\">Dark Banishing</a> and <a href=\"/Pages/Card/Details.aspx?name=Terror\" class=\"autoCard\" data:cardname=\"Terror\">Terror</a>.",
+   "text_posted": "Back in the day, along with [autocard]Living Death[/autocard], [autocard]Fallen Angel[/autocard], and [autocard]Skyshroud Vampire[/autocard], this card was really useful. The only kill cards were [autocard]Dark Banishing[/autocard] and [autocard]Terror[/autocard].",
+   "timestamp": "1392861616233",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97054: Sewers of Estark": [
+  {
+   "author": "Keegan__",
+   "author_id": 1049,
+   "datetime": "2009-07-29 12:27:22",
+   "id": 14974,
+   "text_parsed": "So this is just on Gatherer?",
+   "text_posted": "So this is just on Gatherer?",
+   "timestamp": "1248895642557",
+   "vote_count": 3,
+   "vote_sum": 8
+  },
+  {
+   "author": "Sooku",
+   "author_id": 1080,
+   "datetime": "2009-08-24 18:11:16",
+   "id": 19948,
+   "text_parsed": "I think this was given away when you purchased one of the first novels.",
+   "text_posted": "I think this was given away when you purchased one of the first novels.",
+   "timestamp": "1251162676697",
+   "vote_count": 3,
+   "vote_sum": 26
+  },
+  {
+   "author": "Silverware",
+   "author_id": 2871,
+   "datetime": "2009-10-29 10:38:54",
+   "id": 32506,
+   "text_parsed": "No, it's not just on gather. I have one. I just don't know where it originaly came from.",
+   "text_posted": "No, it's not just on gather. I have one. I just don't know where it originaly came from.",
+   "timestamp": "1256837934913",
+   "vote_count": 1,
+   "vote_sum": 6
+  },
+  {
+   "author": "Theostratus",
+   "author_id": 17871,
+   "datetime": "2009-11-23 18:20:03",
+   "id": 37072,
+   "text_parsed": "The first few novels had functional, and decent, cards if you filled out a little form and sent it in before a certain date.",
+   "text_posted": "The first few novels had functional, and decent, cards if you filled out a little form and sent it in before a certain date.",
+   "timestamp": "1259029203257",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Thrull_Champion",
+   "author_id": 238,
+   "datetime": "2009-12-03 21:53:39",
+   "id": 39137,
+   "text_parsed": "I comboed it once with Phage :).",
+   "text_posted": "I comboed it once with Phage :).",
+   "timestamp": "1259906019820",
+   "vote_count": 3,
+   "vote_sum": 26
+  },
+  {
+   "author": "Omenchild",
+   "author_id": 22718,
+   "datetime": "2009-12-28 22:34:33",
+   "id": 43105,
+   "text_parsed": "They should put this is a set someday. Woulda been cool if it was future shifted",
+   "text_posted": "They should put this is a set someday. Woulda been cool if it was future shifted",
+   "timestamp": "1262068473660",
+   "vote_count": 2,
+   "vote_sum": 18
+  },
+  {
+   "author": "MadMageQc",
+   "author_id": 982,
+   "datetime": "2010-01-16 19:33:54",
+   "id": 46392,
+   "text_parsed": "<b>2010/01/16</b>: Gatherer wrongly lists this card as not playable in any tournament format. It is actually fully legal in Legacy and Vintage. From the Magic tournament rules :<br /><br />3.3 Authorized Cards<br />Players may use any cards from special sets, supplements, and promotional printings that, unaltered, meet the following conditions:<br />• The card is published by Wizards of the Coast<br />• The card has a standard Magic back<br />• The card does not have squared corners<br />• The card has black or white borders<br />• The card is not damaged or modified in a way that might make it marked<br />• The card is otherwise legal for the tournament as defined by the format<br /><br />Sewers of Estark, as well as <a href=\"/Pages/Card/Details.aspx?name=Nalathni Dragon\" class=\"autoCard\" data:cardname=\"Nalathni Dragon\">Nalathni Dragon</a> and <a href=\"/Pages/Card/Details.aspx?name=Windseeker Centaur\" class=\"autoCard\" data:cardname=\"Windseeker Centaur\">Windseeker Centaur</a>, are tournament-legal Magic cards, because they are published by WotC, they have Magic card backs, they do not have squared corners and they have black borders. They are legal in the Legacy and Vintage formats because all tournament-legal Magic cards are legal in those (unless they appear on the Banned and Restricted lists of course, and these three cards don't). Their sister card <a href=\"/Pages/Card/Details.aspx?name=Mana Crypt\" class=\"autoCard\" data:cardname=\"Mana Crypt\">Mana Crypt</a> is correctly classified as restricted in Vintage only because it is a more high-profile card that sees extensive play in that format.",
+   "text_posted": "[b]2010/01/16[/b]: Gatherer wrongly lists this card as not playable in any tournament format. It is actually fully legal in Legacy and Vintage. From the Magic tournament rules :\n\n3.3 Authorized Cards\nPlayers may use any cards from special sets, supplements, and promotional printings that, unaltered, meet the following conditions:\n• The card is published by Wizards of the Coast\n• The card has a standard Magic back\n• The card does not have squared corners\n• The card has black or white borders\n• The card is not damaged or modified in a way that might make it marked\n• The card is otherwise legal for the tournament as defined by the format\n\nSewers of Estark, as well as [autocard]Nalathni Dragon[/autocard] and [autocard]Windseeker Centaur[/autocard], are tournament-legal Magic cards, because they are published by WotC, they have Magic card backs, they do not have squared corners and they have black borders. They are legal in the Legacy and Vintage formats because all tournament-legal Magic cards are legal in those (unless they appear on the Banned and Restricted lists of course, and these three cards don't). Their sister card [autocard]Mana Crypt[/autocard] is correctly classified as restricted in Vintage only because it is a more high-profile card that sees extensive play in that format.",
+   "timestamp": "1263699234747",
+   "vote_count": 5,
+   "vote_sum": 38
+  },
+  {
+   "author": "brunsbr103",
+   "author_id": 304,
+   "datetime": "2010-02-24 18:55:12",
+   "id": 56075,
+   "text_parsed": "I don't exactly understand how sewers are an instant.  Perhaps you are teleporting the creatures there...",
+   "text_posted": "I don't exactly understand how sewers are an instant.  Perhaps you are teleporting the creatures there...",
+   "timestamp": "1267066512617",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "longwinded",
+   "author_id": 40319,
+   "datetime": "2010-07-27 19:47:18",
+   "id": 91442,
+   "text_parsed": "This is one of five cards that came through an offer with the first four or five books. IIRC, the first book, <i>Arena</i>, came with <a href=\"/Pages/Card/Details.aspx?name=Arena\" class=\"autoCard\" data:cardname=\"Arena\">Arena</a> and this card. The second book, <i>Whispering Woods</i> came with <a href=\"/Pages/Card/Details.aspx?name=Windseeker Centaur\" class=\"autoCard\" data:cardname=\"Windseeker Centaur\">Windseeker Centaur</a>. The third book, <i>Shattered Chains</i> , came with <a href=\"/Pages/Card/Details.aspx?name=Giant Badger\" class=\"autoCard\" data:cardname=\"Giant Badger\">Giant Badger</a>. The fourth book, <i>Final Sacrifice</i>, came with <a href=\"/Pages/Card/Details.aspx?name=Mana Crypt\" class=\"autoCard\" data:cardname=\"Mana Crypt\">Mana Crypt</a>. <br /><br />Also, I find it odd that they can update the old expansion symbols to silver and gold, and keep track of the boxed set expansion symbols as for beatdown, but they don't bother at all with the pen for the novel promos.",
+   "text_posted": "This is one of five cards that came through an offer with the first four or five books. IIRC, the first book, [i]Arena[/i], came with [autocard]Arena[/autocard] and this card. The second book, [i]Whispering Woods[/i] came with [autocard]Windseeker Centaur[/autocard]. The third book, [i]Shattered Chains[/i] , came with [autocard]Giant Badger[/autocard]. The fourth book, [i]Final Sacrifice[/i], came with [autocard]Mana Crypt[/autocard]. \n\nAlso, I find it odd that they can update the old expansion symbols to silver and gold, and keep track of the boxed set expansion symbols as for beatdown, but they don't bother at all with the pen for the novel promos.",
+   "timestamp": "1280285238600",
+   "vote_count": 3,
+   "vote_sum": 30
+  },
+  {
+   "author": "qaq456",
+   "author_id": 27431,
+   "datetime": "2010-08-13 16:01:48",
+   "id": 95393,
+   "text_parsed": "this card would make more sense if it was a land that tapped for its ability(i checked its now legal for legacy etc)",
+   "text_posted": "this card would make more sense if it was a land that tapped for its ability(i checked its now legal for legacy etc)",
+   "timestamp": "1281740508667",
+   "vote_count": 3,
+   "vote_sum": 30
+  },
+  {
+   "author": "Lavrant",
+   "author_id": 57622,
+   "datetime": "2011-05-29 11:35:43",
+   "id": 164669,
+   "text_parsed": "I like how Melissa Benson incorporated her logo into the art here.",
+   "text_posted": "I like how Melissa Benson incorporated her logo into the art here.",
+   "timestamp": "1306694143873",
+   "vote_count": 3,
+   "vote_sum": 30
+  },
+  {
+   "author": "bandswithgoats",
+   "author_id": 69025,
+   "datetime": "2012-04-20 11:46:24",
+   "id": 213686,
+   "text_parsed": "Friends and I called it &quot;Sewers of It's Dark.&quot; (That's why the guy's unblockable.)",
+   "text_posted": "Friends and I called it \"Sewers of It's Dark.\" (That's why the guy's unblockable.)",
+   "timestamp": "1334947584740",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Kryptnyt",
+   "author_id": 24840,
+   "datetime": "2012-06-01 06:34:30",
+   "id": 248942,
+   "text_parsed": "Rated way too high! Certainly as bad as <a href=\"/Pages/Card/Details.aspx?name=Barreling Attack\" class=\"autoCard\" data:cardname=\"Barreling Attack\">Barreling Attack</a>.<br />The only cool thing about it is that it's a promo card that wasn't ever reprinted.",
+   "text_posted": "Rated way too high! Certainly as bad as [autocard]Barreling Attack[/autocard].\nThe only cool thing about it is that it's a promo card that wasn't ever reprinted.",
+   "timestamp": "1338557670437",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Burgertog",
+   "author_id": 88769,
+   "datetime": "2013-04-24 18:52:36",
+   "id": 311623,
+   "text_parsed": "The card text says &quot;target,&quot; but Oracle says &quot;choose,&quot; and the rulings still say &quot;target.&quot;<br /><br />We all know the difference between choose, and target. Which one is it?",
+   "text_posted": "The card text says \"target,\" but Oracle says \"choose,\" and the rulings still say \"target.\"\n\nWe all know the difference between choose, and target. Which one is it?",
+   "timestamp": "1366854756277",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Aquillion",
+   "author_id": 93120,
+   "datetime": "2013-07-17 17:52:45",
+   "id": 330007,
+   "text_parsed": "@Theostratus:  Calling <a href=\"/Pages/Card/Details.aspx?name=Mana Crypt\" class=\"autoCard\" data:cardname=\"Mana Crypt\">Mana Crypt</a> &quot;decent and functional&quot; is like calling <a href=\"/Pages/Card/Details.aspx?name=Yawgmoth's Will\" class=\"autoCard\" data:cardname=\"Yawgmoth's Will\">Yawgmoth's Will</a> &quot;usable graveyard recursion.&quot;<br /><br />It's certainly functional, but I'd say using it is pretty indecent, at least in casual play!<br /><br />...as for this card, it sucks.  Is it one of the first modal cards, though?",
+   "text_posted": "@Theostratus:  Calling [autocard]Mana Crypt[/autocard] \"decent and functional\" is like calling [autocard]Yawgmoth's Will[/autocard] \"usable graveyard recursion.\"\n\nIt's certainly functional, but I'd say using it is pretty indecent, at least in casual play!\n\n...as for this card, it sucks.  Is it one of the first modal cards, though?",
+   "timestamp": "1374108765383",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "SeriouslyFacetious",
+   "author_id": 98300,
+   "datetime": "2014-04-22 16:18:02",
+   "id": 371604,
+   "text_parsed": "Card is kinda meh... I'm sure if you run it eventually it will win or save the game for you...<br /><br />All I ever did was sell this card in Shandalar for cash monaaaayyyy!",
+   "text_posted": "Card is kinda meh... I'm sure if you run it eventually it will win or save the game for you...\n\nAll I ever did was sell this card in Shandalar for cash monaaaayyyy!",
+   "timestamp": "1398208682800",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97055: Shield of Kaldra": [
+  {
+   "author": "McThor",
+   "author_id": 30592,
+   "datetime": "2010-08-08 21:56:50",
+   "id": 94145,
+   "text_parsed": "Where's my art?",
+   "text_posted": "Where's my art?",
+   "timestamp": "1281329810233",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "NoobOfLore",
+   "author_id": 50044,
+   "datetime": "2010-12-06 19:20:04",
+   "id": 120347,
+   "text_parsed": "Oh man, I have SO MANY OF THESE.<br />A few hundred, at least. Not surprising, seeing as they've been printed since the beginning. Almost took them out during the Arabian Nights expansion.",
+   "text_posted": "Oh man, I have SO MANY OF THESE.\nA few hundred, at least. Not surprising, seeing as they've been printed since the beginning. Almost took them out during the Arabian Nights expansion.",
+   "timestamp": "1291692004530",
+   "vote_count": 6,
+   "vote_sum": 42
+  },
+  {
+   "author": "SIlverSkyz",
+   "author_id": 26366,
+   "datetime": "2011-03-03 14:11:13",
+   "id": 141178,
+   "text_parsed": "Noob of lore, nice reference to the past.<br />You get props.<br />....<br />Now to explain for all of you who do not get...<br />Nah...",
+   "text_posted": "Noob of lore, nice reference to the past.\nYou get props.\n....\nNow to explain for all of you who do not get...\nNah...",
+   "timestamp": "1299190273280",
+   "vote_count": 4,
+   "vote_sum": 13
+  },
+  {
+   "author": "JFM2796",
+   "author_id": 67306,
+   "datetime": "2011-07-31 12:30:48",
+   "id": 183853,
+   "text_parsed": "Arabian Nights was going to have hot sexy pink backs but someone said No.",
+   "text_posted": "Arabian Nights was going to have hot sexy pink backs but someone said No.",
+   "timestamp": "1312140648170",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "Dragon_Nut",
+   "author_id": 1266,
+   "datetime": "2011-10-05 11:45:03",
+   "id": 202182,
+   "text_parsed": "Looks like somebody got distracted midway through a gatherer update.<br /><br />Also: Because Gatherer determines rules for cards, it should be assumed that any facedown card is, in fact, Shield of Kaldra.",
+   "text_posted": "Looks like somebody got distracted midway through a gatherer update.\n\nAlso: Because Gatherer determines rules for cards, it should be assumed that any facedown card is, in fact, Shield of Kaldra.",
+   "timestamp": "1317840303467",
+   "vote_count": 7,
+   "vote_sum": 70
+  },
+  {
+   "author": "Moxxy",
+   "author_id": 90837,
+   "datetime": "2013-12-27 14:31:36",
+   "id": 355907,
+   "text_parsed": "For those who don't get Nooboflore's joke. The back of Arabian Night cards are different.",
+   "text_posted": "For those who don't get Nooboflore's joke. The back of Arabian Night cards are different.",
+   "timestamp": "1388183496017",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97056: Sword of Kaldra": [
+  {
+   "author": "Mode",
+   "author_id": 416,
+   "datetime": "2008-12-31 06:46:51",
+   "id": 1251,
+   "text_parsed": "what could this promo-card want to tell us? that he has a green skin? or is it only held by someone else? at least the token artwork depicts him as some sort of gostly avatar.",
+   "text_posted": "what could this promo-card want to tell us? that he has a green skin? or is it only held by someone else? at least the token artwork depicts him as some sort of gostly avatar.",
+   "timestamp": "1230734811080",
+   "vote_count": 2,
+   "vote_sum": 13
+  },
+  {
+   "author": "Chrisrawr",
+   "author_id": 1851,
+   "datetime": "2009-07-29 11:42:50",
+   "id": 14960,
+   "text_parsed": "Yay <a href=\"/Pages/Card/Details.aspx?name=Cinder Pyromancer\" class=\"autoCard\" data:cardname=\"Cinder Pyromancer\">Cinder Pyromancer</a> abuse! ",
+   "text_posted": "Yay [autocard]Cinder Pyromancer[/autocard] abuse! ",
+   "timestamp": "1248892970890",
+   "vote_count": 3,
+   "vote_sum": 7
+  },
+  {
+   "author": "zositmos",
+   "author_id": 40814,
+   "datetime": "2010-08-04 07:31:41",
+   "id": 93031,
+   "text_parsed": "heehee this is in my goblin deck just for spikeshot goblin ",
+   "text_posted": "heehee this is in my goblin deck just for spikeshot goblin ",
+   "timestamp": "1280932301973",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Keiya",
+   "author_id": 39860,
+   "datetime": "2010-11-25 16:10:57",
+   "id": 118165,
+   "text_parsed": "@Chrisrawr: How is that <a href=\"/Pages/Card/Details.aspx?name=Cinder Pyromancer\" class=\"autoCard\" data:cardname=\"Cinder Pyromancer\">Cinder Pyromancer</a> abuse? He/She can only target players. <br /><br />Try <a href=\"/Pages/Card/Details.aspx?name=Gelectrode\" class=\"autoCard\" data:cardname=\"Gelectrode\">Gelectrode</a> instead.",
+   "text_posted": "@Chrisrawr: How is that [autocard]Cinder Pyromancer[/autocard] abuse? He/She can only target players. \n\nTry [autocard]Gelectrode[/autocard] instead.",
+   "timestamp": "1290730257220",
+   "vote_count": 3,
+   "vote_sum": 28
+  },
+  {
+   "author": "Ava_Adore",
+   "author_id": 17252,
+   "datetime": "2011-02-10 07:25:21",
+   "id": 136303,
+   "text_parsed": "@ Mode maybe glissa has it, does she get the sword i cannot remember?",
+   "text_posted": "@ Mode maybe glissa has it, does she get the sword i cannot remember?",
+   "timestamp": "1297351521360",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "NeedADispenserHere",
+   "author_id": 37055,
+   "datetime": "2011-02-27 08:45:19",
+   "id": 140275,
+   "text_parsed": "@Mode:<br /><br />Glissa has it (or had it). Kaldra is described as being blue, if I recall.",
+   "text_posted": "@Mode:\n\nGlissa has it (or had it). Kaldra is described as being blue, if I recall.",
+   "timestamp": "1298825119737",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "DlCK",
+   "author_id": 24184,
+   "datetime": "2011-06-20 21:08:23",
+   "id": 171182,
+   "text_parsed": "You'll find this same unfortunate arm on <a href=\"/Pages/Card/Details.aspx?multiverseid=209137\" class=\"autoCard\" data:cardid=\"209137\">Dark Ritual</a>... That's just what happens when you touch Kaldra's Sword.",
+   "text_posted": "You'll find this same unfortunate arm on [autocard multiverseid=\"209137\"]Dark Ritual[/autocard]... That's just what happens when you touch Kaldra's Sword.",
+   "timestamp": "1308629303570",
+   "vote_count": 5,
+   "vote_sum": 41
+  },
+  {
+   "author": "leomistico",
+   "author_id": 822,
+   "datetime": "2011-12-11 09:56:36",
+   "id": 215752,
+   "text_parsed": "I wonder why there aren't all pre-release version cards... I wish to know them, and to see the alternate art... <br /><br />This was my first promotional card, although I started at Tempest block. I have 2 Swords, 1 Helm but no Shield... I'm so sad... ;P Nice choise for the pre-release Promo card, because it's the first set with equipment, and it's a Legendary one.<br />Huge equip, but very slow for competitive deck, unless it's build around it. However, I don't think that until now there ist any...<br /><br />4/5",
+   "text_posted": "I wonder why there aren't all pre-release version cards... I wish to know them, and to see the alternate art... \n\nThis was my first promotional card, although I started at Tempest block. I have 2 Swords, 1 Helm but no Shield... I'm so sad... ;P Nice choise for the pre-release Promo card, because it's the first set with equipment, and it's a Legendary one.\nHuge equip, but very slow for competitive deck, unless it's build around it. However, I don't think that until now there ist any...\n\n4/5",
+   "timestamp": "1323626196090",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "car2n",
+   "author_id": 28949,
+   "datetime": "2014-06-09 19:50:19",
+   "id": 379449,
+   "text_parsed": "S-word of Kaldra.",
+   "text_posted": "S-word of Kaldra.",
+   "timestamp": "1402368619670",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97057: Windseeker Centaur": [
+  {
+   "author": "JL_Weber",
+   "author_id": 480,
+   "datetime": "2009-12-02 19:17:55",
+   "id": 38885,
+   "text_parsed": "Squish... eww color pie it's all broken",
+   "text_posted": "Squish... eww color pie it's all broken",
+   "timestamp": "1259810275290",
+   "vote_count": 4,
+   "vote_sum": 37
+  },
+  {
+   "author": "Omenchild",
+   "author_id": 22718,
+   "datetime": "2009-12-28 22:33:41",
+   "id": 43104,
+   "text_parsed": "I think it would be awesome if they took this and sewers of estark and actually put them in a set, like the other promos",
+   "text_posted": "I think it would be awesome if they took this and sewers of estark and actually put them in a set, like the other promos",
+   "timestamp": "1262068421267",
+   "vote_count": 5,
+   "vote_sum": 37
+  },
+  {
+   "author": "MadMageQc",
+   "author_id": 982,
+   "datetime": "2010-01-16 19:36:19",
+   "id": 46394,
+   "text_parsed": "<b>2010/01/16</b>: Gatherer wrongly lists this card as not playable in any tournament format. It is actually fully legal in Legacy and Vintage. From the Magic tournament rules :<br /><br />3.3 Authorized Cards<br />Players may use any cards from special sets, supplements, and promotional printings that, unaltered, meet the following conditions:<br />• The card is published by Wizards of the Coast<br />• The card has a standard Magic back<br />• The card does not have squared corners<br />• The card has black or white borders<br />• The card is not damaged or modified in a way that might make it marked<br />• The card is otherwise legal for the tournament as defined by the format<br /><br />Windseeker Centaur, as well as <a href=\"/Pages/Card/Details.aspx?name=Nalathni Dragon\" class=\"autoCard\" data:cardname=\"Nalathni Dragon\">Nalathni Dragon</a> and <a href=\"/Pages/Card/Details.aspx?name=Sewers of Estark\" class=\"autoCard\" data:cardname=\"Sewers of Estark\">Sewers of Estark</a>, are tournament-legal Magic cards, because they are published by WotC, they have Magic card backs, they do not have squared corners and they have black borders. They are legal in the Legacy and Vintage formats because all tournament-legal Magic cards are legal in those (unless they appear on the Banned and Restricted lists of course, and these three cards don't). Their sister card <a href=\"/Pages/Card/Details.aspx?name=Mana Crypt\" class=\"autoCard\" data:cardname=\"Mana Crypt\">Mana Crypt</a> is correctly classified as restricted in Vintage and banned in Legacy only because it is a more high-profile card that sees extensive play in that format.",
+   "text_posted": "[b]2010/01/16[/b]: Gatherer wrongly lists this card as not playable in any tournament format. It is actually fully legal in Legacy and Vintage. From the Magic tournament rules :\n\n3.3 Authorized Cards\nPlayers may use any cards from special sets, supplements, and promotional printings that, unaltered, meet the following conditions:\n• The card is published by Wizards of the Coast\n• The card has a standard Magic back\n• The card does not have squared corners\n• The card has black or white borders\n• The card is not damaged or modified in a way that might make it marked\n• The card is otherwise legal for the tournament as defined by the format\n\nWindseeker Centaur, as well as [autocard]Nalathni Dragon[/autocard] and [autocard]Sewers of Estark[/autocard], are tournament-legal Magic cards, because they are published by WotC, they have Magic card backs, they do not have squared corners and they have black borders. They are legal in the Legacy and Vintage formats because all tournament-legal Magic cards are legal in those (unless they appear on the Banned and Restricted lists of course, and these three cards don't). Their sister card [autocard]Mana Crypt[/autocard] is correctly classified as restricted in Vintage and banned in Legacy only because it is a more high-profile card that sees extensive play in that format.",
+   "timestamp": "1263699379380",
+   "vote_count": 7,
+   "vote_sum": 61
+  },
+  {
+   "author": "Bluehero",
+   "author_id": 34378,
+   "datetime": "2010-04-25 22:46:26",
+   "id": 68742,
+   "text_parsed": "I have two of these. Not very good, but they do look pretty cool.",
+   "text_posted": "I have two of these. Not very good, but they do look pretty cool.",
+   "timestamp": "1272260786797",
+   "vote_count": 4,
+   "vote_sum": 36
+  },
+  {
+   "author": "longwinded",
+   "author_id": 40319,
+   "datetime": "2011-02-28 20:43:38",
+   "id": 140601,
+   "text_parsed": "Weird thing is, this was one of the earliest creatures to have vigilance. Between this, <a href=\"/Pages/Card/Details.aspx?name=Serra Angel\" class=\"autoCard\" data:cardname=\"Serra Angel\">Serra Angel</a>, <a href=\"/Pages/Card/Details.aspx?name=Zephyr Falcon\" class=\"autoCard\" data:cardname=\"Zephyr Falcon\">Zephyr Falcon</a>, <a href=\"/Pages/Card/Details.aspx?name=Eternal Warrior\" class=\"autoCard\" data:cardname=\"Eternal Warrior\">Eternal Warrior</a>, <a href=\"/Pages/Card/Details.aspx?name=Rabid Wombat\" class=\"autoCard\" data:cardname=\"Rabid Wombat\">Rabid Wombat</a>, and <a href=\"/Pages/Card/Details.aspx?name=Yotian Soldier\" class=\"autoCard\" data:cardname=\"Yotian Soldier\">Yotian Soldier</a>,  vigilance could have gone to any piece of the color pie. Even black got <a href=\"/Pages/Card/Details.aspx?name=Ghost Hounds\" class=\"autoCard\" data:cardname=\"Ghost Hounds\">Ghost Hounds</a> shortly thereafter. But between this, Eternal Warrior, and <a href=\"/Pages/Card/Details.aspx?name=Errantry\" class=\"autoCard\" data:cardname=\"Errantry\">Errantry</a>, vigilance was more red than anything at this point in the game.",
+   "text_posted": "Weird thing is, this was one of the earliest creatures to have vigilance. Between this, [autocard]Serra Angel[/autocard], [autocard]Zephyr Falcon[/autocard], [autocard]Eternal Warrior[/autocard], [autocard]Rabid Wombat[/autocard], and [autocard]Yotian Soldier[/autocard],  vigilance could have gone to any piece of the color pie. Even black got [autocard]Ghost Hounds[/autocard] shortly thereafter. But between this, Eternal Warrior, and [autocard]Errantry[/autocard], vigilance was more red than anything at this point in the game.",
+   "timestamp": "1298954618120",
+   "vote_count": 8,
+   "vote_sum": 76
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-04-25 08:20:23",
+   "id": 154155,
+   "text_parsed": "I remember reading somewhere that Windseeker Centaur's name is derived from its great sense of smell. I guess it can detect other creatures across long distances and thus be vigilant....<br /><br />Well, red vigilance, and promos, are always cool.",
+   "text_posted": "I remember reading somewhere that Windseeker Centaur's name is derived from its great sense of smell. I guess it can detect other creatures across long distances and thus be vigilant....\n\nWell, red vigilance, and promos, are always cool.",
+   "timestamp": "1303744823863",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "lorendorky",
+   "author_id": 5199,
+   "datetime": "2011-06-06 12:05:45",
+   "id": 166848,
+   "text_parsed": "I feel like this card could perform well in mono-red EDH.",
+   "text_posted": "I feel like this card could perform well in mono-red EDH.",
+   "timestamp": "1307387145297",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Aquillion",
+   "author_id": 93120,
+   "datetime": "2013-07-18 09:24:24",
+   "id": 330206,
+   "text_parsed": "@Omenchild:<br /><br />The problem is that those cards don't fit the color pie anymore.  This one did when it was first printed, but red no longer gets vigilance; Sewers of Estark never really fit the color pie.  (Evasion is a <i>bit</i> black, but instant-speed total unblockability is more a blue trick; and its damage negation power isn't black at all.)<br /><br />And of course <a href=\"/Pages/Card/Details.aspx?name=Nalathni Dragon\" class=\"autoCard\" data:cardname=\"Nalathni Dragon\">Nalathni Dragon</a> has banding, which is gone (and wouldn't be in red even if they decided to reintroduce it), so we're never seeing it in a set.",
+   "text_posted": "@Omenchild:\n\nThe problem is that those cards don't fit the color pie anymore.  This one did when it was first printed, but red no longer gets vigilance; Sewers of Estark never really fit the color pie.  (Evasion is a [i]bit[/i] black, but instant-speed total unblockability is more a blue trick; and its damage negation power isn't black at all.)\n\nAnd of course [autocard]Nalathni Dragon[/autocard] has banding, which is gone (and wouldn't be in red even if they decided to reintroduce it), so we're never seeing it in a set.",
+   "timestamp": "1374164664003",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97058: Beast of Burden": [
+  {
+   "author": "rubber",
+   "author_id": 3001,
+   "datetime": "2010-03-07 17:17:50",
+   "id": 58549,
+   "text_parsed": "Um, it's a 6 mana creature, with no protection or evasion or any sort of useful ability. I would rate it 4/5, its current rating, if I thought it would be a 10/10 or so every time I played it. If I expected a 6/6, I might give it a 3/5. However, I don't expect either of those. I expect a creature that is too slow to help me much against aggresive creature decks when it would be large, since it's expensive. I expect a creature that is useless against controlling decks that run few creatures - which is when you'll have time to play it. If you manage some token generation against a control deck, it might be a reasonable size, but in those cases you're probably winning or about to lose to <a href=\"/Pages/Card/Details.aspx?name=Wrath of God\" class=\"autoCard\" data:cardname=\"Wrath of God\">Wrath of God</a> anyway. I acknoledge that it might be decent in limited, but it does not deserve 4/5.",
+   "text_posted": "Um, it's a 6 mana creature, with no protection or evasion or any sort of useful ability. I would rate it 4/5, its current rating, if I thought it would be a 10/10 or so every time I played it. If I expected a 6/6, I might give it a 3/5. However, I don't expect either of those. I expect a creature that is too slow to help me much against aggresive creature decks when it would be large, since it's expensive. I expect a creature that is useless against controlling decks that run few creatures - which is when you'll have time to play it. If you manage some token generation against a control deck, it might be a reasonable size, but in those cases you're probably winning or about to lose to [autocard]Wrath of God[/autocard] anyway. I acknoledge that it might be decent in limited, but it does not deserve 4/5.",
+   "timestamp": "1268011070623",
+   "vote_count": 5,
+   "vote_sum": 31
+  },
+  {
+   "author": "Ace8792",
+   "author_id": 4390,
+   "datetime": "2010-07-06 09:54:38",
+   "id": 84394,
+   "text_parsed": "Not bad buts its more of a side deck card because you can only play it against a few decks.",
+   "text_posted": "Not bad buts its more of a side deck card because you can only play it against a few decks.",
+   "timestamp": "1278435278747",
+   "vote_count": 4,
+   "vote_sum": 32
+  },
+  {
+   "author": "KokoshoForPresident",
+   "author_id": 79842,
+   "datetime": "2012-03-30 16:34:30",
+   "id": 235372,
+   "text_parsed": "It's okay...",
+   "text_posted": "It's okay...",
+   "timestamp": "1333150470677",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "blurrymadness",
+   "author_id": 44651,
+   "datetime": "2013-01-26 14:42:09",
+   "id": 294869,
+   "text_parsed": "It's interesting because unlike most of these <a href=\"/Pages/Card/Details.aspx?name=Keldon Warlord\" class=\"autoCard\" data:cardname=\"Keldon Warlord\">Keldon Warlord</a> variants, it's all players. Certainly better in multiplayer, and you'll need equipment or some such.<br /><br />That said, people need to treat {6} much different when rating compared to {2}{G}{G}{W}{W} or something. Color limits mana production heavily. Similarly {B}{B}{B} is much different than {W}{W}{W}<br /><br />Urza lands, Locus, Channel, Spoils of Evil, etc.. these are all ways to produce gobs of colorless mana by turn 2-3 (among other things), further: no color weight means you can put this in any color (well duh) meaning that {U} can get an efficient huge beater where it normally might have trouble doing so.",
+   "text_posted": "It's interesting because unlike most of these [autocard]Keldon Warlord[/autocard] variants, it's all players. Certainly better in multiplayer, and you'll need equipment or some such.\n\nThat said, people need to treat {6} much different when rating compared to {2}{G}{G}{W}{W} or something. Color limits mana production heavily. Similarly {B}{B}{B} is much different than {W}{W}{W}\n\nUrza lands, Locus, Channel, Spoils of Evil, etc.. these are all ways to produce gobs of colorless mana by turn 2-3 (among other things), further: no color weight means you can put this in any color (well duh) meaning that {U} can get an efficient huge beater where it normally might have trouble doing so.",
+   "timestamp": "1359240129427",
+   "vote_count": 3,
+   "vote_sum": 29
+  },
+  {
+   "author": "TheWrathofShane",
+   "author_id": 34054,
+   "datetime": "2013-10-24 08:41:34",
+   "id": 347235,
+   "text_parsed": "Great in multiplayer. For 1v1 I wouldnt run it unless I was playing swarmy, even then I might just leave it in sideboard unless its a mirror match.",
+   "text_posted": "Great in multiplayer. For 1v1 I wouldnt run it unless I was playing swarmy, even then I might just leave it in sideboard unless its a mirror match.",
+   "timestamp": "1382629294137",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97059: Rathi Assassin": [
+  {
+   "author": "theDAYtheMUSICdied",
+   "author_id": 2804,
+   "datetime": "2009-08-26 00:46:23",
+   "id": 20336,
+   "text_parsed": "HAX! Rathi Assassin is not a pegasus token...",
+   "text_posted": "HAX! Rathi Assassin is not a pegasus token...",
+   "timestamp": "1251272783727",
+   "vote_count": 8,
+   "vote_sum": 58
+  },
+  {
+   "author": "Rainyday2012",
+   "author_id": 2438,
+   "datetime": "2009-08-26 19:13:33",
+   "id": 20497,
+   "text_parsed": "There <i>might</i> be something wrong with the picture, yes. This one is better though. ^^",
+   "text_posted": "There [i]might[/i] be something wrong with the picture, yes. This one is better though. ^^",
+   "timestamp": "1251339213240",
+   "vote_count": 12,
+   "vote_sum": 111
+  },
+  {
+   "author": "Silverware",
+   "author_id": 2871,
+   "datetime": "2009-10-15 00:53:08",
+   "id": 29845,
+   "text_parsed": "Nice job WOTC.",
+   "text_posted": "Nice job WOTC.",
+   "timestamp": "1255593188743",
+   "vote_count": 8,
+   "vote_sum": 73
+  },
+  {
+   "author": "Lege",
+   "author_id": 8655,
+   "datetime": "2009-10-21 08:01:27",
+   "id": 31059,
+   "text_parsed": "Voted 5 just for the art",
+   "text_posted": "Voted 5 just for the art",
+   "timestamp": "1256137287577",
+   "vote_count": 11,
+   "vote_sum": 101
+  },
+  {
+   "author": "Mode",
+   "author_id": 416,
+   "datetime": "2009-11-21 12:49:17",
+   "id": 36661,
+   "text_parsed": "Beware the hideous Unglued Pegasus Assassins! :D",
+   "text_posted": "Beware the hideous Unglued Pegasus Assassins! :D",
+   "timestamp": "1258836557603",
+   "vote_count": 7,
+   "vote_sum": 60
+  },
+  {
+   "author": "Laguz",
+   "author_id": 2733,
+   "datetime": "2010-03-03 21:21:16",
+   "id": 57680,
+   "text_parsed": "This is called stealth, people. Assassins are masters of disguise. You think it's a pegasus and then BAM UR DEAD",
+   "text_posted": "This is called stealth, people. Assassins are masters of disguise. You think it's a pegasus and then BAM UR DEAD",
+   "timestamp": "1267680076990",
+   "vote_count": 22,
+   "vote_sum": 203
+  },
+  {
+   "author": "Snaxme",
+   "author_id": 19104,
+   "datetime": "2010-04-05 14:16:50",
+   "id": 63382,
+   "text_parsed": "Sneaky Assassinses.",
+   "text_posted": "Sneaky Assassinses.",
+   "timestamp": "1270502210880",
+   "vote_count": 6,
+   "vote_sum": 52
+  },
+  {
+   "author": "Bursama",
+   "author_id": 49792,
+   "datetime": "2010-11-28 04:47:46",
+   "id": 118557,
+   "text_parsed": "... I first looked at picture, then Abilities.<br />... And then I laughed myself to death.",
+   "text_posted": "... I first looked at picture, then Abilities.\n... And then I laughed myself to death.",
+   "timestamp": "1290948466150",
+   "vote_count": 12,
+   "vote_sum": 110
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2010-12-01 18:17:23",
+   "id": 119477,
+   "text_parsed": "Clearly she's hiding behind the Pegasus. Don't look away for any reason, or you're a goner.",
+   "text_posted": "Clearly she's hiding behind the Pegasus. Don't look away for any reason, or you're a goner.",
+   "timestamp": "1291256243580",
+   "vote_count": 13,
+   "vote_sum": 122
+  },
+  {
+   "author": "garabor",
+   "author_id": 49213,
+   "datetime": "2011-01-04 22:03:53",
+   "id": 126465,
+   "text_parsed": "easter eggs abound",
+   "text_posted": "easter eggs abound",
+   "timestamp": "1294207433200",
+   "vote_count": 5,
+   "vote_sum": 45
+  },
+  {
+   "author": "Qoid",
+   "author_id": 1061,
+   "datetime": "2011-02-14 22:46:03",
+   "id": 137654,
+   "text_parsed": "This is the kind of pegasus I could enjoy playing! 5/5",
+   "text_posted": "This is the kind of pegasus I could enjoy playing! 5/5",
+   "timestamp": "1297752363203",
+   "vote_count": 6,
+   "vote_sum": 49
+  },
+  {
+   "author": "pedrodyl",
+   "author_id": 67105,
+   "datetime": "2011-08-02 19:32:29",
+   "id": 184622,
+   "text_parsed": "yes. just yes.",
+   "text_posted": "yes. just yes.",
+   "timestamp": "1312338749730",
+   "vote_count": 5,
+   "vote_sum": 46
+  },
+  {
+   "author": "JFM2796",
+   "author_id": 67306,
+   "datetime": "2011-08-10 14:47:22",
+   "id": 186736,
+   "text_parsed": "What the hell is going on here? That does not look like an assassin to me.",
+   "text_posted": "What the hell is going on here? That does not look like an assassin to me.",
+   "timestamp": "1313012842333",
+   "vote_count": 4,
+   "vote_sum": 15
+  },
+  {
+   "author": "BloodDragon",
+   "author_id": 38030,
+   "datetime": "2011-08-20 18:16:26",
+   "id": 189706,
+   "text_parsed": "After seeing this, it all really does make sense now. I mean everything-  everything ever.",
+   "text_posted": "After seeing this, it all really does make sense now. I mean everything-  everything ever.",
+   "timestamp": "1313889386620",
+   "vote_count": 6,
+   "vote_sum": 51
+  },
+  {
+   "author": "Atogatogatog",
+   "author_id": 63312,
+   "datetime": "2011-12-31 16:59:53",
+   "id": 218382,
+   "text_parsed": "I have one of these, it's silver bordered. If it weren't for that oracle text I'd have no idea it had that ability!",
+   "text_posted": "I have one of these, it's silver bordered. If it weren't for that oracle text I'd have no idea it had that ability!",
+   "timestamp": "1325379593247",
+   "vote_count": 4,
+   "vote_sum": 32
+  },
+  {
+   "author": "NeoKoda",
+   "author_id": 62969,
+   "datetime": "2012-02-03 11:25:31",
+   "id": 225898,
+   "text_parsed": "Best use of Gatherer ever. Bravo, Wizards. Bravo.",
+   "text_posted": "Best use of Gatherer ever. Bravo, Wizards. Bravo.",
+   "timestamp": "1328297131587",
+   "vote_count": 6,
+   "vote_sum": 55
+  },
+  {
+   "author": "Goatllama",
+   "author_id": 39673,
+   "datetime": "2012-07-16 10:12:24",
+   "id": 257762,
+   "text_parsed": "Coming soon, textless, mana-cost-less, power and toughness-less cards! Way to ostracize everybody but the pros, Wizards. ",
+   "text_posted": "Coming soon, textless, mana-cost-less, power and toughness-less cards! Way to ostracize everybody but the pros, Wizards. ",
+   "timestamp": "1342458744030",
+   "vote_count": 2,
+   "vote_sum": 12
+  },
+  {
+   "author": "Corey_bayoudragonfly",
+   "author_id": 53548,
+   "datetime": "2012-09-05 22:05:49",
+   "id": 266581,
+   "text_parsed": "10/4/2004 Because the &quot;search&quot; requires me to find a card with certain characteristics, I don't have to find the pegasus if I don't want to.<br />But Why wouldn't I want to?",
+   "text_posted": "10/4/2004 Because the \"search\" requires me to find a card with certain characteristics, I don't have to find the pegasus if I don't want to.\nBut Why wouldn't I want to?",
+   "timestamp": "1346907949337",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "DoragonShinzui",
+   "author_id": 79844,
+   "datetime": "2012-11-03 10:56:14",
+   "id": 279800,
+   "text_parsed": "...Pardon me, but what?",
+   "text_posted": "...Pardon me, but what?",
+   "timestamp": "1351965374273",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "BongRipper420",
+   "author_id": 75152,
+   "datetime": "2013-01-15 06:48:14",
+   "id": 290318,
+   "text_parsed": "I think something's wrong here.",
+   "text_posted": "I think something's wrong here.",
+   "timestamp": "1358261294920",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "azure_drake222222",
+   "author_id": 92977,
+   "datetime": "2013-01-31 14:58:44",
+   "id": 296619,
+   "text_parsed": "This is the Mercenary that came from the library. Tokens have a converted mana cost of 0.",
+   "text_posted": "This is the Mercenary that came from the library. Tokens have a converted mana cost of 0.",
+   "timestamp": "1359673124287",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "SomeGuy007",
+   "author_id": 15124,
+   "datetime": "2013-08-08 05:49:00",
+   "id": 334064,
+   "text_parsed": "For those of you who don't understand the comments: This card's image used to be a silver-bordered Pegasus token, with the oracle text unchanged, probably as an easter egg to the people who look at non-unique cards from a set most people don't know exist. Unfortunately, one of the higher-ups seems to have found out about it, and disapproved...",
+   "text_posted": "For those of you who don't understand the comments: This card's image used to be a silver-bordered Pegasus token, with the oracle text unchanged, probably as an easter egg to the people who look at non-unique cards from a set most people don't know exist. Unfortunately, one of the higher-ups seems to have found out about it, and disapproved...",
+   "timestamp": "1375966140523",
+   "vote_count": 3,
+   "vote_sum": 29
+  },
+  {
+   "author": "Burningsickle",
+   "author_id": 66042,
+   "datetime": "2014-05-04 17:59:44",
+   "id": 374611,
+   "text_parsed": "well hell, it's exactly what I would expect from an assassin, and nothing more.",
+   "text_posted": "well hell, it's exactly what I would expect from an assassin, and nothing more.",
+   "timestamp": "1399251584340",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97060: Avatar of Hope": [
+  {
+   "author": "Gear61",
+   "author_id": 18899,
+   "datetime": "2010-02-20 17:32:41",
+   "id": 54906,
+   "text_parsed": "No picture?",
+   "text_posted": "No picture?",
+   "timestamp": "1266715961020",
+   "vote_count": 4,
+   "vote_sum": 30
+  },
+  {
+   "author": "Motorival",
+   "author_id": 24443,
+   "datetime": "2010-03-14 11:42:59",
+   "id": 59968,
+   "text_parsed": "It's morphed.",
+   "text_posted": "It's morphed.",
+   "timestamp": "1268592179210",
+   "vote_count": 12,
+   "vote_sum": 109
+  },
+  {
+   "author": "Omenchild",
+   "author_id": 22718,
+   "datetime": "2010-04-30 22:48:36",
+   "id": 70173,
+   "text_parsed": "Lol",
+   "text_posted": "Lol",
+   "timestamp": "1272692916207",
+   "vote_count": 3,
+   "vote_sum": 12
+  },
+  {
+   "author": "Eltervag",
+   "author_id": 1462,
+   "datetime": "2010-05-06 15:15:02",
+   "id": 71436,
+   "text_parsed": "Best art of any MTG card. Always a classic.",
+   "text_posted": "Best art of any MTG card. Always a classic.",
+   "timestamp": "1273184102377",
+   "vote_count": 4,
+   "vote_sum": 15
+  },
+  {
+   "author": "OpenSeasonNoobs",
+   "author_id": 30382,
+   "datetime": "2010-05-23 17:51:16",
+   "id": 75270,
+   "text_parsed": "Gotta love the random button",
+   "text_posted": "Gotta love the random button",
+   "timestamp": "1274662276017",
+   "vote_count": 8,
+   "vote_sum": 63
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2010-08-23 19:40:22",
+   "id": 97595,
+   "text_parsed": "Yet somehow, I'm left thinking of <a href=\"/Pages/Card/Details.aspx?name=Illusionary Mask\" class=\"autoCard\" data:cardname=\"Illusionary Mask\">Illusionary Mask</a>.",
+   "text_posted": "Yet somehow, I'm left thinking of [autocard]Illusionary Mask[/autocard].",
+   "timestamp": "1282617622843",
+   "vote_count": 6,
+   "vote_sum": 51
+  },
+  {
+   "author": "Mudbutt_on",
+   "author_id": 2845,
+   "datetime": "2010-12-12 20:47:45",
+   "id": 121700,
+   "text_parsed": "Sadly, the worst of the Avatar cycle from this set.",
+   "text_posted": "Sadly, the worst of the Avatar cycle from this set.",
+   "timestamp": "1292215665163",
+   "vote_count": 2,
+   "vote_sum": 7
+  },
+  {
+   "author": "mflanaga",
+   "author_id": 25972,
+   "datetime": "2011-02-28 16:12:05",
+   "id": 140538,
+   "text_parsed": "UMM...",
+   "text_posted": "UMM...",
+   "timestamp": "1298938325093",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "Gako",
+   "author_id": 745,
+   "datetime": "2011-07-06 22:52:23",
+   "id": 92270,
+   "text_parsed": "rk post took a day off.",
+   "text_posted": "rk post took a day off.",
+   "timestamp": "1310017943803",
+   "vote_count": 5,
+   "vote_sum": 50
+  },
+  {
+   "author": "roguepariah",
+   "author_id": 36774,
+   "datetime": "2011-08-17 07:58:31",
+   "id": 188685,
+   "text_parsed": "I play 60 of these in every constructed deck I have...",
+   "text_posted": "I play 60 of these in every constructed deck I have...",
+   "timestamp": "1313593111337",
+   "vote_count": 7,
+   "vote_sum": 62
+  },
+  {
+   "author": "thaviel",
+   "author_id": 611,
+   "datetime": "2011-10-28 08:59:20",
+   "id": 207346,
+   "text_parsed": "Damn you Ixidron!",
+   "text_posted": "Damn you Ixidron!",
+   "timestamp": "1319817560260",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Geohound79",
+   "author_id": 41647,
+   "datetime": "2012-04-21 13:43:21",
+   "id": 238731,
+   "text_parsed": "Where does that &quot;TM&quot; behind Deckmaster come from?",
+   "text_posted": "Where does that \"TM\" behind Deckmaster come from?",
+   "timestamp": "1335041001353",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "ToAsTy42o",
+   "author_id": 37917,
+   "datetime": "2012-09-24 12:12:12",
+   "id": 269152,
+   "text_parsed": "im a deckmaster  :)",
+   "text_posted": "im a deckmaster  :)",
+   "timestamp": "1348513932543",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "MasterOfCruelties",
+   "author_id": 96254,
+   "datetime": "2013-05-11 14:14:21",
+   "id": 315486,
+   "text_parsed": "Avatar of I hope they put the actual card up.",
+   "text_posted": "Avatar of I hope they put the actual card up.",
+   "timestamp": "1368306861513",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "Belgarath123",
+   "author_id": 97298,
+   "datetime": "2014-02-21 10:28:20",
+   "id": 364837,
+   "text_parsed": "The most profound art in all Magic.  Mortals can never understand it.",
+   "text_posted": "The most profound art in all Magic.  Mortals can never understand it.",
+   "timestamp": "1393007300690",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97061: Raging Kavu": [
+  {
+   "author": "xcatanddo",
+   "author_id": 3083,
+   "datetime": "2009-09-01 18:03:32",
+   "id": 21773,
+   "text_parsed": "?",
+   "text_posted": "?",
+   "timestamp": "1251853412857",
+   "vote_count": 5,
+   "vote_sum": 16
+  },
+  {
+   "author": "holgir",
+   "author_id": 2612,
+   "datetime": "2009-09-02 06:01:27",
+   "id": 21810,
+   "text_parsed": "This is a Raging Kavu, put face-down with <a href=\"/Pages/Card/Details.aspx?name=Ixidron\" class=\"autoCard\" data:cardname=\"Ixidron\">Ixidron</a>. ;-)\r<br />No, I think they will update these promo cards one day with real images...",
+   "text_posted": "This is a Raging Kavu, put face-down with [autocard]Ixidron[/autocard]. ;-)\r\nNo, I think they will update these promo cards one day with real images...",
+   "timestamp": "1251896487110",
+   "vote_count": 8,
+   "vote_sum": 61
+  },
+  {
+   "author": "MagicMTG",
+   "author_id": 42222,
+   "datetime": "2010-08-05 08:58:36",
+   "id": 93281,
+   "text_parsed": "This is the foil Invasion prerelease promo, which was printed in Latin.\r<br />\r<br />Card Name: Kavu Furens\r<br />\r<br />",
+   "text_posted": "This is the foil Invasion prerelease promo, which was printed in Latin.\r\n\r\nCard Name: Kavu Furens\r\n\r\n",
+   "timestamp": "1281023916570",
+   "vote_count": 3,
+   "vote_sum": 30
+  },
+  {
+   "author": "001010011100101110",
+   "author_id": 40810,
+   "datetime": "2011-09-18 19:15:08",
+   "id": 191901,
+   "text_parsed": "Face down in attack mode.",
+   "text_posted": "Face down in attack mode.",
+   "timestamp": "1316398508323",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2013-01-13 02:35:34",
+   "id": 289967,
+   "text_parsed": "He's so full of rage that he had to take a time-out.",
+   "text_posted": "He's so full of rage that he had to take a time-out.",
+   "timestamp": "1358073334977",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "Kryptnyt",
+   "author_id": 24840,
+   "datetime": "2013-06-13 02:49:32",
+   "id": 321911,
+   "text_parsed": "But mostly, he just raged.<br />Quietly. Face down.",
+   "text_posted": "But mostly, he just raged.\nQuietly. Face down.",
+   "timestamp": "1371116972987",
+   "vote_count": 2,
+   "vote_sum": 20
+  }
+ ],
+ "97062: Fungal Shambler": [
+  {
+   "author": "ultratog1028",
+   "author_id": 960,
+   "datetime": "2009-04-21 09:39:07",
+   "id": 5128,
+   "text_parsed": "card image not showing.",
+   "text_posted": "card image not showing.",
+   "timestamp": "1240331947123",
+   "vote_count": 8,
+   "vote_sum": 41
+  },
+  {
+   "author": "Skwirlnutz",
+   "author_id": 39354,
+   "datetime": "2010-11-30 20:21:07",
+   "id": 119238,
+   "text_parsed": "@ ultratog1028\r<br />\r<br />It's Morphed.",
+   "text_posted": "@ ultratog1028\r\n\r\nIt's Morphed.",
+   "timestamp": "1291177267907",
+   "vote_count": 9,
+   "vote_sum": 78
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-03-20 22:00:28",
+   "id": 145439,
+   "text_parsed": "Turn your computer monitor around and you can see the front of the card.",
+   "text_posted": "Turn your computer monitor around and you can see the front of the card.",
+   "timestamp": "1300683628613",
+   "vote_count": 15,
+   "vote_sum": 141
+  },
+  {
+   "author": "ObsessedAddict",
+   "author_id": 8066,
+   "datetime": "2011-07-12 22:12:21",
+   "id": 178469,
+   "text_parsed": "Amazing art, reminds me of something I seem to have forgotten...",
+   "text_posted": "Amazing art, reminds me of something I seem to have forgotten...",
+   "timestamp": "1310533941437",
+   "vote_count": 6,
+   "vote_sum": 52
+  },
+  {
+   "author": "marmaris74",
+   "author_id": 64897,
+   "datetime": "2012-06-27 14:12:54",
+   "id": 215774,
+   "text_parsed": "Damn you <a href=\"/Pages/Card/Details.aspx?name=Ixidron\" class=\"autoCard\" data:cardname=\"Ixidron\">Ixidron</a>!",
+   "text_posted": "Damn you [autocard]Ixidron[/autocard]!",
+   "timestamp": "1340831574783",
+   "vote_count": 6,
+   "vote_sum": 51
+  },
+  {
+   "author": "Bone_Saw_Joe",
+   "author_id": 85004,
+   "datetime": "2012-10-09 18:43:28",
+   "id": 275229,
+   "text_parsed": "Amazing Card art.  5/5.  :)",
+   "text_posted": "Amazing Card art.  5/5.  :)",
+   "timestamp": "1349833408493",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "TheWallinator74",
+   "author_id": 65720,
+   "datetime": "2014-03-17 17:09:51",
+   "id": 367915,
+   "text_parsed": "This guy could find new life in a good <a href=\"/Pages/Card/Details.aspx?name=The Mimeoplasm\" class=\"autoCard\" data:cardname=\"The Mimeoplasm\">The Mimeoplasm</a> Commander deck. Have the legendary ooze come in as a copy of this with the counters of something like <a href=\"/Pages/Card/Details.aspx?name=Death's Shadow\" class=\"autoCard\" data:cardname=\"Death's Shadow\">Death's Shadow</a> and you have a hell of a force to be reckoned with.",
+   "text_posted": "This guy could find new life in a good [autocard]The Mimeoplasm[/autocard] Commander deck. Have the legendary ooze come in as a copy of this with the counters of something like [autocard]Death's Shadow[/autocard] and you have a hell of a force to be reckoned with.",
+   "timestamp": "1395101391803",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97063: Laquatus's Champion": [
+  {
+   "author": "Chamale",
+   "author_id": 14953,
+   "datetime": "2011-03-22 15:45:00",
+   "id": 145900,
+   "text_parsed": "It's Morphed. Bad idea, since you won't get the enters-the-battlefield effect.",
+   "text_posted": "It's Morphed. Bad idea, since you won't get the enters-the-battlefield effect.",
+   "timestamp": "1300833900557",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "marmaris74",
+   "author_id": 64897,
+   "datetime": "2012-04-12 13:19:52",
+   "id": 237385,
+   "text_parsed": "It's all <a href=\"/Pages/Card/Details.aspx?name=Ixidron's\" class=\"autoCard\" data:cardname=\"Ixidron's\">Ixidron's</a> fault. We need <a href=\"/Pages/Card/Details.aspx?name=Ixidor, Reality Sculptor\" class=\"autoCard\" data:cardname=\"Ixidor, Reality Sculptor\">Ixidor, Reality Sculptor</a> to fix things.",
+   "text_posted": "It's all [autocard]Ixidron's[/autocard] fault. We need [autocard]Ixidor, Reality Sculptor[/autocard] to fix things.",
+   "timestamp": "1334261992077",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "Mr_Hendry",
+   "author_id": 2216,
+   "datetime": "2012-04-24 18:10:36",
+   "id": 239189,
+   "text_parsed": "It's a bit of disappointment that they don't have images available for all these promo cards. It seems well within Wizards' capabilities to get them :(",
+   "text_posted": "It's a bit of disappointment that they don't have images available for all these promo cards. It seems well within Wizards' capabilities to get them :(",
+   "timestamp": "1335316236603",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Goatllama",
+   "author_id": 39673,
+   "datetime": "2012-07-16 10:08:40",
+   "id": 143962,
+   "text_parsed": "Laquatus, your champion is coward. It won't even show its face to us. ",
+   "text_posted": "Laquatus, your champion is coward. It won't even show its face to us. ",
+   "timestamp": "1342458520397",
+   "vote_count": 4,
+   "vote_sum": 40
+  }
+ ],
+ "97064: Glory": [
+  {
+   "author": "Shiduba",
+   "author_id": 1992,
+   "datetime": "2009-08-22 12:12:29",
+   "id": 19469,
+   "text_parsed": "Where's mah card picture?",
+   "text_posted": "Where's mah card picture?",
+   "timestamp": "1250968349570",
+   "vote_count": 6,
+   "vote_sum": 41
+  },
+  {
+   "author": "Ace8792",
+   "author_id": 4390,
+   "datetime": "2010-02-17 16:33:51",
+   "id": 21973,
+   "text_parsed": "I wish they would update this page with the picture so i could stop guessing what the picture is.",
+   "text_posted": "I wish they would update this page with the picture so i could stop guessing what the picture is.",
+   "timestamp": "1266453231670",
+   "vote_count": 6,
+   "vote_sum": 55
+  },
+  {
+   "author": "zk3",
+   "author_id": 2843,
+   "datetime": "2010-09-14 08:55:20",
+   "id": 102049,
+   "text_parsed": "Glory was gone...",
+   "text_posted": "Glory was gone...",
+   "timestamp": "1284479720933",
+   "vote_count": 7,
+   "vote_sum": 70
+  },
+  {
+   "author": "ROBRAM89",
+   "author_id": 46558,
+   "datetime": "2011-01-16 23:08:58",
+   "id": 128957,
+   "text_parsed": "Glory fades.",
+   "text_posted": "Glory fades.",
+   "timestamp": "1295248138050",
+   "vote_count": 5,
+   "vote_sum": 50
+  },
+  {
+   "author": "DlCK",
+   "author_id": 24184,
+   "datetime": "2011-01-18 17:25:10",
+   "id": 129418,
+   "text_parsed": "sweet, i love this card. i once made a deck with 60 of them.",
+   "text_posted": "sweet, i love this card. i once made a deck with 60 of them.",
+   "timestamp": "1295400310273",
+   "vote_count": 8,
+   "vote_sum": 65
+  },
+  {
+   "author": "XTwistedsoulX",
+   "author_id": 36073,
+   "datetime": "2011-06-08 15:45:31",
+   "id": 167354,
+   "text_parsed": "anybody gonna morph that?",
+   "text_posted": "anybody gonna morph that?",
+   "timestamp": "1307573131927",
+   "vote_count": 7,
+   "vote_sum": 68
+  },
+  {
+   "author": "Reliquium",
+   "author_id": 18116,
+   "datetime": "2012-01-23 10:51:22",
+   "id": 221924,
+   "text_parsed": "Epic art.",
+   "text_posted": "Epic art.",
+   "timestamp": "1327344682570",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Stinga",
+   "author_id": 71308,
+   "datetime": "2012-04-04 19:40:35",
+   "id": 236060,
+   "text_parsed": "Damnit <a href=\"/Pages/Card/Details.aspx?name=Ixidron\" class=\"autoCard\" data:cardname=\"Ixidron\">Ixidron</a>!",
+   "text_posted": "Damnit [autocard]Ixidron[/autocard]!",
+   "timestamp": "1333593635733",
+   "vote_count": 7,
+   "vote_sum": 56
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2012-07-17 23:12:02",
+   "id": 258142,
+   "text_parsed": "Truly...<br /><br />glorious.",
+   "text_posted": "Truly...\n\nglorious.",
+   "timestamp": "1342591922153",
+   "vote_count": 2,
+   "vote_sum": 20
+  },
+  {
+   "author": "konokono",
+   "author_id": 63099,
+   "datetime": "2013-06-26 17:24:52",
+   "id": 324378,
+   "text_parsed": "I cast <a href=\"/Pages/Card/Details.aspx?name=Break Open\" class=\"autoCard\" data:cardname=\"Break Open\">Break Open</a>!",
+   "text_posted": "I cast [autocard]Break Open[/autocard]!",
+   "timestamp": "1372292692277",
+   "vote_count": 1,
+   "vote_sum": 10
+  }
+ ],
+ "97065: Silent Specter": [
+  {
+   "author": "holgir",
+   "author_id": 2612,
+   "datetime": "2009-10-01 06:31:37",
+   "id": 26683,
+   "text_parsed": "You can play it face up if you have enough mana.",
+   "text_posted": "You can play it face up if you have enough mana.",
+   "timestamp": "1254403897640",
+   "vote_count": 10,
+   "vote_sum": 100
+  },
+  {
+   "author": "nammertime",
+   "author_id": 16922,
+   "datetime": "2009-11-13 17:49:24",
+   "id": 35272,
+   "text_parsed": "lol he's morphed",
+   "text_posted": "lol he's morphed",
+   "timestamp": "1258163364193",
+   "vote_count": 7,
+   "vote_sum": 61
+  },
+  {
+   "author": "adinsx3",
+   "author_id": 50754,
+   "datetime": "2011-02-18 20:24:00",
+   "id": 135999,
+   "text_parsed": "So, when I play this card face-down, am I actually supposed to play it art-side-up?",
+   "text_posted": "So, when I play this card face-down, am I actually supposed to play it art-side-up?",
+   "timestamp": "1298089440480",
+   "vote_count": 6,
+   "vote_sum": 60
+  },
+  {
+   "author": "NeedADispenserHere",
+   "author_id": 37055,
+   "datetime": "2011-02-27 08:47:25",
+   "id": 140276,
+   "text_parsed": "@adinsx3<br /><br />Only if it's a promo one.",
+   "text_posted": "@adinsx3\n\nOnly if it's a promo one.",
+   "timestamp": "1298825245010",
+   "vote_count": 6,
+   "vote_sum": 60
+  },
+  {
+   "author": "Angry_Puppy",
+   "author_id": 58969,
+   "datetime": "2011-05-04 14:06:13",
+   "id": 157996,
+   "text_parsed": "This card not being rated a 5 is either an indication of power creep, or that Magic players have become such spoiled munchkins that any card that doesn't outright win the game for 2 mana is instantly dismissed as crap.",
+   "text_posted": "This card not being rated a 5 is either an indication of power creep, or that Magic players have become such spoiled munchkins that any card that doesn't outright win the game for 2 mana is instantly dismissed as crap.",
+   "timestamp": "1304543173540",
+   "vote_count": 3,
+   "vote_sum": 12
+  },
+  {
+   "author": "Shadoflaam",
+   "author_id": 44951,
+   "datetime": "2011-07-01 14:26:53",
+   "id": 173999,
+   "text_parsed": "Broken as a proxy",
+   "text_posted": "Broken as a proxy",
+   "timestamp": "1309555613163",
+   "vote_count": 1,
+   "vote_sum": 10
+  },
+  {
+   "author": "sonorhC",
+   "author_id": 63939,
+   "datetime": "2011-11-04 22:57:14",
+   "id": 209334,
+   "text_parsed": "What promo was this from?",
+   "text_posted": "What promo was this from?",
+   "timestamp": "1320472634943",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "Goatllama",
+   "author_id": 39673,
+   "datetime": "2012-07-16 10:14:33",
+   "id": 257764,
+   "text_parsed": "Heyyy, this one <b>actually</b> has morph! ",
+   "text_posted": "Heyyy, this one [b]actually[/b] has morph! ",
+   "timestamp": "1342458873613",
+   "vote_count": 2,
+   "vote_sum": 20
+  }
+ ],
+ "97066: Feral Throwback": [
+  {
+   "author": "Raveknight",
+   "author_id": 1417,
+   "datetime": "2009-05-21 13:02:28",
+   "id": 7188,
+   "text_parsed": "Best Game EVER!",
+   "text_posted": "Best Game EVER!",
+   "timestamp": "1242936148283",
+   "vote_count": 4,
+   "vote_sum": 19
+  },
+  {
+   "author": "Mata-nui3",
+   "author_id": 54210,
+   "datetime": "2011-02-11 17:53:21",
+   "id": 136718,
+   "text_parsed": "...where's the art? Does Wizards not have a copy to scan?",
+   "text_posted": "...where's the art? Does Wizards not have a copy to scan?",
+   "timestamp": "1297475601353",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-03-20 21:59:56",
+   "id": 145438,
+   "text_parsed": "Apparently the promo version also had morph.",
+   "text_posted": "Apparently the promo version also had morph.",
+   "timestamp": "1300683596147",
+   "vote_count": 9,
+   "vote_sum": 77
+  },
+  {
+   "author": "axiobeta",
+   "author_id": 65956,
+   "datetime": "2011-08-06 09:57:26",
+   "id": 185575,
+   "text_parsed": "The first time I ever click &quot;random card&quot; and I get this, hellz yeah",
+   "text_posted": "The first time I ever click \"random card\" and I get this, hellz yeah",
+   "timestamp": "1312649846460",
+   "vote_count": 1,
+   "vote_sum": 1
+  },
+  {
+   "author": "marmaris74",
+   "author_id": 64897,
+   "datetime": "2011-12-11 11:21:58",
+   "id": 215773,
+   "text_parsed": "Damn you <a href=\"/Pages/Card/Details.aspx?name=Ixidron\" class=\"autoCard\" data:cardname=\"Ixidron\">Ixidron</a>!",
+   "text_posted": "Damn you [autocard]Ixidron[/autocard]!",
+   "timestamp": "1323631318007",
+   "vote_count": 2,
+   "vote_sum": 11
+  },
+  {
+   "author": "The_Cheat420",
+   "author_id": 50470,
+   "datetime": "2012-09-24 05:07:21",
+   "id": 269105,
+   "text_parsed": "I hope they eventually get the art for all the promo cards on here.",
+   "text_posted": "I hope they eventually get the art for all the promo cards on here.",
+   "timestamp": "1348488441343",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ],
+ "97067: Soul Collector": [
+  {
+   "author": "littlebeast",
+   "author_id": 19440,
+   "datetime": "2009-12-09 13:15:57",
+   "id": 40052,
+   "text_parsed": "Wow, they took a picture of it while it was morphed!",
+   "text_posted": "Wow, they took a picture of it while it was morphed!",
+   "timestamp": "1260393357633",
+   "vote_count": 12,
+   "vote_sum": 120
+  },
+  {
+   "author": "Mudbutt_on",
+   "author_id": 2845,
+   "datetime": "2010-01-13 19:15:05",
+   "id": 45828,
+   "text_parsed": "hahaha, FAIL",
+   "text_posted": "hahaha, FAIL",
+   "timestamp": "1263438905670",
+   "vote_count": 6,
+   "vote_sum": 36
+  },
+  {
+   "author": "FouCapitan",
+   "author_id": 41401,
+   "datetime": "2010-08-16 09:00:58",
+   "id": 95978,
+   "text_parsed": "Love the artwork on this one.  Just a classic design that never gets old.  5/5 stars.",
+   "text_posted": "Love the artwork on this one.  Just a classic design that never gets old.  5/5 stars.",
+   "timestamp": "1281974458310",
+   "vote_count": 5,
+   "vote_sum": 43
+  },
+  {
+   "author": "TDL",
+   "author_id": 28645,
+   "datetime": "2011-05-02 00:36:48",
+   "id": 157214,
+   "text_parsed": "Is this some kind of joke, or what?",
+   "text_posted": "Is this some kind of joke, or what?",
+   "timestamp": "1304321808730",
+   "vote_count": 3,
+   "vote_sum": 16
+  },
+  {
+   "author": "kyle11235813",
+   "author_id": 76963,
+   "datetime": "2012-01-01 00:24:38",
+   "id": 218411,
+   "text_parsed": "Are they saying Magic: The Gathering is here to collect my soul? Can I get a mox or something for it?",
+   "text_posted": "Are they saying Magic: The Gathering is here to collect my soul? Can I get a mox or something for it?",
+   "timestamp": "1325406278730",
+   "vote_count": 4,
+   "vote_sum": 40
+  },
+  {
+   "author": "Trygon_Predator",
+   "author_id": 81247,
+   "datetime": "2013-06-14 10:11:25",
+   "id": 322246,
+   "text_parsed": "Somebody pay <img src=\"/Handlers/Image.ashx?size=small&amp;name=B&amp;type=symbol\" alt=\"Black\" align=\"absbottom\" /><img src=\"/Handlers/Image.ashx?size=small&amp;name=B&amp;type=symbol\" alt=\"Black\" align=\"absbottom\" /><img src=\"/Handlers/Image.ashx?size=small&amp;name=B&amp;type=symbol\" alt=\"Black\" align=\"absbottom\" /> already.",
+   "text_posted": "Somebody pay [B][B][B] already.",
+   "timestamp": "1371229885443",
+   "vote_count": 4,
+   "vote_sum": 38
+  }
+ ],
+ "97068: Ryusei, the Falling Star": [
+  {
+   "author": "Tommy9898",
+   "author_id": 2101,
+   "datetime": "2010-05-03 17:08:04",
+   "id": 70820,
+   "text_parsed": "best art ever",
+   "text_posted": "best art ever",
+   "timestamp": "1272931684393",
+   "vote_count": 7,
+   "vote_sum": 53
+  },
+  {
+   "author": "Shadoflaam",
+   "author_id": 44951,
+   "datetime": "2011-04-07 13:49:40",
+   "id": 150150,
+   "text_parsed": "WTF?",
+   "text_posted": "WTF?",
+   "timestamp": "1302209380240",
+   "vote_count": 3,
+   "vote_sum": 12
+  },
+  {
+   "author": "Kirbster",
+   "author_id": 37159,
+   "datetime": "2011-04-30 19:55:13",
+   "id": 156739,
+   "text_parsed": "Looks like he finally fell.",
+   "text_posted": "Looks like he finally fell.",
+   "timestamp": "1304218513447",
+   "vote_count": 8,
+   "vote_sum": 77
+  },
+  {
+   "author": "Goatllama",
+   "author_id": 39673,
+   "datetime": "2012-07-16 10:13:12",
+   "id": 257763,
+   "text_parsed": "Yeah, there were a few morph cards in Kamigawa. Check the errata. ",
+   "text_posted": "Yeah, there were a few morph cards in Kamigawa. Check the errata. ",
+   "timestamp": "1342458792630",
+   "vote_count": 4,
+   "vote_sum": 39
+  },
+  {
+   "author": "Nagoragama",
+   "author_id": 39866,
+   "datetime": "2013-02-26 13:34:40",
+   "id": 301810,
+   "text_parsed": "what",
+   "text_posted": "what",
+   "timestamp": "1361914480310",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "Hunter06",
+   "author_id": 90194,
+   "datetime": "2014-01-17 06:49:14",
+   "id": 357834,
+   "text_parsed": "So... its a card with the same art on both sides... thats something?<br /><br />3.5/5 Stars",
+   "text_posted": "So... its a card with the same art on both sides... thats something?\n\n3.5/5 Stars",
+   "timestamp": "1389970154547",
+   "vote_count": 0,
+   "vote_sum": 0
+  },
+  {
+   "author": "car2n",
+   "author_id": 28949,
+   "datetime": "2014-02-27 20:25:19",
+   "id": 365962,
+   "text_parsed": "Let's bask in the glory that is <i>Magic: The Gathering</i><br /><br />This complex-yet-elegant card back was designed by Chris Rush and was for the first set originally called &quot;The Gathering&quot;,  hence &quot;Magic: The Gathering&quot;. The idea was that every set would have it's own card back. Arabian Nights would have had a different colored back.<br /><br />Only 2 other games would carry the &quot;Deckmaster&quot; banner: Jyhad (later called &quot;Vampire: The Eternal Struggle&quot;, and &quot;Netrunner&quot;).<br /><br />So many years of paying and playing, so many memories stored into this simple icon. ",
+   "text_posted": "Let's bask in the glory that is [i]Magic: The Gathering[/i]\n\nThis complex-yet-elegant card back was designed by Chris Rush and was for the first set originally called \"The Gathering\",  hence \"Magic: The Gathering\". The idea was that every set would have it's own card back. Arabian Nights would have had a different colored back.\n\nOnly 2 other games would carry the \"Deckmaster\" banner: Jyhad (later called \"Vampire: The Eternal Struggle\", and \"Netrunner\").\n\nSo many years of paying and playing, so many memories stored into this simple icon. ",
+   "timestamp": "1393561519187",
+   "vote_count": 0,
+   "vote_sum": 0
+  }
+ ]
+}
