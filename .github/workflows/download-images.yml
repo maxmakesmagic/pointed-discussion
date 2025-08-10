@@ -1,0 +1,24 @@
+name: Download Images
+
+on:
+  workflow_dispatch:
+    inputs:
+      message:
+        description: 'Optional message to display'
+        required: false
+        default: 'Hello World'
+        type: string
+
+jobs:
+  hello-world:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hello World
+        run: echo "${{ github.event.inputs.message || 'Hello World' }}"
+
+      - name: Print workflow info
+        run: |
+          echo "This workflow was triggered manually"
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch: ${{ github.ref_name }}"
+          echo "Actor: ${{ github.actor }}"
