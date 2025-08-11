@@ -28,14 +28,12 @@ class SiteGenerator:
         data_dir: Path,
         output_dir: Path,
         images_dir: Optional[Path] = None,
-        convert_to_webp: bool = True,
         base_url: str = "",
     ):
         """Initialize the SiteGenerator with directories and options."""
         self.data_dir = Path(data_dir)
         self.output_dir = Path(output_dir)
         self.images_dir = Path(images_dir) if images_dir else Path("images")
-        self.convert_to_webp = convert_to_webp
         self.base_url = base_url.rstrip("/")  # Remove trailing slash if present
         self.cards: Dict[int, Card] = {}
         self.scryfall_data: Dict[int, Dict] = {}
