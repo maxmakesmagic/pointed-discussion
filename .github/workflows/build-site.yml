@@ -2,7 +2,7 @@ name: Build and Deploy Site
 
 on:
   push:
-    branches: [ main, mmm/sitegenerator ]
+    branches: [ main ]
   pull_request:
     branches: [ main ]
   # Allow manual trigger
@@ -72,7 +72,7 @@ jobs:
       run: uv sync
 
     - name: Generate site
-      run: uv run pointed-discussion
+      run: uv run pointed-discussion --base-url https://gatherer.mtg.li
 
     - name: Upload site to Pages
       uses: actions/upload-pages-artifact@v3

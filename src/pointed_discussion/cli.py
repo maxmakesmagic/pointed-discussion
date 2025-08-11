@@ -36,6 +36,15 @@ def main():
         help="Directory containing downloaded card images (default: images)",
     )
     parser.add_argument(
+        "--base-url",
+        type=str,
+        default="",
+        help=(
+            "Base URL for the site (e.g., https://gatherer.mtg.li) "
+            "for generating sitemap with fully qualified URLs"
+        ),
+    )
+    parser.add_argument(
         "--single-card",
         type=int,
         metavar="MULTIVERSE_ID",
@@ -60,6 +69,7 @@ def main():
         data_dir=args.data_dir,
         output_dir=args.output_dir,
         images_dir=args.images_dir,
+        base_url=args.base_url,
     )
 
     try:

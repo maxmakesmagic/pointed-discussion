@@ -138,6 +138,47 @@ class TestSiteGenerator(unittest.TestCase):
         self.assertEqual(card.comments[0].author, "TestUser")
         self.assertEqual(card.comments[0].star_rating, 4.0)
 
+    def test_sitemap_generation_with_base_url(self):
+        """Test sitemap generation with base URL produces fully qualified URLs."""
+        base_url = "https://gatherer.mtg.li"
+        generator = SiteGenerator(
+            self.data_dir, self.output_dir, base_url=base_url
+        )
+        generator.load_card_data()
+        generator.generate_sitemap()
+
+        # Check sitemap file was created
+        sitemap_file = self.output_dir / "sitemap.xml"
+        self.assertTrue(sitemap_file.exists())
+
+        # Check sitemap content includes fully qualified URLs
+        with open(sitemap_file, "r", encoding="utf-8") as f:
+            sitemap_content = f.read()
+
+        # Should contain fully qualified URLs
+        self.assertIn(f"{base_url}/index.html", sitemap_content)
+        self.assertIn(f"{base_url}/cards/97042.html", sitemap_content)
+
+    def test_sitemap_generation_without_base_url(self):
+        """Test sitemap generation without base URL produces relative URLs."""
+        generator = SiteGenerator(self.data_dir, self.output_dir)
+        generator.load_card_data()
+        generator.generate_sitemap()
+
+        # Check sitemap file was created
+        sitemap_file = self.output_dir / "sitemap.xml"
+        self.assertTrue(sitemap_file.exists())
+
+        # Check sitemap content includes relative URLs
+        with open(sitemap_file, "r", encoding="utf-8") as f:
+            sitemap_content = f.read()
+
+        # Should contain relative URLs (not fully qualified)
+        self.assertIn("<loc>index.html</loc>", sitemap_content)
+        self.assertIn("<loc>cards/97042.html</loc>", sitemap_content)
+        # Should NOT contain any https:// URLs
+        self.assertNotIn("https://", sitemap_content)
+
 
 if __name__ == "__main__":
     unittest.main()
