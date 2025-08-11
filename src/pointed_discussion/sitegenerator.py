@@ -27,14 +27,12 @@ class SiteGenerator:
         self,
         data_dir: Path,
         output_dir: Path,
-        images_dir: Optional[Path] = None,
-        convert_to_webp: bool = True,
+        images_dir: Optional[Path] = None
     ):
         """Initialize the SiteGenerator with directories and options."""
         self.data_dir = Path(data_dir)
         self.output_dir = Path(output_dir)
         self.images_dir = Path(images_dir) if images_dir else Path("images")
-        self.convert_to_webp = convert_to_webp
         self.cards: Dict[int, Card] = {}
         self.scryfall_data: Dict[int, Dict] = {}
         self.cardmap: Dict[str, int] = {}

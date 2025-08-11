@@ -13,7 +13,7 @@ dependencies = [
 
 [project.scripts]
 pointed-discussion = "pointed_discussion.cli:main"
-download-mtg-images = "pointed_discussion.image_downloader:main"
+download-mtg-images = "pointed_discussion.image_downloader:run"
 generate-cardmap = "pointed_discussion.generate_cardmap:run"
 fetch-scryfall-data = "pointed_discussion.fetch_scryfall_data:run"
 

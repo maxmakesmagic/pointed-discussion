@@ -36,9 +36,6 @@ def main():
         help="Directory containing downloaded card images (default: images)",
     )
     parser.add_argument(
-        "--no-webp", action="store_true", help="Don't convert images to WebP format"
-    )
-    parser.add_argument(
         "--single-card",
         type=int,
         metavar="MULTIVERSE_ID",
@@ -63,7 +60,6 @@ def main():
         data_dir=args.data_dir,
         output_dir=args.output_dir,
         images_dir=args.images_dir,
-        convert_to_webp=not args.no_webp,
     )
 
     try:

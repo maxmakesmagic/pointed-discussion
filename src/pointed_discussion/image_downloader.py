@@ -42,11 +42,10 @@ class RateLimiter:
 class ImageDownloader:
     """Downloads and processes card images from Scryfall API."""
 
-    def __init__(self, data_dir: Path, images_dir: Path, convert_to_webp: bool = True):
-        """Initialize the ImageDownloader with directories and options."""
+    def __init__(self, data_dir: Path, images_dir: Path):
+        """Initialize the ImageDownloader with directories."""
         self.data_dir = Path(data_dir)
         self.images_dir = Path(images_dir)
-        self.convert_to_webp = convert_to_webp
 
         # Rate limiter for Scryfall API calls (conservative 9 req/sec)
         self.rate_limiter = RateLimiter(max_calls_per_second=9.0)
@@ -76,15 +75,10 @@ class ImageDownloader:
         return multiverse_ids
 
     def get_existing_images(self) -> Set[int]:
-        """Get set of multiverse IDs that already have downloaded images."""
+        """Get set of multiverse IDs that already have downloaded WebP images."""
         existing = set()
 
-        if self.convert_to_webp:
-            pattern = "*.webp"
-        else:
-            pattern = "*.*"
-
-        for image_file in self.images_dir.glob(pattern):
+        for image_file in self.images_dir.glob("*.webp"):
             try:
                 # Extract multiverse ID from filename (e.g., "97042.webp" -> 97042)
                 multiverse_id = int(image_file.stem)
@@ -96,7 +90,10 @@ class ImageDownloader:
         return existing
 
     def fetch_card_image_url(self, multiverse_id: int) -> Optional[str]:
-        """Fetch card image URL from Scryfall API with rate limiting."""
+        """Fetch card image URL from Scryfall API with rate limiting.
+
+        Prefers PNG format over JPEG for better quality and transparency support.
+        """
         try:
             # Apply rate limiting before API call
             self.rate_limiter.wait_if_needed()
@@ -104,11 +101,21 @@ class ImageDownloader:
             card_data = Multiverse(id=multiverse_id)
 
             if card_data.image_uris():
-                return card_data.image_uris()["large"]
+                image_uris = card_data.image_uris()
+                # Prefer PNG format if available, fallback to large JPEG
+                if "png" in image_uris:
+                    return image_uris["png"]
+                elif "large" in image_uris:
+                    return image_uris["large"]
             elif card_data.card_faces():
                 # For double-faced cards, use the front face
                 if "image_uris" in card_data.card_faces()[0]:
-                    return card_data.card_faces()[0]["image_uris"]["large"]
+                    image_uris = card_data.card_faces()[0]["image_uris"]
+                    # Prefer PNG format if available, fallback to large JPEG
+                    if "png" in image_uris:
+                        return image_uris["png"]
+                    elif "large" in image_uris:
+                        return image_uris["large"]
 
         except Exception as e:
             log.error(
@@ -123,25 +130,56 @@ class ImageDownloader:
             response = requests.get(image_url, timeout=30)
             response.raise_for_status()
 
-            # Determine file extension and path
-            if self.convert_to_webp:
-                filename = f"{multiverse_id}.webp"
-                filepath = self.images_dir / filename
+            # Load image from response
+            image = Image.open(BytesIO(response.content))
 
-                # Convert to WebP
-                image = Image.open(BytesIO(response.content))
-                image.save(filepath, "WEBP", quality=85, optimize=True)
+            # Resize image to optimal dimensions (330x459) for mobile-friendly size
+            # This keeps total site under 1GB (estimated 0.97GB) while maintaining
+            # good quality for card readability
+            target_width, target_height = 330, 459
+
+            # Calculate resize dimensions maintaining aspect ratio
+            original_width, original_height = image.size
+            aspect_ratio = original_width / original_height
+            target_aspect = target_width / target_height
+
+            if aspect_ratio > target_aspect:
+                # Image is wider, scale by width
+                new_width = target_width
+                new_height = int(target_width / aspect_ratio)
             else:
-                # Keep original format
-                from urllib.parse import urlparse
+                # Image is taller, scale by height
+                new_height = target_height
+                new_width = int(target_height * aspect_ratio)
 
-                parsed_url = urlparse(image_url)
-                extension = Path(parsed_url.path).suffix or ".jpg"
-                filename = f"{multiverse_id}{extension}"
-                filepath = self.images_dir / filename
+            # Resize with high-quality resampling
+            resized_image = image.resize(
+                (new_width, new_height), Image.Resampling.LANCZOS
+            )
 
-                with open(filepath, "wb") as f:
-                    f.write(response.content)
+            # Always convert to WebP format
+            filename = f"{multiverse_id}.webp"
+            filepath = self.images_dir / filename
+
+            # Convert to WebP with alpha channel preservation
+            # Use lossless=False but high quality to balance size and quality
+            has_alpha = (
+                resized_image.mode in ('RGBA', 'LA') or
+                'transparency' in resized_image.info
+            )
+            if has_alpha:
+                # Image has alpha channel - preserve it
+                resized_image.save(
+                    filepath,
+                    "WEBP",
+                    quality=85,
+                    optimize=True,
+                    method=4,  # Better compression method
+                    exact=True  # Preserve transparency exactly
+                )
+            else:
+                # No alpha channel - standard WebP
+                resized_image.save(filepath, "WEBP", quality=85, optimize=True)
 
             return True
 
@@ -151,22 +189,21 @@ class ImageDownloader:
             )
             return False
 
-    def download_missing_images(self, force_redownload: bool = False) -> None:
+    def download_missing_images(self,
+                                multiverse_ids_to_download: set[int],
+                                force_redownload: bool = False) -> None:
         """Download all missing card images."""
-        # Get all multiverse IDs from data
-        all_multiverse_ids = self.get_all_multiverse_ids()
-
         if not force_redownload:
             # Skip images that already exist
             existing_images = self.get_existing_images()
-            missing_ids = all_multiverse_ids - existing_images
+            missing_ids = multiverse_ids_to_download - existing_images
             log.info(
                 "Found %d existing images, %d missing",
                 len(existing_images),
                 len(missing_ids),
             )
         else:
-            missing_ids = all_multiverse_ids
+            missing_ids = multiverse_ids_to_download
             log.info("Force redownload: processing all %d images", len(missing_ids))
 
         if not missing_ids:
@@ -223,6 +260,7 @@ class ImageDownloader:
         log.info("Images stored in: %s", self.images_dir)
 
 
+
 def main() -> None:
     """Main entry point for image downloader."""
     parser = argparse.ArgumentParser(
@@ -241,12 +279,19 @@ def main() -> None:
         help="Directory to store downloaded images (default: images)",
     )
     parser.add_argument(
-        "--no-webp", action="store_true", help="Don't convert images to WebP format"
-    )
-    parser.add_argument(
         "--force",
         action="store_true",
         help="Redownload all images, even if they already exist",
+    )
+    parser.add_argument(
+        "--multiverse-ids",
+        type=int,
+        nargs="+",
+        metavar="ID",
+        help=(
+            "Download specific images by multiverse ID "
+            "(e.g., --multiverse-ids 97042 97043)"
+        ),
     )
 
     args = parser.parse_args()
@@ -256,16 +301,23 @@ def main() -> None:
         log.error("Data directory '%s' does not exist", args.data_dir)
         return
 
-    # Create image downloader
+    # Create image downloader (always uses WebP format)
     downloader = ImageDownloader(
         data_dir=args.data_dir,
         images_dir=args.images_dir,
-        convert_to_webp=not args.no_webp,
     )
 
+    multiverse_ids: set[int]
+
+    if args.multiverse_ids:
+        multiverse_ids = set(args.multiverse_ids)
+    else:
+        # Get all multiverse IDs from data
+        multiverse_ids = downloader.get_all_multiverse_ids()
+
     try:
-        # Download missing images
-        downloader.download_missing_images(force_redownload=args.force)
+        # Download images
+        downloader.download_missing_images(multiverse_ids, force_redownload=args.force)
 
     except Exception as e:
         log.error("Error: %s", e)
@@ -275,4 +327,5 @@ def run() -> None:
     """Set up logging and run main."""
     from pointed_discussion.logging_utils import setup_cli_logging
     setup_cli_logging(verbose=True)
+    log.info("Running image downloader")
     main()
