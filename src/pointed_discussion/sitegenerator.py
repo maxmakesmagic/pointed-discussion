@@ -29,12 +29,14 @@ class SiteGenerator:
         output_dir: Path,
         images_dir: Optional[Path] = None,
         convert_to_webp: bool = True,
+        base_url: str = "",
     ):
         """Initialize the SiteGenerator with directories and options."""
         self.data_dir = Path(data_dir)
         self.output_dir = Path(output_dir)
         self.images_dir = Path(images_dir) if images_dir else Path("images")
         self.convert_to_webp = convert_to_webp
+        self.base_url = base_url.rstrip("/")  # Remove trailing slash if present
         self.cards: Dict[int, Card] = {}
         self.scryfall_data: Dict[int, Dict] = {}
         self.cardmap: Dict[str, int] = {}
@@ -333,16 +335,20 @@ class SiteGenerator:
 
     def generate_sitemap(self) -> None:
         """Generate XML sitemap for all cards."""
+        # Ensure output directory exists
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+
         sitemap_lines = [
             '<?xml version="1.0" encoding="UTF-8"?>',
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
         ]
 
         # Add main page
+        main_url = f"{self.base_url}/index.html" if self.base_url else "index.html"
         sitemap_lines.extend(
             [
                 "  <url>",
-                "    <loc>index.html</loc>",
+                f"    <loc>{main_url}</loc>",
                 "    <priority>1.0</priority>",
                 "  </url>",
             ]
@@ -350,10 +356,14 @@ class SiteGenerator:
 
         # Add all card pages
         for multiverse_id, card in sorted(self.cards.items()):
+            if self.base_url:
+                card_url = f"{self.base_url}/cards/{multiverse_id}.html"
+            else:
+                card_url = f"cards/{multiverse_id}.html"
             sitemap_lines.extend(
                 [
                     "  <url>",
-                    f"    <loc>cards/{multiverse_id}.html</loc>",
+                    f"    <loc>{card_url}</loc>",
                     "    <priority>0.8</priority>",
                     "  </url>",
                 ]

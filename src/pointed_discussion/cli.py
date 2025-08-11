@@ -36,6 +36,15 @@ def main():
         help="Directory containing downloaded card images (default: images)",
     )
     parser.add_argument(
+        "--base-url",
+        type=str,
+        default="",
+        help=(
+            "Base URL for the site (e.g., https://gatherer.mtg.li) "
+            "for generating sitemap with fully qualified URLs"
+        ),
+    )
+    parser.add_argument(
         "--no-webp", action="store_true", help="Don't convert images to WebP format"
     )
     parser.add_argument(
@@ -64,6 +73,7 @@ def main():
         output_dir=args.output_dir,
         images_dir=args.images_dir,
         convert_to_webp=not args.no_webp,
+        base_url=args.base_url,
     )
 
     try:
