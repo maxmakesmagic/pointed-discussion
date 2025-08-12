@@ -78,13 +78,18 @@ main {
 .card-image {
     text-align: center;
     margin-top: 1rem;
+    width: 100%;
+    overflow: hidden;
 }
 
 .card-image img {
     max-width: 100%;
+    width: auto;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    display: block;
+    margin: 0 auto;
 }
 
 .comments-section {
@@ -224,6 +229,32 @@ footer a:hover {
         font-size: 2rem;
     }
 
+    main {
+        padding: 0 0.5rem;
+    }
+
+    .card-info {
+        padding: 1rem;
+    }
+
+    .card-image {
+        margin-top: 0.5rem;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .card-image img {
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+        max-height: 70vh;
+        object-fit: contain;
+    }
+
+    .comments-section {
+        padding: 1rem;
+    }
+
     .comment-header {
         flex-direction: column;
         align-items: flex-start;
@@ -233,5 +264,60 @@ footer a:hover {
     .comment-rating {
         margin-left: 0;
         text-align: left;
+    }
+
+    .comment-content {
+        padding: 0.75rem;
+        font-size: 0.95rem;
+    }
+}
+
+/* Extra small devices (phones in portrait) */
+@media (max-width: 480px) {
+    header {
+        padding: 1.5rem 0.5rem;
+    }
+
+    header h1 {
+        font-size: 1.75rem;
+    }
+
+    header p {
+        font-size: 1rem;
+    }
+
+    main {
+        padding: 0 0.25rem;
+    }
+
+    .card-info {
+        padding: 0.75rem;
+        margin-bottom: 1rem;
+    }
+
+    .card-info h2 {
+        font-size: 1.5rem;
+    }
+
+    .card-image img {
+        max-height: 60vh;
+        border-radius: 6px;
+    }
+
+    .comments-section {
+        padding: 0.75rem;
+    }
+
+    .comment {
+        padding: 1rem 0;
+    }
+
+    .comment-header {
+        padding: 0.5rem 0.75rem;
+    }
+
+    .comment-content {
+        padding: 0.5rem;
+        font-size: 0.9rem;
     }
 }
