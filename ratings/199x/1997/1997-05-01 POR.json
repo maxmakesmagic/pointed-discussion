@@ -1,0 +1,668 @@
+{
+ "4207: Arrogant Vampire": {
+  "rating": 2.221
+ },
+ "4208: Assassin's Blade": {
+  "rating": 3.093
+ },
+ "4209: Bog Imp": {
+  "rating": 2.354
+ },
+ "4210: Bog Raiders": {
+  "rating": 3.1
+ },
+ "4211: Bog Wraith": {
+  "rating": 3.089
+ },
+ "4212: Charging Bandits": {
+  "rating": 2.18
+ },
+ "4213: Craven Knight": {
+  "rating": 1.854
+ },
+ "4214: Cruel Bargain": {
+  "rating": 4.293
+ },
+ "4215: Cruel Tutor": {
+  "rating": 3.043
+ },
+ "4216: Dread Charge": {
+  "rating": 2.204
+ },
+ "4217: Dread Reaper": {
+  "rating": 2.15
+ },
+ "4218: Dry Spell": {
+  "rating": 3.122
+ },
+ "4219: Ebon Dragon": {
+  "rating": 2.909
+ },
+ "4220: Endless Cockroaches": {
+  "rating": 3.368
+ },
+ "4221: Feral Shadow": {
+  "rating": 2.625
+ },
+ "4222: Final Strike": {
+  "rating": 1.707
+ },
+ "4223: Gravedigger": {
+  "rating": 3.983
+ },
+ "4224: Hand of Death": {
+  "rating": 2.46
+ },
+ "4225: Hand of Death": {
+  "rating": 2.545
+ },
+ "4226: Howling Fury": {
+  "rating": 1.88
+ },
+ "4227: King's Assassin": {
+  "rating": 2.861
+ },
+ "4228: Mercenary Knight": {
+  "rating": 4.076
+ },
+ "4229: Mind Knives": {
+  "rating": 2.744
+ },
+ "4230: Mind Rot": {
+  "rating": 3.527
+ },
+ "4231: Muck Rats": {
+  "rating": 1.697
+ },
+ "4232: Nature's Ruin": {
+  "rating": 4.274
+ },
+ "4233: Noxious Toad": {
+  "rating": 2.017
+ },
+ "4234: Python": {
+  "rating": 2.712
+ },
+ "4235: Rain of Tears": {
+  "rating": 3.542
+ },
+ "4236: Raise Dead": {
+  "rating": 3.561
+ },
+ "4237: Serpent Assassin": {
+  "rating": 2.643
+ },
+ "4238: Serpent Warrior": {
+  "rating": 2.149
+ },
+ "4239: Skeletal Crocodile": {
+  "rating": 2.488
+ },
+ "4240: Skeletal Snake": {
+  "rating": 2.21
+ },
+ "4241: Soul Shred": {
+  "rating": 1.552
+ },
+ "4242: Undying Beast": {
+  "rating": 2.174
+ },
+ "4243: Vampiric Feast": {
+  "rating": 1.117
+ },
+ "4244: Vampiric Touch": {
+  "rating": 2.4
+ },
+ "4245: Virtue's Ruin": {
+  "rating": 4.202
+ },
+ "4246: Wicked Pact": {
+  "rating": 3.043
+ },
+ "4247: Ancestral Memories": {
+  "rating": 3.6
+ },
+ "4248: Balance of Power": {
+  "rating": 2.328
+ },
+ "4249: Baleful Stare": {
+  "rating": 3.155
+ },
+ "4250: Capricious Sorcerer": {
+  "rating": 1.75
+ },
+ "4251: Cloak of Feathers": {
+  "rating": 3.55
+ },
+ "4252: Cloud Dragon": {
+  "rating": 2.881
+ },
+ "4253: Cloud Pirates": {
+  "rating": 2.961
+ },
+ "4254: Cloud Spirit": {
+  "rating": 3.196
+ },
+ "4255: Command of Unsummoning": {
+  "rating": 2.554
+ },
+ "4256: Coral Eel": {
+  "rating": 1.616
+ },
+ "4257: Cruel Fate": {
+  "rating": 1.819
+ },
+ "4258: Deep-Sea Serpent": {
+  "rating": 1.729
+ },
+ "4259: Déjà Vu": {
+  "rating": 3.345
+ },
+ "4260: Djinn of the Lamp": {
+  "rating": 2.143
+ },
+ "4261: Exhaustion": {
+  "rating": 4.015
+ },
+ "4262: Flux": {
+  "rating": 3.217
+ },
+ "4263: Giant Octopus": {
+  "rating": 2.379
+ },
+ "4264: Horned Turtle": {
+  "rating": 2.604
+ },
+ "4265: Ingenious Thief": {
+  "rating": 2.827
+ },
+ "4266: Man-o'-War": {
+  "rating": 4.122
+ },
+ "4267: Merfolk of the Pearl Trident": {
+  "rating": 1.814
+ },
+ "4268: Mystic Denial": {
+  "rating": 1.958
+ },
+ "4269: Omen": {
+  "rating": 2.314
+ },
+ "4270: Owl Familiar": {
+  "rating": 3.107
+ },
+ "4271: Personal Tutor": {
+  "rating": 4.217
+ },
+ "4272: Phantom Warrior": {
+  "rating": 3.906
+ },
+ "4273: Prosperity": {
+  "rating": 3.848
+ },
+ "4274: Snapping Drake": {
+  "rating": 3.269
+ },
+ "4275: Sorcerous Sight": {
+  "rating": 2.25
+ },
+ "4276: Storm Crow": {
+  "rating": 4.116
+ },
+ "4277: Symbol of Unsummoning": {
+  "rating": 3.068
+ },
+ "4278: Taunt": {
+  "rating": 3.405
+ },
+ "4279: Theft of Dreams": {
+  "rating": 3.586
+ },
+ "4280: Thing from the Deep": {
+  "rating": 3.175
+ },
+ "4281: Tidal Surge": {
+  "rating": 3.286
+ },
+ "4282: Time Ebb": {
+  "rating": 3.306
+ },
+ "4283: Touch of Brilliance": {
+  "rating": 1.532
+ },
+ "4284: Wind Drake": {
+  "rating": 3.222
+ },
+ "4285: Withering Gaze": {
+  "rating": 3.146
+ },
+ "4286: Alluring Scent": {
+  "rating": 2.111
+ },
+ "4287: Anaconda": {
+  "rating": 3
+ },
+ "4288: Anaconda": {
+  "rating": 3.241
+ },
+ "4289: Bee Sting": {
+  "rating": 1.837
+ },
+ "4290: Bull Hippo": {
+  "rating": 3.351
+ },
+ "4291: Charging Rhino": {
+  "rating": 2.939
+ },
+ "4292: Deep Wood": {
+  "rating": 2.812
+ },
+ "4293: Elite Cat Warrior": {
+  "rating": 3.34
+ },
+ "4294: Elite Cat Warrior": {
+  "rating": 3.321
+ },
+ "4295: Elven Cache": {
+  "rating": 2.567
+ },
+ "4296: Elvish Ranger": {
+  "rating": 2.716
+ },
+ "4297: Fruition": {
+  "rating": 3.771
+ },
+ "4298: Giant Spider": {
+  "rating": 3.344
+ },
+ "4299: Gorilla Warrior": {
+  "rating": 2.446
+ },
+ "4300: Grizzly Bears": {
+  "rating": 3.607
+ },
+ "4301: Hurricane": {
+  "rating": 3.821
+ },
+ "4302: Jungle Lion": {
+  "rating": 4.149
+ },
+ "4303: Mobilize": {
+  "rating": 3.259
+ },
+ "4304: Monstrous Growth": {
+  "rating": 2.828
+ },
+ "4305: Monstrous Growth": {
+  "rating": 2.705
+ },
+ "4306: Moon Sprite": {
+  "rating": 1.815
+ },
+ "4307: Natural Order": {
+  "rating": 4.183
+ },
+ "4308: Natural Spring": {
+  "rating": 2.422
+ },
+ "4309: Nature's Cloak": {
+  "rating": 2.25
+ },
+ "4310: Nature's Lore": {
+  "rating": 4.095
+ },
+ "4311: Needle Storm": {
+  "rating": 3.854
+ },
+ "4313: Plant Elemental": {
+  "rating": 3.484
+ },
+ "4314: Primeval Force": {
+  "rating": 3.161
+ },
+ "4315: Redwood Treefolk": {
+  "rating": 2.648
+ },
+ "4316: Rowan Treefolk": {
+  "rating": 2.59
+ },
+ "4317: Spined Wurm": {
+  "rating": 2.719
+ },
+ "4318: Stalking Tiger": {
+  "rating": 3.208
+ },
+ "4319: Summer Bloom": {
+  "rating": 4.107
+ },
+ "4320: Sylvan Tutor": {
+  "rating": 4.125
+ },
+ "4321: Thundering Wurm": {
+  "rating": 3.227
+ },
+ "4322: Treetop Defense": {
+  "rating": 2
+ },
+ "4323: Untamed Wilds": {
+  "rating": 3.048
+ },
+ "4324: Whiptail Wurm": {
+  "rating": 2.328
+ },
+ "4325: Willow Dryad": {
+  "rating": 2.481
+ },
+ "4326: Winter's Grasp": {
+  "rating": 3.667
+ },
+ "4327: Wood Elves": {
+  "rating": 3.892
+ },
+ "4328: Blaze": {
+  "rating": 3.177
+ },
+ "4329: Blaze": {
+  "rating": 3.13
+ },
+ "4330: Boiling Seas": {
+  "rating": 3.667
+ },
+ "4331: Burning Cloak": {
+  "rating": 2.717
+ },
+ "4332: Craven Giant": {
+  "rating": 2.353
+ },
+ "4333: Desert Drake": {
+  "rating": 2.129
+ },
+ "4334: Devastation": {
+  "rating": 3.933
+ },
+ "4335: Earthquake": {
+  "rating": 4.046
+ },
+ "4336: Fire Dragon": {
+  "rating": 2.974
+ },
+ "4337: Fire Imp": {
+  "rating": 3.689
+ },
+ "4338: Fire Snake": {
+  "rating": 2.741
+ },
+ "4339: Fire Tempest": {
+  "rating": 3.033
+ },
+ "4340: Flashfires": {
+  "rating": 3.736
+ },
+ "4341: Forked Lightning": {
+  "rating": 3.355
+ },
+ "4342: Goblin Bully": {
+  "rating": 2.355
+ },
+ "4343: Highland Giant": {
+  "rating": 2.812
+ },
+ "4344: Hill Giant": {
+  "rating": 2.438
+ },
+ "4345: Hulking Cyclops": {
+  "rating": 2.926
+ },
+ "4346: Hulking Goblin": {
+  "rating": 2.467
+ },
+ "4347: Last Chance": {
+  "rating": 3.983
+ },
+ "4348: Lava Axe": {
+  "rating": 3.172
+ },
+ "4349: Lava Flow": {
+  "rating": 3.391
+ },
+ "4350: Lizard Warrior": {
+  "rating": 2.068
+ },
+ "4351: Minotaur Warrior": {
+  "rating": 2.474
+ },
+ "4352: Mountain Goat": {
+  "rating": 3.161
+ },
+ "4353: Pillaging Horde": {
+  "rating": 3.792
+ },
+ "4354: Pyroclasm": {
+  "rating": 4.586
+ },
+ "4355: Raging Cougar": {
+  "rating": 2.786
+ },
+ "4356: Raging Goblin": {
+  "rating": 3.621
+ },
+ "4357: Raging Goblin": {
+  "rating": 3.486
+ },
+ "4358: Raging Minotaur": {
+  "rating": 2.893
+ },
+ "4359: Rain of Salt": {
+  "rating": 3.521
+ },
+ "4360: Scorching Spear": {
+  "rating": 1.288
+ },
+ "4361: Scorching Winds": {
+  "rating": 3.139
+ },
+ "4362: Spitting Earth": {
+  "rating": 3.31
+ },
+ "4363: Stone Rain": {
+  "rating": 4.053
+ },
+ "4364: Thundermare": {
+  "rating": 3.906
+ },
+ "4365: Volcanic Dragon": {
+  "rating": 3.459
+ },
+ "4366: Volcanic Hammer": {
+  "rating": 3.222
+ },
+ "4367: Wall of Granite": {
+  "rating": 2.897
+ },
+ "4368: Winds of Change": {
+  "rating": 4.132
+ },
+ "4369: Alabaster Dragon": {
+  "rating": 2.841
+ },
+ "4370: Angelic Blessing": {
+  "rating": 3.074
+ },
+ "4371: Archangel": {
+  "rating": 3.333
+ },
+ "4372: Ardent Militia": {
+  "rating": 2.309
+ },
+ "4373: Armageddon": {
+  "rating": 4.074
+ },
+ "4374: Armored Pegasus": {
+  "rating": 2.97
+ },
+ "4375: Blessed Reversal": {
+  "rating": 2.979
+ },
+ "4376: Blinding Light": {
+  "rating": 3.422
+ },
+ "4377: Border Guard": {
+  "rating": 2.047
+ },
+ "4378: Breath of Life": {
+  "rating": 3.857
+ },
+ "4379: Charging Paladin": {
+  "rating": 2.964
+ },
+ "4380: Defiant Stand": {
+  "rating": 2.217
+ },
+ "4381: Devoted Hero": {
+  "rating": 3.016
+ },
+ "4382: False Peace": {
+  "rating": 3.661
+ },
+ "4383: Fleet-Footed Monk": {
+  "rating": 3.241
+ },
+ "4384: Foot Soldiers": {
+  "rating": 1.906
+ },
+ "4385: Gift of Estates": {
+  "rating": 4.132
+ },
+ "4386: Harsh Justice": {
+  "rating": 3.935
+ },
+ "4387: Keen-Eyed Archers": {
+  "rating": 3.048
+ },
+ "4388: Knight Errant": {
+  "rating": 2.763
+ },
+ "4389: Path of Peace": {
+  "rating": 2.559
+ },
+ "4390: Regal Unicorn": {
+  "rating": 2.371
+ },
+ "4391: Renewing Dawn": {
+  "rating": 3.208
+ },
+ "4392: Sacred Knight": {
+  "rating": 2.914
+ },
+ "4393: Sacred Nectar": {
+  "rating": 1.311
+ },
+ "4394: Seasoned Marshal": {
+  "rating": 3.261
+ },
+ "4395: Spiritual Guardian": {
+  "rating": 2.824
+ },
+ "4396: Spotted Griffin": {
+  "rating": 2.375
+ },
+ "4397: Starlight": {
+  "rating": 2.81
+ },
+ "4398: Starlit Angel": {
+  "rating": 2.3
+ },
+ "4399: Steadfastness": {
+  "rating": 1.409
+ },
+ "4400: Stern Marshal": {
+  "rating": 2.297
+ },
+ "4401: Temporary Truce": {
+  "rating": 3.042
+ },
+ "4402: Valorous Charge": {
+  "rating": 1.705
+ },
+ "4403: Venerable Monk": {
+  "rating": 2.625
+ },
+ "4404: Vengeance": {
+  "rating": 2.71
+ },
+ "4405: Wall of Swords": {
+  "rating": 3.111
+ },
+ "4406: Warrior's Charge": {
+  "rating": 2.136
+ },
+ "4407: Warrior's Charge": {
+  "rating": 1.625
+ },
+ "4408: Wrath of God": {
+  "rating": 4.159
+ },
+ "4409: Swamp": {
+  "rating": 4.25
+ },
+ "4410: Swamp": {
+  "rating": 4.74
+ },
+ "4411: Swamp": {
+  "rating": 4.519
+ },
+ "4412: Swamp": {
+  "rating": 4.438
+ },
+ "4413: Forest": {
+  "rating": 4.545
+ },
+ "4414: Forest": {
+  "rating": 4.548
+ },
+ "4415: Forest": {
+  "rating": 4.618
+ },
+ "4416: Forest": {
+  "rating": 4.606
+ },
+ "4417: Mountain": {
+  "rating": 4.333
+ },
+ "4418: Mountain": {
+  "rating": 4.556
+ },
+ "4419: Mountain": {
+  "rating": 4.121
+ },
+ "4420: Mountain": {
+  "rating": 4.231
+ },
+ "4421: Island": {
+  "rating": 4.589
+ },
+ "4422: Island": {
+  "rating": 4.554
+ },
+ "4423: Island": {
+  "rating": 4.692
+ },
+ "4424: Island": {
+  "rating": 4.606
+ },
+ "4425: Plains": {
+  "rating": 4.288
+ },
+ "4426: Plains": {
+  "rating": 4.393
+ },
+ "4427: Plains": {
+  "rating": 4.571
+ },
+ "4428: Plains": {
+  "rating": 4.684
+ },
+ "9845: Panther Warriors": {
+  "rating": 3.17
+ }
+}

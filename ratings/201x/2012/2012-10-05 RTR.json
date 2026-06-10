@@ -1,0 +1,824 @@
+{
+ "253507: Underworld Connections": {
+  "rating": 3.827
+ },
+ "253508: Golgari Decoy": {
+  "rating": 3.074
+ },
+ "253509: Dreg Mangler": {
+  "rating": 4.012
+ },
+ "253510: Mercurial Chemister": {
+  "rating": 3.968
+ },
+ "253512: Supreme Verdict": {
+  "rating": 4.052
+ },
+ "253514: Izzet Keyrune": {
+  "rating": 2.905
+ },
+ "253518: Lotleth Troll": {
+  "rating": 4.027
+ },
+ "253519: Azorius Keyrune": {
+  "rating": 3.01
+ },
+ "253520: Hussar Patrol": {
+  "rating": 3.219
+ },
+ "253521: Vassal Soul": {
+  "rating": 2.739
+ },
+ "253524: Counterflux": {
+  "rating": 3.695
+ },
+ "253525: Catacomb Slug": {
+  "rating": 1.889
+ },
+ "253528: Izzet Charm": {
+  "rating": 4.252
+ },
+ "253529: Rootborn Defenses": {
+  "rating": 3.822
+ },
+ "253532: Rakdos, Lord of Riots": {
+  "rating": 4.163
+ },
+ "253533: Corpsejack Menace": {
+  "rating": 4.051
+ },
+ "253534: Sphinx's Revelation": {
+  "rating": 4.013
+ },
+ "253536: Horncaller's Chant": {
+  "rating": 2.271
+ },
+ "253538: Ultimate Price": {
+  "rating": 3.31
+ },
+ "253539: Wayfaring Temple": {
+  "rating": 3.892
+ },
+ "253541: Hover Barrier": {
+  "rating": 3.028
+ },
+ "253544: Dramatic Rescue": {
+  "rating": 2.949
+ },
+ "253545: Electrickery": {
+  "rating": 3.604
+ },
+ "253546: Righteous Authority": {
+  "rating": 3.379
+ },
+ "253548: Goblin Electromancer": {
+  "rating": 4.05
+ },
+ "253549: Spawn of Rix Maadi": {
+  "rating": 2.131
+ },
+ "253550: Transguild Promenade": {
+  "rating": 3.032
+ },
+ "253551: Thoughtflare": {
+  "rating": 3.008
+ },
+ "253552: Epic Experiment": {
+  "rating": 3.819
+ },
+ "253553: Eyes in the Skies": {
+  "rating": 2.735
+ },
+ "253554: Sunspire Griffin": {
+  "rating": 2.848
+ },
+ "253555: Skymark Roc": {
+  "rating": 3.739
+ },
+ "253556: Axebane Guardian": {
+  "rating": 3.306
+ },
+ "253558: Concordia Pegasus": {
+  "rating": 2.705
+ },
+ "253560: Vandalblast": {
+  "rating": 3.759
+ },
+ "253561: Abrupt Decay": {
+  "rating": 4.394
+ },
+ "253562: Teleportal": {
+  "rating": 3.727
+ },
+ "253565: Common Bond": {
+  "rating": 2.895
+ },
+ "253566: Dispel": {
+  "rating": 3.481
+ },
+ "253567: Palisade Giant": {
+  "rating": 3.364
+ },
+ "253568: Pyroconvergence": {
+  "rating": 1.91
+ },
+ "253569: Necropolis Regent": {
+  "rating": 4.039
+ },
+ "253570: Armory Guard": {
+  "rating": 2.144
+ },
+ "253571: Destroy the Evidence": {
+  "rating": 2.18
+ },
+ "253573: Arrest": {
+  "rating": 3.941
+ },
+ "253574: Rakdos's Return": {
+  "rating": 4.009
+ },
+ "253575: Worldspine Wurm": {
+  "rating": 3.954
+ },
+ "253576: Sewer Shambler": {
+  "rating": 2.848
+ },
+ "253579: Auger Spree": {
+  "rating": 3.149
+ },
+ "253581: Pithing Needle": {
+  "rating": 4.304
+ },
+ "253582: Blustersquall": {
+  "rating": 3.303
+ },
+ "253585: Rakdos Ringleader": {
+  "rating": 1.351
+ },
+ "253586: Slitherhead": {
+  "rating": 3.953
+ },
+ "253587: Armada Wurm": {
+  "rating": 4.01
+ },
+ "253588: Fencing Ace": {
+  "rating": 3.551
+ },
+ "253589: Bazaar Krovod": {
+  "rating": 2.017
+ },
+ "253590: Rakdos Charm": {
+  "rating": 4.126
+ },
+ "253591: Rakdos Shred-Freak": {
+  "rating": 3.415
+ },
+ "253592: Mana Bloom": {
+  "rating": 2.642
+ },
+ "253594: Sphinx of the Chimes": {
+  "rating": 3.597
+ },
+ "253596: Rakdos Cackler": {
+  "rating": 4.054
+ },
+ "253598: Martial Law": {
+  "rating": 3.833
+ },
+ "253599: Racecourse Fury": {
+  "rating": 2.659
+ },
+ "253601: Archweaver": {
+  "rating": 2.279
+ },
+ "253603: Archon of the Triumvirate": {
+  "rating": 3.408
+ },
+ "253606: Conjured Currency": {
+  "rating": 2.768
+ },
+ "253607: Sluiceway Scorpion": {
+  "rating": 3.246
+ },
+ "253608: Towering Indrik": {
+  "rating": 2.262
+ },
+ "253614: Search Warrant": {
+  "rating": 1.926
+ },
+ "253615: Trained Caracal": {
+  "rating": 2.711
+ },
+ "253617: Rakdos Keyrune": {
+  "rating": 3.411
+ },
+ "253619: Civic Saber": {
+  "rating": 3.093
+ },
+ "253622: Skull Rend": {
+  "rating": 2.777
+ },
+ "253623: Ash Zealot": {
+  "rating": 4.053
+ },
+ "253624: Pack Rat": {
+  "rating": 4.02
+ },
+ "253626: Niv-Mizzet, Dracogenius": {
+  "rating": 3.925
+ },
+ "253627: Angel of Serenity": {
+  "rating": 3.99
+ },
+ "253631: Selesnya Keyrune": {
+  "rating": 3.348
+ },
+ "253632: Mizzium Mortars": {
+  "rating": 3.98
+ },
+ "253633: Jarad's Orders": {
+  "rating": 3.785
+ },
+ "253635: Codex Shredder": {
+  "rating": 3.205
+ },
+ "253636: Mizzium Skin": {
+  "rating": 3.283
+ },
+ "253638: Izzet Staticaster": {
+  "rating": 3.888
+ },
+ "253639: Coursers' Accord": {
+  "rating": 2.673
+ },
+ "253640: Dead Reveler": {
+  "rating": 2.755
+ },
+ "253641: Trostani, Selesnya's Voice": {
+  "rating": 4.009
+ },
+ "253643: Gobbling Ooze": {
+  "rating": 2.114
+ },
+ "253645: Golgari Keyrune": {
+  "rating": 3.271
+ },
+ "253646: Knightly Valor": {
+  "rating": 2.649
+ },
+ "253648: Havoc Festival": {
+  "rating": 3.362
+ },
+ "253649: Tenement Crasher": {
+  "rating": 2.536
+ },
+ "253651: Selesnya Charm": {
+  "rating": 3.778
+ },
+ "253653: Jace, Architect of Thought": {
+  "rating": 3.502
+ },
+ "253654: Centaur Healer": {
+  "rating": 3.827
+ },
+ "253655: Hypersonic Dragon": {
+  "rating": 3.938
+ },
+ "253656: Seller of Songbirds": {
+  "rating": 2.862
+ },
+ "253680: Overgrown Tomb": {
+  "rating": 4.303
+ },
+ "253681: Temple Garden": {
+  "rating": 4.274
+ },
+ "253682: Steam Vents": {
+  "rating": 4.28
+ },
+ "253683: Blood Crypt": {
+  "rating": 4.255
+ },
+ "253684: Hallowed Fountain": {
+  "rating": 4.278
+ },
+ "261322: Call of the Conclave": {
+  "rating": 3.949
+ },
+ "265369: Cobblebrute": {
+  "rating": 2.125
+ },
+ "265371: Thrill-Kill Assassin": {
+  "rating": 3.403
+ },
+ "265372: Soul Tithe": {
+  "rating": 3.855
+ },
+ "265373: Chorus of Might": {
+  "rating": 2.167
+ },
+ "265374: Downsize": {
+  "rating": 2.709
+ },
+ "265376: Inaction Injunction": {
+  "rating": 3.329
+ },
+ "265377: Brushstrider": {
+  "rating": 3.081
+ },
+ "265379: Viashino Racketeer": {
+  "rating": 1.76
+ },
+ "265380: Inspiration": {
+  "rating": 3.508
+ },
+ "265381: Splatter Thug": {
+  "rating": 3.074
+ },
+ "265382: Selesnya Sentry": {
+  "rating": 2.015
+ },
+ "265383: Axebane Stag": {
+  "rating": 2.08
+ },
+ "265384: Street Spasm": {
+  "rating": 3.048
+ },
+ "265385: Golgari Charm": {
+  "rating": 3.657
+ },
+ "265386: Grim Roustabout": {
+  "rating": 2.62
+ },
+ "265387: Centaur's Herald": {
+  "rating": 2.475
+ },
+ "265388: Savage Surge": {
+  "rating": 3.034
+ },
+ "265389: Deviant Glee": {
+  "rating": 3.38
+ },
+ "265390: Pursuit of Flight": {
+  "rating": 2.5
+ },
+ "265391: Lyev Skyknight": {
+  "rating": 3.897
+ },
+ "265392: Guttersnipe": {
+  "rating": 4.062
+ },
+ "265393: Explosive Impact": {
+  "rating": 2.269
+ },
+ "265394: Runewing": {
+  "rating": 2.337
+ },
+ "265396: Rubbleback Rhino": {
+  "rating": 2.239
+ },
+ "265397: Dynacharge": {
+  "rating": 2.781
+ },
+ "265398: Stonefare Crocodile": {
+  "rating": 2.487
+ },
+ "265399: Batterhorn": {
+  "rating": 2.188
+ },
+ "265400: Tower Drake": {
+  "rating": 3.116
+ },
+ "265401: Drainpipe Vermin": {
+  "rating": 2.808
+ },
+ "265403: Cancel": {
+  "rating": 2.724
+ },
+ "265404: Search the City": {
+  "rating": 2.123
+ },
+ "265405: Perilous Shadow": {
+  "rating": 2.845
+ },
+ "265406: Guild Feud": {
+  "rating": 2.846
+ },
+ "265407: Drudge Beetle": {
+  "rating": 2.691
+ },
+ "265408: Mind Rot": {
+  "rating": 3.569
+ },
+ "265409: Shrieking Affliction": {
+  "rating": 3.568
+ },
+ "265410: Avenging Arrow": {
+  "rating": 2.411
+ },
+ "265411: Cryptborn Horror": {
+  "rating": 3.407
+ },
+ "265412: Voidwielder": {
+  "rating": 1.925
+ },
+ "265413: Stealer of Secrets": {
+  "rating": 3.28
+ },
+ "265414: Ethereal Armor": {
+  "rating": 3.977
+ },
+ "265415: Sundering Growth": {
+  "rating": 3.921
+ },
+ "265416: Swift Justice": {
+  "rating": 3.405
+ },
+ "265417: Doorkeeper": {
+  "rating": 2.878
+ },
+ "265418: Azor's Elocutors": {
+  "rating": 3.591
+ },
+ "270346: Vitu-Ghazi Guildmage": {
+  "rating": 3.757
+ },
+ "270349: Daggerdrome Imp": {
+  "rating": 3.105
+ },
+ "270351: Rix Maadi Guildmage": {
+  "rating": 3.403
+ },
+ "270353: Tavern Swindler": {
+  "rating": 2.808
+ },
+ "270354: Dreadbore": {
+  "rating": 3.953
+ },
+ "270355: Tablet of the Guilds": {
+  "rating": 2.773
+ },
+ "270356: Detention Sphere": {
+  "rating": 4.072
+ },
+ "270357: Soulsworn Spirit": {
+  "rating": 2.606
+ },
+ "270359: Volatile Rig": {
+  "rating": 2.974
+ },
+ "270361: Aquus Steed": {
+  "rating": 1.392
+ },
+ "270362: Oak Street Innkeeper": {
+  "rating": 3.054
+ },
+ "270364: Korozda Guildmage": {
+  "rating": 3.625
+ },
+ "270366: Nivix Guildmage": {
+  "rating": 3.632
+ },
+ "270367: New Prahv Guildmage": {
+  "rating": 3.43
+ },
+ "270368: Dark Revenant": {
+  "rating": 1.812
+ },
+ "270369: Syncopate": {
+  "rating": 3.883
+ },
+ "270370: Urban Burgeoning": {
+  "rating": 2.868
+ },
+ "270371: Ogre Jailbreaker": {
+  "rating": 2.266
+ },
+ "270372: Utvara Hellkite": {
+  "rating": 3.933
+ },
+ "270373: Slum Reaper": {
+  "rating": 2.837
+ },
+ "270374: Phantom General": {
+  "rating": 3.022
+ },
+ "270375: Treasured Find": {
+  "rating": 3.793
+ },
+ "270781: Launch Party": {
+  "rating": 2.016
+ },
+ "270784: Wild Beastmaster": {
+  "rating": 3.551
+ },
+ "270785: Bloodfray Giant": {
+  "rating": 3.527
+ },
+ "270786: Chronic Flooding": {
+  "rating": 2.661
+ },
+ "270788: Goblin Rally": {
+  "rating": 2.953
+ },
+ "270790: Security Blockade": {
+  "rating": 2.721
+ },
+ "270791: Stab Wound": {
+  "rating": 3.764
+ },
+ "270792: Precinct Captain": {
+  "rating": 3.8
+ },
+ "270793: Death's Presence": {
+  "rating": 3.243
+ },
+ "270794: Psychic Spiral": {
+  "rating": 3.597
+ },
+ "270795: Azorius Justiciar": {
+  "rating": 2.939
+ },
+ "270796: Gore-House Chainwalker": {
+  "rating": 3.27
+ },
+ "270797: Korozda Monitor": {
+  "rating": 2.56
+ },
+ "270798: Cyclonic Rift": {
+  "rating": 4.039
+ },
+ "270800: Minotaur Aggressor": {
+  "rating": 2.395
+ },
+ "270801: Annihilating Fire": {
+  "rating": 2.506
+ },
+ "270804: Survey the Wreckage": {
+  "rating": 1.398
+ },
+ "270953: Rakdos Guildgate": {
+  "rating": 3.125
+ },
+ "270954: Chaos Imps": {
+  "rating": 3.566
+ },
+ "270955: Paralyzing Grasp": {
+  "rating": 2.523
+ },
+ "270957: Growing Ranks": {
+  "rating": 3.818
+ },
+ "270958: Isperia's Skywatch": {
+  "rating": 1.904
+ },
+ "270959: Desecration Demon": {
+  "rating": 4.025
+ },
+ "270960: Grave Betrayal": {
+  "rating": 3.846
+ },
+ "270961: Izzet Guildgate": {
+  "rating": 3.222
+ },
+ "270962: Azorius Charm": {
+  "rating": 4.012
+ },
+ "270963: Carnival Hellsteed": {
+  "rating": 3.422
+ },
+ "270964: Golgari Guildgate": {
+  "rating": 3.414
+ },
+ "270966: Azorius Guildgate": {
+  "rating": 3
+ },
+ "270967: Street Sweeper": {
+  "rating": 1.828
+ },
+ "270968: Grove of the Guardian": {
+  "rating": 3.909
+ },
+ "270969: Sphere of Safety": {
+  "rating": 3.423
+ },
+ "270970: Deadbridge Goliath": {
+  "rating": 4.059
+ },
+ "270972: Azorius Arrester": {
+  "rating": 3.135
+ },
+ "271099: Selesnya Guildgate": {
+  "rating": 3.088
+ },
+ "271100: Keening Apparition": {
+  "rating": 3.685
+ },
+ "277990: Cremate": {
+  "rating": 3.782
+ },
+ "277991: Crosstown Courier": {
+  "rating": 2.551
+ },
+ "277992: Rogue's Passage": {
+  "rating": 3.853
+ },
+ "277995: Rest in Peace": {
+  "rating": 4.118
+ },
+ "277996: Grisly Salvage": {
+  "rating": 3.835
+ },
+ "289211: Hellhole Flailer": {
+  "rating": 3.8
+ },
+ "289212: Skyline Predator": {
+  "rating": 2.049
+ },
+ "289213: Giant Growth": {
+  "rating": 4.197
+ },
+ "289214: Bellows Lizard": {
+  "rating": 2.081
+ },
+ "289215: Druid's Deliverance": {
+  "rating": 3.716
+ },
+ "289216: Assassin's Strike": {
+  "rating": 1.622
+ },
+ "289217: Gatecreeper Vine": {
+  "rating": 3.25
+ },
+ "289218: Lobber Crew": {
+  "rating": 3.08
+ },
+ "289219: Rites of Reaping": {
+  "rating": 1.433
+ },
+ "289220: Trestle Troll": {
+  "rating": 3.067
+ },
+ "289221: Judge's Familiar": {
+  "rating": 4.346
+ },
+ "289222: Blistercoil Weird": {
+  "rating": 3.447
+ },
+ "289223: Terrus Wurm": {
+  "rating": 1.703
+ },
+ "289224: Seek the Horizon": {
+  "rating": 3.011
+ },
+ "289225: Trostani's Judgment": {
+  "rating": 2.545
+ },
+ "289226: Dryad Militant": {
+  "rating": 4.361
+ },
+ "289227: Aerial Predation": {
+  "rating": 2.086
+ },
+ "289228: Traitorous Instinct": {
+  "rating": 3.051
+ },
+ "289229: Zanikev Locust": {
+  "rating": 1.767
+ },
+ "289230: Frostburn Weird": {
+  "rating": 3.555
+ },
+ "289309: Plains": {
+  "rating": 4.077
+ },
+ "289310: Plains": {
+  "rating": 3.857
+ },
+ "289311: Plains": {
+  "rating": 3.34
+ },
+ "289312: Plains": {
+  "rating": 3.882
+ },
+ "289313: Island": {
+  "rating": 4.214
+ },
+ "289314: Island": {
+  "rating": 4.5
+ },
+ "289315: Island": {
+  "rating": 3.759
+ },
+ "289316: Island": {
+  "rating": 4.278
+ },
+ "289317: Swamp": {
+  "rating": 3.971
+ },
+ "289318: Swamp": {
+  "rating": 3.821
+ },
+ "289319: Swamp": {
+  "rating": 3.688
+ },
+ "289320: Swamp": {
+  "rating": 3.5
+ },
+ "289321: Mountain": {
+  "rating": 3.941
+ },
+ "289322: Mountain": {
+  "rating": 4.237
+ },
+ "289323: Mountain": {
+  "rating": 4.1
+ },
+ "289324: Mountain": {
+  "rating": 4.02
+ },
+ "289325: Forest": {
+  "rating": 3.921
+ },
+ "289326: Forest": {
+  "rating": 3.479
+ },
+ "289327: Forest": {
+  "rating": 4.227
+ },
+ "289328: Forest": {
+  "rating": 4.133
+ },
+ "290524: Chemister's Trick": {
+  "rating": 2.627
+ },
+ "290525: Rakdos Ragemutt": {
+  "rating": 2.815
+ },
+ "290526: Nivmagus Elemental": {
+  "rating": 3.907
+ },
+ "290527: Essence Backlash": {
+  "rating": 3
+ },
+ "290528: Collective Blessing": {
+  "rating": 3.643
+ },
+ "290529: Deathrite Shaman": {
+  "rating": 4.443
+ },
+ "290530: Risen Sanctuary": {
+  "rating": 3.208
+ },
+ "290531: Isperia, Supreme Judge": {
+  "rating": 3.883
+ },
+ "290532: Slaughter Games": {
+  "rating": 4.078
+ },
+ "290533: Slime Molding": {
+  "rating": 3.33
+ },
+ "290534: Jarad, Golgari Lich Lord": {
+  "rating": 3.943
+ },
+ "290535: Golgari Longlegs": {
+  "rating": 2.463
+ },
+ "290536: Fall of the Gavel": {
+  "rating": 1.618
+ },
+ "290537: Heroes' Reunion": {
+  "rating": 3.715
+ },
+ "290538: Vraska the Unseen": {
+  "rating": 3.849
+ },
+ "290541: Firemind's Foresight": {
+  "rating": 2.492
+ },
+ "290542: Chromatic Lantern": {
+  "rating": 4.236
+ },
+ "290543: Loxodon Smiter": {
+  "rating": 4.071
+ },
+ "322459: Faerie Impostor": {
+  "rating": 3.301
+ },
+ "333718: Forest": {
+  "rating": 4.206
+ },
+ "333719: Island": {
+  "rating": 4.206
+ },
+ "333720: Mountain": {
+  "rating": 3.781
+ },
+ "333721: Plains": {
+  "rating": 4.219
+ },
+ "333722: Swamp": {
+  "rating": 4.1
+ }
+}

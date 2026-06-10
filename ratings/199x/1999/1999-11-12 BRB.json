@@ -1,0 +1,410 @@
+{
+ "11177: Blinking Spirit": {
+  "rating": 4
+ },
+ "11380: Lhurgoyf": {
+  "rating": 4.316
+ },
+ "15391: Nekrataal": {
+  "rating": 4.397
+ },
+ "21097: Maniacal Rage": {
+  "rating": 2.879
+ },
+ "21098: Village Elder": {
+  "rating": 2.324
+ },
+ "21099: Broken Fall": {
+  "rating": 3.372
+ },
+ "21100: Tranquility": {
+  "rating": 3.191
+ },
+ "21101: Symbiosis": {
+  "rating": 3.446
+ },
+ "21102: Arc Lightning": {
+  "rating": 3.816
+ },
+ "21104: Shower of Sparks": {
+  "rating": 3.429
+ },
+ "21105: Scryb Sprites": {
+  "rating": 4.042
+ },
+ "21106: Skyshroud Elite": {
+  "rating": 4.25
+ },
+ "21107: Llanowar Elves": {
+  "rating": 4.472
+ },
+ "21108: Seeker of Skybreak": {
+  "rating": 4.278
+ },
+ "21109: River Boa": {
+  "rating": 4.341
+ },
+ "21110: Pincher Beetles": {
+  "rating": 3.274
+ },
+ "21112: Uthden Troll": {
+  "rating": 3.846
+ },
+ "21113: Spike Feeder": {
+  "rating": 3.706
+ },
+ "21114: Trumpeting Armodon": {
+  "rating": 2.86
+ },
+ "21115: Wildfire Emissary": {
+  "rating": 4.011
+ },
+ "21116: Plated Rootwalla": {
+  "rating": 2.203
+ },
+ "21117: Mogg Hollows": {
+  "rating": 2.419
+ },
+ "21118: Mountain": {
+  "rating": 4.375
+ },
+ "21119: Forest": {
+  "rating": 4.521
+ },
+ "21120: Armored Pegasus": {
+  "rating": 2.823
+ },
+ "21121: Air Elemental": {
+  "rating": 3.424
+ },
+ "21122: Azure Drake": {
+  "rating": 3
+ },
+ "21123: Disruptive Student": {
+  "rating": 4.117
+ },
+ "21124: Wind Drake": {
+  "rating": 3.221
+ },
+ "21125: Manta Riders": {
+  "rating": 2.576
+ },
+ "21126: Mana Leak": {
+  "rating": 4.549
+ },
+ "21127: Counterspell": {
+  "rating": 4.575
+ },
+ "21128: Opportunity": {
+  "rating": 3.727
+ },
+ "21129: Prodigal Sorcerer": {
+  "rating": 3.638
+ },
+ "21130: Healing Salve": {
+  "rating": 2.632
+ },
+ "21131: Infantry Veteran": {
+  "rating": 2.667
+ },
+ "21132: Soul Warden": {
+  "rating": 4.245
+ },
+ "21133: Disenchant": {
+  "rating": 4.5
+ },
+ "21134: Songstitcher": {
+  "rating": 3.278
+ },
+ "21135: Windfall": {
+  "rating": 4.597
+ },
+ "21137: Curfew": {
+  "rating": 4.25
+ },
+ "21138: Man-o'-War": {
+  "rating": 4.341
+ },
+ "21139: Flood": {
+  "rating": 3.857
+ },
+ "21141: Control Magic": {
+  "rating": 4.463
+ },
+ "21142: Ray of Command": {
+  "rating": 3.96
+ },
+ "21143: Catastrophe": {
+  "rating": 4.222
+ },
+ "21144: Island": {
+  "rating": 4.655
+ },
+ "21145: Plains": {
+  "rating": 4.841
+ },
+ "21146: Thalakos Lowlands": {
+  "rating": 2.712
+ },
+ "21147: Wall of Heat": {
+  "rating": 3.227
+ },
+ "21148: Subversion": {
+  "rating": 4.045
+ },
+ "21149: Pestilence": {
+  "rating": 4.378
+ },
+ "21150: Sadistic Glee": {
+  "rating": 4.041
+ },
+ "21151: Terror": {
+  "rating": 3.908
+ },
+ "21152: Syphon Soul": {
+  "rating": 3.534
+ },
+ "21153: Exhume": {
+  "rating": 4.581
+ },
+ "21154: Dark Ritual": {
+  "rating": 4.89
+ },
+ "21155: Living Death": {
+  "rating": 4.516
+ },
+ "21156: Unnerve": {
+  "rating": 3.55
+ },
+ "21157: Weakness": {
+  "rating": 3.028
+ },
+ "21158: Rolling Thunder": {
+  "rating": 4.304
+ },
+ "21159: Heat Ray": {
+  "rating": 3.278
+ },
+ "21160: Reanimate": {
+  "rating": 4.545
+ },
+ "21161: Sewer Rats": {
+  "rating": 2.556
+ },
+ "21162: Raging Goblin": {
+  "rating": 3.324
+ },
+ "21163: Fire Ants": {
+  "rating": 4.29
+ },
+ "21164: Phyrexian Ghoul": {
+  "rating": 4.091
+ },
+ "21165: Crazed Skirge": {
+  "rating": 2.688
+ },
+ "21166: Lightning Elemental": {
+  "rating": 2.827
+ },
+ "21167: Abyssal Specter": {
+  "rating": 3.386
+ },
+ "21168: Cackling Fiend": {
+  "rating": 2.538
+ },
+ "21169: Sengir Vampire": {
+  "rating": 4.014
+ },
+ "21170: Cinder Marsh": {
+  "rating": 2.732
+ },
+ "21171: Swamp": {
+  "rating": 4.762
+ },
+ "21172: Swords to Plowshares": {
+  "rating": 4.865
+ },
+ "21174: Scaled Wurm": {
+  "rating": 2.516
+ },
+ "21175: Fertile Ground": {
+  "rating": 3.6
+ },
+ "21176: Master Decoy": {
+  "rating": 3.724
+ },
+ "21177: Angelic Page": {
+  "rating": 3
+ },
+ "21178: Vec Townships": {
+  "rating": 2.732
+ },
+ "21179: Spike Weaver": {
+  "rating": 4.298
+ },
+ "21180: Wrath of God": {
+  "rating": 4.286
+ },
+ "21181: Spike Colony": {
+  "rating": 2.984
+ },
+ "21182: Argothian Elder": {
+  "rating": 3.872
+ },
+ "21183: Seasoned Marshal": {
+  "rating": 3.135
+ },
+ "21184: Sanctum Custodian": {
+  "rating": 3.138
+ },
+ "21185: Sanctum Guardian": {
+  "rating": 3.288
+ },
+ "21186: Advance Scout": {
+  "rating": 3.645
+ },
+ "21187: Soltari Foot Soldier": {
+  "rating": 4.043
+ },
+ "21188: Elvish Lyrist": {
+  "rating": 3.417
+ },
+ "21190: Sun Clasp": {
+  "rating": 2.87
+ },
+ "21191: Pacifism": {
+  "rating": 4.078
+ },
+ "21192: Fecundity": {
+  "rating": 4.216
+ },
+ "21193: Sandstorm": {
+  "rating": 3.352
+ },
+ "21194: Giant Growth": {
+  "rating": 4.347
+ },
+ "21195: Hurricane": {
+  "rating": 3.883
+ },
+ "21196: Dirtcowl Wurm": {
+  "rating": 3.943
+ },
+ "21197: Land Tax": {
+  "rating": 4.63
+ },
+ "21198: Spike Worker": {
+  "rating": 3.283
+ },
+ "21199: Slippery Karst": {
+  "rating": 3.259
+ },
+ "21200: Remote Isle": {
+  "rating": 3.6
+ },
+ "21202: Polluted Mire": {
+  "rating": 3.574
+ },
+ "21203: Drifting Meadow": {
+  "rating": 3.694
+ },
+ "21204: Steam Blast": {
+  "rating": 3.317
+ },
+ "21205: Gorilla Warrior": {
+  "rating": 2.7
+ },
+ "22334: Mountain": {
+  "rating": 4.781
+ },
+ "22335: Mountain": {
+  "rating": 4.269
+ },
+ "22336: Mountain": {
+  "rating": 3.808
+ },
+ "22339: Mountain": {
+  "rating": 4.5
+ },
+ "22340: Mountain": {
+  "rating": 4.519
+ },
+ "22342: Mountain": {
+  "rating": 4.333
+ },
+ "22343: Mountain": {
+  "rating": 4.72
+ },
+ "22344: Mountain": {
+  "rating": 4.679
+ },
+ "22347: Forest": {
+  "rating": 4.543
+ },
+ "22348: Forest": {
+  "rating": 4.286
+ },
+ "22349: Forest": {
+  "rating": 4.518
+ },
+ "22351: Forest": {
+  "rating": 4.458
+ },
+ "22352: Forest": {
+  "rating": 4.667
+ },
+ "22353: Forest": {
+  "rating": 4.679
+ },
+ "22354: Forest": {
+  "rating": 4.3
+ },
+ "22355: Forest": {
+  "rating": 4.5
+ },
+ "22356: Plains": {
+  "rating": 4.81
+ },
+ "22357: Plains": {
+  "rating": 4.525
+ },
+ "22358: Plains": {
+  "rating": 4.306
+ },
+ "22359: Plains": {
+  "rating": 4.676
+ },
+ "22360: Plains": {
+  "rating": 4.479
+ },
+ "22361: Plains": {
+  "rating": 4.574
+ },
+ "22362: Plains": {
+  "rating": 4.804
+ },
+ "22363: Plains": {
+  "rating": 4.588
+ },
+ "22364: Island": {
+  "rating": 4.793
+ },
+ "22365: Island": {
+  "rating": 4.375
+ },
+ "22366: Island": {
+  "rating": 4.486
+ },
+ "22367: Island": {
+  "rating": 4.403
+ },
+ "22368: Swamp": {
+  "rating": 4.46
+ },
+ "22369: Swamp": {
+  "rating": 4.65
+ },
+ "22370: Swamp": {
+  "rating": 4.58
+ }
+}

@@ -1,0 +1,431 @@
+{
+ "5589: Telekinetic Bonds": {
+  "rating": 1.885
+ },
+ "12692: Elephant Guide": {
+  "rating": 4.205
+ },
+ "20431: Quiet Speculation": {
+  "rating": 3.759
+ },
+ "20842: Balthor the Defiled": {
+  "rating": 3.974
+ },
+ "21275: Aven Fogbringer": {
+  "rating": 2.764
+ },
+ "24541: Unquestioned Authority": {
+  "rating": 4.179
+ },
+ "25805: Spellgorger Barbarian": {
+  "rating": 1.388
+ },
+ "25974: Wormfang Drake": {
+  "rating": 4.07
+ },
+ "26370: Tunneler Wurm": {
+  "rating": 2.162
+ },
+ "26728: Cephalid Constable": {
+  "rating": 3.821
+ },
+ "27145: Laquatus's Disdain": {
+  "rating": 1.912
+ },
+ "29762: Swirling Sandstorm": {
+  "rating": 2.88
+ },
+ "29766: Lava Dart": {
+  "rating": 3.295
+ },
+ "29831: Flash of Insight": {
+  "rating": 3.424
+ },
+ "29856: Breaking Point": {
+  "rating": 4.193
+ },
+ "29862: Ember Shot": {
+  "rating": 0.889
+ },
+ "29885: Exoskeletal Armor": {
+  "rating": 3.806
+ },
+ "29890: Guiltfeeder": {
+  "rating": 4.186
+ },
+ "29924: Test of Endurance": {
+  "rating": 4.061
+ },
+ "29928: Scalpelexis": {
+  "rating": 4.128
+ },
+ "29944: Sutured Ghoul": {
+  "rating": 4.183
+ },
+ "30657: Krosan Verge": {
+  "rating": 4.207
+ },
+ "32209: Stitch Together": {
+  "rating": 4.189
+ },
+ "33697: Epic Struggle": {
+  "rating": 3.525
+ },
+ "33717: Anger": {
+  "rating": 4.267
+ },
+ "33719: Valor": {
+  "rating": 3.972
+ },
+ "33720: Wonder": {
+  "rating": 4.265
+ },
+ "33721: Brawn": {
+  "rating": 4.169
+ },
+ "33722: Filth": {
+  "rating": 3.285
+ },
+ "34199: Ray of Revelation": {
+  "rating": 4.218
+ },
+ "34201: Border Patrol": {
+  "rating": 2.156
+ },
+ "34205: Seedtime": {
+  "rating": 4.014
+ },
+ "34207: Suntail Hawk": {
+  "rating": 3.649
+ },
+ "34208: Lightning Surge": {
+  "rating": 3.314
+ },
+ "34209: Grizzly Fate": {
+  "rating": 4.234
+ },
+ "34214: Flaring Pain": {
+  "rating": 2.864
+ },
+ "34233: Prismatic Strands": {
+  "rating": 3.886
+ },
+ "34241: Nomad Mythmaker": {
+  "rating": 4.04
+ },
+ "34242: Spurnmage Advocate": {
+  "rating": 3.033
+ },
+ "34243: Ancestor's Chosen": {
+  "rating": 3.242
+ },
+ "34244: Forcemage Advocate": {
+  "rating": 2.562
+ },
+ "34245: Nullmage Advocate": {
+  "rating": 2.438
+ },
+ "34398: Riftstone Portal": {
+  "rating": 4.136
+ },
+ "34399: Golden Wish": {
+  "rating": 3.679
+ },
+ "34400: Cunning Wish": {
+  "rating": 4.529
+ },
+ "34401: Nantuko Monastery": {
+  "rating": 4.203
+ },
+ "34402: Death Wish": {
+  "rating": 4.392
+ },
+ "34403: Burning Wish": {
+  "rating": 4.595
+ },
+ "34405: Living Wish": {
+  "rating": 4.385
+ },
+ "34464: Battlewise Aven": {
+  "rating": 2.71
+ },
+ "34480: Masked Gorgon": {
+  "rating": 2.186
+ },
+ "34758: Ironshell Beetle": {
+  "rating": 3
+ },
+ "34768: Lead Astray": {
+  "rating": 2.4
+ },
+ "34769: Solitary Confinement": {
+  "rating": 4.149
+ },
+ "34775: Lost in Thought": {
+  "rating": 3.056
+ },
+ "34777: Mist of Stagnation": {
+  "rating": 3.861
+ },
+ "34784: Cephalid Inkshrouder": {
+  "rating": 3.175
+ },
+ "34788: Treacherous Vampire": {
+  "rating": 2.348
+ },
+ "34789: Cabal Therapy": {
+  "rating": 4.413
+ },
+ "34795: Shaman's Trance": {
+  "rating": 2.5
+ },
+ "34808: Grip of Amnesia": {
+  "rating": 3.192
+ },
+ "34809: Wormfang Newt": {
+  "rating": 1.656
+ },
+ "34811: Wormfang Behemoth": {
+  "rating": 1.663
+ },
+ "34818: Barbarian Bully": {
+  "rating": 2.629
+ },
+ "34822: Glory": {
+  "rating": 4.234
+ },
+ "34823: Web of Inertia": {
+  "rating": 3.456
+ },
+ "34833: Genesis": {
+  "rating": 4.201
+ },
+ "34865: Aven Warcraft": {
+  "rating": 2.62
+ },
+ "34889: Funeral Pyre": {
+  "rating": 2.22
+ },
+ "34890: Phantom Nomad": {
+  "rating": 3.513
+ },
+ "34891: Selfless Exorcist": {
+  "rating": 1.378
+ },
+ "34897: Spirit Cairn": {
+  "rating": 3.227
+ },
+ "34917: Goretusk Firebeast": {
+  "rating": 1.828
+ },
+ "34927: Wormfang Crab": {
+  "rating": 3.125
+ },
+ "34929: Firecat Blitz": {
+  "rating": 3.849
+ },
+ "34930: Fledgling Dragon": {
+  "rating": 4.057
+ },
+ "34932: Phantom Flock": {
+  "rating": 2.981
+ },
+ "34934: Phantom Tiger": {
+  "rating": 3.212
+ },
+ "34939: Wormfang Manta": {
+  "rating": 2.773
+ },
+ "34942: Soulgorger Orgg": {
+  "rating": 2.25
+ },
+ "34948: Phantom Nantuko": {
+  "rating": 3.733
+ },
+ "34950: Dwarven Driller": {
+  "rating": 3.829
+ },
+ "34954: Wormfang Turtle": {
+  "rating": 3.339
+ },
+ "34958: Chastise": {
+  "rating": 3.821
+ },
+ "35056: Worldgorger Dragon": {
+  "rating": 4.306
+ },
+ "35057: Mirari's Wake": {
+  "rating": 4.22
+ },
+ "35059: Anurid Brushhopper": {
+  "rating": 4.122
+ },
+ "35062: Sylvan Safekeeper": {
+  "rating": 3.627
+ },
+ "35067: Shieldmage Advocate": {
+  "rating": 2.65
+ },
+ "35068: Trained Pronghorn": {
+  "rating": 2
+ },
+ "35069: Krosan Wayfarer": {
+  "rating": 3.047
+ },
+ "35071: Folk Medicine": {
+  "rating": 2.759
+ },
+ "35073: Phantom Centaur": {
+  "rating": 4.226
+ },
+ "35074: Dwarven Bloodboiler": {
+  "rating": 3.325
+ },
+ "35076: Defy Gravity": {
+  "rating": 2.34
+ },
+ "35079: Battle Screech": {
+  "rating": 3.721
+ },
+ "35080: Earsplitting Rats": {
+  "rating": 1.776
+ },
+ "35083: Liberated Dwarf": {
+  "rating": 2.155
+ },
+ "35087: Infectious Rage": {
+  "rating": 2.857
+ },
+ "35088: Planar Chaos": {
+  "rating": 2.852
+ },
+ "35095: Soulcatchers' Aerie": {
+  "rating": 4.187
+ },
+ "35114: Sudden Strength": {
+  "rating": 1.597
+ },
+ "35161: Grave Consequences": {
+  "rating": 2.946
+ },
+ "35167: Hunting Grounds": {
+  "rating": 4.182
+ },
+ "35168: Keep Watch": {
+  "rating": 3.75
+ },
+ "35169: Spelljack": {
+  "rating": 3.745
+ },
+ "35170: Crush of Wurms": {
+  "rating": 4.188
+ },
+ "35171: Morality Shift": {
+  "rating": 3.814
+ },
+ "35553: Erhnam Djinn": {
+  "rating": 3.792
+ },
+ "35575: Pulsemage Advocate": {
+  "rating": 3.073
+ },
+ "35891: Book Burning": {
+  "rating": 3.088
+ },
+ "35893: Commander Eesha": {
+  "rating": 4.122
+ },
+ "36035: Vigilant Sentry": {
+  "rating": 2.841
+ },
+ "36036: Silver Seraph": {
+  "rating": 3.806
+ },
+ "36037: Treacherous Werewolf": {
+  "rating": 2.328
+ },
+ "36038: Browbeat": {
+  "rating": 3.455
+ },
+ "36039: Anurid Barkripper": {
+  "rating": 2.87
+ },
+ "36040: Battlefield Scrounger": {
+  "rating": 3.355
+ },
+ "36112: Giant Warthog": {
+  "rating": 3.203
+ },
+ "36113: Krosan Reclamation": {
+  "rating": 3.052
+ },
+ "36114: Mental Note": {
+  "rating": 3.295
+ },
+ "36115: Hapless Researcher": {
+  "rating": 2.818
+ },
+ "36116: Dwarven Scorcher": {
+  "rating": 2.828
+ },
+ "36117: Cabal Trainee": {
+  "rating": 3.417
+ },
+ "36118: Benevolent Bodyguard": {
+  "rating": 3.208
+ },
+ "36119: Swelter": {
+  "rating": 2.293
+ },
+ "36409: Venomous Vines": {
+  "rating": 1.929
+ },
+ "36410: Canopy Claws": {
+  "rating": 2.367
+ },
+ "36411: Harvester Druid": {
+  "rating": 2.984
+ },
+ "36412: Rats' Feast": {
+  "rating": 2.057
+ },
+ "36413: Mirror Wall": {
+  "rating": 2.481
+ },
+ "36414: Envelop": {
+  "rating": 3.068
+ },
+ "36416: Toxic Stench": {
+  "rating": 2.707
+ },
+ "36429: Cagemail": {
+  "rating": 2.87
+ },
+ "36430: Arcane Teachings": {
+  "rating": 3.176
+ },
+ "36431: Guided Strike": {
+  "rating": 3.589
+ },
+ "36451: Jeska, Warrior Adept": {
+  "rating": 4.026
+ },
+ "36453: Anurid Swarmsnapper": {
+  "rating": 3.273
+ },
+ "36454: Serene Sunset": {
+  "rating": 3.033
+ },
+ "36525: Thriss, Nantuko Primus": {
+  "rating": 3.844
+ },
+ "36526: Nantuko Tracer": {
+  "rating": 2.812
+ },
+ "37113: Phantom Nishoba": {
+  "rating": 4.211
+ },
+ "37120: Centaur Rootcaster": {
+  "rating": 3.37
+ }
+}

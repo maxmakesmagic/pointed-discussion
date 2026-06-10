@@ -1,0 +1,854 @@
+{
+ "220010: Harvest Pyre": {
+  "rating": 2.856
+ },
+ "220019: Ghoulraiser": {
+  "rating": 3.16
+ },
+ "220021: Ghoulcaller's Chant": {
+  "rating": 3.814
+ },
+ "220022: Feral Ridgewolf": {
+  "rating": 2.947
+ },
+ "220023: Victim of Night": {
+  "rating": 3.863
+ },
+ "220026: Travel Preparations": {
+  "rating": 3.5
+ },
+ "220031: Frightful Delusion": {
+  "rating": 3.097
+ },
+ "220035: Into the Maw of Hell": {
+  "rating": 3.858
+ },
+ "220040: Kessig Wolf": {
+  "rating": 2.405
+ },
+ "220041: Invisible Stalker": {
+  "rating": 3.96
+ },
+ "220045: One-Eyed Scarecrow": {
+  "rating": 2.831
+ },
+ "220047: Silent Departure": {
+  "rating": 3.412
+ },
+ "220049: Butcher's Cleaver": {
+  "rating": 2.963
+ },
+ "220050: Boneyard Wurm": {
+  "rating": 3.691
+ },
+ "220052: Ghostly Possession": {
+  "rating": 3.405
+ },
+ "220062: Slayer of the Wicked": {
+  "rating": 3.052
+ },
+ "220370: Angelic Overseer": {
+  "rating": 3.846
+ },
+ "220371: Ghost Quarter": {
+  "rating": 4.208
+ },
+ "220372: Spectral Rider": {
+  "rating": 3.833
+ },
+ "220373: Bloodcrazed Neonate": {
+  "rating": 3.267
+ },
+ "220377: Smite the Monstrous": {
+  "rating": 2.399
+ },
+ "220378: Creepy Doll": {
+  "rating": 3.117
+ },
+ "220380: Avacynian Priest": {
+  "rating": 2.774
+ },
+ "220383: Prey Upon": {
+  "rating": 3.795
+ },
+ "220386: Nightbird's Clutches": {
+  "rating": 2.856
+ },
+ "220387: Skeletal Grimace": {
+  "rating": 3.3
+ },
+ "220389: Unruly Mob": {
+  "rating": 3.425
+ },
+ "220390: Cellar Door": {
+  "rating": 3.067
+ },
+ "220393: Dead Weight": {
+  "rating": 3.787
+ },
+ "220631: Stitcher's Apprentice": {
+  "rating": 3.216
+ },
+ "220634: Typhoid Rats": {
+  "rating": 3.882
+ },
+ "220638: Skirsdag Cultist": {
+  "rating": 2.755
+ },
+ "220642: Sharpened Pitchfork": {
+  "rating": 3.176
+ },
+ "220644: Ambush Viper": {
+  "rating": 3.963
+ },
+ "220648: Riot Devils": {
+  "rating": 2.158
+ },
+ "220649: Cobbled Wings": {
+  "rating": 3.023
+ },
+ "220652: Stitched Drake": {
+  "rating": 3.809
+ },
+ "220654: Woodland Sleuth": {
+  "rating": 2.531
+ },
+ "221171: Deranged Assistant": {
+  "rating": 3.774
+ },
+ "221173: Ludevic's Abomination": {
+  "rating": 3.822
+ },
+ "221179: Ludevic's Test Subject": {
+  "rating": 3.806
+ },
+ "221185: Homicidal Brute": {
+  "rating": 3.097
+ },
+ "221186: Trepanation Blade": {
+  "rating": 3.844
+ },
+ "221187: Moon Heron": {
+  "rating": 2.488
+ },
+ "221190: Thraben Militia": {
+  "rating": 3.46
+ },
+ "221193: Mask of Avacyn": {
+  "rating": 3.701
+ },
+ "221209: Civilized Scholar": {
+  "rating": 3.034
+ },
+ "221211: Screeching Bat": {
+  "rating": 3.333
+ },
+ "221212: Cloistered Youth": {
+  "rating": 3.444
+ },
+ "221214: Midnight Haunting": {
+  "rating": 3.831
+ },
+ "221215: Stalking Vampire": {
+  "rating": 3.402
+ },
+ "221216: Bonds of Faith": {
+  "rating": 3.755
+ },
+ "221219: Selfless Cathar": {
+  "rating": 2.917
+ },
+ "221222: Unholy Fiend": {
+  "rating": 3.689
+ },
+ "221284: Blazing Torch": {
+  "rating": 3.289
+ },
+ "221288: Graveyard Shovel": {
+  "rating": 1.898
+ },
+ "222007: Fiend Hunter": {
+  "rating": 3.832
+ },
+ "222014: Sensory Deprivation": {
+  "rating": 2.755
+ },
+ "222016: Thraben Sentry": {
+  "rating": 3.269
+ },
+ "222105: Ulvenwald Mystics": {
+  "rating": 3.111
+ },
+ "222107: Ironfang": {
+  "rating": 3.195
+ },
+ "222108: Ulvenwald Primordials": {
+  "rating": 3.532
+ },
+ "222111: Reckless Waif": {
+  "rating": 3.845
+ },
+ "222112: Village Ironsmith": {
+  "rating": 3
+ },
+ "222114: Nightfall Predator": {
+  "rating": 3.915
+ },
+ "222115: Merciless Predator": {
+  "rating": 3.815
+ },
+ "222117: Rampaging Werewolf": {
+  "rating": 2.866
+ },
+ "222118: Daybreak Ranger": {
+  "rating": 3.837
+ },
+ "222123: Krallenhorde Wantons": {
+  "rating": 2.792
+ },
+ "222124: Grizzled Outcasts": {
+  "rating": 2.585
+ },
+ "222175: Spider Spawning": {
+  "rating": 3.757
+ },
+ "222183: Howlpack Alpha": {
+  "rating": 4.213
+ },
+ "222186: Tormented Pariah": {
+  "rating": 2.581
+ },
+ "222189: Mayor of Avabruck": {
+  "rating": 4.209
+ },
+ "222190: Silver-Inlaid Dagger": {
+  "rating": 3.778
+ },
+ "222193: Make a Wish": {
+  "rating": 3.087
+ },
+ "222194: Dearly Departed": {
+  "rating": 3.627
+ },
+ "222196: Inquisitor's Flail": {
+  "rating": 3.858
+ },
+ "222203: Bump in the Night": {
+  "rating": 3.476
+ },
+ "222205: Bitterheart Witch": {
+  "rating": 3.333
+ },
+ "222206: Blasphemous Act": {
+  "rating": 3.863
+ },
+ "222903: Village Cannibals": {
+  "rating": 3.25
+ },
+ "222904: Pitchburn Devils": {
+  "rating": 2.902
+ },
+ "222906: Howlpack of Estwald": {
+  "rating": 3.56
+ },
+ "222910: Elder Cathar": {
+  "rating": 3.424
+ },
+ "222911: Abattoir Ghoul": {
+  "rating": 3.304
+ },
+ "222913: Skaab Goliath": {
+  "rating": 3.727
+ },
+ "222915: Villagers of Estwald": {
+  "rating": 3.24
+ },
+ "222916: Makeshift Mauler": {
+  "rating": 3.16
+ },
+ "222921: Rage Thrower": {
+  "rating": 3.323
+ },
+ "222923: Village Bell-Ringer": {
+  "rating": 3.722
+ },
+ "222933: Moonmist": {
+  "rating": 3.88
+ },
+ "226747: Diregraf Ghoul": {
+  "rating": 3.842
+ },
+ "226748: Vampire Interloper": {
+  "rating": 3.142
+ },
+ "226749: Delver of Secrets": {
+  "rating": 4.224
+ },
+ "226751: Falkenrath Noble": {
+  "rating": 3.818
+ },
+ "226754: Markov Patrician": {
+  "rating": 3.096
+ },
+ "226755: Insectile Aberration": {
+  "rating": 4.234
+ },
+ "226758: Forbidden Alchemy": {
+  "rating": 4.108
+ },
+ "226876: Stromkirk Patrol": {
+  "rating": 2.367
+ },
+ "226878: Nevermore": {
+  "rating": 3.796
+ },
+ "226879: Night Revelers": {
+  "rating": 2.106
+ },
+ "226880: Wooden Stake": {
+  "rating": 2.793
+ },
+ "226881: Curse of the Nightly Hunt": {
+  "rating": 3.106
+ },
+ "226882: Moment of Heroism": {
+  "rating": 2.736
+ },
+ "226883: Hollowhenge Scavenger": {
+  "rating": 3.116
+ },
+ "226884: Purify the Grave": {
+  "rating": 3.375
+ },
+ "226885: Bloodgift Demon": {
+  "rating": 4.007
+ },
+ "226889: Curse of Stalked Prey": {
+  "rating": 3.823
+ },
+ "226890: Altar's Reap": {
+  "rating": 3.77
+ },
+ "227061: Bloodline Keeper": {
+  "rating": 3.943
+ },
+ "227064: Tribute to Hunger": {
+  "rating": 3.812
+ },
+ "227066: Urgent Exorcism": {
+  "rating": 2.78
+ },
+ "227071: Curse of the Pierced Heart": {
+  "rating": 3.444
+ },
+ "227072: Lord of Lineage": {
+  "rating": 3.912
+ },
+ "227075: Curse of Death's Hold": {
+  "rating": 3.827
+ },
+ "227077: Scourge of Geier Reach": {
+  "rating": 3.511
+ },
+ "227083: Manor Gargoyle": {
+  "rating": 3.761
+ },
+ "227084: Kruin Outlaw": {
+  "rating": 3.89
+ },
+ "227087: Unburial Rites": {
+  "rating": 3.974
+ },
+ "227088: Kindercatch": {
+  "rating": 2.674
+ },
+ "227090: Terror of Kruin Pass": {
+  "rating": 3.945
+ },
+ "227095: Bramblecrush": {
+  "rating": 3.757
+ },
+ "227286: Moan of the Unhallowed": {
+  "rating": 3.762
+ },
+ "227287: Rooftop Storm": {
+  "rating": 3.877
+ },
+ "227290: Gatstaf Howler": {
+  "rating": 3.652
+ },
+ "227291: Demonmail Hauberk": {
+  "rating": 3.198
+ },
+ "227297: Mirror-Mad Phantasm": {
+  "rating": 3.773
+ },
+ "227298: Runic Repetition": {
+  "rating": 3.621
+ },
+ "227301: Splinterfright": {
+  "rating": 3.892
+ },
+ "227409: Gatstaf Shepherd": {
+  "rating": 3.545
+ },
+ "227415: Instigator Gang": {
+  "rating": 3.844
+ },
+ "227419: Wildblood Pack": {
+  "rating": 3.882
+ },
+ "227668: Charmbreaker Devils": {
+  "rating": 3.85
+ },
+ "227676: Snapcaster Mage": {
+  "rating": 4.361
+ },
+ "229960: Mindshrieker": {
+  "rating": 3.956
+ },
+ "229964: Grave Bramble": {
+  "rating": 3.362
+ },
+ "229965: Evil Twin": {
+  "rating": 3.879
+ },
+ "229968: Army of the Damned": {
+  "rating": 3.834
+ },
+ "230616: Murder of Crows": {
+  "rating": 3.799
+ },
+ "230618: Spare from Evil": {
+  "rating": 3.702
+ },
+ "230620: Angel of Flight Alabaster": {
+  "rating": 3.799
+ },
+ "230622: Chapel Geist": {
+  "rating": 3.016
+ },
+ "230624: Lumberknot": {
+  "rating": 3.679
+ },
+ "230625: Thraben Purebloods": {
+  "rating": 1.971
+ },
+ "230626: Think Twice": {
+  "rating": 3.677
+ },
+ "230627: Curse of the Bloody Tome": {
+  "rating": 3.313
+ },
+ "230767: Curiosity": {
+  "rating": 4.083
+ },
+ "230768: Reaper from the Abyss": {
+  "rating": 3.891
+ },
+ "230772: Galvanic Juggernaut": {
+  "rating": 3.009
+ },
+ "230774: Balefire Dragon": {
+  "rating": 3.884
+ },
+ "230775: Spectral Flight": {
+  "rating": 3.7
+ },
+ "230777: Morkrut Banshee": {
+  "rating": 3.484
+ },
+ "230779: Crossway Vampire": {
+  "rating": 3.322
+ },
+ "230780: Skaab Ruinator": {
+  "rating": 3.88
+ },
+ "230783: Stromkirk Noble": {
+  "rating": 3.845
+ },
+ "230786: Unbreathing Horde": {
+  "rating": 3.881
+ },
+ "230787: Geist-Honored Monk": {
+  "rating": 3.841
+ },
+ "230788: Laboratory Maniac": {
+  "rating": 4.477
+ },
+ "230789: Nephalia Drownyard": {
+  "rating": 3.649
+ },
+ "230792: Grimoire of the Dead": {
+  "rating": 3.86
+ },
+ "230794: Skirsdag High Priest": {
+  "rating": 3.848
+ },
+ "233239: Moorland Haunt": {
+  "rating": 3.808
+ },
+ "233240: Witchbane Orb": {
+  "rating": 4.218
+ },
+ "233242: Gavony Township": {
+  "rating": 3.896
+ },
+ "233244: Stensia Bloodhall": {
+  "rating": 2.931
+ },
+ "233248: Gallows Warden": {
+  "rating": 2.852
+ },
+ "233250: Festerhide Boar": {
+  "rating": 3.398
+ },
+ "233253: Brimstone Volley": {
+  "rating": 3.827
+ },
+ "233254: Selhoff Occultist": {
+  "rating": 2.875
+ },
+ "233255: Ashmouth Hound": {
+  "rating": 3.304
+ },
+ "233256: Kessig Wolf Run": {
+  "rating": 3.84
+ },
+ "234429: Fortress Crab": {
+  "rating": 2.842
+ },
+ "234430: Endless Ranks of the Dead": {
+  "rating": 3.897
+ },
+ "234431: Furor of the Bitten": {
+  "rating": 3.205
+ },
+ "234433: Hysterical Blindness": {
+  "rating": 2.558
+ },
+ "234438: Traitorous Blood": {
+  "rating": 3.829
+ },
+ "234441: Rakish Heir": {
+  "rating": 3.806
+ },
+ "234444: Caravan Vigil": {
+  "rating": 3.823
+ },
+ "234445: Geistcatcher's Rig": {
+  "rating": 2.646
+ },
+ "234446: Hamlet Captain": {
+  "rating": 3.816
+ },
+ "234848: Silverchase Fox": {
+  "rating": 3.26
+ },
+ "234849: Gutter Grime": {
+  "rating": 3.688
+ },
+ "234855: Orchard Spirit": {
+  "rating": 2.886
+ },
+ "235595: Abbey Griffin": {
+  "rating": 2.165
+ },
+ "235596: Brain Weevil": {
+  "rating": 2.149
+ },
+ "235597: Liliana of the Veil": {
+  "rating": 4.287
+ },
+ "235600: Ancient Grudge": {
+  "rating": 4.207
+ },
+ "235601: Claustrophobia": {
+  "rating": 3.558
+ },
+ "235603: Infernal Plunge": {
+  "rating": 3.424
+ },
+ "237011: Rotting Fensnake": {
+  "rating": 2.412
+ },
+ "237012: Mulch": {
+  "rating": 4.087
+ },
+ "237013: Somberwald Spider": {
+  "rating": 2.605
+ },
+ "237015: Naturalize": {
+  "rating": 4.25
+ },
+ "237017: Wreath of Geists": {
+  "rating": 3.491
+ },
+ "237020: Curse of Oblivion": {
+  "rating": 2.308
+ },
+ "237355: Battleground Geist": {
+  "rating": 2.877
+ },
+ "237356: Mausoleum Guard": {
+  "rating": 3.365
+ },
+ "237357: Traveler's Amulet": {
+  "rating": 3.245
+ },
+ "237359: Desperate Ravings": {
+  "rating": 4.007
+ },
+ "237360: Feeling of Dread": {
+  "rating": 3.703
+ },
+ "237361: Rally the Peasants": {
+  "rating": 3.588
+ },
+ "237362: Ghoulcaller's Bell": {
+  "rating": 2.552
+ },
+ "237364: Doomed Traveler": {
+  "rating": 4.006
+ },
+ "241979: Isolated Chapel": {
+  "rating": 3.904
+ },
+ "241980: Clifftop Retreat": {
+  "rating": 3.866
+ },
+ "241981: Full Moon's Rise": {
+  "rating": 3.84
+ },
+ "241982: Lost in the Mist": {
+  "rating": 3.234
+ },
+ "241983: Woodland Cemetery": {
+  "rating": 3.888
+ },
+ "241984: Lantern Spirit": {
+  "rating": 3.259
+ },
+ "241985: Dissipate": {
+  "rating": 4.104
+ },
+ "241986: Darkthicket Wolf": {
+  "rating": 3.135
+ },
+ "241987: Sulfur Falls": {
+  "rating": 3.859
+ },
+ "241988: Hinterland Harbor": {
+  "rating": 3.887
+ },
+ "243208: Grasp of Phantoms": {
+  "rating": 3.189
+ },
+ "243210: Walking Corpse": {
+  "rating": 3.139
+ },
+ "243211: Burning Vengeance": {
+  "rating": 3.623
+ },
+ "243212: Avacyn's Pilgrim": {
+  "rating": 3.857
+ },
+ "243213: Dream Twist": {
+  "rating": 3.562
+ },
+ "243215: Voiceless Spirit": {
+  "rating": 3.21
+ },
+ "243216: Shimmering Grotto": {
+  "rating": 3.032
+ },
+ "243217: Intangible Virtue": {
+  "rating": 3.877
+ },
+ "244678: Heartless Summoning": {
+  "rating": 3.97
+ },
+ "244679: Disciple of Griselbrand": {
+  "rating": 3.553
+ },
+ "244680: Corpse Lunge": {
+  "rating": 2.413
+ },
+ "244681: Runechanter's Pike": {
+  "rating": 4.113
+ },
+ "244682: Mentor of the Meek": {
+  "rating": 3.872
+ },
+ "244683: Hanweir Watchkeep": {
+  "rating": 3.431
+ },
+ "244684: Undead Alchemist": {
+  "rating": 3.845
+ },
+ "244685: Armored Skaab": {
+  "rating": 3.006
+ },
+ "244686: Spidery Grasp": {
+  "rating": 2.73
+ },
+ "244687: Bane of Hanweir": {
+  "rating": 3.614
+ },
+ "245194: Sever the Bloodline": {
+  "rating": 3.877
+ },
+ "245195: Cackling Counterpart": {
+  "rating": 3.802
+ },
+ "245196: Divine Reckoning": {
+  "rating": 3.867
+ },
+ "245197: Past in Flames": {
+  "rating": 4.183
+ },
+ "245198: Creeping Renaissance": {
+  "rating": 3.804
+ },
+ "245230: Plains": {
+  "rating": 4.533
+ },
+ "245231: Plains": {
+  "rating": 4.022
+ },
+ "245233: Plains": {
+  "rating": 4.525
+ },
+ "245235: Island": {
+  "rating": 3.771
+ },
+ "245236: Island": {
+  "rating": 4.379
+ },
+ "245237: Island": {
+  "rating": 4.4
+ },
+ "245239: Swamp": {
+  "rating": 4.276
+ },
+ "245240: Swamp": {
+  "rating": 4
+ },
+ "245241: Swamp": {
+  "rating": 4.375
+ },
+ "245242: Mountain": {
+  "rating": 4.226
+ },
+ "245243: Mountain": {
+  "rating": 3.942
+ },
+ "245245: Mountain": {
+  "rating": 4.075
+ },
+ "245246: Forest": {
+  "rating": 4.138
+ },
+ "245247: Forest": {
+  "rating": 3.744
+ },
+ "245248: Forest": {
+  "rating": 4.315
+ },
+ "245250: Garruk Relentless": {
+  "rating": 3.468
+ },
+ "245251: Garruk, the Veil-Cursed": {
+  "rating": 3.465
+ },
+ "246945: Gruesome Deformity": {
+  "rating": 2.355
+ },
+ "246947: Night Terrors": {
+  "rating": 2.954
+ },
+ "246949: Elite Inquisitor": {
+  "rating": 3.905
+ },
+ "246950: Sturmgeist": {
+  "rating": 3.493
+ },
+ "246952: Maw of the Mire": {
+  "rating": 2.123
+ },
+ "246954: Falkenrath Marauders": {
+  "rating": 3.856
+ },
+ "247234: Mikaeus, the Lunarch": {
+  "rating": 3.902
+ },
+ "247235: Olivia Voldaren": {
+  "rating": 3.939
+ },
+ "247236: Geist of Saint Traft": {
+  "rating": 4.342
+ },
+ "247237: Grimgrin, Corpse-Born": {
+  "rating": 3.895
+ },
+ "247418: Elder of Laurels": {
+  "rating": 3.509
+ },
+ "247419: Devil's Play": {
+  "rating": 3.843
+ },
+ "247420: Gnaw to the Bone": {
+  "rating": 3.581
+ },
+ "247421: Tree of Redemption": {
+  "rating": 3.816
+ },
+ "247423: Rebuke": {
+  "rating": 3.61
+ },
+ "247424: Vampiric Fury": {
+  "rating": 3.531
+ },
+ "247425: Stony Silence": {
+  "rating": 4.248
+ },
+ "247427: Geistflame": {
+  "rating": 3.412
+ },
+ "249660: Rolling Temblor": {
+  "rating": 3.274
+ },
+ "249662: Parallel Lives": {
+  "rating": 3.896
+ },
+ "249663: Back from the Brink": {
+  "rating": 3.813
+ },
+ "249664: Moldgraf Monstrosity": {
+  "rating": 3.888
+ },
+ "249868: Kessig Cagebreakers": {
+  "rating": 3.859
+ },
+ "249973: Ranger's Guile": {
+  "rating": 3.644
+ },
+ "249974: Heretic's Punishment": {
+  "rating": 2.955
+ },
+ "249975: Paraselene": {
+  "rating": 3.375
+ },
+ "249976: Manor Skeleton": {
+  "rating": 3.008
+ },
+ "254133: Essence of the Wild": {
+  "rating": 3.807
+ },
+ "254134: Memory's Journey": {
+  "rating": 4.185
+ },
+ "262861: Champion of the Parish": {
+  "rating": 4.014
+ }
+}

@@ -1,0 +1,737 @@
+{
+ "184464: Aeolipile": {
+  "rating": 3.433
+ },
+ "184477: Deep Spawn": {
+  "rating": 3.088
+ },
+ "184478: Dwarven Ruins": {
+  "rating": 3.312
+ },
+ "184482: Ebon Praetor": {
+  "rating": 3.33
+ },
+ "184483: Ebon Stronghold": {
+  "rating": 3.355
+ },
+ "184484: Elvish Farmer": {
+  "rating": 3.234
+ },
+ "184485: Feral Thallid": {
+  "rating": 2.773
+ },
+ "184486: Havenwood Battleground": {
+  "rating": 3.375
+ },
+ "184490: Aysen Bureaucrats": {
+  "rating": 2.167
+ },
+ "184491: Icatian Phalanx": {
+  "rating": 2.135
+ },
+ "184505: Orcish Captain": {
+  "rating": 2.726
+ },
+ "184516: Ruins of Trokair": {
+  "rating": 2.977
+ },
+ "184517: Soul Exchange": {
+  "rating": 4.353
+ },
+ "184521: Spore Flower": {
+  "rating": 3.772
+ },
+ "184522: Svyelunite Temple": {
+  "rating": 3.569
+ },
+ "184527: Thallid Devourer": {
+  "rating": 3.5
+ },
+ "184528: Thelonite Druid": {
+  "rating": 3.867
+ },
+ "184533: Balduvian Trading Post": {
+  "rating": 4.167
+ },
+ "184534: Bounty of the Hunt": {
+  "rating": 3.031
+ },
+ "184537: Death Spark": {
+  "rating": 3.368
+ },
+ "184538: Dystopia": {
+  "rating": 4.391
+ },
+ "184539: Woolly Spider": {
+  "rating": 3.667
+ },
+ "184542: Elvish Spirit Guide": {
+  "rating": 4.576
+ },
+ "184543: Ambush Party": {
+  "rating": 2.194
+ },
+ "184548: Gustha's Scepter": {
+  "rating": 4.107
+ },
+ "184549: Heart of Yavimaya": {
+  "rating": 2.171
+ },
+ "184550: Helm of Obedience": {
+  "rating": 4.369
+ },
+ "184551: Ivory Gargoyle": {
+  "rating": 3.333
+ },
+ "184552: Juniper Order Advocate": {
+  "rating": 3.712
+ },
+ "184553: Kaysa": {
+  "rating": 3.851
+ },
+ "184554: Kjeldoran Home Guard": {
+  "rating": 3.382
+ },
+ "184555: Kjeldoran Outpost": {
+  "rating": 4.402
+ },
+ "184556: Krovikan Horror": {
+  "rating": 3.654
+ },
+ "184559: Lodestone Bauble": {
+  "rating": 3.764
+ },
+ "184560: Mishra's Groundbreaker": {
+  "rating": 2.258
+ },
+ "184561: Nature's Wrath": {
+  "rating": 3.558
+ },
+ "184563: Phyrexian Devourer": {
+  "rating": 3.354
+ },
+ "184564: Phyrexian Portal": {
+  "rating": 3.603
+ },
+ "184567: Pillage": {
+  "rating": 4.576
+ },
+ "184570: Ritual of the Machine": {
+  "rating": 4.069
+ },
+ "184571: Rogue Skycaptain": {
+  "rating": 2.882
+ },
+ "184572: Scars of the Veteran": {
+  "rating": 3.488
+ },
+ "184573: Forbidden Lore": {
+  "rating": 2.775
+ },
+ "184574: Soldevi Digger": {
+  "rating": 3.339
+ },
+ "184575: Soldevi Excavations": {
+  "rating": 4.329
+ },
+ "184580: Fyndhorn Pollen": {
+  "rating": 1.792
+ },
+ "184581: Storm Elemental": {
+  "rating": 2.014
+ },
+ "184582: Thought Lash": {
+  "rating": 2.767
+ },
+ "184583: Whirling Catapult": {
+  "rating": 2.875
+ },
+ "184584: Winter's Night": {
+  "rating": 2.536
+ },
+ "184585: Abbey Gargoyles": {
+  "rating": 2.76
+ },
+ "184586: An-Zerrin Ruins": {
+  "rating": 3.761
+ },
+ "184587: Aysen Crusader": {
+  "rating": 3.345
+ },
+ "184588: Grandmother Sengir": {
+  "rating": 2.694
+ },
+ "184589: Broken Visage": {
+  "rating": 3.485
+ },
+ "184590: Clockwork Steed": {
+  "rating": 2.764
+ },
+ "184591: Ihsan's Shade": {
+  "rating": 3.788
+ },
+ "184592: Joven's Ferrets": {
+  "rating": 4.01
+ },
+ "184593: Marjhan": {
+  "rating": 3.024
+ },
+ "184594: Narwhal": {
+  "rating": 3.82
+ },
+ "184595: Retribution": {
+  "rating": 3.458
+ },
+ "184596: Roterothopter": {
+  "rating": 2.855
+ },
+ "184597: Reinforcements": {
+  "rating": 4
+ },
+ "184598: Wall of Kelp": {
+  "rating": 3.29
+ },
+ "184599: Adarkar Sentinel": {
+  "rating": 2.616
+ },
+ "184600: Anarchy": {
+  "rating": 4.39
+ },
+ "184601: Ashen Ghoul": {
+  "rating": 3.681
+ },
+ "184602: Elvish Hunter": {
+  "rating": 3.042
+ },
+ "184603: Balduvian Conjurer": {
+  "rating": 2.904
+ },
+ "184604: Barbed Sextant": {
+  "rating": 3.028
+ },
+ "184605: Binding Grasp": {
+  "rating": 3.779
+ },
+ "184606: Brainstorm": {
+  "rating": 4.679
+ },
+ "184607: Caribou Range": {
+  "rating": 3.265
+ },
+ "184608: Sacred Boon": {
+  "rating": 3.167
+ },
+ "184609: Conquer": {
+  "rating": 2.485
+ },
+ "184611: Soul Kiss": {
+  "rating": 2.536
+ },
+ "184612: Dance of the Dead": {
+  "rating": 4.465
+ },
+ "184613: Dark Banishing": {
+  "rating": 3.819
+ },
+ "184614: Demonic Consultation": {
+  "rating": 4.588
+ },
+ "184615: Despotic Scepter": {
+  "rating": 3.738
+ },
+ "184616: Diabolic Vision": {
+  "rating": 3.771
+ },
+ "184618: Dreams of the Dead": {
+  "rating": 2.861
+ },
+ "184619: Elemental Augury": {
+  "rating": 3.302
+ },
+ "184620: Elkin Bottle": {
+  "rating": 3.34
+ },
+ "184621: Energy Storm": {
+  "rating": 3.926
+ },
+ "184622: Enervate": {
+  "rating": 3.625
+ },
+ "184623: Folk of the Pines": {
+  "rating": 2.459
+ },
+ "184624: Forgotten Lore": {
+  "rating": 3.433
+ },
+ "184625: Foul Familiar": {
+  "rating": 3.069
+ },
+ "184626: Fumarole": {
+  "rating": 3.511
+ },
+ "184627: Gangrenous Zombies": {
+  "rating": 3.069
+ },
+ "184628: Wings of Aesthir": {
+  "rating": 3.432
+ },
+ "184630: Giant Trap Door Spider": {
+  "rating": 3.822
+ },
+ "184631: Glacial Chasm": {
+  "rating": 3.82
+ },
+ "184632: Glacial Crevasses": {
+  "rating": 3.54
+ },
+ "184633: Ice Floe": {
+  "rating": 3.9
+ },
+ "184634: Icequake": {
+  "rating": 4.08
+ },
+ "184635: Inheritance": {
+  "rating": 3.662
+ },
+ "184636: Incinerate": {
+  "rating": 4.511
+ },
+ "184637: Infernal Darkness": {
+  "rating": 4.058
+ },
+ "184638: Jester's Mask": {
+  "rating": 4.054
+ },
+ "184639: Jeweled Amulet": {
+  "rating": 3.232
+ },
+ "184640: Johtull Wurm": {
+  "rating": 2.039
+ },
+ "184641: Kjeldoran Dead": {
+  "rating": 3.688
+ },
+ "184642: Kjeldoran Elite Guard": {
+  "rating": 2.667
+ },
+ "184643: Farrel's Mantle": {
+  "rating": 3.38
+ },
+ "184644: Kjeldoran Skycaptain": {
+  "rating": 2.55
+ },
+ "184645: Knight of Stromgald": {
+  "rating": 4.012
+ },
+ "184646: Krovikan Sorcerer": {
+  "rating": 3.289
+ },
+ "184647: Krovikan Vampire": {
+  "rating": 3.579
+ },
+ "184648: Lava Burst": {
+  "rating": 3.985
+ },
+ "184649: Lost Order of Jarkeld": {
+  "rating": 3.574
+ },
+ "184650: Meteor Shower": {
+  "rating": 3.16
+ },
+ "184651: Necropotence": {
+  "rating": 4.803
+ },
+ "184652: Orcish Cannoneers": {
+  "rating": 3.022
+ },
+ "184653: Orcish Conscripts": {
+  "rating": 2.659
+ },
+ "184654: Orcish Farmer": {
+  "rating": 2.77
+ },
+ "184655: Stone Spirit": {
+  "rating": 2.778
+ },
+ "184656: Orcish Lumberjack": {
+  "rating": 4.58
+ },
+ "184657: Orcish Squatters": {
+  "rating": 3.419
+ },
+ "184658: Order of the Sacred Torch": {
+  "rating": 3.741
+ },
+ "184659: Order of the White Shield": {
+  "rating": 4.029
+ },
+ "184660: Sea Spirit": {
+  "rating": 2.457
+ },
+ "184661: Portent": {
+  "rating": 4.35
+ },
+ "184663: Ray of Command": {
+  "rating": 4.288
+ },
+ "184664: Ritual of Subdual": {
+  "rating": 3.08
+ },
+ "184665: Sibilant Spirit": {
+  "rating": 2.318
+ },
+ "184666: Skeleton Ship": {
+  "rating": 3.442
+ },
+ "184667: Skull Catapult": {
+  "rating": 2.795
+ },
+ "184668: Soldevi Simulacrum": {
+  "rating": 2.121
+ },
+ "184669: Cloak of Confusion": {
+  "rating": 3.241
+ },
+ "184670: Stampede": {
+  "rating": 3.239
+ },
+ "184671: Funeral March": {
+  "rating": 3.115
+ },
+ "184672: Storm Spirit": {
+  "rating": 2.917
+ },
+ "184673: Stromgald Cabal": {
+  "rating": 3.683
+ },
+ "184674: Stunted Growth": {
+  "rating": 4.345
+ },
+ "184675: Swords to Plowshares": {
+  "rating": 4.784
+ },
+ "184676: Thermokarst": {
+  "rating": 3.929
+ },
+ "184677: Time Bomb": {
+  "rating": 3.54
+ },
+ "184678: Tinder Wall": {
+  "rating": 4.556
+ },
+ "184679: Wiitigo": {
+  "rating": 3.483
+ },
+ "184680: Wind Spirit": {
+  "rating": 2.944
+ },
+ "184681: Withering Wisps": {
+  "rating": 4.172
+ },
+ "184682: Woolly Mammoths": {
+  "rating": 2.875
+ },
+ "184683: Zuran Spellcaster": {
+  "rating": 4.094
+ },
+ "184684: Armor Thrull": {
+  "rating": 3.065
+ },
+ "184685: Brassclaw Orcs": {
+  "rating": 2.414
+ },
+ "184686: Combat Medic": {
+  "rating": 2.533
+ },
+ "184687: Counterspell": {
+  "rating": 4.543
+ },
+ "184688: Shrink": {
+  "rating": 3.05
+ },
+ "184689: Disenchant": {
+  "rating": 4.362
+ },
+ "184690: Goblin Ski Patrol": {
+  "rating": 2.981
+ },
+ "184691: Elvish Ranger": {
+  "rating": 2.529
+ },
+ "184692: Giant Growth": {
+  "rating": 4.35
+ },
+ "184693: Gorilla Shaman": {
+  "rating": 4.455
+ },
+ "184694: Stonehands": {
+  "rating": 2.714
+ },
+ "184695: Icatian Javelineers": {
+  "rating": 4.326
+ },
+ "184696: Icatian Scout": {
+  "rating": 3.056
+ },
+ "184697: Lat-Nam's Legacy": {
+  "rating": 4.035
+ },
+ "184698: Misinformation": {
+  "rating": 4.016
+ },
+ "184699: Necrite": {
+  "rating": 3.017
+ },
+ "184700: Night Soil": {
+  "rating": 3.989
+ },
+ "184701: Orcish Veteran": {
+  "rating": 2.417
+ },
+ "184702: Shield Bearer": {
+  "rating": 2.617
+ },
+ "184703: Dry Spell": {
+  "rating": 3.135
+ },
+ "184705: Snow Fortress": {
+  "rating": 3.062
+ },
+ "184706: Viscerid Armor": {
+  "rating": 2.804
+ },
+ "184707: Reprisal": {
+  "rating": 3.949
+ },
+ "184708: Phantasmal Mount": {
+  "rating": 2.875
+ },
+ "184709: Elven Lyre": {
+  "rating": 1.661
+ },
+ "184710: Spore Cloud": {
+  "rating": 3.774
+ },
+ "184711: Thallid": {
+  "rating": 4.008
+ },
+ "184712: Aurochs": {
+  "rating": 3.292
+ },
+ "184713: Karplusan Giant": {
+  "rating": 1.115
+ },
+ "184714: Lim-Dûl's High Guard": {
+  "rating": 3.595
+ },
+ "184715: Royal Decree": {
+  "rating": 3.444
+ },
+ "184716: Imperial Recruiter": {
+  "rating": 4.082
+ },
+ "184717: Imperial Seal": {
+  "rating": 4.646
+ },
+ "184718: Essence Filter": {
+  "rating": 3.85
+ },
+ "184719: Warning": {
+  "rating": 2.696
+ },
+ "184720: Varchild's Crusader": {
+  "rating": 2.479
+ },
+ "184721: Shyft": {
+  "rating": 2.661
+ },
+ "184722: Aether Storm": {
+  "rating": 3.259
+ },
+ "184723: Fire Dragon": {
+  "rating": 3.538
+ },
+ "184724: Ravages of War": {
+  "rating": 4.033
+ },
+ "184725: Red Cliffs Armada": {
+  "rating": 2.452
+ },
+ "184726: Armor of Faith": {
+  "rating": 2.786
+ },
+ "184727: Mudslide": {
+  "rating": 3.339
+ },
+ "184728: Armored Griffin": {
+  "rating": 3.036
+ },
+ "184729: Farrel's Zealot": {
+  "rating": 3.24
+ },
+ "184730: Errand of Duty": {
+  "rating": 2.661
+ },
+ "184731: Essence Flare": {
+  "rating": 2.613
+ },
+ "184732: Magus of the Unseen": {
+  "rating": 4
+ },
+ "184733: Iceberg": {
+  "rating": 3.07
+ },
+ "184734: Drift of the Dead": {
+  "rating": 3.118
+ },
+ "184735: Balduvian Dead": {
+  "rating": 4.033
+ },
+ "184736: Brine Shaman": {
+  "rating": 3.824
+ },
+ "184737: Krovikan Fetish": {
+  "rating": 2.231
+ },
+ "184738: Screeching Drake": {
+  "rating": 2.727
+ },
+ "184739: Thunder Wall": {
+  "rating": 2.938
+ },
+ "184740: Minion of Leshrac": {
+  "rating": 3.738
+ },
+ "184741: Errantry": {
+  "rating": 2.652
+ },
+ "184742: Panic": {
+  "rating": 3.121
+ },
+ "184743: Flame Spirit": {
+  "rating": 1.857
+ },
+ "184744: Sustaining Spirit": {
+  "rating": 3.069
+ },
+ "184745: Songs of the Damned": {
+  "rating": 4.448
+ },
+ "184746: Angel of Fury": {
+  "rating": 2.629
+ },
+ "184747: Mesmeric Trance": {
+  "rating": 3.14
+ },
+ "184748: Badlands": {
+  "rating": 4.875
+ },
+ "184749: Savannah": {
+  "rating": 4.933
+ },
+ "184750: Taiga": {
+  "rating": 4.896
+ },
+ "184751: Tundra": {
+  "rating": 4.929
+ },
+ "184752: Underground Sea": {
+  "rating": 4.841
+ },
+ "184753: Angel of Light": {
+  "rating": 2.362
+ },
+ "184754: Icy Prison": {
+  "rating": 3.429
+ },
+ "184755: Musician": {
+  "rating": 2.942
+ },
+ "184756: Righteous Fury": {
+  "rating": 3.956
+ },
+ "184757: Balduvian Hydra": {
+  "rating": 2.519
+ },
+ "184758: Royal Trooper": {
+  "rating": 3.021
+ },
+ "184759: Ironclaw Orcs": {
+  "rating": 2.558
+ },
+ "184760: Ashnod's Cylix": {
+  "rating": 3.345
+ },
+ "184761: Browse": {
+  "rating": 4.298
+ },
+ "184762: Burnout": {
+  "rating": 3.95
+ },
+ "184763: Pyrokinesis": {
+  "rating": 4.298
+ },
+ "184764: Viscerid Drone": {
+  "rating": 3.175
+ },
+ "184765: Yavimaya Ancients": {
+  "rating": 2.847
+ },
+ "184767: Brimstone Dragon": {
+  "rating": 3.25
+ },
+ "184768: Whiteout": {
+  "rating": 2.944
+ },
+ "184769: Sea Drake": {
+  "rating": 4.008
+ },
+ "184770: Temporal Manipulation": {
+  "rating": 3.976
+ },
+ "184771: Fungal Bloom": {
+  "rating": 3.861
+ },
+ "184772: Leaping Lizard": {
+  "rating": 3.019
+ },
+ "184773: Mana Crypt": {
+  "rating": 4.579
+ },
+ "184774: Orc General": {
+  "rating": 3.138
+ },
+ "184775: Personal Tutor": {
+  "rating": 4.182
+ },
+ "184776: Earthlink": {
+  "rating": 3.354
+ },
+ "184777: Carapace": {
+  "rating": 3.283
+ },
+ "184778: Wolf Pack": {
+  "rating": 3.909
+ },
+ "184779: Nature's Blessing": {
+  "rating": 3.5
+ },
+ "184812: Snow-Covered Forest": {
+  "rating": 4.538
+ },
+ "184813: Snow-Covered Island": {
+  "rating": 4.535
+ },
+ "184814: Snow-Covered Mountain": {
+  "rating": 4.561
+ },
+ "184815: Snow-Covered Plains": {
+  "rating": 4.432
+ },
+ "184816: Snow-Covered Swamp": {
+  "rating": 4.571
+ },
+ "190426: Phantasmal Fiend": {
+  "rating": 2.887
+ }
+}

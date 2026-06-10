@@ -1,0 +1,470 @@
+{
+ "265141: Brindle Shoat": {
+  "rating": 3.438
+ },
+ "265143: Illusory Angel": {
+  "rating": 3.952
+ },
+ "265144: Etherium-Horn Sorcerer": {
+  "rating": 4.036
+ },
+ "265145: Beetleback Chief": {
+  "rating": 3.458
+ },
+ "265150: Preyseizer Dragon": {
+  "rating": 4.016
+ },
+ "265151: Fractured Powerstone": {
+  "rating": 3.333
+ },
+ "265154: Maelstrom Wanderer": {
+  "rating": 3.97
+ },
+ "265155: Thromok the Insatiable": {
+  "rating": 4.076
+ },
+ "265156: Baleful Strix": {
+  "rating": 4.629
+ },
+ "265159: Sakashima's Student": {
+  "rating": 4.466
+ },
+ "270724: Indrik Umbra": {
+  "rating": 3.81
+ },
+ "270725: Elderwood Scion": {
+  "rating": 4.011
+ },
+ "270726: Dragonlair Spider": {
+  "rating": 3.705
+ },
+ "270727: Silent-Blade Oni": {
+  "rating": 4.292
+ },
+ "270729: Vela the Night-Clad": {
+  "rating": 3.628
+ },
+ "270731: Sai of the Shinobi": {
+  "rating": 3.357
+ },
+ "270733: Shardless Agent": {
+  "rating": 4.316
+ },
+ "270736: Felidar Umbra": {
+  "rating": 3.471
+ },
+ "270738: Krond the Dawn-Clad": {
+  "rating": 3.949
+ },
+ "270742: Dreampod Druid": {
+  "rating": 3.611
+ },
+ "270743: Mass Mutiny": {
+  "rating": 3.5
+ },
+ "271131: Graypelt Refuge": {
+  "rating": 3
+ },
+ "271132: Jwar Isle Refuge": {
+  "rating": 3.075
+ },
+ "271133: Kazandu Refuge": {
+  "rating": 3.417
+ },
+ "271135: Mark of Mutiny": {
+  "rating": 2.821
+ },
+ "271136: Predatory Urge": {
+  "rating": 3.375
+ },
+ "271137: Armillary Sphere": {
+  "rating": 2.933
+ },
+ "271138: Fiery Fall": {
+  "rating": 2.208
+ },
+ "271139: Fusion Elemental": {
+  "rating": 3.041
+ },
+ "271140: Gluttonous Slime": {
+  "rating": 2.833
+ },
+ "271141: Hellkite Hatchling": {
+  "rating": 2.905
+ },
+ "271142: Rupture Spire": {
+  "rating": 3.242
+ },
+ "271143: Tukatongue Thallid": {
+  "rating": 2.931
+ },
+ "271144: Noggle Ransacker": {
+  "rating": 2.833
+ },
+ "271145: Flayer Husk": {
+  "rating": 3.5
+ },
+ "271146: Viridian Emissary": {
+  "rating": 3.643
+ },
+ "271147: Aura Gnarlid": {
+  "rating": 3.817
+ },
+ "271148: Boar Umbra": {
+  "rating": 3.042
+ },
+ "271150: Hyena Umbra": {
+  "rating": 3.857
+ },
+ "271151: Kor Spiritdancer": {
+  "rating": 4.1
+ },
+ "271152: Mammoth Umbra": {
+  "rating": 2.841
+ },
+ "271153: Ondu Giant": {
+  "rating": 3.182
+ },
+ "271154: See Beyond": {
+  "rating": 4.5
+ },
+ "271155: Snake Umbra": {
+  "rating": 3.152
+ },
+ "271156: Awakening Zone": {
+  "rating": 3.721
+ },
+ "271157: Cadaver Imp": {
+  "rating": 3.056
+ },
+ "271158: Hellion Eruption": {
+  "rating": 3
+ },
+ "271160: Hissing Iguanar": {
+  "rating": 2.717
+ },
+ "271161: Mycoloth": {
+  "rating": 3.619
+ },
+ "271162: Thorn-Thrash Viashino": {
+  "rating": 2.455
+ },
+ "271163: Thunder-Thrash Elder": {
+  "rating": 2.744
+ },
+ "271164: Last Stand": {
+  "rating": 4.087
+ },
+ "271165: Whirlpool Warrior": {
+  "rating": 4.318
+ },
+ "271166: Bituminous Blast": {
+  "rating": 3.75
+ },
+ "271167: Bloodbraid Elf": {
+  "rating": 4.327
+ },
+ "271168: Deny Reality": {
+  "rating": 3.111
+ },
+ "271169: Enigma Sphinx": {
+  "rating": 3.021
+ },
+ "271170: Enlisted Wurm": {
+  "rating": 3.081
+ },
+ "271171: Auramancer": {
+  "rating": 4.267
+ },
+ "271172: Cancel": {
+  "rating": 2.711
+ },
+ "271173: Thran Golem": {
+  "rating": 4.2
+ },
+ "271174: Tormented Soul": {
+  "rating": 3.556
+ },
+ "271175: Primal Plasma": {
+  "rating": 2.442
+ },
+ "271177: Krosan Verge": {
+  "rating": 4.477
+ },
+ "271178: Nullmage Advocate": {
+  "rating": 2.679
+ },
+ "271181: Higure, the Still Wind": {
+  "rating": 3.9
+ },
+ "271182: Ink-Eyes, Servant of Oni": {
+  "rating": 4.052
+ },
+ "271183: Mistblade Shinobi": {
+  "rating": 4.267
+ },
+ "271184: Ninja of the Deep Hours": {
+  "rating": 4.554
+ },
+ "271185: Okiba-Gang Shinobi": {
+  "rating": 3.207
+ },
+ "271186: Skullsnatcher": {
+  "rating": 3.368
+ },
+ "271187: Throat Slitter": {
+  "rating": 3.115
+ },
+ "271188: Walker of Secret Ways": {
+  "rating": 2.944
+ },
+ "271189: Kathari Remnant": {
+  "rating": 2.814
+ },
+ "271190: Peregrine Drake": {
+  "rating": 4.4
+ },
+ "271191: Erratic Explosion": {
+  "rating": 2.667
+ },
+ "271192: Augury Owl": {
+  "rating": 3.658
+ },
+ "271193: Cultivate": {
+  "rating": 3.824
+ },
+ "271194: Liliana's Specter": {
+  "rating": 3.532
+ },
+ "271195: Mitotic Slime": {
+  "rating": 3.862
+ },
+ "271196: Terramorphic Expanse": {
+  "rating": 3.692
+ },
+ "271197: Wall of Frost": {
+  "rating": 3.034
+ },
+ "271198: Whispersilk Cloak": {
+  "rating": 3.959
+ },
+ "271200: Rivals' Duel": {
+  "rating": 3.094
+ },
+ "271201: Overrun": {
+  "rating": 4.171
+ },
+ "271202: Sunken Hope": {
+  "rating": 4.235
+ },
+ "271203: Shimmering Grotto": {
+  "rating": 3
+ },
+ "271204: Vivid Creek": {
+  "rating": 3.467
+ },
+ "271205: Cage of Hands": {
+  "rating": 3.233
+ },
+ "271207: Auratouched Mage": {
+  "rating": 3
+ },
+ "271208: Bramble Elemental": {
+  "rating": 2.979
+ },
+ "271209: Dimir Aqueduct": {
+  "rating": 3.604
+ },
+ "271210: Dowsing Shaman": {
+  "rating": 3
+ },
+ "271211: Pollenbright Wings": {
+  "rating": 2.696
+ },
+ "271212: Selesnya Sanctuary": {
+  "rating": 3.405
+ },
+ "271213: Vitu-Ghazi, the City-Tree": {
+  "rating": 2.885
+ },
+ "271214: Dimir Infiltrator": {
+  "rating": 3.712
+ },
+ "271215: Glen Elendra Liege": {
+  "rating": 3.519
+ },
+ "271216: Inkfathom Witch": {
+  "rating": 2.87
+ },
+ "271217: Dark Hatchling": {
+  "rating": 3.659
+ },
+ "271218: Assassinate": {
+  "rating": 2.536
+ },
+ "271219: Quietus Spike": {
+  "rating": 3.059
+ },
+ "271220: Concentrate": {
+  "rating": 3.946
+ },
+ "271222: Mudbutton Torchrunner": {
+  "rating": 3.058
+ },
+ "271223: Penumbra Spider": {
+  "rating": 3.9
+ },
+ "271225: Fling": {
+  "rating": 4.523
+ },
+ "271226: Warstorm Surge": {
+  "rating": 3.557
+ },
+ "271227: Khalni Garden": {
+  "rating": 3.796
+ },
+ "271228: Gruul Turf": {
+  "rating": 3.475
+ },
+ "271230: Silhana Ledgewalker": {
+  "rating": 4.016
+ },
+ "271231: Skarrg, the Rage Pits": {
+  "rating": 3.812
+ },
+ "271234: Armored Griffin": {
+  "rating": 3.425
+ },
+ "271235: Lumberknot": {
+  "rating": 3.597
+ },
+ "271236: Celestial Ancient": {
+  "rating": 3.643
+ },
+ "271238: Quiet Disrepair": {
+  "rating": 2.75
+ },
+ "271239: Tainted Isle": {
+  "rating": 4.15
+ },
+ "275254: Arc Trail": {
+  "rating": 4.027
+ },
+ "275255: Beast Within": {
+  "rating": 4.619
+ },
+ "275256: Brutalizer Exarch": {
+  "rating": 3.047
+ },
+ "275257: Exotic Orchard": {
+  "rating": 2.962
+ },
+ "275258: Sigil of the Empty Throne": {
+  "rating": 4.075
+ },
+ "275259: Fiery Conclusion": {
+  "rating": 1.98
+ },
+ "275260: Three Dreams": {
+  "rating": 3.385
+ },
+ "275261: Nest Invader": {
+  "rating": 3.891
+ },
+ "275262: Wall of Blossoms": {
+  "rating": 4.472
+ },
+ "275263: Farsight Mask": {
+  "rating": 2.967
+ },
+ "275264: Ghostly Prison": {
+  "rating": 4.13
+ },
+ "275265: Spirit Mantle": {
+  "rating": 3.949
+ },
+ "275266: Rancor": {
+  "rating": 4.4
+ },
+ "276068: Fires of Yavimaya": {
+  "rating": 4.267
+ },
+ "276447: Mountain": {
+  "rating": 3.5
+ },
+ "276448: Swamp": {
+  "rating": 3.9
+ },
+ "276449: Mountain": {
+  "rating": 4.067
+ },
+ "276452: Island": {
+  "rating": 4.033
+ },
+ "276453: Island": {
+  "rating": 4.179
+ },
+ "276454: Forest": {
+  "rating": 4.15
+ },
+ "276455: Swamp": {
+  "rating": 4.05
+ },
+ "276456: Forest": {
+  "rating": 3.727
+ },
+ "276457: Swamp": {
+  "rating": 3.958
+ },
+ "276458: Plains": {
+  "rating": 4.045
+ },
+ "276459: Plains": {
+  "rating": 3.545
+ },
+ "276460: Forest": {
+  "rating": 3.773
+ },
+ "276461: Plains": {
+  "rating": 3.571
+ },
+ "276462: Island": {
+  "rating": 4.321
+ },
+ "276463: Swamp": {
+  "rating": 4.278
+ },
+ "276464: Forest": {
+  "rating": 4.25
+ },
+ "276465: Mountain": {
+  "rating": 3.875
+ },
+ "276466: Island": {
+  "rating": 4.083
+ },
+ "276467: Forest": {
+  "rating": 4.107
+ },
+ "276468: Forest": {
+  "rating": 4.278
+ },
+ "276469: Plains": {
+  "rating": 4.05
+ },
+ "276470: Mountain": {
+  "rating": 4.071
+ },
+ "276471: Island": {
+  "rating": 3.682
+ },
+ "276472: Swamp": {
+  "rating": 3.278
+ },
+ "276473: Plains": {
+  "rating": 4.458
+ },
+ "279846: Guard Gomazoa": {
+  "rating": 3.645
+ }
+}

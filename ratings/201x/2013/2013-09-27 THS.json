@@ -1,0 +1,749 @@
+{
+ "373498: Nylea's Disciple": {
+  "rating": 3.472
+ },
+ "373499: Viper's Kiss": {
+  "rating": 3.076
+ },
+ "373500: Ashiok, Nightmare Weaver": {
+  "rating": 3.619
+ },
+ "373501: Fleetfeather Sandals": {
+  "rating": 3.433
+ },
+ "373502: Xenagos, the Reveler": {
+  "rating": 3.737
+ },
+ "373503: Celestial Archon": {
+  "rating": 3.541
+ },
+ "373504: Dark Betrayal": {
+  "rating": 3.538
+ },
+ "373505: Purphoros's Emissary": {
+  "rating": 3.538
+ },
+ "373506: Artisan's Sorrow": {
+  "rating": 2.879
+ },
+ "373507: Peak Eruption": {
+  "rating": 3.25
+ },
+ "373508: Returned Phalanx": {
+  "rating": 3.258
+ },
+ "373509: Boon Satyr": {
+  "rating": 3.535
+ },
+ "373510: Nylea's Emissary": {
+  "rating": 3.429
+ },
+ "373511: Fanatic of Mogis": {
+  "rating": 3.61
+ },
+ "373512: Traveling Philosopher": {
+  "rating": 2.5
+ },
+ "373513: Coordinated Assault": {
+  "rating": 3.482
+ },
+ "373514: Flamecast Wheel": {
+  "rating": 1.623
+ },
+ "373515: Setessan Battle Priest": {
+  "rating": 3.03
+ },
+ "373516: Gods Willing": {
+  "rating": 3.509
+ },
+ "373517: Sea God's Revenge": {
+  "rating": 3.438
+ },
+ "373518: Voyaging Satyr": {
+  "rating": 3.531
+ },
+ "373519: Griptide": {
+  "rating": 3.139
+ },
+ "373520: Disciple of Phenax": {
+  "rating": 2.868
+ },
+ "373521: Chained to the Rocks": {
+  "rating": 3.559
+ },
+ "373522: Temple of Silence": {
+  "rating": 3.561
+ },
+ "373523: Leafcrown Dryad": {
+  "rating": 3.474
+ },
+ "373524: Heliod, God of the Sun": {
+  "rating": 3.453
+ },
+ "373525: Dauntless Onslaught": {
+  "rating": 3.426
+ },
+ "373526: Wild Celebrants": {
+  "rating": 2.923
+ },
+ "373527: Voyage's End": {
+  "rating": 3.489
+ },
+ "373528: Fleshmad Steed": {
+  "rating": 1.75
+ },
+ "373529: Soldier of the Pantheon": {
+  "rating": 3.743
+ },
+ "373530: Anax and Cymede": {
+  "rating": 3.608
+ },
+ "373531: Triton Fortune Hunter": {
+  "rating": 3.421
+ },
+ "373532: Rescue from the Underworld": {
+  "rating": 3.595
+ },
+ "373533: Plains": {
+  "rating": 3.5
+ },
+ "373534: Wavecrash Triton": {
+  "rating": 3.462
+ },
+ "373535: Thassa, God of the Sea": {
+  "rating": 3.816
+ },
+ "373536: Master of Waves": {
+  "rating": 3.659
+ },
+ "373537: Demolish": {
+  "rating": 2.692
+ },
+ "373538: Karametra's Acolyte": {
+  "rating": 3.53
+ },
+ "373539: Steam Augury": {
+  "rating": 3.329
+ },
+ "373540: Two-Headed Cerberus": {
+  "rating": 3.292
+ },
+ "373541: Tormented Hero": {
+  "rating": 3.627
+ },
+ "373542: Curse of the Swine": {
+  "rating": 3.805
+ },
+ "373543: Agent of the Fates": {
+  "rating": 3.581
+ },
+ "373544: Bident of Thassa": {
+  "rating": 3.551
+ },
+ "373545: Ill-Tempered Cyclops": {
+  "rating": 3.471
+ },
+ "373546: Mountain": {
+  "rating": 4.111
+ },
+ "373547: Vaporkin": {
+  "rating": 3.382
+ },
+ "373548: Keepsake Gorgon": {
+  "rating": 3.446
+ },
+ "373549: Polukranos, World Eater": {
+  "rating": 3.617
+ },
+ "373550: Akroan Horse": {
+  "rating": 3.424
+ },
+ "373551: Triton Shorethief": {
+  "rating": 2.915
+ },
+ "373552: Firedrinker Satyr": {
+  "rating": 3.426
+ },
+ "373553: Ordeal of Nylea": {
+  "rating": 3.562
+ },
+ "373554: Spellheart Chimera": {
+  "rating": 3.73
+ },
+ "373555: Colossus of Akros": {
+  "rating": 3.639
+ },
+ "373556: Purphoros, God of the Forge": {
+  "rating": 3.806
+ },
+ "373557: Dissolve": {
+  "rating": 3.705
+ },
+ "373558: Island": {
+  "rating": 3.778
+ },
+ "373559: Nylea, God of the Hunt": {
+  "rating": 3.518
+ },
+ "373560: Temple of Triumph": {
+  "rating": 3.518
+ },
+ "373561: Chosen by Heliod": {
+  "rating": 3.028
+ },
+ "373562: Fleecemane Lion": {
+  "rating": 3.873
+ },
+ "373563: Wingsteed Rider": {
+  "rating": 3.597
+ },
+ "373564: Nighthowler": {
+  "rating": 3.627
+ },
+ "373565: Mogis's Marauder": {
+  "rating": 3.625
+ },
+ "373566: Gift of Immortality": {
+  "rating": 3.621
+ },
+ "373567: Swamp": {
+  "rating": 3.889
+ },
+ "373568: Forest": {
+  "rating": 3.818
+ },
+ "373569: Pharika's Mender": {
+  "rating": 3.526
+ },
+ "373570: Reaper of the Wilds": {
+  "rating": 3.554
+ },
+ "373571: Temple of Mystery": {
+  "rating": 3.567
+ },
+ "373572: Yoked Ox": {
+  "rating": 2.868
+ },
+ "373573: Silent Artisan": {
+  "rating": 1.988
+ },
+ "373574: Setessan Griffin": {
+  "rating": 2.227
+ },
+ "373575: Hero's Downfall": {
+  "rating": 3.829
+ },
+ "373576: Fade into Antiquity": {
+  "rating": 3.44
+ },
+ "373577: Decorated Griffin": {
+  "rating": 2.557
+ },
+ "373578: Akroan Crusader": {
+  "rating": 3.524
+ },
+ "373579: March of the Returned": {
+  "rating": 2.655
+ },
+ "373580: Nylea's Presence": {
+  "rating": 3.062
+ },
+ "373581: Nessian Courser": {
+  "rating": 3.034
+ },
+ "373582: Plains": {
+  "rating": 4.25
+ },
+ "373583: Benthic Giant": {
+  "rating": 3.09
+ },
+ "373584: Annul": {
+  "rating": 4.071
+ },
+ "373585: Arena Athlete": {
+  "rating": 2.908
+ },
+ "373586: Labyrinth Champion": {
+  "rating": 3.337
+ },
+ "373587: Hammer of Purphoros": {
+  "rating": 3.592
+ },
+ "373588: Crackling Triton": {
+  "rating": 2.893
+ },
+ "373589: Erebos, God of the Dead": {
+  "rating": 3.802
+ },
+ "373590: Akroan Hoplite": {
+  "rating": 3.57
+ },
+ "373591: Staunch-Hearted Warrior": {
+  "rating": 3.288
+ },
+ "373592: Phalanx Leader": {
+  "rating": 3.533
+ },
+ "373593: Deathbellow Raider": {
+  "rating": 3.567
+ },
+ "373594: Centaur Battlemaster": {
+  "rating": 3.542
+ },
+ "373595: Island": {
+  "rating": 3.375
+ },
+ "373596: Favored Hoplite": {
+  "rating": 3.628
+ },
+ "373597: Ember Swallower": {
+  "rating": 3.448
+ },
+ "373598: Sip of Hemlock": {
+  "rating": 2.011
+ },
+ "373599: Lagonna-Band Elder": {
+  "rating": 3.065
+ },
+ "373600: Leonin Snarecaster": {
+  "rating": 2.897
+ },
+ "373601: Reverent Hunter": {
+  "rating": 3.49
+ },
+ "373602: Savage Surge": {
+  "rating": 3.276
+ },
+ "373603: Bow of Nylea": {
+  "rating": 3.759
+ },
+ "373604: Anger of the Gods": {
+  "rating": 3.67
+ },
+ "373605: Guardians of Meletis": {
+  "rating": 3.345
+ },
+ "373606: Fabled Hero": {
+  "rating": 3.69
+ },
+ "373607: Titan's Strength": {
+  "rating": 3.621
+ },
+ "373608: Swamp": {
+  "rating": 3.8
+ },
+ "373609: Mountain": {
+  "rating": 3.45
+ },
+ "373610: Lash of the Whip": {
+  "rating": 2.073
+ },
+ "373611: Opaline Unicorn": {
+  "rating": 3.326
+ },
+ "373612: Battlewise Hoplite": {
+  "rating": 3.6
+ },
+ "373613: Warriors' Lesson": {
+  "rating": 3.5
+ },
+ "373614: Priest of Iroas": {
+  "rating": 2.339
+ },
+ "373615: Forest": {
+  "rating": 4.194
+ },
+ "373616: Hopeful Eidolon": {
+  "rating": 3.612
+ },
+ "373617: Prognostic Sphinx": {
+  "rating": 3.535
+ },
+ "373618: Spark Jolt": {
+  "rating": 3.61
+ },
+ "373619: Ordeal of Heliod": {
+  "rating": 3.535
+ },
+ "373620: Burnished Hart": {
+  "rating": 3.523
+ },
+ "373621: Chronicler of Heroes": {
+  "rating": 3.438
+ },
+ "373622: Witches' Eye": {
+  "rating": 2.645
+ },
+ "373623: Defend the Hearth": {
+  "rating": 2.528
+ },
+ "373624: Sylvan Caryatid": {
+  "rating": 3.619
+ },
+ "373625: Forest": {
+  "rating": 3.692
+ },
+ "373626: Prowler's Helm": {
+  "rating": 3.371
+ },
+ "373627: Battlewise Valor": {
+  "rating": 3.071
+ },
+ "373628: Horizon Scholar": {
+  "rating": 3.156
+ },
+ "373629: Lost in a Labyrinth": {
+  "rating": 2.118
+ },
+ "373630: Titan of Eternal Fire": {
+  "rating": 3.388
+ },
+ "373631: Asphodel Wanderer": {
+  "rating": 2.239
+ },
+ "373632: Thoughtseize": {
+  "rating": 4.578
+ },
+ "373633: Time to Feed": {
+  "rating": 3.041
+ },
+ "373634: Dragon Mantle": {
+  "rating": 3.603
+ },
+ "373635: Prophet of Kruphix": {
+  "rating": 3.942
+ },
+ "373636: Breaching Hippocamp": {
+  "rating": 3.432
+ },
+ "373637: Shipbreaker Kraken": {
+  "rating": 3.583
+ },
+ "373638: Blood-Toll Harpy": {
+  "rating": 2.274
+ },
+ "373639: Triton Tactics": {
+  "rating": 3.627
+ },
+ "373640: Vanquish the Foul": {
+  "rating": 1.936
+ },
+ "373641: Evangel of Heliod": {
+  "rating": 3.431
+ },
+ "373642: Boon of Erebos": {
+  "rating": 3.28
+ },
+ "373643: Prescient Chimera": {
+  "rating": 3.487
+ },
+ "373644: Returned Centaur": {
+  "rating": 3.016
+ },
+ "373645: Gray Merchant of Asphodel": {
+  "rating": 3.809
+ },
+ "373646: Ordeal of Erebos": {
+  "rating": 3.061
+ },
+ "373647: Ordeal of Purphoros": {
+  "rating": 3.293
+ },
+ "373648: Divine Verdict": {
+  "rating": 3.074
+ },
+ "373649: Elspeth, Sun's Champion": {
+  "rating": 3.891
+ },
+ "373650: Nessian Asp": {
+  "rating": 3.588
+ },
+ "373651: Lightning Strike": {
+  "rating": 3.405
+ },
+ "373652: Scourgemark": {
+  "rating": 2.565
+ },
+ "373653: Sealock Monster": {
+  "rating": 3.45
+ },
+ "373654: Plains": {
+  "rating": 3.444
+ },
+ "373655: Vulpine Goliath": {
+  "rating": 3.462
+ },
+ "373656: Commune with the Gods": {
+  "rating": 3.183
+ },
+ "373657: Pheres-Band Centaurs": {
+  "rating": 2.885
+ },
+ "373658: Mnemonic Wall": {
+  "rating": 2.917
+ },
+ "373659: Borderland Minotaur": {
+  "rating": 2.821
+ },
+ "373660: Cutthroat Maneuver": {
+  "rating": 2.274
+ },
+ "373661: Abhorrent Overlord": {
+  "rating": 3.466
+ },
+ "373662: Thassa's Bounty": {
+  "rating": 2.292
+ },
+ "373663: Rage of Purphoros": {
+  "rating": 2.194
+ },
+ "373664: Daxos of Meletis": {
+  "rating": 3.726
+ },
+ "373665: Tymaret, the Murder King": {
+  "rating": 3.452
+ },
+ "373666: Underworld Cerberus": {
+  "rating": 3.655
+ },
+ "373667: Portent of Betrayal": {
+  "rating": 3.056
+ },
+ "373668: Hunt the Hunter": {
+  "rating": 2.368
+ },
+ "373669: Pyxis of Pandemonium": {
+  "rating": 3.511
+ },
+ "373670: Insatiable Harpy": {
+  "rating": 2.875
+ },
+ "373671: Anthousa, Setessan Hero": {
+  "rating": 2.788
+ },
+ "373672: Rageblood Shaman": {
+  "rating": 3.565
+ },
+ "373673: Hythonia the Cruel": {
+  "rating": 3.456
+ },
+ "373674: Felhide Minotaur": {
+  "rating": 2.091
+ },
+ "373675: Medomai the Ageless": {
+  "rating": 3.516
+ },
+ "373676: Shredding Winds": {
+  "rating": 2
+ },
+ "373677: Anvilwrought Raptor": {
+  "rating": 2.044
+ },
+ "373678: Destructive Revelry": {
+  "rating": 3.578
+ },
+ "373679: Stormbreath Dragon": {
+  "rating": 3.823
+ },
+ "373680: Last Breath": {
+  "rating": 2.682
+ },
+ "373681: Swamp": {
+  "rating": 3.75
+ },
+ "373682: Gainsay": {
+  "rating": 2.925
+ },
+ "373683: Mountain": {
+  "rating": 3.5
+ },
+ "373684: Cavalry Pegasus": {
+  "rating": 3.338
+ },
+ "373685: Triad of Fates": {
+  "rating": 3.325
+ },
+ "373686: Fate Foretold": {
+  "rating": 3.424
+ },
+ "373687: Stoneshock Giant": {
+  "rating": 3.106
+ },
+ "373688: Forest": {
+  "rating": 4.136
+ },
+ "373689: Ashen Rider": {
+  "rating": 3.992
+ },
+ "373690: Traveler's Amulet": {
+  "rating": 3.109
+ },
+ "373691: Glare of Heresy": {
+  "rating": 3.238
+ },
+ "373692: Scholar of Athreos": {
+  "rating": 3.406
+ },
+ "373693: Omenspeaker": {
+  "rating": 3.526
+ },
+ "373694: Nemesis of Mortals": {
+  "rating": 3.561
+ },
+ "373695: Psychic Intrusion": {
+  "rating": 3.466
+ },
+ "373696: Ordeal of Thassa": {
+  "rating": 3.548
+ },
+ "373697: Sentry of the Underworld": {
+  "rating": 3.385
+ },
+ "373698: Minotaur Skullcleaver": {
+  "rating": 3.5
+ },
+ "373699: Messenger's Speed": {
+  "rating": 3.41
+ },
+ "373700: Plains": {
+  "rating": 2.909
+ },
+ "373701: Swan Song": {
+  "rating": 4.079
+ },
+ "373702: Shipwreck Singer": {
+  "rating": 3.516
+ },
+ "373703: Feral Invocation": {
+  "rating": 3.37
+ },
+ "373704: Magma Jet": {
+  "rating": 3.848
+ },
+ "373705: Flamespeaker Adept": {
+  "rating": 3.49
+ },
+ "373706: Swamp": {
+  "rating": 3
+ },
+ "373707: Coastline Chimera": {
+  "rating": 2.983
+ },
+ "373708: Hundred-Handed One": {
+  "rating": 3.561
+ },
+ "373709: Whip of Erebos": {
+  "rating": 3.601
+ },
+ "373710: Kragma Warcaller": {
+  "rating": 3.55
+ },
+ "373711: Temple of Abandon": {
+  "rating": 3.477
+ },
+ "373712: Agent of Horizons": {
+  "rating": 2.968
+ },
+ "373713: Nykthos, Shrine to Nyx": {
+  "rating": 3.717
+ },
+ "373714: Boulderfall": {
+  "rating": 1.759
+ },
+ "373715: Aqueous Form": {
+  "rating": 3.654
+ },
+ "373716: Polis Crusher": {
+  "rating": 3.529
+ },
+ "373717: Spear of Heliod": {
+  "rating": 3.538
+ },
+ "373718: Sedge Scorpion": {
+  "rating": 3.55
+ },
+ "373719: Nimbus Naiad": {
+  "rating": 3.5
+ },
+ "373720: Baleful Eidolon": {
+  "rating": 3.047
+ },
+ "373721: Stymied Hopes": {
+  "rating": 2.629
+ },
+ "373722: Pharika's Cure": {
+  "rating": 3.306
+ },
+ "373723: Island": {
+  "rating": 4.077
+ },
+ "373724: Ephara's Warden": {
+  "rating": 2.016
+ },
+ "373725: Read the Bones": {
+  "rating": 3.542
+ },
+ "373726: Cavern Lampad": {
+  "rating": 3.042
+ },
+ "373727: Mistcutter Hydra": {
+  "rating": 3.61
+ },
+ "373728: Satyr Piper": {
+  "rating": 2.857
+ },
+ "373729: Heliod's Emissary": {
+  "rating": 3.412
+ },
+ "373730: Bronze Sable": {
+  "rating": 2.442
+ },
+ "373731: Loathsome Catoblepas": {
+  "rating": 1.951
+ },
+ "373732: Spearpoint Oread": {
+  "rating": 3.161
+ },
+ "373733: Observant Alseid": {
+  "rating": 3.5
+ },
+ "373734: Temple of Deceit": {
+  "rating": 3.576
+ },
+ "373735: Thassa's Emissary": {
+  "rating": 3.417
+ },
+ "373736: Island": {
+  "rating": 3.9
+ },
+ "373737: Satyr Rambler": {
+  "rating": 3.094
+ },
+ "373738: Horizon Chimera": {
+  "rating": 3.655
+ },
+ "373739: Ray of Dissolution": {
+  "rating": 2.887
+ },
+ "373740: Arbor Colossus": {
+  "rating": 3.623
+ },
+ "373741: Meletis Charlatan": {
+  "rating": 3.51
+ },
+ "373742: Artisan of Forms": {
+  "rating": 3.542
+ },
+ "373743: Unknown Shores": {
+  "rating": 2.865
+ },
+ "373744: Satyr Hedonist": {
+  "rating": 3.425
+ },
+ "373745: Erebos's Emissary": {
+  "rating": 3.468
+ },
+ "373746: Mountain": {
+  "rating": 3.5
+ }
+}

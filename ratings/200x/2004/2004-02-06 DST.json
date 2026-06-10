@@ -1,0 +1,497 @@
+{
+ "10670: Arcane Spyglass": {
+  "rating": 1.664
+ },
+ "15190: Viridian Acolyte": {
+  "rating": 2.367
+ },
+ "21293: Tears of Rage": {
+  "rating": 2.625
+ },
+ "26732: Spawning Pit": {
+  "rating": 4.079
+ },
+ "29513: Hallow": {
+  "rating": 4.035
+ },
+ "34479: Purge": {
+  "rating": 3.713
+ },
+ "39377: Murderous Spoils": {
+  "rating": 2.089
+ },
+ "39410: Pulse of the Forge": {
+  "rating": 4.245
+ },
+ "39421: Mirrodin's Core": {
+  "rating": 4.066
+ },
+ "39439: Blinkmoth Nexus": {
+  "rating": 4.16
+ },
+ "39478: Karstoderm": {
+  "rating": 3.571
+ },
+ "39485: Darksteel Pendant": {
+  "rating": 3.726
+ },
+ "39562: Loxodon Mystic": {
+  "rating": 1.855
+ },
+ "39639: Arcbound Overseer": {
+  "rating": 4.1
+ },
+ "39690: Pulse of the Tangle": {
+  "rating": 4.34
+ },
+ "39692: Pulse of the Dross": {
+  "rating": 3.78
+ },
+ "39697: Pulse of the Fields": {
+  "rating": 4.186
+ },
+ "42084: Sundering Titan": {
+  "rating": 4.25
+ },
+ "43491: Krark-Clan Stoker": {
+  "rating": 3.071
+ },
+ "43502: Nim Abomination": {
+  "rating": 2.548
+ },
+ "43503: Reap and Sow": {
+  "rating": 3.671
+ },
+ "43506: Savage Beating": {
+  "rating": 4.327
+ },
+ "43510: Second Sight": {
+  "rating": 3.515
+ },
+ "43511: Soulscour": {
+  "rating": 2.84
+ },
+ "43517: Screams from Within": {
+  "rating": 4.149
+ },
+ "43540: Dismantle": {
+  "rating": 3.708
+ },
+ "43545: Trinisphere": {
+  "rating": 4.619
+ },
+ "43547: Tanglewalker": {
+  "rating": 3.193
+ },
+ "43548: Darksteel Reactor": {
+  "rating": 4.165
+ },
+ "43556: Auriok Siege Sled": {
+  "rating": 2.677
+ },
+ "43557: Burden of Greed": {
+  "rating": 2.191
+ },
+ "43559: Magnetic Flux": {
+  "rating": 1.784
+ },
+ "43563: Darksteel Brute": {
+  "rating": 3.088
+ },
+ "43579: Juggernaut": {
+  "rating": 3.794
+ },
+ "43587: Test of Faith": {
+  "rating": 4.009
+ },
+ "43592: Echoing Calm": {
+  "rating": 3.18
+ },
+ "44307: Leonin Battlemage": {
+  "rating": 2.894
+ },
+ "45191: Metal Fatigue": {
+  "rating": 2.667
+ },
+ "45415: Darksteel Citadel": {
+  "rating": 4.436
+ },
+ "45428: Myr Landshaper": {
+  "rating": 3.203
+ },
+ "45455: Vulshok War Boar": {
+  "rating": 3.054
+ },
+ "45469: Emissary of Despair": {
+  "rating": 3.455
+ },
+ "45961: Stir the Pride": {
+  "rating": 3.13
+ },
+ "45975: Pulse of the Grid": {
+  "rating": 3.462
+ },
+ "46002: Tel-Jilad Outrider": {
+  "rating": 1.7
+ },
+ "46008: Tel-Jilad Wolf": {
+  "rating": 2.431
+ },
+ "46012: Oxidize": {
+  "rating": 4.31
+ },
+ "46023: Death-Mask Duplicant": {
+  "rating": 3.809
+ },
+ "46030: Whispersilk Cloak": {
+  "rating": 4.144
+ },
+ "46058: Fangren Firstborn": {
+  "rating": 4.398
+ },
+ "46060: Furnace Dragon": {
+  "rating": 3.305
+ },
+ "46076: Nourish": {
+  "rating": 3.587
+ },
+ "46078: Crazed Goblin": {
+  "rating": 0.86
+ },
+ "46083: Roaring Slagwurm": {
+  "rating": 3.198
+ },
+ "46088: Hunger of the Nim": {
+  "rating": 2.056
+ },
+ "46093: Scavenging Scarab": {
+  "rating": 1.035
+ },
+ "46096: Chittering Rats": {
+  "rating": 4.061
+ },
+ "46100: Grimclaw Bats": {
+  "rating": 2.944
+ },
+ "46101: Arcbound Hybrid": {
+  "rating": 2.597
+ },
+ "46111: Talon of Pain": {
+  "rating": 3.986
+ },
+ "46112: Myr Moonvessel": {
+  "rating": 3.577
+ },
+ "46116: Neurok Prodigy": {
+  "rating": 1.828
+ },
+ "46129: Arcbound Bruiser": {
+  "rating": 2.75
+ },
+ "46130: Arcbound Lancer": {
+  "rating": 2.654
+ },
+ "46131: Arcbound Stinger": {
+  "rating": 3.694
+ },
+ "46134: Lich's Tomb": {
+  "rating": 2.783
+ },
+ "46136: Darksteel Gargoyle": {
+  "rating": 3.025
+ },
+ "46142: Leonin Bola": {
+  "rating": 3.306
+ },
+ "46143: Razor Golem": {
+  "rating": 4.152
+ },
+ "46148: Ageless Entity": {
+  "rating": 4.309
+ },
+ "46150: Spire Golem": {
+  "rating": 4.054
+ },
+ "46154: Mephitic Ooze": {
+  "rating": 3.733
+ },
+ "46155: Echoing Ruin": {
+  "rating": 3.776
+ },
+ "46157: Dross Golem": {
+  "rating": 3.774
+ },
+ "46158: Surestrike Trident": {
+  "rating": 3.851
+ },
+ "46160: Genesis Chamber": {
+  "rating": 4.019
+ },
+ "46162: Echoing Truth": {
+  "rating": 4.552
+ },
+ "46164: Oxidda Golem": {
+  "rating": 3.845
+ },
+ "46165: Eater of Days": {
+  "rating": 3.646
+ },
+ "46168: Gemini Engine": {
+  "rating": 4.035
+ },
+ "46169: Echoing Courage": {
+  "rating": 3.838
+ },
+ "46171: Tangle Golem": {
+  "rating": 3.955
+ },
+ "46172: Nemesis Mask": {
+  "rating": 3.689
+ },
+ "46176: Echoing Decay": {
+  "rating": 3.8
+ },
+ "46429: Sword of Fire and Ice": {
+  "rating": 4.515
+ },
+ "46547: Viridian Zealot": {
+  "rating": 3.94
+ },
+ "46548: Tangle Spider": {
+  "rating": 2.091
+ },
+ "46568: Scrounge": {
+  "rating": 2.636
+ },
+ "46735: Goblin Archaeologist": {
+  "rating": 2.983
+ },
+ "46768: Fireball": {
+  "rating": 4.233
+ },
+ "47453: Sword of Light and Shadow": {
+  "rating": 4.511
+ },
+ "47587: Pristine Angel": {
+  "rating": 4.574
+ },
+ "47792: Shriveling Rot": {
+  "rating": 3.577
+ },
+ "47799: Quicksilver Behemoth": {
+  "rating": 2.288
+ },
+ "47930: Panoptic Mirror": {
+  "rating": 4.494
+ },
+ "48048: Darksteel Ingot": {
+  "rating": 4.598
+ },
+ "48049: Myr Matrix": {
+  "rating": 4.201
+ },
+ "48072: Darksteel Forge": {
+  "rating": 4.325
+ },
+ "48120: Inflame": {
+  "rating": 3.271
+ },
+ "48127: Chromescale Drake": {
+  "rating": 3.265
+ },
+ "48141: Voltaic Construct": {
+  "rating": 4.156
+ },
+ "48146: Aether Vial": {
+  "rating": 4.575
+ },
+ "48147: Reshape": {
+  "rating": 3.803
+ },
+ "48148: Vedalken Engineer": {
+  "rating": 4.408
+ },
+ "48153: Emissary of Hope": {
+  "rating": 2.481
+ },
+ "48158: Darksteel Colossus": {
+  "rating": 4.613
+ },
+ "48163: Psychic Overload": {
+  "rating": 3.5
+ },
+ "48197: Skullclamp": {
+  "rating": 4.579
+ },
+ "48572: Carry Away": {
+  "rating": 2.961
+ },
+ "48573: Retract": {
+  "rating": 2.878
+ },
+ "48576: Ritual of Restoration": {
+  "rating": 2.625
+ },
+ "48579: Leonin Shikari": {
+  "rating": 4.435
+ },
+ "48582: Shield of Kaldra": {
+  "rating": 3.942
+ },
+ "48598: Infested Roothold": {
+  "rating": 2.855
+ },
+ "48604: Arcbound Worker": {
+  "rating": 4.18
+ },
+ "48920: Serum Powder": {
+  "rating": 3.882
+ },
+ "48988: Auriok Glaivemaster": {
+  "rating": 3.262
+ },
+ "48993: Well of Lost Dreams": {
+  "rating": 4.212
+ },
+ "49012: Barbed Lightning": {
+  "rating": 3.455
+ },
+ "49016: Coretapper": {
+  "rating": 4.424
+ },
+ "49020: Hoverguard Observer": {
+  "rating": 1.924
+ },
+ "49021: Synod Artificer": {
+  "rating": 3.741
+ },
+ "49026: Wirefly Hive": {
+  "rating": 2.372
+ },
+ "49033: Turn the Tables": {
+  "rating": 3.364
+ },
+ "49035: Pteron Ghost": {
+  "rating": 2.421
+ },
+ "49049: Kraken's Eye": {
+  "rating": 2.043
+ },
+ "49075: Aether Snap": {
+  "rating": 4.218
+ },
+ "49078: Steelshaper Apprentice": {
+  "rating": 2.74
+ },
+ "49085: Vex": {
+  "rating": 1.536
+ },
+ "49089: Drooling Ogre": {
+  "rating": 2.987
+ },
+ "49094: Specter's Shroud": {
+  "rating": 3.632
+ },
+ "49097: Chimeric Egg": {
+  "rating": 3.105
+ },
+ "49110: Ur-Golem's Eye": {
+  "rating": 3.196
+ },
+ "49438: Stand Together": {
+  "rating": 2.1
+ },
+ "49758: Vulshok Morningstar": {
+  "rating": 3.129
+ },
+ "49775: Wand of the Elements": {
+  "rating": 3.605
+ },
+ "49829: Machinate": {
+  "rating": 3.15
+ },
+ "49836: Shunt": {
+  "rating": 3.94
+ },
+ "49837: Greater Harvester": {
+  "rating": 3.569
+ },
+ "49839: Neurok Transmuter": {
+  "rating": 3.303
+ },
+ "50521: Thought Dissector": {
+  "rating": 3.652
+ },
+ "50527: Mycosynth Lattice": {
+  "rating": 4.387
+ },
+ "50528: Arcbound Reclaimer": {
+  "rating": 3.594
+ },
+ "50529: Spincrusher": {
+  "rating": 3.457
+ },
+ "50530: Thunderstaff": {
+  "rating": 3.769
+ },
+ "50533: Rebuking Ceremony": {
+  "rating": 1.842
+ },
+ "50536: Essence Drain": {
+  "rating": 1.708
+ },
+ "50539: Flamebreak": {
+  "rating": 4.26
+ },
+ "50540: Spellbinder": {
+  "rating": 3.133
+ },
+ "50647: Death Cloud": {
+  "rating": 4.13
+ },
+ "50929: Last Word": {
+  "rating": 4.043
+ },
+ "50937: Arcbound Crusher": {
+  "rating": 4.25
+ },
+ "50938: Arcbound Fiend": {
+  "rating": 3.756
+ },
+ "50939: Arcbound Slith": {
+  "rating": 3.778
+ },
+ "50943: Arcbound Ravager": {
+  "rating": 4.545
+ },
+ "51054: Memnarch": {
+  "rating": 4.56
+ },
+ "51055: Slobad, Goblin Tinkerer": {
+  "rating": 3.988
+ },
+ "51056: Drill-Skimmer": {
+  "rating": 2.038
+ },
+ "51070: Geth's Grimoire": {
+  "rating": 3.97
+ },
+ "51074: Heartseeker": {
+  "rating": 3.306
+ },
+ "51616: Unforge": {
+  "rating": 2.274
+ },
+ "72682: Demon's Horn": {
+  "rating": 1.917
+ },
+ "72683: Dragon's Claw": {
+  "rating": 2.484
+ },
+ "72684: Wurm's Tooth": {
+  "rating": 2.038
+ },
+ "72686: Angel's Feather": {
+  "rating": 2.281
+ }
+}

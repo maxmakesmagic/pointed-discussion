@@ -1,0 +1,905 @@
+{
+ "129135: Blight Sickle": {
+  "rating": 2.973
+ },
+ "135429: Blowfly Infestation": {
+  "rating": 3.398
+ },
+ "135436: Wildslayer Elves": {
+  "rating": 2.971
+ },
+ "135439: Cinderhaze Wretch": {
+  "rating": 2.432
+ },
+ "135451: Barrenton Medic": {
+  "rating": 1.689
+ },
+ "135485: Biting Tether": {
+  "rating": 2.52
+ },
+ "135500: Devoted Druid": {
+  "rating": 4.183
+ },
+ "141929: Apothecary Initiate": {
+  "rating": 1.933
+ },
+ "141930: Resplendent Mentor": {
+  "rating": 2.569
+ },
+ "141935: Gravelgill Axeshark": {
+  "rating": 2.579
+ },
+ "141936: Sootwalkers": {
+  "rating": 2.323
+ },
+ "141937: Merrow Grimeblotter": {
+  "rating": 1.625
+ },
+ "141943: Moonring Island": {
+  "rating": 2.438
+ },
+ "141957: Whimwader": {
+  "rating": 1.892
+ },
+ "141958: Elvish Hexhunter": {
+  "rating": 4.051
+ },
+ "141959: Madblind Mountain": {
+  "rating": 1.926
+ },
+ "141972: Roughshod Mentor": {
+  "rating": 3.173
+ },
+ "141975: Oona's Gatewarden": {
+  "rating": 3.669
+ },
+ "141976: Kitchen Finks": {
+  "rating": 4.17
+ },
+ "141977: Medicine Runner": {
+  "rating": 2.792
+ },
+ "141978: Manaforge Cinder": {
+  "rating": 3.411
+ },
+ "141981: Deepchannel Mentor": {
+  "rating": 3.559
+ },
+ "141988: Blistering Dieflyn": {
+  "rating": 1.578
+ },
+ "141991: Worldpurge": {
+  "rating": 3.145
+ },
+ "141992: Mudbrawler Raiders": {
+  "rating": 2.456
+ },
+ "141996: Puca's Mischief": {
+  "rating": 3.856
+ },
+ "141998: Foxfire Oak": {
+  "rating": 2.1
+ },
+ "142000: Barrenton Cragtreads": {
+  "rating": 1.975
+ },
+ "142001: Loamdragger Giant": {
+  "rating": 2.37
+ },
+ "142003: Rune-Cervin Rider": {
+  "rating": 2.262
+ },
+ "142004: Elsewhere Flask": {
+  "rating": 3.05
+ },
+ "142005: Drowner Initiate": {
+  "rating": 3.422
+ },
+ "142007: Old Ghastbark": {
+  "rating": 2.048
+ },
+ "142009: Fulminator Mage": {
+  "rating": 4.019
+ },
+ "142012: Wanderbrine Rootcutters": {
+  "rating": 2.128
+ },
+ "142013: Tattermunge Maniac": {
+  "rating": 3.924
+ },
+ "142014: Mistveil Plains": {
+  "rating": 3.044
+ },
+ "142019: Godhead of Awe": {
+  "rating": 4.08
+ },
+ "142020: Leechridden Swamp": {
+  "rating": 3.12
+ },
+ "142026: Intimidator Initiate": {
+  "rating": 3.048
+ },
+ "142027: Silkbind Faerie": {
+  "rating": 2.989
+ },
+ "142028: Zealous Guardian": {
+  "rating": 3.27
+ },
+ "142030: Tatterkite": {
+  "rating": 3.026
+ },
+ "142031: Glamer Spinners": {
+  "rating": 2.338
+ },
+ "142032: Consign to Dream": {
+  "rating": 2.807
+ },
+ "142034: Corrosive Mentor": {
+  "rating": 3.782
+ },
+ "142035: Nurturer Initiate": {
+  "rating": 2.635
+ },
+ "142036: Everlasting Torment": {
+  "rating": 4.043
+ },
+ "142037: Raven's Run Dragoon": {
+  "rating": 2.475
+ },
+ "142038: Safewright Quest": {
+  "rating": 3.053
+ },
+ "142045: Ballynock Cohort": {
+  "rating": 3.43
+ },
+ "142048: Sapseep Forest": {
+  "rating": 2.877
+ },
+ "142049: Scar": {
+  "rating": 3.045
+ },
+ "142051: Cinderbones": {
+  "rating": 2.415
+ },
+ "142052: Scuzzback Scrapper": {
+  "rating": 3.302
+ },
+ "142053: Torpor Dust": {
+  "rating": 1.298
+ },
+ "142060: Ashenmoor Cohort": {
+  "rating": 1.113
+ },
+ "142062: Bloodmark Mentor": {
+  "rating": 3.828
+ },
+ "142067: Scuttlemutt": {
+  "rating": 3.897
+ },
+ "142068: Cultbrand Cinder": {
+  "rating": 1.949
+ },
+ "142070: Torture": {
+  "rating": 2.958
+ },
+ "146001: Prison Term": {
+  "rating": 3.875
+ },
+ "146002: Dusk Urchins": {
+  "rating": 4
+ },
+ "146007: Order of Whiteclay": {
+  "rating": 3.604
+ },
+ "146009: Crabapple Cohort": {
+  "rating": 2.045
+ },
+ "146013: Corrupt": {
+  "rating": 3.921
+ },
+ "146015: Gnarled Effigy": {
+  "rating": 2.096
+ },
+ "146016: Vexing Shusher": {
+  "rating": 4.397
+ },
+ "146017: Flame Javelin": {
+  "rating": 3.77
+ },
+ "146021: Mossbridge Troll": {
+  "rating": 4.075
+ },
+ "146022: Painter's Servant": {
+  "rating": 4.583
+ },
+ "146024: Thoughtweft Gambit": {
+  "rating": 2.888
+ },
+ "146035: Grief Tyrant": {
+  "rating": 3.319
+ },
+ "146036: Knacksaw Clique": {
+  "rating": 3.481
+ },
+ "146040: Illuminated Folio": {
+  "rating": 2.284
+ },
+ "146041: Armored Ascension": {
+  "rating": 3.5
+ },
+ "146043: Briarberry Cohort": {
+  "rating": 2.608
+ },
+ "146047: Revelsong Horn": {
+  "rating": 1.567
+ },
+ "146051: Crowd of Cinders": {
+  "rating": 3.417
+ },
+ "146053: Mass Calcify": {
+  "rating": 3.508
+ },
+ "146060: Crimson Wisps": {
+  "rating": 3.24
+ },
+ "146062: Mudbrawler Cohort": {
+  "rating": 2.833
+ },
+ "146065: Ashenmoor Liege": {
+  "rating": 3.822
+ },
+ "146070: Jaws of Stone": {
+  "rating": 3.304
+ },
+ "146071: Puncture Bolt": {
+  "rating": 2.9
+ },
+ "146077: Safehold Elite": {
+  "rating": 3.831
+ },
+ "146079: Curse of Chains": {
+  "rating": 3.672
+ },
+ "146087: Elemental Mastery": {
+  "rating": 3.724
+ },
+ "146089: Spiteful Visions": {
+  "rating": 3.164
+ },
+ "146090: Windbrisk Raptor": {
+  "rating": 3.795
+ },
+ "146094: River Kelpie": {
+  "rating": 4.18
+ },
+ "146095: Hollowborn Barghest": {
+  "rating": 3.713
+ },
+ "146097: Impromptu Raid": {
+  "rating": 2.814
+ },
+ "146727: Rage Reflection": {
+  "rating": 3.484
+ },
+ "146728: Thought Reflection": {
+  "rating": 3.317
+ },
+ "146729: Sunken Ruins": {
+  "rating": 4.322
+ },
+ "146733: Din of the Fireherd": {
+  "rating": 3.939
+ },
+ "146735: Oversoul of Dusk": {
+  "rating": 4.093
+ },
+ "146736: Fossil Find": {
+  "rating": 2.902
+ },
+ "146739: Grim Poppet": {
+  "rating": 3.981
+ },
+ "146740: Wheel of Sun and Moon": {
+  "rating": 4.51
+ },
+ "146742: Memory Plunder": {
+  "rating": 3.829
+ },
+ "146743: Glen Elendra Liege": {
+  "rating": 3.586
+ },
+ "146746: Mystic Gate": {
+  "rating": 4.273
+ },
+ "146747: Wooded Bastion": {
+  "rating": 4.357
+ },
+ "146750: Mana Reflection": {
+  "rating": 4.012
+ },
+ "146751: Boon Reflection": {
+  "rating": 3.833
+ },
+ "146753: Fire-Lit Thicket": {
+  "rating": 4.275
+ },
+ "146754: Swans of Bryn Argoll": {
+  "rating": 4.154
+ },
+ "146759: Fracturing Gust": {
+  "rating": 3.864
+ },
+ "146761: Puppeteer Clique": {
+  "rating": 3.667
+ },
+ "146762: Wound Reflection": {
+  "rating": 3.764
+ },
+ "146764: Graven Cairns": {
+  "rating": 4.167
+ },
+ "146766: Polluted Bonds": {
+  "rating": 3.398
+ },
+ "146767: Tyrannize": {
+  "rating": 3.074
+ },
+ "146773: Deus of Calamity": {
+  "rating": 4.044
+ },
+ "147370: Isleback Spawn": {
+  "rating": 3.726
+ },
+ "147375: Gloomwidow": {
+  "rating": 2.564
+ },
+ "147376: Smolder Initiate": {
+  "rating": 3.024
+ },
+ "147377: Sygg, River Cutthroat": {
+  "rating": 4.02
+ },
+ "147378: Splitting Headache": {
+  "rating": 2.75
+ },
+ "147379: Wort, the Raidmother": {
+  "rating": 3.75
+ },
+ "147381: Pili-Pala": {
+  "rating": 3.615
+ },
+ "147389: Rustrazor Butcher": {
+  "rating": 3.4
+ },
+ "147393: Rhys the Redeemed": {
+  "rating": 4.116
+ },
+ "147394: Safehold Sentry": {
+  "rating": 2.55
+ },
+ "147398: Knollspine Dragon": {
+  "rating": 3.72
+ },
+ "147399: Somnomancer": {
+  "rating": 2.545
+ },
+ "147406: Leech Bonder": {
+  "rating": 3.491
+ },
+ "147407: Augury Adept": {
+  "rating": 4.459
+ },
+ "147409: Thistledown Liege": {
+  "rating": 3.268
+ },
+ "147411: Fate Transfer": {
+  "rating": 3.845
+ },
+ "147414: Loch Korrigan": {
+  "rating": 1.618
+ },
+ "147419: Chainbreaker": {
+  "rating": 1.846
+ },
+ "147420: Trip Noose": {
+  "rating": 3.85
+ },
+ "147423: Kulrath Knight": {
+  "rating": 4.081
+ },
+ "147424: Last Breath": {
+  "rating": 2.269
+ },
+ "147425: Greater Auramancy": {
+  "rating": 4.027
+ },
+ "147427: Poison the Well": {
+  "rating": 3.141
+ },
+ "147428: Boartusk Liege": {
+  "rating": 3.929
+ },
+ "147429: Inescapable Brute": {
+  "rating": 2.483
+ },
+ "147431: Midnight Banshee": {
+  "rating": 3.948
+ },
+ "147433: Incremental Blight": {
+  "rating": 3.509
+ },
+ "147435: Scrapbasket": {
+  "rating": 2.893
+ },
+ "147439: Wilt-Leaf Liege": {
+  "rating": 4.097
+ },
+ "151630: Watchwing Scarecrow": {
+  "rating": 2.536
+ },
+ "151631: Rattleblaze Scarecrow": {
+  "rating": 2.364
+ },
+ "151632: Blazethorn Scarecrow": {
+  "rating": 2.057
+ },
+ "151633: Wingrattle Scarecrow": {
+  "rating": 2.455
+ },
+ "151634: Thornwatch Scarecrow": {
+  "rating": 2.068
+ },
+ "151979: Enchanted Evening": {
+  "rating": 3.861
+ },
+ "151987: Woodfall Primus": {
+  "rating": 4.128
+ },
+ "151989: Prismatic Omen": {
+  "rating": 4.175
+ },
+ "152059: Parapet Watchers": {
+  "rating": 2.276
+ },
+ "152060: Twilight Shepherd": {
+  "rating": 3.862
+ },
+ "152063: Oona, Queen of the Fae": {
+  "rating": 4.463
+ },
+ "152065: Cauldron of Souls": {
+  "rating": 3.799
+ },
+ "152068: Witherscale Wurm": {
+  "rating": 3.57
+ },
+ "152069: Furystoke Giant": {
+  "rating": 3.945
+ },
+ "152070: Spectral Procession": {
+  "rating": 4.061
+ },
+ "152075: Tower Above": {
+  "rating": 3.733
+ },
+ "152078: Scuzzback Marauders": {
+  "rating": 3.11
+ },
+ "152079: Beseech the Queen": {
+  "rating": 3.797
+ },
+ "152158: Reflecting Pool": {
+  "rating": 4.318
+ },
+ "152159: Power of Fire": {
+  "rating": 3.159
+ },
+ "153282: Tattermunge Duo": {
+  "rating": 2.838
+ },
+ "153289: Farhaven Elf": {
+  "rating": 3.596
+ },
+ "153297: Ghastlord of Fugue": {
+  "rating": 4.115
+ },
+ "153298: Murderous Redcap": {
+  "rating": 3.98
+ },
+ "153301: Thistledown Duo": {
+  "rating": 2.417
+ },
+ "153307: Emberstrike Duo": {
+  "rating": 2.667
+ },
+ "153308: Gravelgill Duo": {
+  "rating": 2.878
+ },
+ "153310: Pale Wayfarer": {
+  "rating": 1.768
+ },
+ "153311: Dire Undercurrents": {
+  "rating": 3.536
+ },
+ "153312: Heartmender": {
+  "rating": 4.04
+ },
+ "153314: Firespout": {
+  "rating": 4.396
+ },
+ "153317: Umbral Mantle": {
+  "rating": 4.024
+ },
+ "153319: Merrow Wavebreakers": {
+  "rating": 1.974
+ },
+ "153962: Wilt-Leaf Cavaliers": {
+  "rating": 4.046
+ },
+ "153963: Safehold Duo": {
+  "rating": 2.574
+ },
+ "153964: Faerie Macabre": {
+  "rating": 4.404
+ },
+ "153966: Counterbore": {
+  "rating": 3.559
+ },
+ "153967: Wasp Lancer": {
+  "rating": 3.395
+ },
+ "153968: Manamorphose": {
+  "rating": 4.543
+ },
+ "153970: Boggart Ram-Gang": {
+  "rating": 3.966
+ },
+ "153972: Demigod of Revenge": {
+  "rating": 4.211
+ },
+ "153973: Mirrorweave": {
+  "rating": 4.057
+ },
+ "153976: Juvenile Gloomwidow": {
+  "rating": 3.265
+ },
+ "153977: Knollspine Invocation": {
+  "rating": 3.016
+ },
+ "153980: Plumeveil": {
+  "rating": 3.96
+ },
+ "153981: Ashenmoor Gouger": {
+  "rating": 4.014
+ },
+ "153985: Woeleecher": {
+  "rating": 2.128
+ },
+ "153989: Sootstoke Kindler": {
+  "rating": 3.11
+ },
+ "153995: Slinking Giant": {
+  "rating": 2.112
+ },
+ "153996: Howl of the Night Pack": {
+  "rating": 3.353
+ },
+ "153997: Hungry Spriggan": {
+  "rating": 3.263
+ },
+ "153999: Spell Syphon": {
+  "rating": 3.353
+ },
+ "154003: Dramatic Entrance": {
+  "rating": 4.067
+ },
+ "154005: Runed Halo": {
+  "rating": 3.82
+ },
+ "154010: Sickle Ripper": {
+  "rating": 3.37
+ },
+ "154392: Aphotic Wisps": {
+  "rating": 3.298
+ },
+ "154394: Gloomwidow's Feast": {
+  "rating": 2.846
+ },
+ "154395: Heap Doll": {
+  "rating": 3.647
+ },
+ "154396: Scarscale Ritual": {
+  "rating": 3.242
+ },
+ "154397: Lurebound Scarecrow": {
+  "rating": 3.346
+ },
+ "154401: Inkfathom Infiltrator": {
+  "rating": 3.989
+ },
+ "154402: Prismwake Merrow": {
+  "rating": 2.111
+ },
+ "154403: Reknit": {
+  "rating": 3.167
+ },
+ "154408: Advice from the Fae": {
+  "rating": 2.694
+ },
+ "154409: Horde of Boggarts": {
+  "rating": 3.408
+ },
+ "154410: Wicker Warcrawler": {
+  "rating": 2.717
+ },
+ "154411: Lockjaw Snapper": {
+  "rating": 2.774
+ },
+ "157870: Forest": {
+  "rating": 4.086
+ },
+ "157871: Swamp": {
+  "rating": 4.481
+ },
+ "157872: Seedcradle Witch": {
+  "rating": 3.102
+ },
+ "157873: Plains": {
+  "rating": 4.714
+ },
+ "157874: Island": {
+  "rating": 4.667
+ },
+ "157875: Island": {
+  "rating": 4.519
+ },
+ "157876: Kinscaer Harpoonist": {
+  "rating": 2.05
+ },
+ "157877: Forest": {
+  "rating": 4.173
+ },
+ "157878: Drove of Elves": {
+  "rating": 3.811
+ },
+ "157879: Inkfathom Witch": {
+  "rating": 3.298
+ },
+ "157880: Spiteflame Witch": {
+  "rating": 3.108
+ },
+ "157881: Mistmeadow Witch": {
+  "rating": 3.483
+ },
+ "157882: Mountain": {
+  "rating": 4.592
+ },
+ "157883: Island": {
+  "rating": 3.9
+ },
+ "157884: Tattermunge Witch": {
+  "rating": 3.442
+ },
+ "157885: Mountain": {
+  "rating": 4.125
+ },
+ "157886: Swamp": {
+  "rating": 4.833
+ },
+ "157887: Plains": {
+  "rating": 4.768
+ },
+ "157888: Mountain": {
+  "rating": 4.188
+ },
+ "157889: Swamp": {
+  "rating": 4.776
+ },
+ "158234: Hollowsage": {
+  "rating": 2.882
+ },
+ "158235: Plains": {
+  "rating": 4.519
+ },
+ "158236: Plains": {
+  "rating": 4.286
+ },
+ "158237: Island": {
+  "rating": 4.407
+ },
+ "158238: Kithkin Shielddare": {
+  "rating": 2.21
+ },
+ "158239: Swamp": {
+  "rating": 4.326
+ },
+ "158240: Mountain": {
+  "rating": 3.962
+ },
+ "158241: Forest": {
+  "rating": 4.552
+ },
+ "158242: Forest": {
+  "rating": 4.5
+ },
+ "158243: Smash to Smithereens": {
+  "rating": 4.398
+ },
+ "158681: Gleeful Sabotage": {
+  "rating": 3.77
+ },
+ "158682: Ghastly Discovery": {
+  "rating": 2.737
+ },
+ "158683: Cerulean Wisps": {
+  "rating": 2.976
+ },
+ "158684: Boggart Arsonists": {
+  "rating": 2.363
+ },
+ "158685: Faerie Swarm": {
+  "rating": 2.965
+ },
+ "158686: Wild Swing": {
+  "rating": 2.513
+ },
+ "158687: Spawnwrithe": {
+  "rating": 3.939
+ },
+ "158688: Burn Trail": {
+  "rating": 2.797
+ },
+ "158689: Disturbing Plot": {
+  "rating": 2.8
+ },
+ "158690: Mistmeadow Skulk": {
+  "rating": 3.797
+ },
+ "158691: Raking Canopy": {
+  "rating": 3.64
+ },
+ "158692: Flow of Ideas": {
+  "rating": 2.912
+ },
+ "158693: Giantbaiting": {
+  "rating": 3.608
+ },
+ "158694: Niveous Wisps": {
+  "rating": 2.967
+ },
+ "158695: Kithkin Rabble": {
+  "rating": 3.357
+ },
+ "158745: Puresight Merrow": {
+  "rating": 3.457
+ },
+ "158746: Traitor's Roar": {
+  "rating": 3.047
+ },
+ "158747: Dawnglow Infusion": {
+  "rating": 3.614
+ },
+ "158749: Steel of the Godhead": {
+  "rating": 3.942
+ },
+ "158750: Aethertow": {
+  "rating": 2.884
+ },
+ "158751: Torrent of Souls": {
+  "rating": 3.705
+ },
+ "158752: Turn to Mist": {
+  "rating": 3.393
+ },
+ "158753: Fists of the Demigod": {
+  "rating": 3.96
+ },
+ "158754: Runes of the Deus": {
+  "rating": 3.725
+ },
+ "158755: River's Grasp": {
+  "rating": 3.171
+ },
+ "158756: Mine Excavation": {
+  "rating": 2.879
+ },
+ "158757: Gloomlance": {
+  "rating": 2.216
+ },
+ "158758: Viridescent Wisps": {
+  "rating": 2.329
+ },
+ "158759: Memory Sluice": {
+  "rating": 3.776
+ },
+ "158760: Sinking Feeling": {
+  "rating": 2.578
+ },
+ "158761: Repel Intruders": {
+  "rating": 2.929
+ },
+ "158762: Shield of the Oversoul": {
+  "rating": 4.073
+ },
+ "158763: Cursecatcher": {
+  "rating": 4.364
+ },
+ "158764: Flourishing Defenses": {
+  "rating": 3.28
+ },
+ "158765: Inquisitor's Snare": {
+  "rating": 2.786
+ },
+ "158766: Ember Gale": {
+  "rating": 2.534
+ },
+ "158767: Cemetery Puca": {
+  "rating": 3.971
+ },
+ "158768: Presence of Gond": {
+  "rating": 3.596
+ },
+ "158769: Helm of the Ghastlord": {
+  "rating": 3.645
+ },
+ "158771: Mercy Killing": {
+  "rating": 3.852
+ },
+ "158772: Barkshell Blessing": {
+  "rating": 2.893
+ },
+ "158773: Guttural Response": {
+  "rating": 4.199
+ },
+ "158774: Dream Salvage": {
+  "rating": 3.683
+ },
+ "159395: Bloodshed Fever": {
+  "rating": 1.93
+ },
+ "159396: Deep-Slumber Titan": {
+  "rating": 3.089
+ },
+ "159397: Valleymaker": {
+  "rating": 3.015
+ },
+ "159398: Put Away": {
+  "rating": 2.115
+ },
+ "159399: Pyre Charger": {
+  "rating": 2.825
+ },
+ "159400: Rite of Consumption": {
+  "rating": 3.976
+ },
+ "159402: Cragganwick Cremator": {
+  "rating": 3.538
+ },
+ "159404: Savor the Moment": {
+  "rating": 3.866
+ },
+ "159406: Plague of Vermin": {
+  "rating": 2.671
+ },
+ "159407: Morselhoarder": {
+  "rating": 3.838
+ },
+ "159408: Reaper King": {
+  "rating": 4.124
+ },
+ "159409: Strip Bare": {
+  "rating": 2.63
+ },
+ "159410: Toil to Renown": {
+  "rating": 2.802
+ },
+ "159412: Rosheen Meanderer": {
+  "rating": 3.983
+ },
+ "159413: Goldenglow Moth": {
+  "rating": 3.509
+ },
+ "159414: Oracle of Nectars": {
+  "rating": 4
+ }
+}

@@ -1,0 +1,692 @@
+{
+ "201097: Lu Meng, Wu General": {
+  "rating": 3.966
+ },
+ "201098: Active Volcano": {
+  "rating": 3.662
+ },
+ "201117: Akron Legionnaire": {
+  "rating": 1.098
+ },
+ "201118: Alabaster Potion": {
+  "rating": 2.793
+ },
+ "201119: All Hallow's Eve": {
+  "rating": 4.441
+ },
+ "201120: Wall of Light": {
+  "rating": 3.021
+ },
+ "201121: Lightning Blow": {
+  "rating": 2.204
+ },
+ "201122: Boomerang": {
+  "rating": 4.29
+ },
+ "201123: Dong Zhou, the Tyrant": {
+  "rating": 3.712
+ },
+ "201124: Spiny Starfish": {
+  "rating": 4.29
+ },
+ "201125: Carrion Ants": {
+  "rating": 3.152
+ },
+ "201126: Chain Lightning": {
+  "rating": 4.584
+ },
+ "201127: Cleanse": {
+  "rating": 3.821
+ },
+ "201128: Jedit Ojanen": {
+  "rating": 1.194
+ },
+ "201129: Cosmic Horror": {
+  "rating": 2.641
+ },
+ "201130: Crimson Kobolds": {
+  "rating": 4.047
+ },
+ "201131: Crimson Manticore": {
+  "rating": 2.375
+ },
+ "201133: Disharmony": {
+  "rating": 3.317
+ },
+ "201134: D'Avenant Archer": {
+  "rating": 2.423
+ },
+ "201135: Capture of Jingzhou": {
+  "rating": 4.038
+ },
+ "201136: Loyal Retainers": {
+  "rating": 4.526
+ },
+ "201137: Flash Flood": {
+  "rating": 3.259
+ },
+ "201138: Frost Giant": {
+  "rating": 2.64
+ },
+ "201139: Ghosts of the Damned": {
+  "rating": 2.058
+ },
+ "201140: Bone Flute": {
+  "rating": 2.117
+ },
+ "201141: Hellfire": {
+  "rating": 4.182
+ },
+ "201142: Immolation": {
+  "rating": 3.407
+ },
+ "201143: Spirit Shackle": {
+  "rating": 2.077
+ },
+ "201144: Old Man of the Sea": {
+  "rating": 4.43
+ },
+ "201145: Young Wei Recruits": {
+  "rating": 2.326
+ },
+ "201146: Ivory Guardians": {
+  "rating": 1.622
+ },
+ "201147: Call to Arms": {
+  "rating": 2.288
+ },
+ "201148: Kobold Drill Sergeant": {
+  "rating": 2.892
+ },
+ "201149: Kobold Overlord": {
+  "rating": 3.731
+ },
+ "201150: Kobold Taskmaster": {
+  "rating": 3.5
+ },
+ "201151: Kobolds of Kher Keep": {
+  "rating": 3.767
+ },
+ "201152: Land Equilibrium": {
+  "rating": 4.488
+ },
+ "201153: Land Tax": {
+  "rating": 4.588
+ },
+ "201154: Lesser Werewolf": {
+  "rating": 2.638
+ },
+ "201156: Mana Drain": {
+  "rating": 4.858
+ },
+ "201157: Torsten Von Ursus": {
+  "rating": 2.091
+ },
+ "201158: Nether Void": {
+  "rating": 4.642
+ },
+ "201159: Benthic Explorers": {
+  "rating": 2.875
+ },
+ "201160: Force Spike": {
+  "rating": 4.404
+ },
+ "201161: Recall": {
+  "rating": 3.564
+ },
+ "201162: Disenchant": {
+  "rating": 4.515
+ },
+ "201163: Reset": {
+  "rating": 4.489
+ },
+ "201164: Xiahou Dun, the One-Eyed": {
+  "rating": 4.122
+ },
+ "201165: Storm World": {
+  "rating": 3.258
+ },
+ "201166: Demonic Torment": {
+  "rating": 2.857
+ },
+ "201167: The Abyss": {
+  "rating": 4.642
+ },
+ "201168: The Wretched": {
+  "rating": 3.869
+ },
+ "201169: Fevered Strength": {
+  "rating": 2.733
+ },
+ "201175: Angus Mackenzie": {
+  "rating": 4.06
+ },
+ "201176: Arboria": {
+  "rating": 4.061
+ },
+ "201177: Arcades Sabboth": {
+  "rating": 3.25
+ },
+ "201178: Axelrod Gunnarson": {
+  "rating": 2.674
+ },
+ "201179: Wandering Mage": {
+  "rating": 3.097
+ },
+ "201181: Bartel Runeaxe": {
+  "rating": 3.385
+ },
+ "201182: Boris Devilboon": {
+  "rating": 2.266
+ },
+ "201183: Sol Grail": {
+  "rating": 3.103
+ },
+ "201184: Chromium": {
+  "rating": 3.188
+ },
+ "201185: Concordant Crossroads": {
+  "rating": 4.575
+ },
+ "201186: Fire Sprites": {
+  "rating": 2.357
+ },
+ "201187: Slashing Tiger": {
+  "rating": 3.022
+ },
+ "201188: Gabriel Angelfire": {
+  "rating": 2.123
+ },
+ "201189: Spectral Shield": {
+  "rating": 2.771
+ },
+ "201190: Barl's Cage": {
+  "rating": 2.92
+ },
+ "201191: Gwendlyn Di Corci": {
+  "rating": 4.072
+ },
+ "201192: Halfdane": {
+  "rating": 3.24
+ },
+ "201193: Hazezon Tamar": {
+  "rating": 4.014
+ },
+ "201194: Hunding Gjornersen": {
+  "rating": 2.773
+ },
+ "201195: Knowledge Vault": {
+  "rating": 2.78
+ },
+ "201196: Jerrard of the Closed Fist": {
+  "rating": 2.5
+ },
+ "201197: Kjeldoran Frostbeast": {
+  "rating": 3.414
+ },
+ "201198: Karakas": {
+  "rating": 4.57
+ },
+ "201199: Illusionary Mask": {
+  "rating": 4.592
+ },
+ "201200: Kei Takahashi": {
+  "rating": 1.761
+ },
+ "201201: Killer Bees": {
+  "rating": 4.153
+ },
+ "201202: Urborg": {
+  "rating": 4.25
+ },
+ "201203: Lady Evangela": {
+  "rating": 3.136
+ },
+ "201204: The Lady of the Mountain": {
+  "rating": 2.4
+ },
+ "201205: Life Chisel": {
+  "rating": 3.56
+ },
+ "201206: Coal Golem": {
+  "rating": 2.172
+ },
+ "201207: Living Plane": {
+  "rating": 3.862
+ },
+ "201208: Xira Arien": {
+  "rating": 3.598
+ },
+ "201209: Arena of the Ancients": {
+  "rating": 3.019
+ },
+ "201210: Desert Twister": {
+  "rating": 3.715
+ },
+ "201211: Gaea's Touch": {
+  "rating": 4.57
+ },
+ "201212: Nebuchadnezzar": {
+  "rating": 3.939
+ },
+ "201213: Nicol Bolas": {
+  "rating": 4.136
+ },
+ "201214: Nova Pentacle": {
+  "rating": 3.15
+ },
+ "201215: Palladia-Mors": {
+  "rating": 3.904
+ },
+ "201216: Firestorm Phoenix": {
+  "rating": 2.952
+ },
+ "201217: Freyalise's Winds": {
+  "rating": 3.759
+ },
+ "201218: Astrolabe": {
+  "rating": 2.778
+ },
+ "201219: Meng Huo's Horde": {
+  "rating": 2.109
+ },
+ "201220: Bazaar of Baghdad": {
+  "rating": 4.545
+ },
+ "201221: Ragnar": {
+  "rating": 3.128
+ },
+ "201222: Marhault Elsdragon": {
+  "rating": 2.455
+ },
+ "201223: Ramses Overdark": {
+  "rating": 3.137
+ },
+ "201224: Rasputin Dreamweaver": {
+  "rating": 4.017
+ },
+ "201225: Riven Turnbull": {
+  "rating": 1.44
+ },
+ "201226: Rohgahh of Kher Keep": {
+  "rating": 3.09
+ },
+ "201227: Rubinia Soulsinger": {
+  "rating": 3.689
+ },
+ "201228: Fellwar Stone": {
+  "rating": 4.125
+ },
+ "201229: Sir Shandlar of Eberyn": {
+  "rating": 2.013
+ },
+ "201230: Takklemaggot": {
+  "rating": 3.6
+ },
+ "201231: Stangg": {
+  "rating": 3.723
+ },
+ "201232: Sunastian Falconer": {
+  "rating": 2.613
+ },
+ "201233: Sword of the Ages": {
+  "rating": 3.958
+ },
+ "201234: Tetsuo Umezawa": {
+  "rating": 3.952
+ },
+ "201235: Gauntlets of Chaos": {
+  "rating": 2.909
+ },
+ "201236: The Tabernacle at Pendrell Vale": {
+  "rating": 4.642
+ },
+ "201237: Divine Intervention": {
+  "rating": 3.623
+ },
+ "201238: Tor Wauki": {
+  "rating": 3.077
+ },
+ "201239: Black Vise": {
+  "rating": 4.632
+ },
+ "201240: Tuknir Deathlock": {
+  "rating": 2
+ },
+ "201241: Jungle Lion": {
+  "rating": 3.688
+ },
+ "201242: Hammerheim": {
+  "rating": 4.219
+ },
+ "201243: Vaevictis Asmadi": {
+  "rating": 3.578
+ },
+ "201244: Willow Satyr": {
+  "rating": 3.857
+ },
+ "201250: Ashes to Ashes": {
+  "rating": 4.388
+ },
+ "201251: Banshee": {
+  "rating": 2.561
+ },
+ "201252: City of Shadows": {
+  "rating": 3.597
+ },
+ "201253: Dance of Many": {
+  "rating": 4.039
+ },
+ "201254: Wu Longbowman": {
+  "rating": 2.16
+ },
+ "201255: Exorcist": {
+  "rating": 3.828
+ },
+ "201256: Fire Drake": {
+  "rating": 2.19
+ },
+ "201257: Borrowing 100,000 Arrows": {
+  "rating": 4.029
+ },
+ "201258: Reincarnation": {
+  "rating": 4.152
+ },
+ "201259: Barktooth Warbeard": {
+  "rating": 2.149
+ },
+ "201260: Mana Vortex": {
+  "rating": 3.542
+ },
+ "201261: Evil Presence": {
+  "rating": 3.303
+ },
+ "201262: Wu Warship": {
+  "rating": 1.87
+ },
+ "201264: Infuse": {
+  "rating": 2.414
+ },
+ "201265: Amrou Kithkin": {
+  "rating": 3.044
+ },
+ "201266: Giant Growth": {
+  "rating": 4.375
+ },
+ "201267: Livonya Silone": {
+  "rating": 3.263
+ },
+ "201268: Sorrow's Path": {
+  "rating": 0.906
+ },
+ "201269: Remove Soul": {
+  "rating": 4.009
+ },
+ "201270: Tracker": {
+  "rating": 3.848
+ },
+ "201271: Wormwood Treefolk": {
+  "rating": 2.694
+ },
+ "201272: Blood Lust": {
+  "rating": 3.695
+ },
+ "201273: Hua Tuo, Honored Physician": {
+  "rating": 3.855
+ },
+ "201274: Burning of Xinye": {
+  "rating": 4.068
+ },
+ "201275: False Defeat": {
+  "rating": 3.929
+ },
+ "201276: Famine": {
+  "rating": 2.595
+ },
+ "201277: Fire Ambush": {
+  "rating": 2.7
+ },
+ "201278: Forced Retreat": {
+  "rating": 3.096
+ },
+ "201279: Ghostly Visit": {
+  "rating": 2.604
+ },
+ "201280: Guan Yu, Sainted Warrior": {
+  "rating": 3.667
+ },
+ "201281: Heavy Fog": {
+  "rating": 1.554
+ },
+ "201282: Kongming, \"Sleeping Dragon\"": {
+  "rating": 3.967
+ },
+ "201283: Liu Bei, Lord of Shu": {
+  "rating": 3.586
+ },
+ "201284: Guan Yu's 1,000-Li March": {
+  "rating": 3
+ },
+ "201285: Lu Bu, Master-at-Arms": {
+  "rating": 3.531
+ },
+ "201286: Lu Xun, Scholar General": {
+  "rating": 4.027
+ },
+ "201287: Meng Huo, Barbarian King": {
+  "rating": 3.942
+ },
+ "201288: Misfortune's Gain": {
+  "rating": 2.6
+ },
+ "201289: Stolen Grain": {
+  "rating": 2.762
+ },
+ "201290: Brilliant Plan": {
+  "rating": 2.456
+ },
+ "201291: Heal": {
+  "rating": 2.148
+ },
+ "201292: Forked Lightning": {
+  "rating": 2.952
+ },
+ "201293: Rolling Earthquake": {
+  "rating": 4.184
+ },
+ "201294: Shu Cavalry": {
+  "rating": 3.545
+ },
+ "201295: Shu Elite Companions": {
+  "rating": 3.217
+ },
+ "201296: Peach Garden Oath": {
+  "rating": 3.591
+ },
+ "201297: Shu General": {
+  "rating": 3.724
+ },
+ "201298: Shu Soldier-Farmers": {
+  "rating": 2.042
+ },
+ "201299: Spoils of Victory": {
+  "rating": 3.547
+ },
+ "201300: Strategic Planning": {
+  "rating": 4.211
+ },
+ "201301: Sun Ce, Young Conquerer": {
+  "rating": 3.441
+ },
+ "201302: Sun Quan, Lord of Wu": {
+  "rating": 4.064
+ },
+ "201303: Three Visits": {
+  "rating": 4.25
+ },
+ "201304: Eightfold Maze": {
+  "rating": 2.976
+ },
+ "201305: Wei Elite Companions": {
+  "rating": 2.75
+ },
+ "201306: Wei Night Raiders": {
+  "rating": 3.485
+ },
+ "201307: Wei Strike Force": {
+  "rating": 2.935
+ },
+ "201308: Wu Elite Cavalry": {
+  "rating": 2.957
+ },
+ "201309: Reveka, Wizard Savant": {
+  "rating": 2.656
+ },
+ "201310: Ramirez DePietro": {
+  "rating": 3.323
+ },
+ "201311: Mind Twist": {
+  "rating": 4.615
+ },
+ "201312: Zhang Fei, Fierce Warrior": {
+  "rating": 3.685
+ },
+ "201313: Zodiac Dragon": {
+  "rating": 3.682
+ },
+ "201315: Anaba Ancestor": {
+  "rating": 2.549
+ },
+ "201316: Anaba Spirit Crafter": {
+  "rating": 2.742
+ },
+ "201317: Didgeridoo": {
+  "rating": 4.086
+ },
+ "201318: Faerie Noble": {
+  "rating": 3.3
+ },
+ "201319: Labyrinth Minotaur": {
+  "rating": 3.367
+ },
+ "201320: Trip Wire": {
+  "rating": 1.5
+ },
+ "201321: Willow Priestess": {
+  "rating": 3.419
+ },
+ "201322: Riding the Dilu Horse": {
+  "rating": 4.07
+ },
+ "201323: Cinder Storm": {
+  "rating": 3.08
+ },
+ "201324: Elves of Deep Shadow": {
+  "rating": 4.052
+ },
+ "201325: Raging Minotaur": {
+  "rating": 3.56
+ },
+ "201400: Bayou": {
+  "rating": 4.906
+ },
+ "201401: Hurloon Minotaur": {
+  "rating": 3.117
+ },
+ "201402: Plateau": {
+  "rating": 4.845
+ },
+ "201403: Scrubland": {
+  "rating": 4.907
+ },
+ "201404: Scryb Sprites": {
+  "rating": 4.253
+ },
+ "201405: Tropical Island": {
+  "rating": 4.831
+ },
+ "201406: Volcanic Island": {
+  "rating": 4.809
+ },
+ "201407: Hunting Cheetah": {
+  "rating": 4.061
+ },
+ "201408: Corrupt Eunuchs": {
+  "rating": 2.963
+ },
+ "201409: Grim Tutor": {
+  "rating": 4.355
+ },
+ "201410: Lady Caleria": {
+  "rating": 2.843
+ },
+ "205867: Lady Orca": {
+  "rating": 1.574
+ },
+ "205868: Sivitri Scarzam": {
+  "rating": 1.833
+ },
+ "205869: Princess Lucrezia": {
+  "rating": 1.364
+ },
+ "205870: Tobias Andrion": {
+  "rating": 1.282
+ },
+ "205922: Pavel Maliki": {
+  "rating": 1.691
+ },
+ "206068: Desperate Charge": {
+  "rating": 3.306
+ },
+ "206069: Forest": {
+  "rating": 4.238
+ },
+ "206070: Forest": {
+  "rating": 4.283
+ },
+ "206071: Forest": {
+  "rating": 4.333
+ },
+ "206072: Island": {
+  "rating": 3.966
+ },
+ "206073: Island": {
+  "rating": 4.422
+ },
+ "206074: Island": {
+  "rating": 4.463
+ },
+ "206075: Mountain": {
+  "rating": 4.769
+ },
+ "206076: Mountain": {
+  "rating": 4.75
+ },
+ "206077: Mountain": {
+  "rating": 4.42
+ },
+ "206078: Plains": {
+  "rating": 4.605
+ },
+ "206079: Plains": {
+  "rating": 4.433
+ },
+ "206080: Plains": {
+  "rating": 4.525
+ },
+ "206081: Swamp": {
+  "rating": 4.708
+ },
+ "206082: Swamp": {
+  "rating": 4.389
+ },
+ "206083: Swamp": {
+  "rating": 4.658
+ },
+ "206084: Voodoo Doll": {
+  "rating": 2.1
+ },
+ "206117: Wei Infantry": {
+  "rating": 2.368
+ }
+}

@@ -1,0 +1,542 @@
+{
+ "125878: Coalition Relic": {
+  "rating": 4.264
+ },
+ "126131: Festering March": {
+  "rating": 3.149
+ },
+ "126132: Edge of Autumn": {
+  "rating": 3.117
+ },
+ "126134: Shimian Specter": {
+  "rating": 3.895
+ },
+ "126139: Leaden Fists": {
+  "rating": 2.888
+ },
+ "126141: Cryptic Annelid": {
+  "rating": 3.848
+ },
+ "126143: Blind Phantasm": {
+  "rating": 3.271
+ },
+ "126146: Lost Auramancers": {
+  "rating": 3.561
+ },
+ "126147: Llanowar Empath": {
+  "rating": 2.569
+ },
+ "126148: Putrid Cyclops": {
+  "rating": 1.963
+ },
+ "126149: Fomori Nomad": {
+  "rating": 2.787
+ },
+ "126151: Logic Knot": {
+  "rating": 3.833
+ },
+ "126153: Reality Strobe": {
+  "rating": 3.518
+ },
+ "126156: Mystic Speculation": {
+  "rating": 3.865
+ },
+ "126158: Mass of Ghouls": {
+  "rating": 2.833
+ },
+ "126159: Grave Peril": {
+  "rating": 3.024
+ },
+ "126160: Phosphorescent Feast": {
+  "rating": 2.514
+ },
+ "126161: Bogardan Lancer": {
+  "rating": 3.176
+ },
+ "126162: Homing Sliver": {
+  "rating": 3.959
+ },
+ "126164: Judge Unworthy": {
+  "rating": 3.429
+ },
+ "126165: Lymph Sliver": {
+  "rating": 3.481
+ },
+ "126166: Llanowar Mentor": {
+  "rating": 3.193
+ },
+ "126169: Cyclical Evolution": {
+  "rating": 2.425
+ },
+ "126177: Cutthroat il-Dal": {
+  "rating": 2.675
+ },
+ "126178: Whip-Spine Drake": {
+  "rating": 3.11
+ },
+ "126186: Lumithread Field": {
+  "rating": 3.152
+ },
+ "126187: Frenzy Sliver": {
+  "rating": 2.75
+ },
+ "126193: Arc Blade": {
+  "rating": 3.403
+ },
+ "126198: New Benalia": {
+  "rating": 2.977
+ },
+ "126199: Riddle of Lightning": {
+  "rating": 3.257
+ },
+ "126200: Scout's Warning": {
+  "rating": 3.912
+ },
+ "126201: Shivan Sand-Mage": {
+  "rating": 2.53
+ },
+ "126204: Chronomantic Escape": {
+  "rating": 3.709
+ },
+ "126210: River of Tears": {
+  "rating": 4.118
+ },
+ "126211: Darksteel Garrison": {
+  "rating": 3.69
+ },
+ "126213: Soultether Golem": {
+  "rating": 2.272
+ },
+ "126215: Sword of the Meek": {
+  "rating": 4.06
+ },
+ "130309: Cloudseeder": {
+  "rating": 2.635
+ },
+ "130311: Goldmeadow Lookout": {
+  "rating": 2.738
+ },
+ "130314: Skirk Ridge Exhumer": {
+  "rating": 3.858
+ },
+ "130316: Minions' Murmurs": {
+  "rating": 2.821
+ },
+ "130320: Saltskitter": {
+  "rating": 2.937
+ },
+ "130323: Sporoloth Ancient": {
+  "rating": 3.8
+ },
+ "130325: Vedalken Aethermage": {
+  "rating": 3.779
+ },
+ "130327: Samite Censer-Bearer": {
+  "rating": 2.419
+ },
+ "130328: Haze of Rage": {
+  "rating": 3.231
+ },
+ "130329: Sliversmith": {
+  "rating": 2.643
+ },
+ "130331: Wrap in Vigor": {
+  "rating": 3.779
+ },
+ "130332: Lost Hours": {
+  "rating": 2.984
+ },
+ "130334: Bound in Silence": {
+  "rating": 2.85
+ },
+ "130338: Thunderblade Charge": {
+  "rating": 3.343
+ },
+ "130339: Ravaging Riftwurm": {
+  "rating": 2.72
+ },
+ "130341: Sparkspitter": {
+  "rating": 3.295
+ },
+ "130342: Unblinking Bleb": {
+  "rating": 3.038
+ },
+ "130344: Spin into Myth": {
+  "rating": 3.52
+ },
+ "130345: Angel of Salvation": {
+  "rating": 3.815
+ },
+ "130346: Mistmeadow Skulk": {
+  "rating": 3.357
+ },
+ "130347: Seht's Tiger": {
+  "rating": 3.6
+ },
+ "130353: Riftsweeper": {
+  "rating": 3.745
+ },
+ "130564: Nix": {
+  "rating": 3.177
+ },
+ "130574: Horizon Canopy": {
+  "rating": 4.226
+ },
+ "130581: Graven Cairns": {
+  "rating": 4.13
+ },
+ "130582: Char-Rumbler": {
+  "rating": 3.41
+ },
+ "130588: Nacatl War-Pride": {
+  "rating": 4.153
+ },
+ "130591: Rift Elemental": {
+  "rating": 3.573
+ },
+ "130595: Grove of the Burnwillows": {
+  "rating": 4.038
+ },
+ "130614: Muraganda Petroglyphs": {
+  "rating": 4.133
+ },
+ "130616: Utopia Mycon": {
+  "rating": 3.88
+ },
+ "130630: Thornweald Archer": {
+  "rating": 4.197
+ },
+ "130634: Imperiosaur": {
+  "rating": 3.848
+ },
+ "130635: Daybreak Coronet": {
+  "rating": 4.173
+ },
+ "130638: Pact of the Titan": {
+  "rating": 3.667
+ },
+ "130644: Virulent Sliver": {
+  "rating": 4.37
+ },
+ "130659: Spellwild Ouphe": {
+  "rating": 3.151
+ },
+ "130669: Foresee": {
+  "rating": 4
+ },
+ "130670: Rites of Flourishing": {
+  "rating": 3.805
+ },
+ "130672: Boldwyr Intimidator": {
+  "rating": 3.527
+ },
+ "130675: Storm Entity": {
+  "rating": 4.102
+ },
+ "130676: Blade of the Sixth Pride": {
+  "rating": 3.874
+ },
+ "130680: Intervention Pact": {
+  "rating": 3.64
+ },
+ "130683: Ichor Slick": {
+  "rating": 3.156
+ },
+ "130684: Centaur Omenreader": {
+  "rating": 3.709
+ },
+ "130686: Bloodshot Trainee": {
+  "rating": 2.966
+ },
+ "130689: Marshaling Cry": {
+  "rating": 3.351
+ },
+ "130690: Gibbering Descent": {
+  "rating": 3.75
+ },
+ "130691: Lucent Liminid": {
+  "rating": 3.123
+ },
+ "130694: Infiltrator il-Kor": {
+  "rating": 3.364
+ },
+ "130695: Henchfiend of Ukor": {
+  "rating": 2.55
+ },
+ "130698: Knight of Sursi": {
+  "rating": 3.113
+ },
+ "130699: Fatal Attraction": {
+  "rating": 2.776
+ },
+ "130701: Pact of Negation": {
+  "rating": 4.385
+ },
+ "130702: Yixlid Jailer": {
+  "rating": 4.424
+ },
+ "130704: Slaughter Pact": {
+  "rating": 4.225
+ },
+ "130706: Summoner's Pact": {
+  "rating": 4.399
+ },
+ "130707: Gathan Raiders": {
+  "rating": 3.984
+ },
+ "130708: Snake Cult Initiation": {
+  "rating": 3.724
+ },
+ "130713: Force of Savagery": {
+  "rating": 3.916
+ },
+ "132211: Grave Scrabbler": {
+  "rating": 3.227
+ },
+ "132212: Augur il-Vec": {
+  "rating": 2.811
+ },
+ "132213: Llanowar Augur": {
+  "rating": 3.72
+ },
+ "132214: Emberwilde Augur": {
+  "rating": 2.597
+ },
+ "132215: Zoetic Cavern": {
+  "rating": 3.873
+ },
+ "132216: Heartwood Storyteller": {
+  "rating": 4.233
+ },
+ "132217: Quiet Disrepair": {
+  "rating": 3.34
+ },
+ "132218: Kavu Primarch": {
+  "rating": 3.446
+ },
+ "132219: Oblivion Crown": {
+  "rating": 2.943
+ },
+ "132220: Fleshwrither": {
+  "rating": 3.52
+ },
+ "132221: Spirit en-Dal": {
+  "rating": 3.892
+ },
+ "132222: Witch's Mist": {
+  "rating": 3.076
+ },
+ "132223: Petrified Plating": {
+  "rating": 1.969
+ },
+ "132224: Augur of Skulls": {
+  "rating": 4.097
+ },
+ "132225: Aven Augur": {
+  "rating": 2.663
+ },
+ "132226: Deepcavern Imp": {
+  "rating": 3.106
+ },
+ "132227: Flowstone Embrace": {
+  "rating": 2.535
+ },
+ "132228: Delay": {
+  "rating": 3.954
+ },
+ "132229: Bonded Fetch": {
+  "rating": 3.315
+ },
+ "136032: Spellweaver Volute": {
+  "rating": 3.406
+ },
+ "136033: Magus of the Abyss": {
+  "rating": 3.758
+ },
+ "136035: Llanowar Reborn": {
+  "rating": 4.134
+ },
+ "136040: Grinning Ignus": {
+  "rating": 3.826
+ },
+ "136041: Tombstalker": {
+  "rating": 4.279
+ },
+ "136042: Sprout Swarm": {
+  "rating": 4.107
+ },
+ "136043: Death Rattle": {
+  "rating": 2.955
+ },
+ "136044: Ghostfire": {
+  "rating": 3.74
+ },
+ "136045: Nimbus Maze": {
+  "rating": 4.216
+ },
+ "136046: Keldon Megaliths": {
+  "rating": 3.265
+ },
+ "136047: Tolaria West": {
+  "rating": 4.392
+ },
+ "136048: Barren Glory": {
+  "rating": 3.522
+ },
+ "136049: Bitter Ordeal": {
+  "rating": 4.35
+ },
+ "136051: Magus of the Future": {
+  "rating": 4.222
+ },
+ "136053: Dakmor Salvage": {
+  "rating": 3.896
+ },
+ "136054: Bridge from Below": {
+  "rating": 4.284
+ },
+ "136055: Arcanum Wings": {
+  "rating": 3.847
+ },
+ "136056: Stronghold Rats": {
+  "rating": 3.217
+ },
+ "136137: Shah of Naar Isle": {
+  "rating": 3.368
+ },
+ "136138: Nessian Courser": {
+  "rating": 3.105
+ },
+ "136139: Tarox Bladewing": {
+  "rating": 3.877
+ },
+ "136140: Narcomoeba": {
+  "rating": 4.547
+ },
+ "136141: Whetwheel": {
+  "rating": 3.048
+ },
+ "136142: Tarmogoyf": {
+  "rating": 4.386
+ },
+ "136143: Epochrasite": {
+  "rating": 4.323
+ },
+ "136145: Ramosian Revivalist": {
+  "rating": 2.547
+ },
+ "136146: Sliver Legion": {
+  "rating": 4.203
+ },
+ "136148: Magus of the Moat": {
+  "rating": 4.212
+ },
+ "136149: Veilstone Amulet": {
+  "rating": 3.808
+ },
+ "136150: Akroma's Memorial": {
+  "rating": 4.228
+ },
+ "136151: Steamflogger Boss": {
+  "rating": 3.75
+ },
+ "136152: Magus of the Moon": {
+  "rating": 4.5
+ },
+ "136153: Quagnoth": {
+  "rating": 3.836
+ },
+ "136154: Molten Disaster": {
+  "rating": 3.798
+ },
+ "136155: Baru, Fist of Krosa": {
+  "rating": 4.035
+ },
+ "136156: Cloud Key": {
+  "rating": 4.153
+ },
+ "136157: Glittering Wish": {
+  "rating": 4.207
+ },
+ "136158: Second Wind": {
+  "rating": 3.404
+ },
+ "136159: Magus of the Vineyard": {
+  "rating": 3.992
+ },
+ "136160: Skizzik Surger": {
+  "rating": 2
+ },
+ "136161: Scourge of Kher Ridges": {
+  "rating": 4.19
+ },
+ "136192: Even the Odds": {
+  "rating": 3.17
+ },
+ "136194: Jhoira of the Ghitu": {
+  "rating": 4.168
+ },
+ "136195: Maelstrom Djinn": {
+  "rating": 2.783
+ },
+ "136196: Dryad Arbor": {
+  "rating": 4.245
+ },
+ "136197: Venser's Diffusion": {
+  "rating": 3.663
+ },
+ "136198: Linessa, Zephyr Mage": {
+  "rating": 3.723
+ },
+ "136199: Take Possession": {
+  "rating": 3.825
+ },
+ "136200: Gift of Granite": {
+  "rating": 2.087
+ },
+ "136201: Imperial Mask": {
+  "rating": 4.031
+ },
+ "136202: Mesmeric Sliver": {
+  "rating": 2.837
+ },
+ "136204: Aven Mindcensor": {
+  "rating": 4.441
+ },
+ "136205: Street Wraith": {
+  "rating": 4.074
+ },
+ "136206: Nihilith": {
+  "rating": 3.635
+ },
+ "136207: Dust of Moments": {
+  "rating": 2.25
+ },
+ "136208: Korlash, Heir to Blackblade": {
+  "rating": 4.209
+ },
+ "136209: Venser, Shaper Savant": {
+  "rating": 4.139
+ },
+ "136210: Oriss, Samite Guardian": {
+  "rating": 3.754
+ },
+ "136211: Pooling Venom": {
+  "rating": 3.013
+ },
+ "136212: Sarcomite Myr": {
+  "rating": 2.646
+ },
+ "136213: Patrician's Scorn": {
+  "rating": 3.423
+ },
+ "136214: Shapeshifter's Marrow": {
+  "rating": 3.07
+ },
+ "136215: Emblem of the Warmind": {
+  "rating": 3.208
+ },
+ "136216: Pyromancer's Swath": {
+  "rating": 3.588
+ }
+}

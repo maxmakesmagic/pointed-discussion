@@ -1,0 +1,266 @@
+{
+ "5648: Rock Lobster": {
+  "rating": 4.011
+ },
+ "5698: Scissors Lizard": {
+  "rating": 4.221
+ },
+ "5705: Paper Tiger": {
+  "rating": 3.912
+ },
+ "5712: Chaos Confetti": {
+  "rating": 4.3
+ },
+ "5725: Mesa Chicken": {
+  "rating": 3.828
+ },
+ "5726: Double Dip": {
+  "rating": 3.023
+ },
+ "5755: Sex Appeal": {
+  "rating": 3.641
+ },
+ "5763: Clambassadors": {
+  "rating": 3.559
+ },
+ "5770: Clam-I-Am": {
+  "rating": 3
+ },
+ "5800: Denied!": {
+  "rating": 3.828
+ },
+ "5822: Fowl Play": {
+  "rating": 4.365
+ },
+ "5824: Clam Session": {
+  "rating": 3.125
+ },
+ "5839: Deadhead": {
+  "rating": 4.121
+ },
+ "5846: Double Cross": {
+  "rating": 3.2
+ },
+ "5864: Poultrygeist": {
+  "rating": 3
+ },
+ "8812: Double Deal": {
+  "rating": 3.63
+ },
+ "8904: Hurloon Wrangler": {
+  "rating": 3.943
+ },
+ "9665: Goblin Bookie": {
+  "rating": 3.833
+ },
+ "9666: Goblin Bowling Team": {
+  "rating": 3.523
+ },
+ "9667: Chicken Egg": {
+  "rating": 3.708
+ },
+ "9668: Ghazbán Ogress": {
+  "rating": 3.75
+ },
+ "9669: Elvish Impersonators": {
+  "rating": 3.675
+ },
+ "9670: Gus": {
+  "rating": 3.704
+ },
+ "9671: Growth Spurt": {
+  "rating": 3.312
+ },
+ "9675: Free-Range Chicken": {
+  "rating": 3.238
+ },
+ "9676: Swamp": {
+  "rating": 4.78
+ },
+ "9677: Island": {
+  "rating": 4.759
+ },
+ "9680: Plains": {
+  "rating": 4.566
+ },
+ "9683: Forest": {
+  "rating": 4.593
+ },
+ "9707: Mountain": {
+  "rating": 4.524
+ },
+ "9729: Jack-in-the-Mox": {
+  "rating": 3.987
+ },
+ "9730: Bronze Calendar": {
+  "rating": 4.103
+ },
+ "9731: Urza's Science Fair Project": {
+  "rating": 3.5
+ },
+ "9739: Jester's Sombrero": {
+  "rating": 2.672
+ },
+ "9740: Spatula of the Ages": {
+  "rating": 4.351
+ },
+ "9741: Charm School": {
+  "rating": 4.155
+ },
+ "9742: Knight of the Hokey Pokey": {
+  "rating": 4.44
+ },
+ "9743: Get a Life": {
+  "rating": 3.711
+ },
+ "9744: Prismatic Wardrobe": {
+  "rating": 3
+ },
+ "9745: Miss Demeanor": {
+  "rating": 3.914
+ },
+ "9746: Checks and Balances": {
+  "rating": 3.023
+ },
+ "9747: Censorship": {
+  "rating": 3.8
+ },
+ "9748: Common Courtesy": {
+  "rating": 4.08
+ },
+ "9749: Chicken à la King": {
+  "rating": 3.485
+ },
+ "9750: Jumbo Imp": {
+  "rating": 3.139
+ },
+ "9751: Handcuffs": {
+  "rating": 3.743
+ },
+ "9752: Organ Harvest": {
+  "rating": 3.902
+ },
+ "9753: Volrath's Motion Sensor": {
+  "rating": 3.609
+ },
+ "9754: Spark Fiend": {
+  "rating": 3.605
+ },
+ "9755: Goblin Tutor": {
+  "rating": 4.227
+ },
+ "9756: Ricochet": {
+  "rating": 3.857
+ },
+ "9757: The Ultimate Nightmare of Wizards of the Coast® Customer Service": {
+  "rating": 4.19
+ },
+ "9758: Krazy Kow": {
+  "rating": 3.225
+ },
+ "9759: Flock of Rabid Sheep": {
+  "rating": 3.237
+ },
+ "9760: Lexivore": {
+  "rating": 3.237
+ },
+ "9761: Gerrymandering": {
+  "rating": 3.76
+ },
+ "9762: Cardboard Carapace": {
+  "rating": 3.98
+ },
+ "9763: Team Spirit": {
+  "rating": 4.111
+ },
+ "9764: Blacker Lotus": {
+  "rating": 4.478
+ },
+ "9765: Mirror Mirror": {
+  "rating": 3.905
+ },
+ "9766: Clay Pigeon": {
+  "rating": 3.609
+ },
+ "9767: Giant Fan": {
+  "rating": 4.339
+ },
+ "9769: Ashnod's Coupon": {
+  "rating": 4.099
+ },
+ "9770: Urza's Contact Lenses": {
+  "rating": 4.318
+ },
+ "9771: Look at Me, I'm the DCI": {
+  "rating": 4.321
+ },
+ "9772: Once More with Feeling": {
+  "rating": 3.891
+ },
+ "9773: The Cheese Stands Alone": {
+  "rating": 4.444
+ },
+ "9774: I'm Rubber, You're Glue": {
+  "rating": 3.452
+ },
+ "9775: Free-for-All": {
+  "rating": 4.194
+ },
+ "9776: Sorry": {
+  "rating": 3.077
+ },
+ "9777: Psychic Network": {
+  "rating": 3.976
+ },
+ "9778: Bureaucracy": {
+  "rating": 3.7
+ },
+ "9779: Infernal Spawn of Evil": {
+  "rating": 4.396
+ },
+ "9780: B.F.M.": {
+  "rating": 4.243
+ },
+ "9781: Ow": {
+  "rating": 4.182
+ },
+ "9782: Jalum Grifter": {
+  "rating": 3.15
+ },
+ "9783: Burning Cinder Fury of Crimson Chaos Fire": {
+  "rating": 4.141
+ },
+ "9784: Strategy, Schmategy": {
+  "rating": 4.328
+ },
+ "9785: Landfill": {
+  "rating": 3.095
+ },
+ "9786: Timmy, Power Gamer": {
+  "rating": 4.429
+ },
+ "9787: Mine, Mine, Mine!": {
+  "rating": 3.946
+ },
+ "9788: Incoming!": {
+  "rating": 4.375
+ },
+ "9789: Squirrel Farm": {
+  "rating": 4
+ },
+ "9843: Hungry Hungry Heifer": {
+  "rating": 3.271
+ },
+ "9844: B.F.M.": {
+  "rating": 4.243
+ },
+ "9894: Double Take": {
+  "rating": 3.344
+ },
+ "9895: Double Play": {
+  "rating": 3.438
+ },
+ "10717: Temp of the Damned": {
+  "rating": 2.019
+ }
+}

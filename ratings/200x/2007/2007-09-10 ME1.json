@@ -1,0 +1,587 @@
+{
+ "159084: Arcane Denial": {
+  "rating": 4.187
+ },
+ "159086: Balduvian Horde": {
+  "rating": 3.588
+ },
+ "159087: Apprentice Wizard": {
+  "rating": 3.94
+ },
+ "159089: Contagion": {
+  "rating": 4.571
+ },
+ "159090: Diminishing Returns": {
+  "rating": 4.555
+ },
+ "159091: Exile": {
+  "rating": 4.361
+ },
+ "159092: Force of Will": {
+  "rating": 4.738
+ },
+ "159093: Gargantuan Gorilla": {
+  "rating": 3.016
+ },
+ "159095: Lake of the Dead": {
+  "rating": 4.511
+ },
+ "159096: Lord of Tresserhorn": {
+  "rating": 4.029
+ },
+ "159097: Phelddagrif": {
+  "rating": 4.083
+ },
+ "159098: Phyrexian War Beast": {
+  "rating": 3.786
+ },
+ "159103: Shield Sphere": {
+  "rating": 4.38
+ },
+ "159106: Thawing Glaciers": {
+  "rating": 4.437
+ },
+ "159109: Yavimaya Ants": {
+  "rating": 3.872
+ },
+ "159110: Ashnod's Transmogrant": {
+  "rating": 3.444
+ },
+ "159111: Ivory Tower": {
+  "rating": 4.208
+ },
+ "159114: Mishra's Factory": {
+  "rating": 4.669
+ },
+ "159116: Onulet": {
+  "rating": 2.781
+ },
+ "159117: Orcish Mechanics": {
+  "rating": 2.859
+ },
+ "159119: Su-Chi": {
+  "rating": 4.377
+ },
+ "159120: Tawnos's Coffin": {
+  "rating": 3.897
+ },
+ "159123: Cuombajj Witches": {
+  "rating": 3.219
+ },
+ "159124: Diamond Valley": {
+  "rating": 4.5
+ },
+ "159126: Erg Raiders": {
+  "rating": 3.48
+ },
+ "159127: Ghazbán Ogre": {
+  "rating": 3.1
+ },
+ "159129: Giant Tortoise": {
+  "rating": 2.957
+ },
+ "159130: Ifh-Bíff Efreet": {
+  "rating": 3.868
+ },
+ "159132: Juzám Djinn": {
+  "rating": 4.324
+ },
+ "159135: Oubliette": {
+  "rating": 3.941
+ },
+ "159136: Ring of Ma'rûf": {
+  "rating": 3.689
+ },
+ "159137: Serendib Efreet": {
+  "rating": 4.303
+ },
+ "159139: Ball Lightning": {
+  "rating": 4.333
+ },
+ "159141: Brothers of Fire": {
+  "rating": 2.365
+ },
+ "159142: Carnivorous Plant": {
+  "rating": 2.903
+ },
+ "159144: Dust to Dust": {
+  "rating": 3.885
+ },
+ "159145: Eater of the Dead": {
+  "rating": 3.4
+ },
+ "159147: Fissure": {
+  "rating": 3.777
+ },
+ "159148: Holy Light": {
+  "rating": 3.417
+ },
+ "159149: Knights of Thorn": {
+  "rating": 2.931
+ },
+ "159153: Preacher": {
+  "rating": 4.297
+ },
+ "159154: Stone Calendar": {
+  "rating": 3.057
+ },
+ "159155: Sunken City": {
+  "rating": 3.591
+ },
+ "159156: The Fallen": {
+  "rating": 3.5
+ },
+ "159166: Breeding Pit": {
+  "rating": 3.703
+ },
+ "159171: Derelor": {
+  "rating": 2.162
+ },
+ "159173: Dwarven Soldier": {
+  "rating": 2.113
+ },
+ "159175: Hand of Justice": {
+  "rating": 3.598
+ },
+ "159177: High Tide": {
+  "rating": 4.507
+ },
+ "159179: Homarid Spawning Bed": {
+  "rating": 4.322
+ },
+ "159180: Hymn to Tourach": {
+  "rating": 4.64
+ },
+ "159188: Order of Leitbur": {
+  "rating": 4.17
+ },
+ "159193: Order of the Ebon Hand": {
+  "rating": 4.476
+ },
+ "159196: Thorn Thallid": {
+  "rating": 2.932
+ },
+ "159200: Thrull Champion": {
+  "rating": 3.885
+ },
+ "159201: Thrull Retainer": {
+  "rating": 3.362
+ },
+ "159202: Vodalian Knights": {
+  "rating": 2.735
+ },
+ "159205: Autumn Willow": {
+  "rating": 3.93
+ },
+ "159208: Baron Sengir": {
+  "rating": 3.944
+ },
+ "159212: Hungry Mist": {
+  "rating": 2.872
+ },
+ "159215: Primal Order": {
+  "rating": 3.866
+ },
+ "159218: Roots": {
+  "rating": 3.096
+ },
+ "159219: Sea Sprite": {
+  "rating": 3.303
+ },
+ "159224: Spectral Bears": {
+  "rating": 3.357
+ },
+ "159226: Chub Toad": {
+  "rating": 2.686
+ },
+ "159228: Fyndhorn Elves": {
+  "rating": 4.532
+ },
+ "159229: Goblin Mutant": {
+  "rating": 2.9
+ },
+ "159230: Hallowed Ground": {
+  "rating": 3.733
+ },
+ "159231: Hydroblast": {
+  "rating": 4.236
+ },
+ "159232: Illusionary Forces": {
+  "rating": 2.703
+ },
+ "159233: Illusionary Wall": {
+  "rating": 3.75
+ },
+ "159235: Jokulhaups": {
+  "rating": 4.519
+ },
+ "159237: Márton Stromgald": {
+  "rating": 3.977
+ },
+ "159238: Nature's Lore": {
+  "rating": 4.216
+ },
+ "159241: Polar Kraken": {
+  "rating": 3.136
+ },
+ "159242: Pox": {
+  "rating": 4.458
+ },
+ "159243: Pyroblast": {
+  "rating": 4.53
+ },
+ "159245: Seraph": {
+  "rating": 3.25
+ },
+ "159246: Shambling Strider": {
+  "rating": 2.778
+ },
+ "159247: Urza's Bauble": {
+  "rating": 3.778
+ },
+ "159248: Walking Wall": {
+  "rating": 2.567
+ },
+ "159249: Animate Dead": {
+  "rating": 4.535
+ },
+ "159250: Animate Wall": {
+  "rating": 2.755
+ },
+ "159251: Ankh of Mishra": {
+  "rating": 4.037
+ },
+ "159252: Armageddon": {
+  "rating": 4.582
+ },
+ "159253: Benalish Hero": {
+  "rating": 2.926
+ },
+ "159254: Berserk": {
+  "rating": 4.861
+ },
+ "159256: Clockwork Beast": {
+  "rating": 2.672
+ },
+ "159257: Copper Tablet": {
+  "rating": 2.324
+ },
+ "159259: Granite Gargoyle": {
+  "rating": 3.627
+ },
+ "159260: Ice Storm": {
+  "rating": 4.189
+ },
+ "159262: Keldon Warlord": {
+  "rating": 3.702
+ },
+ "159263: Lightning Bolt": {
+  "rating": 4.779
+ },
+ "159264: Mana Flare": {
+  "rating": 3.936
+ },
+ "159265: Nether Shadow": {
+  "rating": 4.034
+ },
+ "159266: Nevinyrral's Disk": {
+  "rating": 4.538
+ },
+ "159267: Paralyze": {
+  "rating": 4.241
+ },
+ "159268: Phantom Monster": {
+  "rating": 3.733
+ },
+ "159269: Psychic Venom": {
+  "rating": 3.717
+ },
+ "159270: Scryb Sprites": {
+  "rating": 3.5
+ },
+ "159274: Stone Giant": {
+  "rating": 3.5
+ },
+ "159275: Thicket Basilisk": {
+  "rating": 3.202
+ },
+ "159277: Winter Orb": {
+  "rating": 4.515
+ },
+ "159278: Forest": {
+  "rating": 4.259
+ },
+ "159279: Forest": {
+  "rating": 4.5
+ },
+ "159280: Forest": {
+  "rating": 4.521
+ },
+ "159281: Island": {
+  "rating": 4.136
+ },
+ "159282: Island": {
+  "rating": 4.173
+ },
+ "159283: Island": {
+  "rating": 3.758
+ },
+ "159284: Mountain": {
+  "rating": 4.575
+ },
+ "159285: Mountain": {
+  "rating": 4.238
+ },
+ "159286: Mountain": {
+  "rating": 4.58
+ },
+ "159287: Plains": {
+  "rating": 4.647
+ },
+ "159288: Plains": {
+  "rating": 4.477
+ },
+ "159289: Plains": {
+  "rating": 4.457
+ },
+ "159290: Swamp": {
+  "rating": 4.575
+ },
+ "159291: Swamp": {
+  "rating": 4.643
+ },
+ "159292: Swamp": {
+  "rating": 4.15
+ },
+ "159294: Adun Oakenshield": {
+  "rating": 3.806
+ },
+ "159298: Dakkon Blackblade": {
+  "rating": 3.908
+ },
+ "159299: Divine Transformation": {
+  "rating": 2.574
+ },
+ "159300: Eureka": {
+  "rating": 4.601
+ },
+ "159301: Jacques le Vert": {
+  "rating": 3.574
+ },
+ "159307: Mirror Universe": {
+  "rating": 4.4
+ },
+ "159308: Moat": {
+  "rating": 4.633
+ },
+ "159309: Petra Sphinx": {
+  "rating": 3.333
+ },
+ "159311: Psychic Purge": {
+  "rating": 3.662
+ },
+ "159312: Rabid Wombat": {
+  "rating": 3.325
+ },
+ "159314: Righteous Avengers": {
+  "rating": 1.164
+ },
+ "159315: Spinal Villain": {
+  "rating": 3.737
+ },
+ "159316: Storm Seeker": {
+  "rating": 3.764
+ },
+ "159317: Sylvan Library": {
+  "rating": 4.53
+ },
+ "159318: Thunder Spirit": {
+  "rating": 4.183
+ },
+ "159320: Winds of Change": {
+  "rating": 3.809
+ },
+ "159321: Angry Mob": {
+  "rating": 2.906
+ },
+ "159728: Basal Thrull": {
+  "rating": 3.821
+ },
+ "159729: Dwarven Catapult": {
+  "rating": 2.296
+ },
+ "159730: Goblin Chirurgeon": {
+  "rating": 3.89
+ },
+ "159731: Goblin Grenade": {
+  "rating": 4.445
+ },
+ "159734: Rainbow Vale": {
+  "rating": 2.592
+ },
+ "159736: Bestial Fury": {
+  "rating": 3.871
+ },
+ "159739: Feast or Famine": {
+  "rating": 3.744
+ },
+ "159741: Phyrexian Boon": {
+  "rating": 3.63
+ },
+ "159742: Varchild's War-Riders": {
+  "rating": 4.125
+ },
+ "159743: Argivian Archaeologist": {
+  "rating": 4.092
+ },
+ "159744: Artifact Blast": {
+  "rating": 3.536
+ },
+ "159748: Hecatomb": {
+  "rating": 3.75
+ },
+ "159749: Illusions of Grandeur": {
+  "rating": 4.433
+ },
+ "159751: Word of Undoing": {
+  "rating": 4.138
+ },
+ "159752: Zuran Orb": {
+  "rating": 4.318
+ },
+ "159754: Death Ward": {
+  "rating": 3.106
+ },
+ "159755: Forcefield": {
+  "rating": 4.554
+ },
+ "159757: Wanderlust": {
+  "rating": 2.398
+ },
+ "159758: Goblin Wizard": {
+  "rating": 3.942
+ },
+ "159759: Goblins of the Flarg": {
+  "rating": 2.375
+ },
+ "159763: Island of Wak-Wak": {
+  "rating": 3.877
+ },
+ "159764: Khabál Ghoul": {
+  "rating": 3.779
+ },
+ "159765: Singing Tree": {
+  "rating": 4.036
+ },
+ "159766: Wyluli Wolf": {
+  "rating": 2.359
+ },
+ "159769: Blight": {
+  "rating": 3.78
+ },
+ "159770: Crookshank Kobolds": {
+  "rating": 3.852
+ },
+ "159772: Juxtapose": {
+  "rating": 3.742
+ },
+ "159773: Mountain Yeti": {
+  "rating": 3.689
+ },
+ "159774: Telekinesis": {
+  "rating": 3.816
+ },
+ "159775: Time Elemental": {
+  "rating": 3.42
+ },
+ "159816: Death Speakers": {
+  "rating": 3.122
+ },
+ "159817: Black Knight": {
+  "rating": 4.224
+ },
+ "159818: Crusade": {
+  "rating": 3.847
+ },
+ "159819: Mesa Pegasus": {
+  "rating": 2.816
+ },
+ "159820: Vesuvan Doppelganger": {
+  "rating": 4.548
+ },
+ "159821: Mindstab Thrull": {
+  "rating": 3.8
+ },
+ "159822: River Merfolk": {
+  "rating": 3.094
+ },
+ "159823: Chains of Mephistopheles": {
+  "rating": 4.534
+ },
+ "159824: Elder Land Wurm": {
+  "rating": 1.959
+ },
+ "159825: Greater Realm of Preservation": {
+  "rating": 2.821
+ },
+ "159826: Serpent Generator": {
+  "rating": 3.094
+ },
+ "159827: Winter Blast": {
+  "rating": 3.833
+ },
+ "159828: Amnesia": {
+  "rating": 3.805
+ },
+ "159829: Tivadar's Crusade": {
+  "rating": 3.643
+ },
+ "159830: Energy Arc": {
+  "rating": 3.75
+ },
+ "159831: Mystic Remora": {
+  "rating": 4.569
+ },
+ "159832: Lim-Dûl's Vault": {
+  "rating": 4.638
+ },
+ "159833: Tornado": {
+  "rating": 3.066
+ },
+ "159834: Centaur Archer": {
+  "rating": 3.283
+ },
+ "159836: Fire Covenant": {
+  "rating": 3.708
+ },
+ "159837: Hyalopterous Lemure": {
+  "rating": 3.423
+ },
+ "159838: Hymn of Rebirth": {
+  "rating": 4.263
+ },
+ "159839: Shield of the Ages": {
+  "rating": 2.571
+ },
+ "159840: Cursed Rack": {
+  "rating": 3.914
+ },
+ "159841: Dragon Engine": {
+  "rating": 2.646
+ },
+ "159842: Urza's Chalice": {
+  "rating": 2.278
+ },
+ "159843: Icatian Town": {
+  "rating": 3.455
+ },
+ "159844: Ydwen Efreet": {
+  "rating": 3.888
+ },
+ "159845: Seasinger": {
+  "rating": 4.043
+ },
+ "159846: Icatian Lieutenant": {
+  "rating": 2.407
+ }
+}

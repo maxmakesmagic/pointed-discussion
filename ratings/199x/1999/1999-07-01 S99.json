@@ -1,0 +1,521 @@
+{
+ "12825: Archangel": {
+  "rating": 3.069
+ },
+ "20180: Thunder Dragon": {
+  "rating": 3.926
+ },
+ "20181: Thorn Elemental": {
+  "rating": 4.189
+ },
+ "20182: Denizen of the Deep": {
+  "rating": 3.368
+ },
+ "20183: Dakmor Sorceress": {
+  "rating": 3.128
+ },
+ "20184: Champion Lancer": {
+  "rating": 3.3
+ },
+ "20185: Goblin General": {
+  "rating": 3.104
+ },
+ "20187: Dakmor Lancer": {
+  "rating": 2.667
+ },
+ "20188: Vizzerdrix": {
+  "rating": 1.882
+ },
+ "20191: Devastation": {
+  "rating": 4
+ },
+ "20192: Fire Tempest": {
+  "rating": 3.065
+ },
+ "20193: Relentless Assault": {
+  "rating": 4.077
+ },
+ "20194: Last Chance": {
+  "rating": 4.125
+ },
+ "20195: Goblin Glider": {
+  "rating": 2.148
+ },
+ "20196: Goblin Commando": {
+  "rating": 2.229
+ },
+ "20197: Hulking Ogre": {
+  "rating": 2.466
+ },
+ "20198: Fire Elemental": {
+  "rating": 3.19
+ },
+ "20199: Earth Elemental": {
+  "rating": 2.846
+ },
+ "20200: Spitting Earth": {
+  "rating": 3.31
+ },
+ "20201: Cinder Storm": {
+  "rating": 2.857
+ },
+ "20202: Goblin Lore": {
+  "rating": 3
+ },
+ "20203: Jagged Lightning": {
+  "rating": 3.25
+ },
+ "20205: Lava Axe": {
+  "rating": 3.156
+ },
+ "20206: Volcanic Hammer": {
+  "rating": 2.851
+ },
+ "20207: Tremor": {
+  "rating": 3.162
+ },
+ "20208: Stone Rain": {
+  "rating": 4.088
+ },
+ "20209: Scorching Spear": {
+  "rating": 0.921
+ },
+ "20210: Raging Goblin": {
+  "rating": 3.971
+ },
+ "20211: Goblin Mountaineer": {
+  "rating": 2.826
+ },
+ "20212: Hulking Goblin": {
+  "rating": 2.462
+ },
+ "20213: Goblin Chariot": {
+  "rating": 3.086
+ },
+ "20214: Goblin Cavaliers": {
+  "rating": 2.909
+ },
+ "20216: Goblin Settler": {
+  "rating": 3.689
+ },
+ "20217: Sylvan Yeti": {
+  "rating": 3.25
+ },
+ "20218: Sylvan Basilisk": {
+  "rating": 3.611
+ },
+ "20219: Whirlwind": {
+  "rating": 4.09
+ },
+ "20220: Squall": {
+  "rating": 2.689
+ },
+ "20221: Alluring Scent": {
+  "rating": 2.048
+ },
+ "20222: Nature's Cloak": {
+  "rating": 1.969
+ },
+ "20223: Pride of Lions": {
+  "rating": 4.038
+ },
+ "20224: Wood Elves": {
+  "rating": 3.622
+ },
+ "20225: Lone Wolf": {
+  "rating": 3.672
+ },
+ "20226: Bull Hippo": {
+  "rating": 3.028
+ },
+ "20227: Wild Ox": {
+  "rating": 2.92
+ },
+ "20228: Untamed Wilds": {
+  "rating": 2.661
+ },
+ "20229: Moon Sprite": {
+  "rating": 1.85
+ },
+ "20230: Whiptail Wurm": {
+  "rating": 2.809
+ },
+ "20231: Natural Spring": {
+  "rating": 2.2
+ },
+ "20233: Grizzly Bears": {
+  "rating": 3.398
+ },
+ "20234: Monstrous Growth": {
+  "rating": 2.536
+ },
+ "20356: Nature's Lore": {
+  "rating": 4.114
+ },
+ "20357: Renewing Touch": {
+  "rating": 3.854
+ },
+ "20359: Grim Tutor": {
+  "rating": 4.255
+ },
+ "20360: Ancient Craving": {
+  "rating": 3.724
+ },
+ "20361: Wicked Pact": {
+  "rating": 3.789
+ },
+ "20362: Dread Reaper": {
+  "rating": 2.105
+ },
+ "20363: Shrieking Specter": {
+  "rating": 1.354
+ },
+ "20364: Stream of Acid": {
+  "rating": 3.562
+ },
+ "20365: Soul Feast": {
+  "rating": 2.69
+ },
+ "20366: Coercion": {
+  "rating": 3.29
+ },
+ "20367: Dakmor Plague": {
+  "rating": 3.192
+ },
+ "20368: Dark Offering": {
+  "rating": 1.68
+ },
+ "20369: Howling Fury": {
+  "rating": 2
+ },
+ "20370: Ravenous Rats": {
+  "rating": 4.112
+ },
+ "20371: Serpent Warrior": {
+  "rating": 1.909
+ },
+ "20372: Gravedigger": {
+  "rating": 3.625
+ },
+ "20373: Feral Shadow": {
+  "rating": 2.685
+ },
+ "20374: Bog Wraith": {
+  "rating": 2.956
+ },
+ "20375: Muck Rats": {
+  "rating": 1.756
+ },
+ "20376: Bog Imp": {
+  "rating": 1.929
+ },
+ "20377: Raise Dead": {
+  "rating": 3.707
+ },
+ "20378: Mind Rot": {
+  "rating": 3.311
+ },
+ "20379: Hand of Death": {
+  "rating": 2.154
+ },
+ "20380: Dakmor Ghoul": {
+  "rating": 3.3
+ },
+ "20381: Chorus of Woe": {
+  "rating": 2.587
+ },
+ "20382: Counterspell": {
+  "rating": 4.629
+ },
+ "20383: Dakmor Scorpion": {
+  "rating": 2.442
+ },
+ "20384: Bog Raiders": {
+  "rating": 3.05
+ },
+ "20385: Hollow Dogs": {
+  "rating": 2.482
+ },
+ "20386: Gerrard's Wisdom": {
+  "rating": 2.519
+ },
+ "20387: Armageddon": {
+  "rating": 4.154
+ },
+ "20388: Blinding Light": {
+  "rating": 3.656
+ },
+ "20390: Loyal Sentry": {
+  "rating": 4.012
+ },
+ "20391: Angel of Light": {
+  "rating": 2.43
+ },
+ "20392: Angel of Mercy": {
+  "rating": 3.133
+ },
+ "20393: Vengeance": {
+  "rating": 2.661
+ },
+ "20394: Royal Trooper": {
+  "rating": 3
+ },
+ "20395: Devout Monk": {
+  "rating": 1.971
+ },
+ "20396: Border Guard": {
+  "rating": 2.062
+ },
+ "20397: Knight Errant": {
+  "rating": 2.727
+ },
+ "20398: Foot Soldiers": {
+  "rating": 1.339
+ },
+ "20399: Steadfastness": {
+  "rating": 1.25
+ },
+ "20400: Angelic Blessing": {
+  "rating": 2.279
+ },
+ "20402: Charging Paladin": {
+  "rating": 2.75
+ },
+ "20403: Veteran Cavalier": {
+  "rating": 3.552
+ },
+ "21019: Abyssal Horror": {
+  "rating": 2.289
+ },
+ "21020: Volcanic Dragon": {
+  "rating": 3.538
+ },
+ "21021: Eager Cadet": {
+  "rating": 2.023
+ },
+ "21022: Breath of Life": {
+  "rating": 3.909
+ },
+ "21023: Righteous Charge": {
+  "rating": 2.935
+ },
+ "21024: Bargain": {
+  "rating": 1.578
+ },
+ "21025: Coral Eel": {
+  "rating": 2.065
+ },
+ "21027: Giant Octopus": {
+  "rating": 2.152
+ },
+ "21028: Storm Crow": {
+  "rating": 4.065
+ },
+ "21029: Wind Drake": {
+  "rating": 3.333
+ },
+ "21030: Snapping Drake": {
+  "rating": 3
+ },
+ "21031: Sea Eagle": {
+  "rating": 2.2
+ },
+ "21033: Touch of Brilliance": {
+  "rating": 1.588
+ },
+ "21034: Time Ebb": {
+  "rating": 3.364
+ },
+ "21035: Eye Spy": {
+  "rating": 2.414
+ },
+ "21036: Extinguish": {
+  "rating": 1.307
+ },
+ "21037: Remove Soul": {
+  "rating": 4.086
+ },
+ "21038: Man-o'-War": {
+  "rating": 4.128
+ },
+ "21039: Phantom Warrior": {
+  "rating": 3.684
+ },
+ "21040: Water Elemental": {
+  "rating": 2.735
+ },
+ "21041: Air Elemental": {
+  "rating": 3.382
+ },
+ "21042: Owl Familiar": {
+  "rating": 3.06
+ },
+ "21043: Ingenious Thief": {
+  "rating": 2.685
+ },
+ "21044: Exhaustion": {
+  "rating": 3.926
+ },
+ "21045: Undo": {
+  "rating": 3.767
+ },
+ "21046: Relearn": {
+  "rating": 3.404
+ },
+ "21047: Tidings": {
+  "rating": 3.879
+ },
+ "21048: Time Warp": {
+  "rating": 4.134
+ },
+ "21049: Piracy": {
+  "rating": 3.84
+ },
+ "21050: Psychic Transfer": {
+  "rating": 2
+ },
+ "21051: Willow Elf": {
+  "rating": 1.485
+ },
+ "21052: Norwood Ranger": {
+  "rating": 2.894
+ },
+ "21053: Lynx": {
+  "rating": 3.06
+ },
+ "21054: Norwood Archers": {
+  "rating": 3.135
+ },
+ "21055: Durkwood Boars": {
+  "rating": 2.167
+ },
+ "21056: Royal Falcon": {
+  "rating": 1.542
+ },
+ "21057: Devoted Hero": {
+  "rating": 3.013
+ },
+ "21058: Wild Griffin": {
+  "rating": 2.929
+ },
+ "21059: Venerable Monk": {
+  "rating": 3.058
+ },
+ "21060: Path of Peace": {
+  "rating": 2.545
+ },
+ "21061: Sacred Nectar": {
+  "rating": 1.71
+ },
+ "21062: Ardent Militia": {
+  "rating": 2.56
+ },
+ "21063: False Peace": {
+  "rating": 3.571
+ },
+ "21064: Righteous Fury": {
+  "rating": 3.683
+ },
+ "21065: Mons's Goblin Raiders": {
+  "rating": 2.286
+ },
+ "21066: Goblin Hero": {
+  "rating": 1.802
+ },
+ "21068: Sleight of Hand": {
+  "rating": 4.366
+ },
+ "21069: Ransack": {
+  "rating": 3.452
+ },
+ "21070: Ogre Warrior": {
+  "rating": 1.707
+ },
+ "21071: Southern Elephant": {
+  "rating": 2.021
+ },
+ "21072: Silverback Ape": {
+  "rating": 2.589
+ },
+ "21073: Gorilla Warrior": {
+  "rating": 2.625
+ },
+ "21076: Wind Sail": {
+  "rating": 2.214
+ },
+ "21077: Barbtooth Wurm": {
+  "rating": 2.5
+ },
+ "21078: Summer Bloom": {
+  "rating": 3.793
+ },
+ "21080: Merfolk of the Pearl Trident": {
+  "rating": 2.256
+ },
+ "21093: Scathe Zombies": {
+  "rating": 1.804
+ },
+ "21785: Trained Orgg": {
+  "rating": 2.208
+ },
+ "21789: Plains": {
+  "rating": 4.643
+ },
+ "21790: Plains": {
+  "rating": 4.531
+ },
+ "21791: Plains": {
+  "rating": 4.595
+ },
+ "21792: Plains": {
+  "rating": 4.587
+ },
+ "21793: Island": {
+  "rating": 4
+ },
+ "21794: Island": {
+  "rating": 4.733
+ },
+ "21795: Island": {
+  "rating": 4.556
+ },
+ "21796: Swamp": {
+  "rating": 4.5
+ },
+ "21797: Swamp": {
+  "rating": 4.6
+ },
+ "21798: Swamp": {
+  "rating": 4.28
+ },
+ "21799: Swamp": {
+  "rating": 4.619
+ },
+ "21800: Island": {
+  "rating": 4.714
+ },
+ "21801: Mountain": {
+  "rating": 4.625
+ },
+ "21802: Mountain": {
+  "rating": 4.545
+ },
+ "21803: Mountain": {
+  "rating": 4.342
+ },
+ "21804: Mountain": {
+  "rating": 4.667
+ },
+ "21805: Forest": {
+  "rating": 4.614
+ },
+ "21806: Forest": {
+  "rating": 4.435
+ },
+ "21807: Forest": {
+  "rating": 4.481
+ },
+ "21808: Forest": {
+  "rating": 4.562
+ }
+}

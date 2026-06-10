@@ -1,0 +1,452 @@
+{
+ "143199: War-Spike Changeling": {
+  "rating": 2.469
+ },
+ "143218: Moonglove Changeling": {
+  "rating": 2.958
+ },
+ "143230: Changeling Sentinel": {
+  "rating": 2.324
+ },
+ "143253: Game-Trail Changeling": {
+  "rating": 3.033
+ },
+ "143333: Mothdust Changeling": {
+  "rating": 3.153
+ },
+ "146593: Scapeshift": {
+  "rating": 3.703
+ },
+ "152526: Door of Destinies": {
+  "rating": 3.78
+ },
+ "152533: Supreme Exemplar": {
+  "rating": 3.577
+ },
+ "152534: Fire Juggler": {
+  "rating": 2.597
+ },
+ "152539: Sensation Gorger": {
+  "rating": 3.57
+ },
+ "152546: Maralen of the Mornsong": {
+  "rating": 3.765
+ },
+ "152549: Vendilion Clique": {
+  "rating": 4.36
+ },
+ "152552: Titan's Revenge": {
+  "rating": 3.444
+ },
+ "152553: Walker of the Grove": {
+  "rating": 2.968
+ },
+ "152555: Hostile Realm": {
+  "rating": 2.111
+ },
+ "152556: Heritage Druid": {
+  "rating": 4.339
+ },
+ "152557: Bosk Banneret": {
+  "rating": 3.708
+ },
+ "152563: Kindled Fury": {
+  "rating": 2.152
+ },
+ "152570: Negate": {
+  "rating": 4.43
+ },
+ "152571: Offalsnout": {
+  "rating": 3.842
+ },
+ "152579: Notorious Throng": {
+  "rating": 3.612
+ },
+ "152581: Lunk Errant": {
+  "rating": 1.074
+ },
+ "152585: Mosquito Guard": {
+  "rating": 3.306
+ },
+ "152586: Rivals' Duel": {
+  "rating": 2.471
+ },
+ "152587: Frogtosser Banneret": {
+  "rating": 3.713
+ },
+ "152588: Stonehewer Giant": {
+  "rating": 3.768
+ },
+ "152590: Sigil Tracer": {
+  "rating": 3.554
+ },
+ "152595: Preeminent Captain": {
+  "rating": 3.815
+ },
+ "152604: Cloak and Dagger": {
+  "rating": 3.526
+ },
+ "152607: Fendeep Summoner": {
+  "rating": 3.45
+ },
+ "152616: Redeem the Lost": {
+  "rating": 2.971
+ },
+ "152618: Research the Deep": {
+  "rating": 2.438
+ },
+ "152619: Release the Ants": {
+  "rating": 2.658
+ },
+ "152623: Ballyrush Banneret": {
+  "rating": 3.648
+ },
+ "152625: Reins of the Vinesteed": {
+  "rating": 3
+ },
+ "152628: Mind Spring": {
+  "rating": 3.565
+ },
+ "152641: Final-Sting Faerie": {
+  "rating": 3
+ },
+ "152643: Rhys the Exiled": {
+  "rating": 3.588
+ },
+ "152648: Bitterblossom": {
+  "rating": 4.392
+ },
+ "152649: Feudkiller's Verdict": {
+  "rating": 3.693
+ },
+ "152651: Brighthearth Banneret": {
+  "rating": 3.514
+ },
+ "152652: Stonybrook Banneret": {
+  "rating": 4.282
+ },
+ "152656: Waterspout Weavers": {
+  "rating": 2.093
+ },
+ "152659: Shinewend": {
+  "rating": 2.439
+ },
+ "152664: Knowledge Exploitation": {
+  "rating": 3.462
+ },
+ "152667: Pulling Teeth": {
+  "rating": 2.878
+ },
+ "152668: Burrenton Shield-Bearers": {
+  "rating": 2.051
+ },
+ "152669: Winnower Patrol": {
+  "rating": 3.522
+ },
+ "152672: Wandering Graybeard": {
+  "rating": 3.094
+ },
+ "152682: Leaf-Crowned Elder": {
+  "rating": 3.77
+ },
+ "152694: Burrenton Bombardier": {
+  "rating": 2.977
+ },
+ "152699: Merrow Witsniper": {
+  "rating": 2.875
+ },
+ "152704: Stingmoggie": {
+  "rating": 2.202
+ },
+ "152705: Blightsoil Druid": {
+  "rating": 2.009
+ },
+ "152710: Earthbrawn": {
+  "rating": 2.662
+ },
+ "152716: Reveillark": {
+  "rating": 4.267
+ },
+ "152718: Prickly Boggart": {
+  "rating": 3.659
+ },
+ "152720: Stream of Unconsciousness": {
+  "rating": 2.948
+ },
+ "152724: Mutavault": {
+  "rating": 4.359
+ },
+ "152727: Disperse": {
+  "rating": 3.664
+ },
+ "152728: Wolf-Skull Shaman": {
+  "rating": 3.667
+ },
+ "152729: Swell of Courage": {
+  "rating": 2.875
+ },
+ "152732: Warren Weirding": {
+  "rating": 4.314
+ },
+ "152736: Ink Dissolver": {
+  "rating": 2.934
+ },
+ "152737: Weight of Conscience": {
+  "rating": 3.075
+ },
+ "152741: Weed-Pruner Poplar": {
+  "rating": 3.089
+ },
+ "152815: Thieves' Fortune": {
+  "rating": 3.016
+ },
+ "152826: Inspired Sprite": {
+  "rating": 3.154
+ },
+ "152828: Dewdrop Spy": {
+  "rating": 3.102
+ },
+ "152830: Floodchaser": {
+  "rating": 1.962
+ },
+ "152836: Revive the Fallen": {
+  "rating": 3.044
+ },
+ "152837: Shard Volley": {
+  "rating": 2.811
+ },
+ "152838: Daily Regimen": {
+  "rating": 2.883
+ },
+ "152844: Noggin Whack": {
+  "rating": 3.529
+ },
+ "152847: Squeaking Pie Grubfellows": {
+  "rating": 2.403
+ },
+ "152858: Kithkin Zephyrnaut": {
+  "rating": 2.875
+ },
+ "152870: Grimoire Thief": {
+  "rating": 4.326
+ },
+ "152871: Sage of Fables": {
+  "rating": 3.7
+ },
+ "152874: Recross the Paths": {
+  "rating": 3.229
+ },
+ "152876: Mudbutton Clanger": {
+  "rating": 2.779
+ },
+ "152878: Cenn's Tactician": {
+  "rating": 3.753
+ },
+ "152887: Spitebellows": {
+  "rating": 3.636
+ },
+ "152893: Lightning Crafter": {
+  "rating": 3.767
+ },
+ "152903: Morsel Theft": {
+  "rating": 3.532
+ },
+ "152904: Thornbite Staff": {
+  "rating": 3.662
+ },
+ "152917: Stinkdrinker Bandit": {
+  "rating": 3.3
+ },
+ "152926: Fertilid": {
+  "rating": 3.096
+ },
+ "152934: Nevermaker": {
+  "rating": 3.458
+ },
+ "152937: Unstoppable Ash": {
+  "rating": 3.708
+ },
+ "152938: Idyllic Tutor": {
+  "rating": 3.621
+ },
+ "152944: Festercreep": {
+  "rating": 2.688
+ },
+ "152963: Hunting Triad": {
+  "rating": 3.533
+ },
+ "152967: Indomitable Ancients": {
+  "rating": 3.728
+ },
+ "152968: Everbark Shaman": {
+  "rating": 3.16
+ },
+ "152974: Boldwyr Intimidator": {
+  "rating": 3.522
+ },
+ "152977: Kinsbaile Borderguard": {
+  "rating": 3.548
+ },
+ "152980: Countryside Crusher": {
+  "rating": 3.979
+ },
+ "152988: Sage's Dousing": {
+  "rating": 3.533
+ },
+ "152991: Orchard Warden": {
+  "rating": 3
+ },
+ "152998: Ambassador Oak": {
+  "rating": 3.178
+ },
+ "153001: Nightshade Schemers": {
+  "rating": 2.466
+ },
+ "153003: Elvish Warrior": {
+  "rating": 3.527
+ },
+ "153007: Pyroclast Consul": {
+  "rating": 2.519
+ },
+ "153011: Weirding Shaman": {
+  "rating": 3.089
+ },
+ "153012: Veteran's Armaments": {
+  "rating": 3.5
+ },
+ "153099: Oona's Blackguard": {
+  "rating": 3.769
+ },
+ "153101: Seething Pathblazer": {
+  "rating": 2.414
+ },
+ "153102: Borderland Behemoth": {
+  "rating": 3.691
+ },
+ "153104: Rage Forger": {
+  "rating": 3.511
+ },
+ "153122: Latchkey Faerie": {
+  "rating": 3.256
+ },
+ "153126: Stenchskipper": {
+  "rating": 3.534
+ },
+ "153133: Distant Melody": {
+  "rating": 3.128
+ },
+ "153135: Earwig Squad": {
+  "rating": 4.242
+ },
+ "153137: Boldwyr Heavyweights": {
+  "rating": 3.164
+ },
+ "153138: Graceful Reprieve": {
+  "rating": 3.569
+ },
+ "153139: Bramblewood Paragon": {
+  "rating": 3.771
+ },
+ "153147: Luminescent Rain": {
+  "rating": 3.071
+ },
+ "153151: Coordinated Barrage": {
+  "rating": 2.903
+ },
+ "153153: Vengeful Firebrand": {
+  "rating": 2.969
+ },
+ "153155: Sunflare Shaman": {
+  "rating": 2.968
+ },
+ "153158: Roar of the Crowd": {
+  "rating": 2.048
+ },
+ "153163: Greatbow Doyen": {
+  "rating": 3.695
+ },
+ "153165: Pack's Disdain": {
+  "rating": 2.871
+ },
+ "153166: Stonybrook Schoolmaster": {
+  "rating": 3.518
+ },
+ "153169: Declaration of Naught": {
+  "rating": 3.543
+ },
+ "153278: Scarblade Elite": {
+  "rating": 3.178
+ },
+ "153279: Kinsbaile Cavalier": {
+  "rating": 3.734
+ },
+ "153280: Auntie's Snitch": {
+  "rating": 3.312
+ },
+ "153450: Chameleon Colossus": {
+  "rating": 4.013
+ },
+ "153451: Battletide Alchemist": {
+  "rating": 3.712
+ },
+ "153452: Taurean Mauler": {
+  "rating": 4.203
+ },
+ "153453: Gilt-Leaf Archdruid": {
+  "rating": 3.758
+ },
+ "153460: Rustic Clachan": {
+  "rating": 2.659
+ },
+ "153462: Lys Alana Bowmaster": {
+  "rating": 2.917
+ },
+ "153463: Order of the Golden Cricket": {
+  "rating": 3.12
+ },
+ "153464: Primal Beyond": {
+  "rating": 3.75
+ },
+ "153467: Murmuring Bosk": {
+  "rating": 4.165
+ },
+ "154160: Deglamer": {
+  "rating": 4.357
+ },
+ "154162: Reach of Branches": {
+  "rating": 3.532
+ },
+ "154163: Diviner's Wand": {
+  "rating": 3.067
+ },
+ "154164: Obsidian Battle-Axe": {
+  "rating": 3.602
+ },
+ "157421: Stomping Slabs": {
+  "rating": 2.739
+ },
+ "157422: Mind Shatter": {
+  "rating": 3.464
+ },
+ "157423: Cream of the Crop": {
+  "rating": 3.607
+ },
+ "157424: Fencer Clique": {
+  "rating": 2.95
+ },
+ "157426: Violet Pall": {
+  "rating": 2.795
+ },
+ "157428: Slithermuse": {
+  "rating": 3.419
+ },
+ "157431: Forfend": {
+  "rating": 2.028
+ },
+ "157432: Meadowboon": {
+  "rating": 3.338
+ },
+ "157433: Shared Animosity": {
+  "rating": 3.544
+ }
+}

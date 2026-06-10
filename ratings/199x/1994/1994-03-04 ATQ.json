@@ -1,0 +1,302 @@
+{
+ "992: Amulet of Kroog": {
+  "rating": 1.51
+ },
+ "993: Armageddon Clock": {
+  "rating": 2.676
+ },
+ "994: Ashnod's Altar": {
+  "rating": 4.179
+ },
+ "995: Ashnod's Battle Gear": {
+  "rating": 2.609
+ },
+ "996: Ashnod's Transmogrant": {
+  "rating": 2.808
+ },
+ "997: Battering Ram": {
+  "rating": 2.212
+ },
+ "998: Bronze Tablet": {
+  "rating": 1.962
+ },
+ "999: Candelabra of Tawnos": {
+  "rating": 4.481
+ },
+ "1000: Clay Statue": {
+  "rating": 2.306
+ },
+ "1001: Clockwork Avian": {
+  "rating": 2.527
+ },
+ "1002: Colossus of Sardia": {
+  "rating": 3.233
+ },
+ "1003: Coral Helm": {
+  "rating": 1.553
+ },
+ "1004: Cursed Rack": {
+  "rating": 3.574
+ },
+ "1005: Dragon Engine": {
+  "rating": 2.323
+ },
+ "1006: Feldon's Cane": {
+  "rating": 3.827
+ },
+ "1007: Golgothian Sylex": {
+  "rating": 2.312
+ },
+ "1008: Grapeshot Catapult": {
+  "rating": 2.195
+ },
+ "1009: Ivory Tower": {
+  "rating": 4.265
+ },
+ "1010: Jalum Tome": {
+  "rating": 3.031
+ },
+ "1011: Mightstone": {
+  "rating": 2.389
+ },
+ "1012: Millstone": {
+  "rating": 3.767
+ },
+ "1013: Mishra's War Machine": {
+  "rating": 1.568
+ },
+ "1014: Obelisk of Undoing": {
+  "rating": 1.333
+ },
+ "1015: Onulet": {
+  "rating": 2.974
+ },
+ "1016: Ornithopter": {
+  "rating": 4.041
+ },
+ "1017: Primal Clay": {
+  "rating": 3.25
+ },
+ "1018: Rakalite": {
+  "rating": 0.949
+ },
+ "1019: Rocket Launcher": {
+  "rating": 2.833
+ },
+ "1020: Shapeshifter": {
+  "rating": 2.297
+ },
+ "1021: Staff of Zegon": {
+  "rating": 1.64
+ },
+ "1022: Su-Chi": {
+  "rating": 4.089
+ },
+ "1023: Tablet of Epityr": {
+  "rating": 2.565
+ },
+ "1024: Tawnos's Coffin": {
+  "rating": 3.694
+ },
+ "1025: Tawnos's Wand": {
+  "rating": 2.594
+ },
+ "1026: Tawnos's Weaponry": {
+  "rating": 2.139
+ },
+ "1027: Tetravus": {
+  "rating": 3.586
+ },
+ "1028: The Rack": {
+  "rating": 4.304
+ },
+ "1029: Triskelion": {
+  "rating": 4.158
+ },
+ "1030: Urza's Avenger": {
+  "rating": 2.734
+ },
+ "1031: Urza's Chalice": {
+  "rating": 1.848
+ },
+ "1032: Urza's Miter": {
+  "rating": 1.977
+ },
+ "1033: Wall of Spears": {
+  "rating": 2.75
+ },
+ "1034: Weakstone": {
+  "rating": 2.151
+ },
+ "1035: Yotian Soldier": {
+  "rating": 3.442
+ },
+ "1036: Artifact Possession": {
+  "rating": 2.121
+ },
+ "1037: Drafna's Restoration": {
+  "rating": 3.87
+ },
+ "1038: Energy Flux": {
+  "rating": 4.214
+ },
+ "1039: Gate to Phyrexia": {
+  "rating": 3.793
+ },
+ "1040: Haunting Wind": {
+  "rating": 2.809
+ },
+ "1041: Hurkyl's Recall": {
+  "rating": 4.617
+ },
+ "1042: Phyrexian Gremlins": {
+  "rating": 3.542
+ },
+ "1043: Power Artifact": {
+  "rating": 4.344
+ },
+ "1044: Priest of Yawgmoth": {
+  "rating": 3.946
+ },
+ "1045: Reconstruction": {
+  "rating": 3.902
+ },
+ "1046: Sage of Lat-Nam": {
+  "rating": 3.603
+ },
+ "1047: Transmute Artifact": {
+  "rating": 4.083
+ },
+ "1048: Xenic Poltergeist": {
+  "rating": 3.595
+ },
+ "1049: Yawgmoth Demon": {
+  "rating": 3.316
+ },
+ "1050: Argothian Pixies": {
+  "rating": 2.819
+ },
+ "1051: Argothian Treefolk": {
+  "rating": 2.405
+ },
+ "1052: Citanul Druid": {
+  "rating": 3.545
+ },
+ "1053: Crumble": {
+  "rating": 3.147
+ },
+ "1054: Gaea's Avenger": {
+  "rating": 3.11
+ },
+ "1055: Powerleech": {
+  "rating": 3.093
+ },
+ "1056: Titania's Song": {
+  "rating": 3.786
+ },
+ "1057: Artifact Blast": {
+  "rating": 3.105
+ },
+ "1058: Atog": {
+  "rating": 3.915
+ },
+ "1059: Detonate": {
+  "rating": 3.25
+ },
+ "1060: Dwarven Weaponsmith": {
+  "rating": 2.026
+ },
+ "1061: Goblin Artisans": {
+  "rating": 2.714
+ },
+ "1062: Orcish Mechanics": {
+  "rating": 2.421
+ },
+ "1063: Shatterstorm": {
+  "rating": 4.207
+ },
+ "1064: Argivian Archaeologist": {
+  "rating": 4.061
+ },
+ "1065: Argivian Blacksmith": {
+  "rating": 2.145
+ },
+ "1066: Artifact Ward": {
+  "rating": 2.466
+ },
+ "1067: Circle of Protection: Artifacts": {
+  "rating": 2.525
+ },
+ "1068: Damping Field": {
+  "rating": 2.969
+ },
+ "1069: Martyrs of Korlis": {
+  "rating": 2.969
+ },
+ "1070: Reverse Polarity": {
+  "rating": 2.092
+ },
+ "1071: Mishra's Factory": {
+  "rating": 4.611
+ },
+ "1072: Mishra's Factory": {
+  "rating": 4.611
+ },
+ "1073: Mishra's Factory": {
+  "rating": 4.62
+ },
+ "1074: Mishra's Factory": {
+  "rating": 4.612
+ },
+ "1075: Mishra's Workshop": {
+  "rating": 4.854
+ },
+ "1076: Strip Mine": {
+  "rating": 4.826
+ },
+ "1077: Strip Mine": {
+  "rating": 4.849
+ },
+ "1078: Strip Mine": {
+  "rating": 4.761
+ },
+ "1079: Strip Mine": {
+  "rating": 4.76
+ },
+ "1080: Urza's Mine": {
+  "rating": 4.071
+ },
+ "1081: Urza's Mine": {
+  "rating": 4.361
+ },
+ "1082: Urza's Mine": {
+  "rating": 4.147
+ },
+ "1083: Urza's Mine": {
+  "rating": 4.319
+ },
+ "1084: Urza's Power Plant": {
+  "rating": 4.289
+ },
+ "1085: Urza's Power Plant": {
+  "rating": 4.216
+ },
+ "1086: Urza's Power Plant": {
+  "rating": 4.329
+ },
+ "1087: Urza's Power Plant": {
+  "rating": 4.233
+ },
+ "1088: Urza's Tower": {
+  "rating": 4.435
+ },
+ "1089: Urza's Tower": {
+  "rating": 4.338
+ },
+ "1090: Urza's Tower": {
+  "rating": 4.476
+ },
+ "1091: Urza's Tower": {
+  "rating": 4.271
+ }
+}

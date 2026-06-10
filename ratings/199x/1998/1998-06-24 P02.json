@@ -1,0 +1,497 @@
+{
+ "6491: Volunteer Militia": {
+  "rating": 3.034
+ },
+ "6492: Alaborn Zealot": {
+  "rating": 4
+ },
+ "6493: Alaborn Trooper": {
+  "rating": 1.953
+ },
+ "6494: Town Sentry": {
+  "rating": 2.283
+ },
+ "6495: Temple Acolyte": {
+  "rating": 3.458
+ },
+ "6496: Trokin High Guard": {
+  "rating": 3.086
+ },
+ "6497: Wild Griffin": {
+  "rating": 2.978
+ },
+ "6498: Angelic Wall": {
+  "rating": 3.613
+ },
+ "6499: Alaborn Musketeer": {
+  "rating": 3
+ },
+ "6500: Angelic Blessing": {
+  "rating": 2.983
+ },
+ "6501: Breath of Life": {
+  "rating": 3.865
+ },
+ "6502: Path of Peace": {
+  "rating": 2.788
+ },
+ "6503: Righteous Charge": {
+  "rating": 2.821
+ },
+ "6504: Festival of Trokin": {
+  "rating": 3.958
+ },
+ "6505: Angel of Mercy": {
+  "rating": 3.321
+ },
+ "6506: Alaborn Cavalier": {
+  "rating": 3.203
+ },
+ "6507: Temple Elder": {
+  "rating": 1.052
+ },
+ "6508: Alaborn Grenadier": {
+  "rating": 3.108
+ },
+ "6509: Armored Griffin": {
+  "rating": 3.212
+ },
+ "6510: Bargain": {
+  "rating": 1.345
+ },
+ "6511: Rally the Troops": {
+  "rating": 2.917
+ },
+ "6512: Warrior's Stand": {
+  "rating": 3.042
+ },
+ "6513: Vengeance": {
+  "rating": 3.136
+ },
+ "6514: Archangel": {
+  "rating": 2.988
+ },
+ "6515: Angel of Fury": {
+  "rating": 2.788
+ },
+ "6516: Alaborn Veteran": {
+  "rating": 2.621
+ },
+ "6517: Steam Catapult": {
+  "rating": 3.909
+ },
+ "6518: Righteous Fury": {
+  "rating": 3.827
+ },
+ "6519: Just Fate": {
+  "rating": 3.225
+ },
+ "6520: Armageddon": {
+  "rating": 4.07
+ },
+ "6521: Talas Scout": {
+  "rating": 3.037
+ },
+ "6522: Talas Explorer": {
+  "rating": 2.804
+ },
+ "6523: Screeching Drake": {
+  "rating": 2.717
+ },
+ "6524: Talas Air Ship": {
+  "rating": 2.976
+ },
+ "6525: Talas Merchant": {
+  "rating": 2.55
+ },
+ "6526: Steam Frigate": {
+  "rating": 2.143
+ },
+ "6527: Touch of Brilliance": {
+  "rating": 1.848
+ },
+ "6528: Déjà Vu": {
+  "rating": 3.034
+ },
+ "6529: Sleight of Hand": {
+  "rating": 4.341
+ },
+ "6530: Wind Sail": {
+  "rating": 2.5
+ },
+ "6531: Tidal Surge": {
+  "rating": 3.152
+ },
+ "6532: Time Ebb": {
+  "rating": 3.5
+ },
+ "6533: False Summoning": {
+  "rating": 3.576
+ },
+ "6534: Extinguish": {
+  "rating": 2.015
+ },
+ "6535: Apprentice Sorcerer": {
+  "rating": 2.365
+ },
+ "6536: Air Elemental": {
+  "rating": 3.279
+ },
+ "6537: Armored Galleon": {
+  "rating": 1.625
+ },
+ "6538: Eye Spy": {
+  "rating": 2.269
+ },
+ "6539: Sea Drake": {
+  "rating": 4.306
+ },
+ "6540: Undo": {
+  "rating": 3.545
+ },
+ "6541: Remove": {
+  "rating": 2.375
+ },
+ "6542: Mystic Denial": {
+  "rating": 2.1
+ },
+ "6543: Theft of Dreams": {
+  "rating": 3.786
+ },
+ "6544: Coastal Wizard": {
+  "rating": 1.841
+ },
+ "6545: Talas Warrior": {
+  "rating": 3.976
+ },
+ "6546: Denizen of the Deep": {
+  "rating": 3.338
+ },
+ "6547: Talas Researcher": {
+  "rating": 2.1
+ },
+ "6548: Temporal Manipulation": {
+  "rating": 4.044
+ },
+ "6549: Exhaustion": {
+  "rating": 3.906
+ },
+ "6550: Piracy": {
+  "rating": 3.943
+ },
+ "6551: Muck Rats": {
+  "rating": 2.097
+ },
+ "6552: Dakmor Scorpion": {
+  "rating": 2.407
+ },
+ "6553: Dakmor Bat": {
+  "rating": 1.87
+ },
+ "6554: Moaning Spirit": {
+  "rating": 2.625
+ },
+ "6555: Swarm of Rats": {
+  "rating": 3.625
+ },
+ "6556: Prowling Nightstalker": {
+  "rating": 2.48
+ },
+ "6557: Lurking Nightstalker": {
+  "rating": 3.5
+ },
+ "6558: Raiding Nightstalker": {
+  "rating": 3.1
+ },
+ "6559: Ravenous Rats": {
+  "rating": 4.011
+ },
+ "6560: Raise Dead": {
+  "rating": 3.293
+ },
+ "6561: Cruel Edict": {
+  "rating": 3.903
+ },
+ "6562: Mind Rot": {
+  "rating": 3.359
+ },
+ "6563: Hand of Death": {
+  "rating": 2.565
+ },
+ "6564: Chorus of Woe": {
+  "rating": 1.694
+ },
+ "6565: Predatory Nightstalker": {
+  "rating": 3.439
+ },
+ "6566: Brutal Nightstalker": {
+  "rating": 1.78
+ },
+ "6567: Abyssal Nightstalker": {
+  "rating": 2.859
+ },
+ "6568: Foul Spirit": {
+  "rating": 2.433
+ },
+ "6569: Dark Offering": {
+  "rating": 1.431
+ },
+ "6570: Coercion": {
+  "rating": 3.414
+ },
+ "6571: Dakmor Plague": {
+  "rating": 3.139
+ },
+ "6572: Kiss of Death": {
+  "rating": 2.024
+ },
+ "6573: Bloodcurdling Scream": {
+  "rating": 3.079
+ },
+ "6574: Hidden Horror": {
+  "rating": 3.802
+ },
+ "6575: Vampiric Spirit": {
+  "rating": 2.404
+ },
+ "6576: Dakmor Sorceress": {
+  "rating": 3.321
+ },
+ "6577: Nightstalker Engine": {
+  "rating": 3.7
+ },
+ "6578: Return of the Nightstalkers": {
+  "rating": 2.351
+ },
+ "6579: Ancient Craving": {
+  "rating": 3.929
+ },
+ "6580: Rain of Daggers": {
+  "rating": 2.312
+ },
+ "6581: Raging Goblin": {
+  "rating": 3.974
+ },
+ "6582: Goblin Piker": {
+  "rating": 2.157
+ },
+ "6583: Goblin Raider": {
+  "rating": 3.179
+ },
+ "6584: Goblin Glider": {
+  "rating": 1.733
+ },
+ "6585: Goblin Mountaineer": {
+  "rating": 2.712
+ },
+ "6586: Ogre Berserker": {
+  "rating": 2.326
+ },
+ "6587: Goblin Cavaliers": {
+  "rating": 2.463
+ },
+ "6588: Ogre Taskmaster": {
+  "rating": 2.783
+ },
+ "6589: Spitting Earth": {
+  "rating": 3.618
+ },
+ "6590: Stone Rain": {
+  "rating": 4.039
+ },
+ "6591: Lava Axe": {
+  "rating": 3.264
+ },
+ "6592: Tremor": {
+  "rating": 3.078
+ },
+ "6593: Volcanic Hammer": {
+  "rating": 3.107
+ },
+ "6594: Goblin War Strike": {
+  "rating": 3.885
+ },
+ "6595: Ogre Arsonist": {
+  "rating": 3.988
+ },
+ "6596: Goblin Matron": {
+  "rating": 4.569
+ },
+ "6597: Ogre Warrior": {
+  "rating": 1.812
+ },
+ "6598: Goblin Firestarter": {
+  "rating": 2.981
+ },
+ "6599: Obsidian Giant": {
+  "rating": 2.042
+ },
+ "6600: Blaze": {
+  "rating": 3.238
+ },
+ "6601: Jagged Lightning": {
+  "rating": 3.258
+ },
+ "6602: Goblin Lore": {
+  "rating": 3.125
+ },
+ "6603: Goblin War Cry": {
+  "rating": 2.25
+ },
+ "6604: Goblin General": {
+  "rating": 2.909
+ },
+ "6605: Brimstone Dragon": {
+  "rating": 3.057
+ },
+ "6606: Cunning Giant": {
+  "rating": 3.104
+ },
+ "6607: Magma Giant": {
+  "rating": 3.447
+ },
+ "6608: Relentless Assault": {
+  "rating": 3.914
+ },
+ "6609: Earthquake": {
+  "rating": 4.043
+ },
+ "6610: Wildfire": {
+  "rating": 3.76
+ },
+ "6611: Lynx": {
+  "rating": 3.212
+ },
+ "6613: Bear Cub": {
+  "rating": 4.072
+ },
+ "6614: Lone Wolf": {
+  "rating": 3.485
+ },
+ "6615: Norwood Riders": {
+  "rating": 3.75
+ },
+ "6616: Golden Bear": {
+  "rating": 3.333
+ },
+ "6617: Plated Wurm": {
+  "rating": 2.981
+ },
+ "6618: Norwood Archers": {
+  "rating": 3.056
+ },
+ "6619: Tree Monkey": {
+  "rating": 3.292
+ },
+ "6620: Norwood Warrior": {
+  "rating": 2.692
+ },
+ "6621: Monstrous Growth": {
+  "rating": 2.5
+ },
+ "6622: Salvage": {
+  "rating": 3.36
+ },
+ "6623: Nature's Lore": {
+  "rating": 4
+ },
+ "6624: Natural Spring": {
+  "rating": 2.32
+ },
+ "6625: Wild Ox": {
+  "rating": 2.979
+ },
+ "6626: River Bear": {
+  "rating": 3.196
+ },
+ "6627: Barbtooth Wurm": {
+  "rating": 2.391
+ },
+ "6628: Ironhoof Ox": {
+  "rating": 2.855
+ },
+ "6629: Renewing Touch": {
+  "rating": 3.652
+ },
+ "6630: Untamed Wilds": {
+  "rating": 3.089
+ },
+ "6631: Deep Wood": {
+  "rating": 2.722
+ },
+ "6632: Harmony of Nature": {
+  "rating": 3.674
+ },
+ "6633: Bee Sting": {
+  "rating": 2.721
+ },
+ "6634: Norwood Priestess": {
+  "rating": 3.95
+ },
+ "6635: Sylvan Yeti": {
+  "rating": 3.159
+ },
+ "6636: Norwood Ranger": {
+  "rating": 2.79
+ },
+ "6637: Deathcoil Wurm": {
+  "rating": 3.171
+ },
+ "6638: Razorclaw Bear": {
+  "rating": 3.548
+ },
+ "6639: Alluring Scent": {
+  "rating": 2.596
+ },
+ "6640: Hurricane": {
+  "rating": 3.924
+ },
+ "8354: Plains": {
+  "rating": 4.438
+ },
+ "8374: Plains": {
+  "rating": 4.167
+ },
+ "8380: Plains": {
+  "rating": 4.696
+ },
+ "8387: Island": {
+  "rating": 4.554
+ },
+ "8390: Island": {
+  "rating": 4.714
+ },
+ "8391: Island": {
+  "rating": 4.359
+ },
+ "8392: Swamp": {
+  "rating": 4.175
+ },
+ "8393: Swamp": {
+  "rating": 4.553
+ },
+ "8394: Swamp": {
+  "rating": 4.44
+ },
+ "8395: Mountain": {
+  "rating": 4.815
+ },
+ "8406: Mountain": {
+  "rating": 4.609
+ },
+ "8407: Mountain": {
+  "rating": 4.724
+ },
+ "8408: Forest": {
+  "rating": 4.5
+ },
+ "8409: Forest": {
+  "rating": 4.426
+ },
+ "8410: Forest": {
+  "rating": 4
+ },
+ "8905: Sylvan Basilisk": {
+  "rating": 3.806
+ }
+}

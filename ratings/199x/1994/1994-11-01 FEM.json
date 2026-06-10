@@ -1,0 +1,563 @@
+{
+ "1827: Aeolipile": {
+  "rating": 3.83
+ },
+ "1828: Balm of Restoration": {
+  "rating": 1.455
+ },
+ "1829: Conch Horn": {
+  "rating": 2.922
+ },
+ "1830: Delif's Cone": {
+  "rating": 1.877
+ },
+ "1831: Delif's Cube": {
+  "rating": 1.77
+ },
+ "1832: Draconian Cylix": {
+  "rating": 2.013
+ },
+ "1833: Elven Lyre": {
+  "rating": 1.853
+ },
+ "1834: Implements of Sacrifice": {
+  "rating": 2.819
+ },
+ "1835: Ring of Renewal": {
+  "rating": 1.917
+ },
+ "1836: Spirit Shield": {
+  "rating": 1.654
+ },
+ "1837: Zelyon Sword": {
+  "rating": 1.971
+ },
+ "1838: Armor Thrull": {
+  "rating": 3.25
+ },
+ "1839: Armor Thrull": {
+  "rating": 3.296
+ },
+ "1840: Armor Thrull": {
+  "rating": 3.306
+ },
+ "1841: Armor Thrull": {
+  "rating": 2.886
+ },
+ "1842: Basal Thrull": {
+  "rating": 3.483
+ },
+ "1843: Basal Thrull": {
+  "rating": 3.767
+ },
+ "1844: Basal Thrull": {
+  "rating": 3.417
+ },
+ "1845: Basal Thrull": {
+  "rating": 3.5
+ },
+ "1846: Breeding Pit": {
+  "rating": 4.016
+ },
+ "1847: Derelor": {
+  "rating": 1.936
+ },
+ "1848: Ebon Praetor": {
+  "rating": 3.565
+ },
+ "1849: Hymn to Tourach": {
+  "rating": 4.838
+ },
+ "1850: Hymn to Tourach": {
+  "rating": 4.856
+ },
+ "1851: Hymn to Tourach": {
+  "rating": 4.795
+ },
+ "1852: Hymn to Tourach": {
+  "rating": 4.788
+ },
+ "1853: Initiates of the Ebon Hand": {
+  "rating": 3.598
+ },
+ "1854: Initiates of the Ebon Hand": {
+  "rating": 3.467
+ },
+ "1855: Initiates of the Ebon Hand": {
+  "rating": 3.625
+ },
+ "1856: Mindstab Thrull": {
+  "rating": 3.485
+ },
+ "1857: Mindstab Thrull": {
+  "rating": 3.303
+ },
+ "1858: Mindstab Thrull": {
+  "rating": 3.971
+ },
+ "1859: Necrite": {
+  "rating": 3.052
+ },
+ "1860: Necrite": {
+  "rating": 3.077
+ },
+ "1861: Necrite": {
+  "rating": 3.056
+ },
+ "1862: Order of the Ebon Hand": {
+  "rating": 4.486
+ },
+ "1863: Order of the Ebon Hand": {
+  "rating": 4.492
+ },
+ "1864: Order of the Ebon Hand": {
+  "rating": 4.539
+ },
+ "1865: Soul Exchange": {
+  "rating": 3.938
+ },
+ "1866: Thrull Champion": {
+  "rating": 3.806
+ },
+ "1867: Thrull Retainer": {
+  "rating": 3.293
+ },
+ "1868: Thrull Wizard": {
+  "rating": 2.784
+ },
+ "1869: Tourach's Chant": {
+  "rating": 2.914
+ },
+ "1870: Tourach's Gate": {
+  "rating": 2.512
+ },
+ "1871: Deep Spawn": {
+  "rating": 2.767
+ },
+ "1872: High Tide": {
+  "rating": 4.464
+ },
+ "1873: High Tide": {
+  "rating": 4.5
+ },
+ "1874: High Tide": {
+  "rating": 4.529
+ },
+ "1875: Homarid": {
+  "rating": 2.804
+ },
+ "1876: Homarid": {
+  "rating": 2.153
+ },
+ "1877: Homarid": {
+  "rating": 2.256
+ },
+ "1878: Homarid": {
+  "rating": 2.571
+ },
+ "1879: Homarid Shaman": {
+  "rating": 3.537
+ },
+ "1880: Homarid Spawning Bed": {
+  "rating": 3.802
+ },
+ "1881: Homarid Warrior": {
+  "rating": 1.81
+ },
+ "1882: Homarid Warrior": {
+  "rating": 2.061
+ },
+ "1883: Homarid Warrior": {
+  "rating": 1.824
+ },
+ "1884: Merseine": {
+  "rating": 1.923
+ },
+ "1885: Merseine": {
+  "rating": 1.757
+ },
+ "1886: Merseine": {
+  "rating": 2.062
+ },
+ "1887: Merseine": {
+  "rating": 1.75
+ },
+ "1888: River Merfolk": {
+  "rating": 3.038
+ },
+ "1889: Seasinger": {
+  "rating": 4.033
+ },
+ "1890: Svyelunite Priest": {
+  "rating": 1.729
+ },
+ "1891: Tidal Flats": {
+  "rating": 2.741
+ },
+ "1892: Tidal Flats": {
+  "rating": 2.097
+ },
+ "1893: Tidal Flats": {
+  "rating": 2.615
+ },
+ "1894: Tidal Influence": {
+  "rating": 2.552
+ },
+ "1895: Vodalian Knights": {
+  "rating": 2.8
+ },
+ "1896: Vodalian Mage": {
+  "rating": 2.741
+ },
+ "1897: Vodalian Mage": {
+  "rating": 3.547
+ },
+ "1898: Vodalian Mage": {
+  "rating": 2.938
+ },
+ "1899: Vodalian Soldiers": {
+  "rating": 2.281
+ },
+ "1900: Vodalian Soldiers": {
+  "rating": 1.78
+ },
+ "1901: Vodalian Soldiers": {
+  "rating": 2.038
+ },
+ "1902: Vodalian Soldiers": {
+  "rating": 1.525
+ },
+ "1903: Vodalian War Machine": {
+  "rating": 3.29
+ },
+ "1904: Elven Fortress": {
+  "rating": 1.875
+ },
+ "1905: Elven Fortress": {
+  "rating": 2.185
+ },
+ "1906: Elven Fortress": {
+  "rating": 2.297
+ },
+ "1907: Elven Fortress": {
+  "rating": 2.086
+ },
+ "1908: Elvish Farmer": {
+  "rating": 3.389
+ },
+ "1909: Elvish Hunter": {
+  "rating": 3.297
+ },
+ "1910: Elvish Hunter": {
+  "rating": 3.036
+ },
+ "1911: Elvish Hunter": {
+  "rating": 3.235
+ },
+ "1912: Elvish Scout": {
+  "rating": 3.145
+ },
+ "1913: Elvish Scout": {
+  "rating": 3.295
+ },
+ "1914: Elvish Scout": {
+  "rating": 3.765
+ },
+ "1915: Feral Thallid": {
+  "rating": 2.562
+ },
+ "1916: Fungal Bloom": {
+  "rating": 3.88
+ },
+ "1917: Night Soil": {
+  "rating": 4.028
+ },
+ "1918: Night Soil": {
+  "rating": 3.75
+ },
+ "1919: Night Soil": {
+  "rating": 3.96
+ },
+ "1920: Spore Cloud": {
+  "rating": 3.613
+ },
+ "1921: Spore Cloud": {
+  "rating": 3.533
+ },
+ "1922: Spore Cloud": {
+  "rating": 3.179
+ },
+ "1923: Spore Flower": {
+  "rating": 3.6
+ },
+ "1924: Thallid": {
+  "rating": 4.043
+ },
+ "1925: Thallid": {
+  "rating": 4.059
+ },
+ "1926: Thallid": {
+  "rating": 4.027
+ },
+ "1927: Thallid": {
+  "rating": 4.05
+ },
+ "1928: Thallid Devourer": {
+  "rating": 3.027
+ },
+ "1929: Thelon's Chant": {
+  "rating": 2.593
+ },
+ "1930: Thelon's Curse": {
+  "rating": 2.883
+ },
+ "1931: Thelonite Druid": {
+  "rating": 3.511
+ },
+ "1932: Thelonite Monk": {
+  "rating": 2.893
+ },
+ "1933: Thorn Thallid": {
+  "rating": 2.815
+ },
+ "1934: Thorn Thallid": {
+  "rating": 2.889
+ },
+ "1935: Thorn Thallid": {
+  "rating": 3.038
+ },
+ "1936: Thorn Thallid": {
+  "rating": 3.017
+ },
+ "1937: Brassclaw Orcs": {
+  "rating": 2.12
+ },
+ "1938: Brassclaw Orcs": {
+  "rating": 2.161
+ },
+ "1939: Orcish Veteran": {
+  "rating": 2.806
+ },
+ "1940: Brassclaw Orcs": {
+  "rating": 2.135
+ },
+ "1941: Dwarven Armorer": {
+  "rating": 2.671
+ },
+ "1942: Dwarven Catapult": {
+  "rating": 2.449
+ },
+ "1943: Dwarven Lieutenant": {
+  "rating": 2.703
+ },
+ "1944: Dwarven Soldier": {
+  "rating": 2.1
+ },
+ "1945: Dwarven Soldier": {
+  "rating": 2.696
+ },
+ "1946: Dwarven Soldier": {
+  "rating": 2.182
+ },
+ "1947: Goblin Chirurgeon": {
+  "rating": 3.938
+ },
+ "1948: Goblin Chirurgeon": {
+  "rating": 3.92
+ },
+ "1949: Goblin Chirurgeon": {
+  "rating": 3.798
+ },
+ "1950: Goblin Flotilla": {
+  "rating": 2.712
+ },
+ "1951: Goblin Grenade": {
+  "rating": 4.41
+ },
+ "1952: Goblin Grenade": {
+  "rating": 4.35
+ },
+ "1953: Goblin Grenade": {
+  "rating": 4.422
+ },
+ "1954: Goblin Kites": {
+  "rating": 2.481
+ },
+ "1955: Goblin War Drums": {
+  "rating": 3.944
+ },
+ "1956: Goblin War Drums": {
+  "rating": 3.547
+ },
+ "1957: Goblin War Drums": {
+  "rating": 3.909
+ },
+ "1958: Goblin War Drums": {
+  "rating": 3.981
+ },
+ "1959: Goblin Warrens": {
+  "rating": 3.774
+ },
+ "1960: Orcish Captain": {
+  "rating": 2.77
+ },
+ "1961: Orcish Spy": {
+  "rating": 3.179
+ },
+ "1962: Orcish Spy": {
+  "rating": 3.534
+ },
+ "1963: Orcish Spy": {
+  "rating": 3.222
+ },
+ "1964: Orcish Veteran": {
+  "rating": 2.638
+ },
+ "1965: Orcish Veteran": {
+  "rating": 1.963
+ },
+ "1966: Brassclaw Orcs": {
+  "rating": 2.303
+ },
+ "1967: Orcish Veteran": {
+  "rating": 2.24
+ },
+ "1968: Orgg": {
+  "rating": 3.351
+ },
+ "1969: Raiding Party": {
+  "rating": 2.974
+ },
+ "1970: Combat Medic": {
+  "rating": 1.872
+ },
+ "1971: Combat Medic": {
+  "rating": 2.5
+ },
+ "1972: Combat Medic": {
+  "rating": 2.466
+ },
+ "1973: Combat Medic": {
+  "rating": 2.344
+ },
+ "1974: Farrel's Mantle": {
+  "rating": 3.016
+ },
+ "1975: Farrel's Zealot": {
+  "rating": 3
+ },
+ "1976: Farrel's Zealot": {
+  "rating": 3.192
+ },
+ "1977: Farrel's Zealot": {
+  "rating": 2.909
+ },
+ "1978: Farrelite Priest": {
+  "rating": 3.288
+ },
+ "1979: Hand of Justice": {
+  "rating": 3.625
+ },
+ "1980: Heroism": {
+  "rating": 2.162
+ },
+ "1981: Icatian Infantry": {
+  "rating": 2.796
+ },
+ "1982: Icatian Infantry": {
+  "rating": 2.82
+ },
+ "1983: Icatian Infantry": {
+  "rating": 2.988
+ },
+ "1984: Icatian Infantry": {
+  "rating": 3.21
+ },
+ "1985: Icatian Javelineers": {
+  "rating": 4.465
+ },
+ "1986: Icatian Javelineers": {
+  "rating": 4.315
+ },
+ "1987: Icatian Javelineers": {
+  "rating": 4.336
+ },
+ "1988: Icatian Lieutenant": {
+  "rating": 2.833
+ },
+ "1989: Icatian Moneychanger": {
+  "rating": 2.606
+ },
+ "1990: Icatian Moneychanger": {
+  "rating": 2.297
+ },
+ "1991: Icatian Moneychanger": {
+  "rating": 2.512
+ },
+ "1992: Icatian Phalanx": {
+  "rating": 2.333
+ },
+ "1993: Icatian Priest": {
+  "rating": 2.694
+ },
+ "1994: Icatian Scout": {
+  "rating": 2.625
+ },
+ "1995: Icatian Scout": {
+  "rating": 2.638
+ },
+ "1996: Icatian Scout": {
+  "rating": 2.946
+ },
+ "1997: Icatian Scout": {
+  "rating": 2.655
+ },
+ "1998: Icatian Skirmishers": {
+  "rating": 2.614
+ },
+ "1999: Icatian Town": {
+  "rating": 3.329
+ },
+ "2000: Order of Leitbur": {
+  "rating": 4.119
+ },
+ "2001: Order of Leitbur": {
+  "rating": 4.143
+ },
+ "2002: Order of Leitbur": {
+  "rating": 4
+ },
+ "2003: Bottomless Vault": {
+  "rating": 3.324
+ },
+ "2004: Dwarven Hold": {
+  "rating": 3.211
+ },
+ "2005: Dwarven Ruins": {
+  "rating": 3.258
+ },
+ "2006: Ebon Stronghold": {
+  "rating": 3.378
+ },
+ "2007: Havenwood Battleground": {
+  "rating": 3
+ },
+ "2008: Hollow Trees": {
+  "rating": 2.743
+ },
+ "2009: Icatian Store": {
+  "rating": 2.903
+ },
+ "2010: Rainbow Vale": {
+  "rating": 2.733
+ },
+ "2011: Ruins of Trokair": {
+  "rating": 3.19
+ },
+ "2012: Sand Silos": {
+  "rating": 3.25
+ },
+ "2013: Svyelunite Temple": {
+  "rating": 3.265
+ }
+}

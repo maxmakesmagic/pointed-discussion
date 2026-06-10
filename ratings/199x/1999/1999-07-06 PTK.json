@@ -1,0 +1,542 @@
+{
+ "10483: Volunteer Militia": {
+  "rating": 3.093
+ },
+ "10484: Wei Night Raiders": {
+  "rating": 3.547
+ },
+ "10485: Wu Admiral": {
+  "rating": 1.771
+ },
+ "10486: Flanking Troops": {
+  "rating": 2.979
+ },
+ "10487: Alert Shu Infantry": {
+  "rating": 2.737
+ },
+ "10488: Shu Soldier-Farmers": {
+  "rating": 2.083
+ },
+ "10489: Shu Foot Soldiers": {
+  "rating": 2.304
+ },
+ "10490: Kongming, \"Sleeping Dragon\"": {
+  "rating": 3.926
+ },
+ "10491: Loyal Retainers": {
+  "rating": 4.529
+ },
+ "10492: Taunting Challenge": {
+  "rating": 3.059
+ },
+ "10493: Ambition's Cost": {
+  "rating": 3.698
+ },
+ "10494: Guan Yu, Sainted Warrior": {
+  "rating": 3.63
+ },
+ "10495: Kongming's Contraptions": {
+  "rating": 2.569
+ },
+ "10496: Riding Red Hare": {
+  "rating": 3.645
+ },
+ "10497: Shu Elite Companions": {
+  "rating": 2.796
+ },
+ "10498: Wu Longbowman": {
+  "rating": 2.476
+ },
+ "10499: Liu Bei, Lord of Shu": {
+  "rating": 3.867
+ },
+ "10500: Ravages of War": {
+  "rating": 4.043
+ },
+ "10501: Red Cliffs Armada": {
+  "rating": 1.875
+ },
+ "10502: Shu General": {
+  "rating": 3.024
+ },
+ "10503: Meng Huo's Horde": {
+  "rating": 2.625
+ },
+ "10504: Empty City Ruse": {
+  "rating": 3.696
+ },
+ "10505: Forest Bear": {
+  "rating": 2.957
+ },
+ "10506: Zodiac Rooster": {
+  "rating": 3.97
+ },
+ "10507: Blaze": {
+  "rating": 3.444
+ },
+ "10508: Stone Catapult": {
+  "rating": 3
+ },
+ "10509: False Defeat": {
+  "rating": 3.958
+ },
+ "10510: Zodiac Dragon": {
+  "rating": 3.413
+ },
+ "10511: Wei Elite Companions": {
+  "rating": 2.56
+ },
+ "10512: Desperate Charge": {
+  "rating": 2.327
+ },
+ "10513: Sun Quan, Lord of Wu": {
+  "rating": 4.034
+ },
+ "10514: Coercion": {
+  "rating": 3.484
+ },
+ "10515: Imperial Edict": {
+  "rating": 3.817
+ },
+ "10516: Yuan Shao, the Indecisive": {
+  "rating": 3.517
+ },
+ "10517: Wei Scout": {
+  "rating": 2.481
+ },
+ "10518: Famine": {
+  "rating": 2.3
+ },
+ "10519: Wei Infantry": {
+  "rating": 2.021
+ },
+ "10520: Zhang He, Wei General": {
+  "rating": 3.818
+ },
+ "10521: Overwhelming Forces": {
+  "rating": 4
+ },
+ "10522: Wolf Pack": {
+  "rating": 3.583
+ },
+ "10523: Heavy Fog": {
+  "rating": 3.457
+ },
+ "10524: Sage's Knowledge": {
+  "rating": 2.842
+ },
+ "10525: Zhou Yu, Chief Commander": {
+  "rating": 3.027
+ },
+ "10526: Rolling Earthquake": {
+  "rating": 4.132
+ },
+ "10527: Exhaustion": {
+  "rating": 4.091
+ },
+ "10528: Extinguish": {
+  "rating": 1.943
+ },
+ "10529: Wu Spy": {
+  "rating": 3.75
+ },
+ "10530: Preemptive Strike": {
+  "rating": 3.854
+ },
+ "10531: Peach Garden Oath": {
+  "rating": 3.758
+ },
+ "10532: Forest": {
+  "rating": 4.446
+ },
+ "10533: Cunning Advisor": {
+  "rating": 2.364
+ },
+ "10534: Zodiac Dog": {
+  "rating": 3.306
+ },
+ "10535: Fire Bowman": {
+  "rating": 2.868
+ },
+ "10536: Lu Bu, Master-at-Arms": {
+  "rating": 3.767
+ },
+ "10537: Yellow Scarves Cavalry": {
+  "rating": 2.266
+ },
+ "10538: Control of the Court": {
+  "rating": 3
+ },
+ "10539: Imperial Recruiter": {
+  "rating": 4.069
+ },
+ "10540: Zodiac Goat": {
+  "rating": 3.595
+ },
+ "10541: Independent Troops": {
+  "rating": 1.645
+ },
+ "10542: Yellow Scarves Troops": {
+  "rating": 2.42
+ },
+ "10543: Eunuchs' Intrigues": {
+  "rating": 2.262
+ },
+ "10544: Diaochan, Artful Beauty": {
+  "rating": 3.42
+ },
+ "10545: Southern Elephant": {
+  "rating": 2.486
+ },
+ "10546: Ghostly Visit": {
+  "rating": 2.519
+ },
+ "10547: Marshaling the Troops": {
+  "rating": 3.765
+ },
+ "10548: Cao Cao, Lord of Wei": {
+  "rating": 3.681
+ },
+ "10549: Borrowing the East Wind": {
+  "rating": 1.463
+ },
+ "10550: Stalking Tiger": {
+  "rating": 2.7
+ },
+ "10551: Island": {
+  "rating": 4.483
+ },
+ "10552: Warrior's Oath": {
+  "rating": 4.013
+ },
+ "10553: Eightfold Maze": {
+  "rating": 3.306
+ },
+ "10554: Stolen Grain": {
+  "rating": 2.783
+ },
+ "10555: Burning Fields": {
+  "rating": 2.62
+ },
+ "10556: Lone Wolf": {
+  "rating": 3.721
+ },
+ "10557: Wei Ambush Force": {
+  "rating": 3.286
+ },
+ "10558: Zodiac Monkey": {
+  "rating": 3.304
+ },
+ "10559: Yuan Shao's Infantry": {
+  "rating": 2.688
+ },
+ "10560: Deception": {
+  "rating": 2.783
+ },
+ "10561: Wei Strike Force": {
+  "rating": 3.5
+ },
+ "10562: Wielding the Green Dragon": {
+  "rating": 1.889
+ },
+ "10563: Mountain": {
+  "rating": 4.569
+ },
+ "10564: Zodiac Rat": {
+  "rating": 3.037
+ },
+ "10565: Mystic Denial": {
+  "rating": 1.871
+ },
+ "10566: Spring of Eternal Peace": {
+  "rating": 1.559
+ },
+ "10567: Three Visits": {
+  "rating": 3.912
+ },
+ "10569: Taoist Hermit": {
+  "rating": 3.378
+ },
+ "10570: Hua Tuo, Honored Physician": {
+  "rating": 3.956
+ },
+ "10571: Trained Jackal": {
+  "rating": 3.423
+ },
+ "10572: Hunting Cheetah": {
+  "rating": 4.042
+ },
+ "10573: Trained Cheetah": {
+  "rating": 1.923
+ },
+ "10574: Barbarian General": {
+  "rating": 2.435
+ },
+ "10576: Renegade Troops": {
+  "rating": 1.891
+ },
+ "10577: Yellow Scarves General": {
+  "rating": 1.9
+ },
+ "10578: Barbarian Horde": {
+  "rating": 1.714
+ },
+ "10579: Misfortune's Gain": {
+  "rating": 1.833
+ },
+ "10580: Balance of Power": {
+  "rating": 2.87
+ },
+ "10581: Plains": {
+  "rating": 4.423
+ },
+ "10582: Zodiac Rabbit": {
+  "rating": 3.016
+ },
+ "10583: Wei Assassins": {
+  "rating": 2.98
+ },
+ "10584: Young Wei Recruits": {
+  "rating": 1.794
+ },
+ "10585: Mountain Bandit": {
+  "rating": 3.809
+ },
+ "10586: Zodiac Pig": {
+  "rating": 3.25
+ },
+ "10587: Poison Arrow": {
+  "rating": 1.794
+ },
+ "10588: Return to Battle": {
+  "rating": 3.045
+ },
+ "10589: Rally the Troops": {
+  "rating": 2.712
+ },
+ "10590: Xiahou Dun, the One-Eyed": {
+  "rating": 3.989
+ },
+ "10591: Slashing Tiger": {
+  "rating": 3.304
+ },
+ "10592: Relentless Assault": {
+  "rating": 4.032
+ },
+ "10593: Champion's Victory": {
+  "rating": 1.662
+ },
+ "10594: Zodiac Tiger": {
+  "rating": 3.125
+ },
+ "10595: Corrupt Court Official": {
+  "rating": 3.621
+ },
+ "10596: Virtuous Charge": {
+  "rating": 1.893
+ },
+ "10597: Guan Yu's 1,000-Li March": {
+  "rating": 3.174
+ },
+ "10598: Zodiac Horse": {
+  "rating": 3.125
+ },
+ "10599: False Mourning": {
+  "rating": 3.769
+ },
+ "10600: Wu Infantry": {
+  "rating": 1.938
+ },
+ "10601: Council of Advisors": {
+  "rating": 1.919
+ },
+ "10602: Strategic Planning": {
+  "rating": 4.18
+ },
+ "10603: Rockslide Ambush": {
+  "rating": 2.94
+ },
+ "10604: Zhang Fei, Fierce Warrior": {
+  "rating": 3.94
+ },
+ "10605: Wu Warship": {
+  "rating": 1.605
+ },
+ "10606: Stone Rain": {
+  "rating": 3.934
+ },
+ "10607: Swamp": {
+  "rating": 4.739
+ },
+ "10608: Zodiac Snake": {
+  "rating": 2.904
+ },
+ "10609: Lady Zhurong, Warrior Queen": {
+  "rating": 3.851
+ },
+ "10610: Zuo Ci, the Mocking Sage": {
+  "rating": 2.362
+ },
+ "10611: Wu Elite Cavalry": {
+  "rating": 3.212
+ },
+ "10612: Wu Scout": {
+  "rating": 3.379
+ },
+ "10613: Straw Soldiers": {
+  "rating": 2.671
+ },
+ "10614: Lu Su, Wu Advisor": {
+  "rating": 2.697
+ },
+ "10615: Wu Light Cavalry": {
+  "rating": 2.855
+ },
+ "10616: Lu Xun, Scholar General": {
+  "rating": 4.012
+ },
+ "10617: Shu Grain Caravan": {
+  "rating": 2.688
+ },
+ "10618: Shu Farmer": {
+  "rating": 1.658
+ },
+ "10619: Capture of Jingzhou": {
+  "rating": 4.029
+ },
+ "10620: Borrowing 100,000 Arrows": {
+  "rating": 4.023
+ },
+ "10621: Broken Dam": {
+  "rating": 3.737
+ },
+ "10622: Forced Retreat": {
+  "rating": 2.792
+ },
+ "10623: Brilliant Plan": {
+  "rating": 2.561
+ },
+ "10624: Shu Defender": {
+  "rating": 2.333
+ },
+ "10625: Trip Wire": {
+  "rating": 1.469
+ },
+ "10626: Desert Sandstorm": {
+  "rating": 1.257
+ },
+ "10627: Shu Elite Infantry": {
+  "rating": 2.136
+ },
+ "10628: Counterintelligence": {
+  "rating": 2.242
+ },
+ "10629: Spoils of Victory": {
+  "rating": 3.111
+ },
+ "10630: Sima Yi, Wei Field Marshal": {
+  "rating": 3.167
+ },
+ "10631: Vengeance": {
+  "rating": 2.473
+ },
+ "10632: Fire Ambush": {
+  "rating": 2.609
+ },
+ "10633: Warrior's Stand": {
+  "rating": 3.018
+ },
+ "10635: Shu Cavalry": {
+  "rating": 3.92
+ },
+ "10636: Zodiac Ox": {
+  "rating": 3.19
+ },
+ "10637: Burning of Xinye": {
+  "rating": 3.717
+ },
+ "10639: Forest": {
+  "rating": 4.448
+ },
+ "10640: Forest": {
+  "rating": 4.469
+ },
+ "10641: Island": {
+  "rating": 4.429
+ },
+ "10642: Island": {
+  "rating": 3.889
+ },
+ "10643: Mountain": {
+  "rating": 4.375
+ },
+ "10644: Mountain": {
+  "rating": 4.519
+ },
+ "10645: Plains": {
+  "rating": 4.75
+ },
+ "10646: Plains": {
+  "rating": 4.804
+ },
+ "10647: Swamp": {
+  "rating": 4.204
+ },
+ "10648: Swamp": {
+  "rating": 4.655
+ },
+ "10686: Zhao Zilong, Tiger General": {
+  "rating": 3.1
+ },
+ "10709: Sun Ce, Young Conquerer": {
+  "rating": 4.032
+ },
+ "10710: Lu Meng, Wu General": {
+  "rating": 3.958
+ },
+ "10711: Zhuge Jin, Wu Strategist": {
+  "rating": 3.39
+ },
+ "10712: Cao Ren, Wei Commander": {
+  "rating": 2.08
+ },
+ "10713: Pang Tong, \"Young Phoenix\"": {
+  "rating": 2.5
+ },
+ "10714: Huang Zhong, Shu General": {
+  "rating": 2.554
+ },
+ "10721: Lady Sun": {
+  "rating": 3.31
+ },
+ "10727: Zhang Liao, Hero of Hefei": {
+  "rating": 2.45
+ },
+ "10728: Imperial Seal": {
+  "rating": 4.703
+ },
+ "10729: Ma Chao, Western Warrior": {
+  "rating": 3.816
+ },
+ "10730: Dong Zhou, the Tyrant": {
+  "rating": 3.757
+ },
+ "10731: Riding the Dilu Horse": {
+  "rating": 4.061
+ },
+ "10732: Meng Huo, Barbarian King": {
+  "rating": 3.981
+ },
+ "10733: Taoist Mystic": {
+  "rating": 1.829
+ },
+ "10734: Corrupt Eunuchs": {
+  "rating": 2.87
+ },
+ "13805: Ravaging Horde": {
+  "rating": 3.604
+ },
+ "13831: Xun Yu, Wei Advisor": {
+  "rating": 2.208
+ }
+}

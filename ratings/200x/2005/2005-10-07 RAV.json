@@ -1,0 +1,920 @@
+{
+ "83556: Plague Boiler": {
+  "rating": 3.957
+ },
+ "83559: Vinelasher Kudzu": {
+  "rating": 4.077
+ },
+ "83562: Flame-Kin Zealot": {
+  "rating": 4.185
+ },
+ "83567: Cleansing Beam": {
+  "rating": 2.097
+ },
+ "83572: Master Warcraft": {
+  "rating": 3.994
+ },
+ "83573: Hunted Phantasm": {
+  "rating": 3.92
+ },
+ "83576: Thoughtpicker Witch": {
+  "rating": 3.833
+ },
+ "83584: Civic Wayfinder": {
+  "rating": 3.451
+ },
+ "83588: Boros Swiftblade": {
+  "rating": 3.914
+ },
+ "83597: Glimpse the Unthinkable": {
+  "rating": 4.327
+ },
+ "83599: Keening Banshee": {
+  "rating": 3.424
+ },
+ "83602: Flickerform": {
+  "rating": 3.291
+ },
+ "83605: Viashino Slasher": {
+  "rating": 1.462
+ },
+ "83609: Faith's Fetters": {
+  "rating": 3.98
+ },
+ "83611: Thundersong Trumpeter": {
+  "rating": 3.79
+ },
+ "83612: Caregiver": {
+  "rating": 1.173
+ },
+ "83617: Suppression Field": {
+  "rating": 4.453
+ },
+ "83618: Sunforger": {
+  "rating": 4.04
+ },
+ "83619: Grifter's Blade": {
+  "rating": 2.378
+ },
+ "83620: Fiery Conclusion": {
+  "rating": 2.327
+ },
+ "83625: Watchwolf": {
+  "rating": 4.169
+ },
+ "83629: Terrarion": {
+  "rating": 3.318
+ },
+ "83631: Moroii": {
+  "rating": 3.479
+ },
+ "83634: Ribbons of Night": {
+  "rating": 3.426
+ },
+ "83646: Smash": {
+  "rating": 3.333
+ },
+ "83647: Scion of the Wild": {
+  "rating": 3.875
+ },
+ "83648: Sins of the Past": {
+  "rating": 3.338
+ },
+ "83651: Loxodon Gatekeeper": {
+  "rating": 3.921
+ },
+ "83672: Fists of Ironwood": {
+  "rating": 4.013
+ },
+ "83677: Flight of Fancy": {
+  "rating": 3.745
+ },
+ "83679: Tidewater Minion": {
+  "rating": 3.262
+ },
+ "83680: Rally the Righteous": {
+  "rating": 3.42
+ },
+ "83688: Birds of Paradise": {
+  "rating": 4.408
+ },
+ "83699: Followed Footsteps": {
+  "rating": 4.077
+ },
+ "83702: Gleancrawler": {
+  "rating": 4.027
+ },
+ "83712: Hammerfist Giant": {
+  "rating": 3.485
+ },
+ "83719: Glass Golem": {
+  "rating": 2.585
+ },
+ "83720: Privileged Position": {
+  "rating": 4.146
+ },
+ "83726: Nullstone Gargoyle": {
+  "rating": 2.951
+ },
+ "83730: Pariah's Shield": {
+  "rating": 3.705
+ },
+ "83731: Watery Grave": {
+  "rating": 4.256
+ },
+ "83738: Loxodon Hierarch": {
+  "rating": 4.063
+ },
+ "83744: Perilous Forays": {
+  "rating": 3.773
+ },
+ "83745: Sadistic Augermage": {
+  "rating": 1.788
+ },
+ "83746: Sisters of Stone Death": {
+  "rating": 4.004
+ },
+ "83747: Woodwraith Corrupter": {
+  "rating": 3.153
+ },
+ "83748: Spawnbroker": {
+  "rating": 3.553
+ },
+ "83754: Blazing Archon": {
+  "rating": 4.405
+ },
+ "83764: Halcyon Glaze": {
+  "rating": 3.488
+ },
+ "83771: Dark Confidant": {
+  "rating": 4.452
+ },
+ "83791: Eye of the Storm": {
+  "rating": 4.035
+ },
+ "83794: Sunhome, Fortress of the Legion": {
+  "rating": 3.551
+ },
+ "83803: Goblin Spelunkers": {
+  "rating": 2.79
+ },
+ "83807: Copy Enchantment": {
+  "rating": 3.917
+ },
+ "83819: Strands of Undeath": {
+  "rating": 2.941
+ },
+ "83822: Clinging Darkness": {
+  "rating": 3.065
+ },
+ "83827: Shadow of Doubt": {
+  "rating": 4.113
+ },
+ "83829: Seismic Spike": {
+  "rating": 3.904
+ },
+ "83832: Grozoth": {
+  "rating": 3.87
+ },
+ "83833: Elves of Deep Shadow": {
+  "rating": 4.081
+ },
+ "83834: Lurking Informant": {
+  "rating": 3.5
+ },
+ "83838: Golgari Guildmage": {
+  "rating": 2.932
+ },
+ "83850: Dimir Doppelganger": {
+  "rating": 4.053
+ },
+ "83880: Selesnya Sagittars": {
+  "rating": 2.919
+ },
+ "83884: Festival of the Guildpact": {
+  "rating": 3.317
+ },
+ "83893: Mausoleum Turnkey": {
+  "rating": 2.583
+ },
+ "83900: Boros Garrison": {
+  "rating": 4
+ },
+ "83903: Crown of Convergence": {
+  "rating": 3.259
+ },
+ "83905: Three Dreams": {
+  "rating": 3.549
+ },
+ "83908: Woodwraith Strangler": {
+  "rating": 1.886
+ },
+ "83912: Flame Fusillade": {
+  "rating": 4.319
+ },
+ "83913: Nullmage Shepherd": {
+  "rating": 3.728
+ },
+ "83921: Mark of Eviction": {
+  "rating": 3.986
+ },
+ "83928: Bloodletter Quill": {
+  "rating": 3.386
+ },
+ "83933: Gaze of the Gorgon": {
+  "rating": 3.395
+ },
+ "87896: Wojek Siren": {
+  "rating": 1.881
+ },
+ "87897: Indentured Oaf": {
+  "rating": 1.703
+ },
+ "87898: Vedalken Dismisser": {
+  "rating": 1.89
+ },
+ "87899: Greater Mossdog": {
+  "rating": 2.756
+ },
+ "87900: Excruciator": {
+  "rating": 3.181
+ },
+ "87902: Ordruun Commando": {
+  "rating": 1.961
+ },
+ "87904: Surveilling Sprite": {
+  "rating": 2.909
+ },
+ "87905: Terraformer": {
+  "rating": 2.638
+ },
+ "87906: Dimir Cutpurse": {
+  "rating": 4.485
+ },
+ "87907: Screeching Griffin": {
+  "rating": 2.045
+ },
+ "87908: Lightning Helix": {
+  "rating": 4.396
+ },
+ "87909: Sell-Sword Brute": {
+  "rating": 1.293
+ },
+ "87910: Bathe in Light": {
+  "rating": 3.316
+ },
+ "87911: Dromad Purebred": {
+  "rating": 1.436
+ },
+ "87913: Courier Hawk": {
+  "rating": 3.444
+ },
+ "87914: Grayscaled Gharial": {
+  "rating": 2.594
+ },
+ "87915: Conclave Equenaut": {
+  "rating": 2.146
+ },
+ "87916: Ivy Dancer": {
+  "rating": 2.107
+ },
+ "87917: Disembowel": {
+  "rating": 2.398
+ },
+ "87918: Boros Guildmage": {
+  "rating": 3.734
+ },
+ "87919: Remand": {
+  "rating": 4.466
+ },
+ "87921: Dogpile": {
+  "rating": 2.683
+ },
+ "87922: Darkblast": {
+  "rating": 4.191
+ },
+ "87923: Consult the Necrosages": {
+  "rating": 4.007
+ },
+ "87924: Induce Paranoia": {
+  "rating": 3.429
+ },
+ "87925: Dizzy Spell": {
+  "rating": 3.107
+ },
+ "87926: Dimir House Guard": {
+  "rating": 3.57
+ },
+ "87927: Sundering Vitae": {
+  "rating": 3.274
+ },
+ "87928: Elvish Skysweeper": {
+  "rating": 2.864
+ },
+ "87929: Dimir Aqueduct": {
+  "rating": 3.756
+ },
+ "87930: Tattered Drake": {
+  "rating": 1.643
+ },
+ "87931: Scatter the Seeds": {
+  "rating": 3.219
+ },
+ "87932: Siege Wurm": {
+  "rating": 3.141
+ },
+ "87934: Greater Forgeling": {
+  "rating": 1.771
+ },
+ "87936: Selesnya Evangel": {
+  "rating": 3.216
+ },
+ "87937: Sabertooth Alley Cat": {
+  "rating": 1.931
+ },
+ "87939: Golgari Rot Farm": {
+  "rating": 3.927
+ },
+ "87940: Gather Courage": {
+  "rating": 3.472
+ },
+ "87941: Lore Broker": {
+  "rating": 3.23
+ },
+ "87942: Char": {
+  "rating": 3.396
+ },
+ "87943: Rain of Embers": {
+  "rating": 2.797
+ },
+ "87945: Roofstalker Wight": {
+  "rating": 2.273
+ },
+ "87946: Transluminant": {
+  "rating": 2.949
+ },
+ "87947: Frenzied Goblin": {
+  "rating": 3.745
+ },
+ "87948: Votary of the Conclave": {
+  "rating": 1.906
+ },
+ "87949: Coalhauler Swine": {
+  "rating": 2.956
+ },
+ "87950: Veteran Armorer": {
+  "rating": 3.911
+ },
+ "87951: Peel from Reality": {
+  "rating": 3.438
+ },
+ "87952: Auratouched Mage": {
+  "rating": 3.455
+ },
+ "87953: Flash Conscription": {
+  "rating": 2.276
+ },
+ "87954: Leave No Trace": {
+  "rating": 3.364
+ },
+ "87955: Mortipede": {
+  "rating": 2.636
+ },
+ "87956: Surge of Zeal": {
+  "rating": 1.705
+ },
+ "87957: Chant of Vitu-Ghazi": {
+  "rating": 2.5
+ },
+ "87958: Dryad's Caress": {
+  "rating": 2.197
+ },
+ "87959: Centaur Safeguard": {
+  "rating": 2.7
+ },
+ "87960: Drake Familiar": {
+  "rating": 2.81
+ },
+ "87962: Shred Memory": {
+  "rating": 3.622
+ },
+ "87963: Selesnya Sanctuary": {
+  "rating": 3.83
+ },
+ "87964: Bramble Elemental": {
+  "rating": 3.398
+ },
+ "87965: Goblin Fire Fiend": {
+  "rating": 1.543
+ },
+ "87966: Infectious Host": {
+  "rating": 1.738
+ },
+ "87967: Sparkmage Apprentice": {
+  "rating": 3.15
+ },
+ "87968: Galvanic Arc": {
+  "rating": 3.417
+ },
+ "87969: Conclave's Blessing": {
+  "rating": 2.179
+ },
+ "87970: Farseek": {
+  "rating": 3.611
+ },
+ "87971: War-Torch Goblin": {
+  "rating": 2.717
+ },
+ "87972: Barbarian Riftcutter": {
+  "rating": 1.791
+ },
+ "87974: Viashino Fangtail": {
+  "rating": 3.327
+ },
+ "87975: Nightguard Patrol": {
+  "rating": 2.854
+ },
+ "87977: Blockbuster": {
+  "rating": 1.761
+ },
+ "87978: Flow of Ideas": {
+  "rating": 3.109
+ },
+ "87979: Quickchange": {
+  "rating": 2.069
+ },
+ "87981: Dimir Machinations": {
+  "rating": 3.807
+ },
+ "87982: Gate Hound": {
+  "rating": 1.575
+ },
+ "87984: Stinkweed Imp": {
+  "rating": 4.468
+ },
+ "87985: Necromantic Thirst": {
+  "rating": 2.478
+ },
+ "87986: Snapping Drake": {
+  "rating": 2.882
+ },
+ "87987: Dimir Infiltrator": {
+  "rating": 4.022
+ },
+ "87988: Selesnya Guildmage": {
+  "rating": 3.382
+ },
+ "87989: Drooling Groodion": {
+  "rating": 2.888
+ },
+ "87990: Dimir Guildmage": {
+  "rating": 3.822
+ },
+ "87991: Compulsive Research": {
+  "rating": 4.323
+ },
+ "87992: Perplex": {
+  "rating": 4.012
+ },
+ "87993: Incite Hysteria": {
+  "rating": 2.596
+ },
+ "87994: Drift of Phantasms": {
+  "rating": 3.946
+ },
+ "87995: Congregation at Dawn": {
+  "rating": 3.991
+ },
+ "88943: Duskmantle, House of Shadow": {
+  "rating": 3.045
+ },
+ "88944: Stasis Cell": {
+  "rating": 1.628
+ },
+ "88945: Dream Leash": {
+  "rating": 3.321
+ },
+ "88946: Wojek Embermage": {
+  "rating": 2.986
+ },
+ "88951: Undercity Shade": {
+  "rating": 2.111
+ },
+ "88952: Light of Sanction": {
+  "rating": 3.01
+ },
+ "88955: Muddle the Mixture": {
+  "rating": 4.552
+ },
+ "88956: Necroplasm": {
+  "rating": 3.915
+ },
+ "88959: Goliath Spider": {
+  "rating": 3.164
+ },
+ "88960: Golgari Grave-Troll": {
+  "rating": 4.605
+ },
+ "88962: Zephyr Spirit": {
+  "rating": 0.858
+ },
+ "88963: Mnemonic Nexus": {
+  "rating": 2.405
+ },
+ "88965: Brainspoil": {
+  "rating": 2.81
+ },
+ "88966: Recollect": {
+  "rating": 3.568
+ },
+ "88968: Dowsing Shaman": {
+  "rating": 2.868
+ },
+ "88969: Phytohydra": {
+  "rating": 4.051
+ },
+ "88971: Wizened Snitches": {
+  "rating": 2.458
+ },
+ "88972: Netherborn Phalanx": {
+  "rating": 3.328
+ },
+ "88973: Twilight Drover": {
+  "rating": 3.812
+ },
+ "88974: Carrion Howler": {
+  "rating": 1.898
+ },
+ "88975: Divebomber Griffin": {
+  "rating": 2.023
+ },
+ "88977: Junktroller": {
+  "rating": 2.962
+ },
+ "88979: Ursapine": {
+  "rating": 4.031
+ },
+ "88981: Belltower Sphinx": {
+  "rating": 3.924
+ },
+ "88982: Mindmoil": {
+  "rating": 3.974
+ },
+ "88983: Sandsower": {
+  "rating": 1.49
+ },
+ "88984: Seed Spark": {
+  "rating": 3.206
+ },
+ "88985: Hour of Reckoning": {
+  "rating": 3.788
+ },
+ "88986: Vigor Mortis": {
+  "rating": 4.049
+ },
+ "88988: Telling Time": {
+  "rating": 3.99
+ },
+ "88990: Helldozer": {
+  "rating": 4.007
+ },
+ "88991: Voyager Staff": {
+  "rating": 2.424
+ },
+ "88992: Boros Recruit": {
+  "rating": 3.915
+ },
+ "88993: Wojek Apothecary": {
+  "rating": 1.438
+ },
+ "88994: Golgari Thug": {
+  "rating": 4.386
+ },
+ "88995: Sewerdreg": {
+  "rating": 1.117
+ },
+ "88997: Instill Furor": {
+  "rating": 1.956
+ },
+ "88998: Convolute": {
+  "rating": 2.451
+ },
+ "89000: Bloodbond March": {
+  "rating": 3.862
+ },
+ "89001: Life from the Loam": {
+  "rating": 4.56
+ },
+ "89002: Vindictive Mob": {
+  "rating": 1.708
+ },
+ "89003: Spectral Searchlight": {
+  "rating": 3.685
+ },
+ "89004: Torpid Moloch": {
+  "rating": 3.613
+ },
+ "89005: Hunted Horror": {
+  "rating": 4.07
+ },
+ "89006: Boros Fury-Shield": {
+  "rating": 4.049
+ },
+ "89008: Leashling": {
+  "rating": 1.155
+ },
+ "89009: Moldervine Cloak": {
+  "rating": 3.943
+ },
+ "89010: Conclave Phalanx": {
+  "rating": 2.621
+ },
+ "89011: Pollenbright Wings": {
+  "rating": 2.557
+ },
+ "89012: Oathsworn Giant": {
+  "rating": 3.786
+ },
+ "89015: Empty the Catacombs": {
+  "rating": 2.879
+ },
+ "89016: Vitu-Ghazi, the City-Tree": {
+  "rating": 3.385
+ },
+ "89017: Dark Heart of the Wood": {
+  "rating": 3.364
+ },
+ "89018: Bottled Cloister": {
+  "rating": 3.74
+ },
+ "89019: Golgari Brownscale": {
+  "rating": 3
+ },
+ "89021: Shambling Shell": {
+  "rating": 4.215
+ },
+ "89022: Tunnel Vision": {
+  "rating": 3.871
+ },
+ "89023: Ethereal Usher": {
+  "rating": 2.85
+ },
+ "89024: Rolling Spoil": {
+  "rating": 2.797
+ },
+ "89026: Root-Kin Ally": {
+  "rating": 2.204
+ },
+ "89027: Glare of Subdual": {
+  "rating": 4.052
+ },
+ "89028: Vedalken Entrancer": {
+  "rating": 2.25
+ },
+ "89030: Guardian of Vitu-Ghazi": {
+  "rating": 2.978
+ },
+ "89035: Cyclopean Snare": {
+  "rating": 0.875
+ },
+ "89037: Clutch of the Undercity": {
+  "rating": 3.68
+ },
+ "89038: Golgari Rotwurm": {
+  "rating": 3.5
+ },
+ "89040: Devouring Light": {
+  "rating": 4
+ },
+ "89041: Stone-Seeder Hierophant": {
+  "rating": 2.917
+ },
+ "89042: Ghosts of the Innocent": {
+  "rating": 2.73
+ },
+ "89044: Overwhelm": {
+  "rating": 1.873
+ },
+ "89045: Svogthos, the Restless Tomb": {
+  "rating": 3.92
+ },
+ "89047: Benevolent Ancestor": {
+  "rating": 1.939
+ },
+ "89048: Carven Caryatid": {
+  "rating": 4.006
+ },
+ "89049: Woebringer Demon": {
+  "rating": 3.344
+ },
+ "89051: Hunted Lammasu": {
+  "rating": 3.424
+ },
+ "89052: Twisted Justice": {
+  "rating": 3.343
+ },
+ "89053: Chorus of the Conclave": {
+  "rating": 3.364
+ },
+ "89054: Mindleech Mass": {
+  "rating": 4.029
+ },
+ "89056: Last Gasp": {
+  "rating": 4.034
+ },
+ "89059: Hex": {
+  "rating": 3.968
+ },
+ "89061: Razia, Boros Archangel": {
+  "rating": 4.026
+ },
+ "89062: Nightmare Void": {
+  "rating": 2.61
+ },
+ "89063: Putrefy": {
+  "rating": 4.369
+ },
+ "89064: Chord of Calling": {
+  "rating": 4.041
+ },
+ "89066: Sacred Foundry": {
+  "rating": 4.274
+ },
+ "89068: Brightflame": {
+  "rating": 3.966
+ },
+ "89069: Golgari Germination": {
+  "rating": 3.786
+ },
+ "89070: Sunhome Enforcer": {
+  "rating": 3.607
+ },
+ "89072: Overgrown Tomb": {
+  "rating": 4.266
+ },
+ "89073: Grave-Shell Scarab": {
+  "rating": 3.944
+ },
+ "89074: Firemane Angel": {
+  "rating": 3.983
+ },
+ "89075: Seeds of Strength": {
+  "rating": 3.035
+ },
+ "89079: Hunted Troll": {
+  "rating": 3.986
+ },
+ "89080: Molten Sentry": {
+  "rating": 1.793
+ },
+ "89082: Vulturous Zombie": {
+  "rating": 4.056
+ },
+ "89083: Primordial Sage": {
+  "rating": 4.031
+ },
+ "89084: Warp World": {
+  "rating": 3.476
+ },
+ "89086: Hunted Dragon": {
+  "rating": 3.912
+ },
+ "89087: Reroute": {
+  "rating": 3.911
+ },
+ "89088: Moonlight Bargain": {
+  "rating": 2.86
+ },
+ "89089: Cloudstone Curio": {
+  "rating": 4
+ },
+ "89090: Peregrine Mask": {
+  "rating": 2.644
+ },
+ "89092: Szadek, Lord of Secrets": {
+  "rating": 3.986
+ },
+ "89093: Temple Garden": {
+  "rating": 4.303
+ },
+ "89095: Cerulean Sphinx": {
+  "rating": 3.094
+ },
+ "89096: Autochthon Wurm": {
+  "rating": 3.818
+ },
+ "89099: Breath of Fury": {
+  "rating": 3.99
+ },
+ "89101: Agrus Kos, Wojek Veteran": {
+  "rating": 3.735
+ },
+ "89102: Blood Funnel": {
+  "rating": 2.235
+ },
+ "89105: Stoneshaker Shaman": {
+  "rating": 2.548
+ },
+ "89107: Trophy Hunter": {
+  "rating": 3.375
+ },
+ "89109: Concerted Effort": {
+  "rating": 3.929
+ },
+ "89110: Tolsimir Wolfblood": {
+  "rating": 4.012
+ },
+ "89111: Circu, Dimir Lobotomist": {
+  "rating": 4.059
+ },
+ "89113: Savra, Queen of the Golgari": {
+  "rating": 4.015
+ },
+ "89114: Psychic Drain": {
+  "rating": 3.47
+ },
+ "89115: Razia's Purification": {
+  "rating": 4
+ },
+ "89116: Doubling Season": {
+  "rating": 4.411
+ },
+ "89117: Searing Meditation": {
+  "rating": 3.767
+ },
+ "95096: Mountain": {
+  "rating": 4.804
+ },
+ "95097: Forest": {
+  "rating": 4.667
+ },
+ "95098: Forest": {
+  "rating": 4.63
+ },
+ "95099: Forest": {
+  "rating": 4.472
+ },
+ "95100: Island": {
+  "rating": 4.554
+ },
+ "95101: Swamp": {
+  "rating": 4.629
+ },
+ "95102: Mountain": {
+  "rating": 4.587
+ },
+ "95103: Island": {
+  "rating": 4.707
+ },
+ "95104: Mountain": {
+  "rating": 4.606
+ },
+ "95105: Plains": {
+  "rating": 4.661
+ },
+ "95106: Forest": {
+  "rating": 4.176
+ },
+ "95107: Island": {
+  "rating": 4.378
+ },
+ "95108: Plains": {
+  "rating": 4.778
+ },
+ "95109: Mountain": {
+  "rating": 4.592
+ },
+ "95110: Swamp": {
+  "rating": 4.5
+ },
+ "95111: Swamp": {
+  "rating": 4.727
+ },
+ "95112: Plains": {
+  "rating": 4.625
+ },
+ "95113: Island": {
+  "rating": 4.738
+ },
+ "95114: Swamp": {
+  "rating": 4.75
+ },
+ "95115: Plains": {
+  "rating": 4.615
+ },
+ "95535: Dimir Signet": {
+  "rating": 3.595
+ },
+ "95536: Golgari Signet": {
+  "rating": 3.486
+ },
+ "95537: Boros Signet": {
+  "rating": 3.447
+ },
+ "95538: Selesnya Signet": {
+  "rating": 3.56
+ },
+ "109082: Skyknight Legionnaire": {
+  "rating": 3.82
+ }
+}

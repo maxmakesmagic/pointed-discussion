@@ -1,0 +1,497 @@
+{
+ "73995: Soratami Mindsweeper": {
+  "rating": 2.773
+ },
+ "73997: Stream of Consciousness": {
+  "rating": 3.518
+ },
+ "74006: Mark of the Oni": {
+  "rating": 3.683
+ },
+ "74023: Twist Allegiance": {
+  "rating": 3.257
+ },
+ "74027: Oyobi, Who Split the Heavens": {
+  "rating": 3.791
+ },
+ "74028: Moonlit Strider": {
+  "rating": 2.278
+ },
+ "74032: Crawling Filth": {
+  "rating": 1.026
+ },
+ "74033: Walker of Secret Ways": {
+  "rating": 3.085
+ },
+ "74034: Sway of the Stars": {
+  "rating": 3.325
+ },
+ "74035: Genju of the Fens": {
+  "rating": 3.316
+ },
+ "74039: Isao, Enlightened Bushi": {
+  "rating": 3.893
+ },
+ "74041: In the Web of War": {
+  "rating": 3.806
+ },
+ "74084: Mistblade Shinobi": {
+  "rating": 4.361
+ },
+ "74086: Kodama of the Center Tree": {
+  "rating": 3.073
+ },
+ "74087: Genju of the Fields": {
+  "rating": 3.922
+ },
+ "74090: Sosuke's Summons": {
+  "rating": 3.947
+ },
+ "74091: Indebted Samurai": {
+  "rating": 3.185
+ },
+ "74092: Sakura-Tribe Springcaller": {
+  "rating": 3.056
+ },
+ "74093: Faithful Squire": {
+  "rating": 3.053
+ },
+ "74095: Takenuma Bleeder": {
+  "rating": 1.903
+ },
+ "74096: Chisei, Heart of Oceans": {
+  "rating": 3.595
+ },
+ "74097: Kami of False Hope": {
+  "rating": 3.934
+ },
+ "74099: Shinka Gatekeeper": {
+  "rating": 0.891
+ },
+ "74100: Nourishing Shoal": {
+  "rating": 2.4
+ },
+ "74108: Throat Slitter": {
+  "rating": 3.815
+ },
+ "74109: Patron of the Akki": {
+  "rating": 3.845
+ },
+ "74110: Reduce to Dreams": {
+  "rating": 3.317
+ },
+ "74113: Toils of Night and Day": {
+  "rating": 2.828
+ },
+ "74117: Three Tragedies": {
+  "rating": 1.662
+ },
+ "74122: Ronin Cliffrider": {
+  "rating": 3.691
+ },
+ "74124: Pus Kami": {
+  "rating": 1.61
+ },
+ "74127: Sickening Shoal": {
+  "rating": 4.304
+ },
+ "74128: Disrupting Shoal": {
+  "rating": 3.742
+ },
+ "74410: Forked-Branch Garami": {
+  "rating": 3.5
+ },
+ "74412: Tallowisp": {
+  "rating": 3.885
+ },
+ "74415: Shuko": {
+  "rating": 4.169
+ },
+ "74417: Blessing of Leeches": {
+  "rating": 3.191
+ },
+ "74422: Baku Altar": {
+  "rating": 2.792
+ },
+ "74424: Genju of the Cedars": {
+  "rating": 3.784
+ },
+ "74427: Bile Urchin": {
+  "rating": 2.716
+ },
+ "74428: Akki Blizzard-Herder": {
+  "rating": 2.736
+ },
+ "74430: Mark of Sakiko": {
+  "rating": 3.33
+ },
+ "74431: Toshiro Umezawa": {
+  "rating": 4.016
+ },
+ "74433: Goblin Cohort": {
+  "rating": 3.274
+ },
+ "74435: Gnarled Mass": {
+  "rating": 2.464
+ },
+ "74436: Shizuko, Caller of Autumn": {
+  "rating": 3.114
+ },
+ "74441: Blazing Shoal": {
+  "rating": 4.123
+ },
+ "74443: Kaijin of the Vanishing Touch": {
+  "rating": 3.182
+ },
+ "74445: Kira, Great Glass-Spinner": {
+  "rating": 4.421
+ },
+ "74447: Tomorrow, Azami's Familiar": {
+  "rating": 3.771
+ },
+ "74448: Higure, the Still Wind": {
+  "rating": 4.218
+ },
+ "74451: First Volley": {
+  "rating": 1.765
+ },
+ "74455: Petalmane Baku": {
+  "rating": 3.1
+ },
+ "74458: Teardrop Kami": {
+  "rating": 2.926
+ },
+ "74460: Kami of Tattered Shoji": {
+  "rating": 1.319
+ },
+ "74461: Child of Thorns": {
+  "rating": 3.112
+ },
+ "74465: Hero's Demise": {
+  "rating": 2.587
+ },
+ "74467: Nezumi Shadow-Watcher": {
+  "rating": 2
+ },
+ "74469: Ashen Monstrosity": {
+  "rating": 2.853
+ },
+ "74473: Ronin Warclub": {
+  "rating": 3.144
+ },
+ "74475: Goryo's Vengeance": {
+  "rating": 3.946
+ },
+ "74476: Hired Muscle": {
+  "rating": 2.6
+ },
+ "74480: Crack the Earth": {
+  "rating": 3.491
+ },
+ "74481: Terashi's Verdict": {
+  "rating": 2.456
+ },
+ "74487: Tendo Ice Bridge": {
+  "rating": 4.282
+ },
+ "74488: Scourge of Numai": {
+  "rating": 2.038
+ },
+ "74489: Callow Jushi": {
+  "rating": 3.577
+ },
+ "74490: Mannichi, the Fevered Dream": {
+  "rating": 3.744
+ },
+ "74493: Split-Tail Miko": {
+  "rating": 2.141
+ },
+ "74496: Phantom Wings": {
+  "rating": 3.645
+ },
+ "74500: Quash": {
+  "rating": 4.229
+ },
+ "74507: Iwamori of the Open Fist": {
+  "rating": 3.917
+ },
+ "74510: Yukora, the Prisoner": {
+  "rating": 3.285
+ },
+ "74512: Ornate Kanzashi": {
+  "rating": 3.103
+ },
+ "74513: Empty-Shrine Kannushi": {
+  "rating": 3.66
+ },
+ "74515: Veil of Secrecy": {
+  "rating": 3.355
+ },
+ "74517: Day of Destiny": {
+  "rating": 3.478
+ },
+ "74518: Waxmane Baku": {
+  "rating": 3.3
+ },
+ "74519: Shining Shoal": {
+  "rating": 4.156
+ },
+ "74522: Aura Barbs": {
+  "rating": 3.094
+ },
+ "74526: Yomiji, Who Bars the Way": {
+  "rating": 3.131
+ },
+ "74532: Ribbons of the Reikai": {
+  "rating": 2.197
+ },
+ "74534: Fumiko the Lowblood": {
+  "rating": 3.98
+ },
+ "74535: Blademane Baku": {
+  "rating": 2.328
+ },
+ "74536: Budoka Pupil": {
+  "rating": 3.019
+ },
+ "74538: Mending Hands": {
+  "rating": 2.5
+ },
+ "74541: Scaled Hulk": {
+  "rating": 2.391
+ },
+ "74542: Patron of the Orochi": {
+  "rating": 4.141
+ },
+ "74544: Sakiko, Mother of Summer": {
+  "rating": 3.429
+ },
+ "74545: Silverstorm Samurai": {
+  "rating": 1.755
+ },
+ "74546: Eradicate": {
+  "rating": 4.212
+ },
+ "74552: Kyoki, Sanity's Eclipse": {
+  "rating": 3.542
+ },
+ "74554: Psychic Spear": {
+  "rating": 0.949
+ },
+ "74555: Mirror Gallery": {
+  "rating": 4.232
+ },
+ "74568: Uproot": {
+  "rating": 2.222
+ },
+ "74571: Lifegift": {
+  "rating": 3.711
+ },
+ "74572: Heartless Hidetsugu": {
+  "rating": 4.195
+ },
+ "74573: Kumano's Blessing": {
+  "rating": 1.046
+ },
+ "74576: Okiba-Gang Shinobi": {
+  "rating": 3.922
+ },
+ "74577: Skullmane Baku": {
+  "rating": 1.162
+ },
+ "74578: Neko-Te": {
+  "rating": 3.85
+ },
+ "74580: Harbinger of Spring": {
+  "rating": 2.689
+ },
+ "74581: Hundred-Talon Strike": {
+  "rating": 3.059
+ },
+ "74582: Genju of the Falls": {
+  "rating": 4.227
+ },
+ "74584: Loam Dweller": {
+  "rating": 3.5
+ },
+ "74585: Terashi's Grasp": {
+  "rating": 3.875
+ },
+ "74587: Ninja of the Deep Hours": {
+  "rating": 4.596
+ },
+ "74589: Frost Ogre": {
+  "rating": 2.197
+ },
+ "74590: Horobi's Whisper": {
+  "rating": 3.263
+ },
+ "74594: Ogre Marauder": {
+  "rating": 3.961
+ },
+ "74596: Akki Raider": {
+  "rating": 2
+ },
+ "74597: Takeno's Cavalry": {
+  "rating": 0.855
+ },
+ "74598: Clash of Realities": {
+  "rating": 2.828
+ },
+ "74600: Minamo Sightbender": {
+  "rating": 2.81
+ },
+ "74603: Kitsune Palliator": {
+  "rating": 2.125
+ },
+ "74607: Orb of Dreams": {
+  "rating": 4.293
+ },
+ "74609: Ire of Kaminari": {
+  "rating": 2.932
+ },
+ "74610: Ward of Piety": {
+  "rating": 2.172
+ },
+ "74612: Vital Surge": {
+  "rating": 1.838
+ },
+ "74613: Body of Jukai": {
+  "rating": 2.615
+ },
+ "74615: Splinter": {
+  "rating": 4.176
+ },
+ "74616: Call for Blood": {
+  "rating": 1.391
+ },
+ "74619: Matsu-Tribe Sniper": {
+  "rating": 3.861
+ },
+ "74620: Patron of the Kitsune": {
+  "rating": 3.51
+ },
+ "74621: Frostling": {
+  "rating": 3.447
+ },
+ "74623: Sowing Salt": {
+  "rating": 4.167
+ },
+ "74625: Flames of the Blood Hand": {
+  "rating": 3.443
+ },
+ "74626: Ink-Eyes, Servant of Oni": {
+  "rating": 4.212
+ },
+ "74627: Traproot Kami": {
+  "rating": 4.108
+ },
+ "74628: Slumbering Tora": {
+  "rating": 2.106
+ },
+ "74629: Roar of Jukai": {
+  "rating": 2.097
+ },
+ "74636: Ishi-Ishi, Akki Crackshot": {
+  "rating": 2.654
+ },
+ "74637: Floodbringer": {
+  "rating": 2.686
+ },
+ "74640: Scour": {
+  "rating": 4.012
+ },
+ "74642: Lifespinner": {
+  "rating": 3.194
+ },
+ "74643: Stir the Grave": {
+  "rating": 3.643
+ },
+ "74644: That Which Was Taken": {
+  "rating": 4.101
+ },
+ "74645: Ogre Recluse": {
+  "rating": 1.443
+ },
+ "74646: Patron of the Nezumi": {
+  "rating": 3.53
+ },
+ "74647: Hokori, Dust Drinker": {
+  "rating": 3.406
+ },
+ "74652: Threads of Disloyalty": {
+  "rating": 4.378
+ },
+ "74655: Opal-Eye, Konda's Yojimbo": {
+  "rating": 3.791
+ },
+ "74657: Quillmane Baku": {
+  "rating": 1.518
+ },
+ "74660: Heed the Mists": {
+  "rating": 2.586
+ },
+ "74665: Minamo's Meddling": {
+  "rating": 2.382
+ },
+ "74666: Genju of the Spires": {
+  "rating": 4.225
+ },
+ "74668: Gods' Eye, Gate to the Reikai": {
+  "rating": 3.37
+ },
+ "74669: Patron of the Moon": {
+  "rating": 3.628
+ },
+ "74670: Unchecked Growth": {
+  "rating": 2.735
+ },
+ "74671: Cunning Bandit": {
+  "rating": 3.241
+ },
+ "75364: Genju of the Realm": {
+  "rating": 4.047
+ },
+ "81968: Kentaro, the Smiling Cat": {
+  "rating": 3.518
+ },
+ "81976: Jetting Glasskite": {
+  "rating": 3.308
+ },
+ "81977: Kami of the Honored Dead": {
+  "rating": 2.571
+ },
+ "81978: Shimmering Glasskite": {
+  "rating": 3.297
+ },
+ "81979: Umezawa's Jitte": {
+  "rating": 4.594
+ },
+ "81982: Heart of Light": {
+  "rating": 2.855
+ },
+ "81983: Skullsnatcher": {
+  "rating": 3.391
+ },
+ "81986: Overblaze": {
+  "rating": 3.404
+ },
+ "81987: Shirei, Shizo's Caretaker": {
+  "rating": 4.025
+ },
+ "81989: Blinding Powder": {
+  "rating": 3.032
+ },
+ "81990: Torrent of Stone": {
+  "rating": 1.581
+ },
+ "81991: Final Judgment": {
+  "rating": 4.187
+ },
+ "81997: Shuriken": {
+  "rating": 3.324
+ },
+ "81998: Enshrined Memories": {
+  "rating": 3.41
+ }
+}

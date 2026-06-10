@@ -1,0 +1,956 @@
+{
+ "228218: Alliance of Arms": {
+  "rating": 3.048
+ },
+ "228228: Dread Cacodemon": {
+  "rating": 3.62
+ },
+ "228232: The Mimeoplasm": {
+  "rating": 4.27
+ },
+ "228241: Magmatic Force": {
+  "rating": 4.029
+ },
+ "228242: Trench Gorger": {
+  "rating": 3.783
+ },
+ "228246: Archangel of Strife": {
+  "rating": 3.775
+ },
+ "228247: Hydra Omnivore": {
+  "rating": 4.015
+ },
+ "228253: Crescendo of War": {
+  "rating": 3.529
+ },
+ "228255: Flusterstorm": {
+  "rating": 4.387
+ },
+ "228257: Celestial Force": {
+  "rating": 3.769
+ },
+ "228259: Shared Trauma": {
+  "rating": 4.149
+ },
+ "229988: Death by Dragons": {
+  "rating": 3.875
+ },
+ "230000: Edric, Spymaster of Trest": {
+  "rating": 4.233
+ },
+ "233181: Scavenging Ooze": {
+  "rating": 4.486
+ },
+ "233183: Stranglehold": {
+  "rating": 4.204
+ },
+ "233197: Acorn Catapult": {
+  "rating": 3.718
+ },
+ "233200: Champion's Helm": {
+  "rating": 3.69
+ },
+ "233201: Homeward Path": {
+  "rating": 3.646
+ },
+ "233218: Syphon Flesh": {
+  "rating": 3.474
+ },
+ "236465: Mana-Charged Dragon": {
+  "rating": 3.8
+ },
+ "236466: Chaos Warp": {
+  "rating": 4.208
+ },
+ "236468: Karador, Ghost Chieftain": {
+  "rating": 4.043
+ },
+ "236469: Riku of Two Reflections": {
+  "rating": 4.09
+ },
+ "236471: Nin, the Pain Artist": {
+  "rating": 3.944
+ },
+ "236473: Kaalia of the Vast": {
+  "rating": 3.993
+ },
+ "236477: Ruhan of the Fomori": {
+  "rating": 3.878
+ },
+ "236479: Damia, Sage of Stone": {
+  "rating": 4.024
+ },
+ "236481: Martyr's Bond": {
+  "rating": 4.127
+ },
+ "236482: Sewer Nemesis": {
+  "rating": 4.149
+ },
+ "236485: Skullbriar, the Walking Grave": {
+  "rating": 4.166
+ },
+ "236487: Vish Kal, Blood Arbiter": {
+  "rating": 4.053
+ },
+ "236490: Basandra, Battle Seraph": {
+  "rating": 3.922
+ },
+ "236497: Avatar of Slaughter": {
+  "rating": 4.052
+ },
+ "236499: Zedruu the Greathearted": {
+  "rating": 3.822
+ },
+ "236500: Scythe Specter": {
+  "rating": 3.985
+ },
+ "236501: Ghave, Guru of Spores": {
+  "rating": 4.004
+ },
+ "236504: Animar, Soul of Elements": {
+  "rating": 4.313
+ },
+ "236986: Vow of Duty": {
+  "rating": 3
+ },
+ "236995: Tariel, Reckoner of Souls": {
+  "rating": 3.978
+ },
+ "236998: Tribute to the Wild": {
+  "rating": 3.27
+ },
+ "236999: Vow of Lightning": {
+  "rating": 3.485
+ },
+ "237004: Command Tower": {
+  "rating": 4.166
+ },
+ "237005: Spell Crumple": {
+  "rating": 3.881
+ },
+ "238135: Vow of Wildness": {
+  "rating": 3.606
+ },
+ "238136: Soul Snare": {
+  "rating": 4.011
+ },
+ "238138: Riddlekeeper": {
+  "rating": 3.802
+ },
+ "238141: Hornet Queen": {
+  "rating": 3.994
+ },
+ "238144: Vow of Flight": {
+  "rating": 3.339
+ },
+ "238145: Vow of Malice": {
+  "rating": 3.647
+ },
+ "241853: Minds Aglow": {
+  "rating": 3.308
+ },
+ "241854: Collective Voyage": {
+  "rating": 3.656
+ },
+ "247140: Dreamborn Muse": {
+  "rating": 3.867
+ },
+ "247141: Furnace Whelp": {
+  "rating": 2.926
+ },
+ "247142: Grave Pact": {
+  "rating": 4.396
+ },
+ "247143: Mortivore": {
+  "rating": 4.183
+ },
+ "247144: Nantuko Husk": {
+  "rating": 3.979
+ },
+ "247145: Troll Ascetic": {
+  "rating": 4.19
+ },
+ "247146: Voice of All": {
+  "rating": 4.155
+ },
+ "247147: Windborn Muse": {
+  "rating": 4.171
+ },
+ "247148: Eternal Witness": {
+  "rating": 4.452
+ },
+ "247150: Fallen Angel": {
+  "rating": 3.704
+ },
+ "247151: Lhurgoyf": {
+  "rating": 4.329
+ },
+ "247152: Fellwar Stone": {
+  "rating": 3.924
+ },
+ "247153: Fleshbag Marauder": {
+  "rating": 4.042
+ },
+ "247154: Memory Erosion": {
+  "rating": 2.806
+ },
+ "247155: Necrogenesis": {
+  "rating": 3
+ },
+ "247156: Oblivion Ring": {
+  "rating": 4.405
+ },
+ "247158: Death Mutation": {
+  "rating": 3.029
+ },
+ "247159: Fire // Ice": {
+  "rating": 4.418
+ },
+ "247161: Orim's Thunder": {
+  "rating": 3.885
+ },
+ "247162: Prophetic Bolt": {
+  "rating": 4.026
+ },
+ "247164: Colossal Might": {
+  "rating": 2.837
+ },
+ "247165: Sigil Captain": {
+  "rating": 3.082
+ },
+ "247166: Terminate": {
+  "rating": 4.417
+ },
+ "247167: Valley Rannet": {
+  "rating": 2.074
+ },
+ "247168: Vengeful Rebirth": {
+  "rating": 2.895
+ },
+ "247169: Wall of Denial": {
+  "rating": 3.766
+ },
+ "247171: Patron of the Nezumi": {
+  "rating": 3.2
+ },
+ "247173: Ghostly Prison": {
+  "rating": 4.069
+ },
+ "247174: Kodama's Reach": {
+  "rating": 3.857
+ },
+ "247175: Nezumi Graverobber": {
+  "rating": 4.027
+ },
+ "247176: Sakura-Tribe Elder": {
+  "rating": 4.125
+ },
+ "247177: Armillary Sphere": {
+  "rating": 2.844
+ },
+ "247178: Extractor Demon": {
+  "rating": 3.178
+ },
+ "247179: Malfegor": {
+  "rating": 3.263
+ },
+ "247180: Path to Exile": {
+  "rating": 4.363
+ },
+ "247181: Rupture Spire": {
+  "rating": 3.276
+ },
+ "247182: Jötun Grunt": {
+  "rating": 3.956
+ },
+ "247183: Perilous Research": {
+  "rating": 3.779
+ },
+ "247184: Aura Shards": {
+  "rating": 4.326
+ },
+ "247185: Breath of Darigaaz": {
+  "rating": 4.091
+ },
+ "247186: Fact or Fiction": {
+  "rating": 4.56
+ },
+ "247187: Repulse": {
+  "rating": 3.737
+ },
+ "247188: Aquastrand Spider": {
+  "rating": 2.741
+ },
+ "247189: Azorius Chancery": {
+  "rating": 3.614
+ },
+ "247190: Azorius Guildmage": {
+  "rating": 4.441
+ },
+ "247191: Court Hussar": {
+  "rating": 3.887
+ },
+ "247192: Rakdos Carnarium": {
+  "rating": 3.643
+ },
+ "247193: Rakdos Signet": {
+  "rating": 3.577
+ },
+ "247194: Simic Growth Chamber": {
+  "rating": 3.846
+ },
+ "247195: Simic Signet": {
+  "rating": 3.457
+ },
+ "247196: Simic Sky Swallower": {
+  "rating": 4.426
+ },
+ "247197: Skyscribing": {
+  "rating": 2.484
+ },
+ "247198: Vision Skeins": {
+  "rating": 2.593
+ },
+ "247199: Wrecking Ball": {
+  "rating": 3.304
+ },
+ "247200: Darksteel Ingot": {
+  "rating": 4.377
+ },
+ "247201: Skullclamp": {
+  "rating": 4.458
+ },
+ "247202: Call the Skybreaker": {
+  "rating": 3.056
+ },
+ "247203: Desecrator Hag": {
+  "rating": 2.682
+ },
+ "247204: Dominus of Fealty": {
+  "rating": 4.09
+ },
+ "247205: Duergar Hedge-Mage": {
+  "rating": 3.883
+ },
+ "247206: Gwyllion Hedge-Mage": {
+  "rating": 3.359
+ },
+ "247207: Nucklavee": {
+  "rating": 3.647
+ },
+ "247273: Magus of the Vineyard": {
+  "rating": 3.766
+ },
+ "247274: Zoetic Cavern": {
+  "rating": 3.244
+ },
+ "247275: Angel of Despair": {
+  "rating": 4.25
+ },
+ "247276: Electrolyze": {
+  "rating": 4.115
+ },
+ "247277: Gruul Signet": {
+  "rating": 3.482
+ },
+ "247278: Gruul Turf": {
+  "rating": 3.608
+ },
+ "247279: Izzet Boilerworks": {
+  "rating": 3.828
+ },
+ "247280: Izzet Chronarch": {
+  "rating": 3.038
+ },
+ "247281: Izzet Signet": {
+  "rating": 3.846
+ },
+ "247282: Mortify": {
+  "rating": 4.172
+ },
+ "247283: Orzhov Basilica": {
+  "rating": 3.773
+ },
+ "247284: Orzhov Guildmage": {
+  "rating": 3.686
+ },
+ "247285: Orzhov Signet": {
+  "rating": 3.522
+ },
+ "247286: Savage Twister": {
+  "rating": 4
+ },
+ "247287: Storm Herd": {
+  "rating": 3.522
+ },
+ "247288: Vedalken Plotter": {
+  "rating": 2.889
+ },
+ "247289: Anger": {
+  "rating": 4.25
+ },
+ "247290: Brawn": {
+  "rating": 4.279
+ },
+ "247291: Spurnmage Advocate": {
+  "rating": 3.719
+ },
+ "247292: Stitch Together": {
+  "rating": 4.213
+ },
+ "247293: Wonder": {
+  "rating": 4.375
+ },
+ "247294: Chromeshell Crab": {
+  "rating": 3.765
+ },
+ "247295: Aethersnipe": {
+  "rating": 3.5
+ },
+ "247296: Arbiter of Knollridge": {
+  "rating": 2.984
+ },
+ "247297: Austere Command": {
+  "rating": 4.006
+ },
+ "247298: Brion Stoutarm": {
+  "rating": 3.918
+ },
+ "247299: Faultgrinder": {
+  "rating": 1.938
+ },
+ "247300: Footbottom Feast": {
+  "rating": 3.012
+ },
+ "247301: Lash Out": {
+  "rating": 3.012
+ },
+ "247302: Mulldrifter": {
+  "rating": 4.24
+ },
+ "247303: Pollen Lullaby": {
+  "rating": 2.593
+ },
+ "247304: Scattering Stroke": {
+  "rating": 2.757
+ },
+ "247305: Shriekmaw": {
+  "rating": 4.184
+ },
+ "247306: Vivid Crag": {
+  "rating": 3.517
+ },
+ "247307: Vivid Creek": {
+  "rating": 3.543
+ },
+ "247308: Vivid Grove": {
+  "rating": 3.547
+ },
+ "247309: Vivid Marsh": {
+  "rating": 3.204
+ },
+ "247310: Vivid Meadow": {
+  "rating": 3.47
+ },
+ "247311: Whirlpool Whelm": {
+  "rating": 2.21
+ },
+ "247312: Wild Ricochet": {
+  "rating": 3.408
+ },
+ "247313: Deadly Recluse": {
+  "rating": 3.577
+ },
+ "247314: Dragon Whelp": {
+  "rating": 3.718
+ },
+ "247315: Earthquake": {
+  "rating": 4.26
+ },
+ "247316: Howling Mine": {
+  "rating": 4.292
+ },
+ "247317: Acidic Slime": {
+  "rating": 3.745
+ },
+ "247318: Angelic Arbiter": {
+  "rating": 3.837
+ },
+ "247319: Conundrum Sphinx": {
+  "rating": 3.96
+ },
+ "247320: Cultivate": {
+  "rating": 3.703
+ },
+ "247321: Diabolic Tutor": {
+  "rating": 3.879
+ },
+ "247322: Doom Blade": {
+  "rating": 4.232
+ },
+ "247323: Garruk Wildspeaker": {
+  "rating": 4.06
+ },
+ "247324: Gravedigger": {
+  "rating": 3.688
+ },
+ "247325: Rise from the Grave": {
+  "rating": 3.402
+ },
+ "247326: Serra Angel": {
+  "rating": 3.969
+ },
+ "247327: Sign in Blood": {
+  "rating": 3.708
+ },
+ "247328: Terramorphic Expanse": {
+  "rating": 3.74
+ },
+ "247329: Ray of Command": {
+  "rating": 4.014
+ },
+ "247330: Afterlife": {
+  "rating": 4.037
+ },
+ "247331: Brainstorm": {
+  "rating": 4.579
+ },
+ "247332: Invigorate": {
+  "rating": 4.245
+ },
+ "247333: Squallmonger": {
+  "rating": 3.442
+ },
+ "247335: Fertilid": {
+  "rating": 3.317
+ },
+ "247336: Spitebellows": {
+  "rating": 2.823
+ },
+ "247337: Lightning Greaves": {
+  "rating": 4.438
+ },
+ "247338: Oblivion Stone": {
+  "rating": 4.183
+ },
+ "247339: Reiver Demon": {
+  "rating": 4.18
+ },
+ "247340: Solemn Simulacrum": {
+  "rating": 4.422
+ },
+ "247341: Shattered Angel": {
+  "rating": 2.911
+ },
+ "247342: Buried Alive": {
+  "rating": 4.377
+ },
+ "247343: Akroma's Vengeance": {
+  "rating": 3.915
+ },
+ "247344: Barren Moor": {
+  "rating": 3.458
+ },
+ "247345: Explosive Vegetation": {
+  "rating": 3.804
+ },
+ "247346: Forgotten Cave": {
+  "rating": 3.346
+ },
+ "247347: Insurrection": {
+  "rating": 4.183
+ },
+ "247348: Krosan Tusker": {
+  "rating": 4.115
+ },
+ "247349: Lonely Sandbar": {
+  "rating": 3.63
+ },
+ "247350: Oblation": {
+  "rating": 4.118
+ },
+ "247351: Righteous Cause": {
+  "rating": 3.431
+ },
+ "247352: Secluded Steppe": {
+  "rating": 3.36
+ },
+ "247353: Slipstream Eel": {
+  "rating": 1.75
+ },
+ "247354: Symbiotic Wurm": {
+  "rating": 4.032
+ },
+ "247355: Syphon Mind": {
+  "rating": 3.516
+ },
+ "247356: Trade Secrets": {
+  "rating": 3.529
+ },
+ "247357: Tranquil Thicket": {
+  "rating": 3.808
+ },
+ "247358: Akroma, Angel of Fury": {
+  "rating": 4.348
+ },
+ "247359: Deadwood Treefolk": {
+  "rating": 3.032
+ },
+ "247360: Harmonize": {
+  "rating": 4.183
+ },
+ "247361: Intet, the Dreamer": {
+  "rating": 4.106
+ },
+ "247362: Numot, the Devastator": {
+  "rating": 4.02
+ },
+ "247363: Oros, the Avenger": {
+  "rating": 4.026
+ },
+ "247364: Pyrohemia": {
+  "rating": 3.944
+ },
+ "247365: Teneb, the Harvester": {
+  "rating": 4.167
+ },
+ "247366: Vorosh, the Hunter": {
+  "rating": 4.187
+ },
+ "247367: Avatar of Fury": {
+  "rating": 4.019
+ },
+ "247368: Flametongue Kavu": {
+  "rating": 4.4
+ },
+ "247369: Hull Breach": {
+  "rating": 4.317
+ },
+ "247370: Bathe in Light": {
+  "rating": 3
+ },
+ "247371: Boros Garrison": {
+  "rating": 3.983
+ },
+ "247372: Boros Guildmage": {
+  "rating": 3.75
+ },
+ "247373: Boros Signet": {
+  "rating": 3.538
+ },
+ "247374: Chorus of the Conclave": {
+  "rating": 3.288
+ },
+ "247375: Cleansing Beam": {
+  "rating": 2.113
+ },
+ "247376: Dimir Aqueduct": {
+  "rating": 3.635
+ },
+ "247377: Dimir Signet": {
+  "rating": 3.75
+ },
+ "247378: Fists of Ironwood": {
+  "rating": 3.568
+ },
+ "247379: Golgari Guildmage": {
+  "rating": 2.786
+ },
+ "247380: Golgari Rot Farm": {
+  "rating": 3.973
+ },
+ "247381: Golgari Signet": {
+  "rating": 3.708
+ },
+ "247382: Hex": {
+  "rating": 3.795
+ },
+ "247383: Hour of Reckoning": {
+  "rating": 3.671
+ },
+ "247384: Master Warcraft": {
+  "rating": 3.713
+ },
+ "247385: Selesnya Evangel": {
+  "rating": 3.08
+ },
+ "247386: Selesnya Guildmage": {
+  "rating": 3.433
+ },
+ "247387: Selesnya Sanctuary": {
+  "rating": 3.35
+ },
+ "247388: Selesnya Signet": {
+  "rating": 3.615
+ },
+ "247389: Svogthos, the Restless Tomb": {
+  "rating": 3.744
+ },
+ "247390: Szadek, Lord of Secrets": {
+  "rating": 3.787
+ },
+ "247391: Vulturous Zombie": {
+  "rating": 3.722
+ },
+ "247392: Artisan of Kozilek": {
+  "rating": 3.843
+ },
+ "247393: Awakening Zone": {
+  "rating": 3.745
+ },
+ "247394: Disaster Radius": {
+  "rating": 3.111
+ },
+ "247395: Dreamstone Hedron": {
+  "rating": 3.033
+ },
+ "247396: Evolving Wilds": {
+  "rating": 3.632
+ },
+ "247397: Guard Gomazoa": {
+  "rating": 3.719
+ },
+ "247398: Prophetic Prism": {
+  "rating": 3.793
+ },
+ "247399: Rapacious One": {
+  "rating": 3.707
+ },
+ "247400: Wall of Omens": {
+  "rating": 3.862
+ },
+ "247401: Bladewing the Risen": {
+  "rating": 4.09
+ },
+ "247402: Chartooth Cougar": {
+  "rating": 3.3
+ },
+ "247403: Elvish Aberration": {
+  "rating": 3.941
+ },
+ "247404: Fierce Empath": {
+  "rating": 3.739
+ },
+ "247405: Hunting Pack": {
+  "rating": 3.64
+ },
+ "247406: Temple of the False God": {
+  "rating": 3.456
+ },
+ "247407: Firespout": {
+  "rating": 4.389
+ },
+ "247408: Plumeveil": {
+  "rating": 3.67
+ },
+ "247409: Prison Term": {
+  "rating": 3.789
+ },
+ "247410: Murmurs from Beyond": {
+  "rating": 2.532
+ },
+ "247411: Oni of Wild Places": {
+  "rating": 2.919
+ },
+ "247412: Razorjaw Oni": {
+  "rating": 2.541
+ },
+ "247413: Reins of Power": {
+  "rating": 4.402
+ },
+ "247414: Ruination": {
+  "rating": 4.128
+ },
+ "247415: Evincar's Justice": {
+  "rating": 3.571
+ },
+ "247416: Living Death": {
+  "rating": 4.411
+ },
+ "247417: Propaganda": {
+  "rating": 4.285
+ },
+ "247513: Dreadship Reef": {
+  "rating": 3.309
+ },
+ "247514: Fungal Reaches": {
+  "rating": 2.925
+ },
+ "247515: Molten Slagheap": {
+  "rating": 3.2
+ },
+ "247516: Penumbra Spider": {
+  "rating": 3.5
+ },
+ "247517: Return to Dust": {
+  "rating": 3.865
+ },
+ "247518: Sulfurous Blast": {
+  "rating": 3.362
+ },
+ "247519: Triskelavus": {
+  "rating": 3.456
+ },
+ "247520: Avatar of Woe": {
+  "rating": 4.161
+ },
+ "247521: Spike Feeder": {
+  "rating": 3.323
+ },
+ "247522: Attrition": {
+  "rating": 4.265
+ },
+ "247523: False Prophet": {
+  "rating": 4.236
+ },
+ "247524: Yavimaya Elder": {
+  "rating": 4.301
+ },
+ "247525: Mother of Runes": {
+  "rating": 4.412
+ },
+ "247526: Congregate": {
+  "rating": 3.78
+ },
+ "247527: Dark Hatchling": {
+  "rating": 3.686
+ },
+ "247528: Fog Bank": {
+  "rating": 4.109
+ },
+ "247529: Goblin Cadets": {
+  "rating": 2.683
+ },
+ "247530: Monk Realist": {
+  "rating": 3.161
+ },
+ "247531: Unnerve": {
+  "rating": 3.571
+ },
+ "247532: Windfall": {
+  "rating": 4.432
+ },
+ "247533: Sol Ring": {
+  "rating": 4.443
+ },
+ "247534: Veteran Explorer": {
+  "rating": 3.617
+ },
+ "247535: Bestial Menace": {
+  "rating": 3.463
+ },
+ "247536: Bojuka Bog": {
+  "rating": 4.5
+ },
+ "247537: Butcher of Malakir": {
+  "rating": 3.491
+ },
+ "247538: Chain Reaction": {
+  "rating": 3.521
+ },
+ "247539: Comet Storm": {
+  "rating": 3.805
+ },
+ "247540: Lightkeeper of Emeria": {
+  "rating": 2.512
+ },
+ "247541: Nemesis Trap": {
+  "rating": 2.64
+ },
+ "247542: Wrexial, the Risen Deep": {
+  "rating": 3.855
+ },
+ "247543: Akoum Refuge": {
+  "rating": 3.371
+ },
+ "247544: Baloth Woodcrasher": {
+  "rating": 3.392
+ },
+ "247545: Cobra Trap": {
+  "rating": 2.85
+ },
+ "247546: Gomazoa": {
+  "rating": 3.671
+ },
+ "247547: Journey to Nowhere": {
+  "rating": 3.871
+ },
+ "247548: Jwar Isle Refuge": {
+  "rating": 3.097
+ },
+ "247549: Kazandu Refuge": {
+  "rating": 3.4
+ },
+ "247550: Punishing Fire": {
+  "rating": 3.894
+ },
+ "247551: Relic Crush": {
+  "rating": 2.935
+ },
+ "247552: Vampire Nighthawk": {
+  "rating": 4.046
+ },
+ "249800: Forest": {
+  "rating": 4.333
+ },
+ "249801: Forest": {
+  "rating": 2.943
+ },
+ "249802: Forest": {
+  "rating": 4.457
+ },
+ "249803: Forest": {
+  "rating": 4.139
+ },
+ "249804: Island": {
+  "rating": 4.65
+ },
+ "249805: Island": {
+  "rating": 4.75
+ },
+ "249806: Island": {
+  "rating": 4.647
+ },
+ "249807: Island": {
+  "rating": 3.181
+ },
+ "249808: Mountain": {
+  "rating": 4.444
+ },
+ "249809: Mountain": {
+  "rating": 3.881
+ },
+ "249810: Mountain": {
+  "rating": 4.263
+ },
+ "249811: Mountain": {
+  "rating": 4.156
+ },
+ "249812: Plains": {
+  "rating": 4.143
+ },
+ "249813: Plains": {
+  "rating": 3.731
+ },
+ "249814: Plains": {
+  "rating": 4.083
+ },
+ "249815: Plains": {
+  "rating": 4.192
+ },
+ "249816: Swamp": {
+  "rating": 4.211
+ },
+ "249817: Swamp": {
+  "rating": 4.4
+ },
+ "249818: Swamp": {
+  "rating": 4.125
+ },
+ "249819: Swamp": {
+  "rating": 3.457
+ },
+ "259016: Spawnwrithe": {
+  "rating": 3.525
+ }
+}

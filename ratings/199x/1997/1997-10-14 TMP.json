@@ -1,0 +1,1052 @@
+{
+ "4596: Altar of Dementia": {
+  "rating": 4.44
+ },
+ "4597: Booby Trap": {
+  "rating": 4.186
+ },
+ "4598: Bottle Gnomes": {
+  "rating": 3.902
+ },
+ "4599: Coiled Tinviper": {
+  "rating": 2.432
+ },
+ "4600: Cold Storage": {
+  "rating": 3.618
+ },
+ "4601: Cursed Scroll": {
+  "rating": 4.543
+ },
+ "4602: Echo Chamber": {
+  "rating": 3.086
+ },
+ "4603: Emerald Medallion": {
+  "rating": 4.278
+ },
+ "4604: Emmessi Tome": {
+  "rating": 1.595
+ },
+ "4605: Energizer": {
+  "rating": 2.625
+ },
+ "4606: Essence Bottle": {
+  "rating": 1.32
+ },
+ "4607: Excavator": {
+  "rating": 1.769
+ },
+ "4608: Flowstone Sculpture": {
+  "rating": 3.635
+ },
+ "4609: Fool's Tome": {
+  "rating": 2.632
+ },
+ "4610: Grindstone": {
+  "rating": 4.619
+ },
+ "4611: Helm of Possession": {
+  "rating": 4.145
+ },
+ "4612: Jet Medallion": {
+  "rating": 4.517
+ },
+ "4613: Jinxed Idol": {
+  "rating": 3.855
+ },
+ "4614: Lotus Petal": {
+  "rating": 4.84
+ },
+ "4615: Magnetic Web": {
+  "rating": 3.047
+ },
+ "4616: Manakin": {
+  "rating": 3.233
+ },
+ "4617: Metallic Sliver": {
+  "rating": 3.75
+ },
+ "4618: Mogg Cannon": {
+  "rating": 3.015
+ },
+ "4619: Patchwork Gnomes": {
+  "rating": 2.903
+ },
+ "4620: Pearl Medallion": {
+  "rating": 4.489
+ },
+ "4621: Phyrexian Grimoire": {
+  "rating": 2.672
+ },
+ "4622: Phyrexian Hulk": {
+  "rating": 2.426
+ },
+ "4623: Phyrexian Splicer": {
+  "rating": 3.432
+ },
+ "4624: Puppet Strings": {
+  "rating": 3.85
+ },
+ "4625: Ruby Medallion": {
+  "rating": 4.434
+ },
+ "4626: Sapphire Medallion": {
+  "rating": 4.537
+ },
+ "4627: Scalding Tongs": {
+  "rating": 3.731
+ },
+ "4628: Scroll Rack": {
+  "rating": 4.569
+ },
+ "4629: Squee's Toy": {
+  "rating": 3.46
+ },
+ "4630: Static Orb": {
+  "rating": 4.347
+ },
+ "4631: Telethopter": {
+  "rating": 1.539
+ },
+ "4632: Thumbscrews": {
+  "rating": 2.355
+ },
+ "4633: Torture Chamber": {
+  "rating": 1.841
+ },
+ "4634: Watchdog": {
+  "rating": 2.882
+ },
+ "4635: Abandon Hope": {
+  "rating": 2.823
+ },
+ "4636: Ancient Tomb": {
+  "rating": 4.352
+ },
+ "4637: Bellowing Fiend": {
+  "rating": 3.188
+ },
+ "4638: Bounty Hunter": {
+  "rating": 3.5
+ },
+ "4639: Carrionette": {
+  "rating": 3.952
+ },
+ "4640: Clot Sliver": {
+  "rating": 3.658
+ },
+ "4641: Coercion": {
+  "rating": 3.682
+ },
+ "4642: Coffin Queen": {
+  "rating": 4.485
+ },
+ "4643: Commander Greven il-Vec": {
+  "rating": 4.007
+ },
+ "4644: Corpse Dance": {
+  "rating": 4.087
+ },
+ "4645: Dark Banishing": {
+  "rating": 3.977
+ },
+ "4646: Dark Ritual": {
+  "rating": 4.887
+ },
+ "4647: Darkling Stalker": {
+  "rating": 3.307
+ },
+ "4648: Dauthi Embrace": {
+  "rating": 4.439
+ },
+ "4649: Dauthi Ghoul": {
+  "rating": 3.897
+ },
+ "4650: Dauthi Horror": {
+  "rating": 4.083
+ },
+ "4651: Dauthi Marauder": {
+  "rating": 3.889
+ },
+ "4652: Dauthi Mercenary": {
+  "rating": 4.026
+ },
+ "4653: Dauthi Mindripper": {
+  "rating": 3.756
+ },
+ "4654: Dauthi Slayer": {
+  "rating": 4.418
+ },
+ "4655: Death Pits of Rath": {
+  "rating": 4.083
+ },
+ "4656: Diabolic Edict": {
+  "rating": 4.545
+ },
+ "4657: Disturbed Burial": {
+  "rating": 3.405
+ },
+ "4658: Dread of Night": {
+  "rating": 3.938
+ },
+ "4659: Dregs of Sorrow": {
+  "rating": 4.174
+ },
+ "4660: Endless Scream": {
+  "rating": 4.233
+ },
+ "4661: Enfeeblement": {
+  "rating": 2.8
+ },
+ "4662: Evincar's Justice": {
+  "rating": 3.625
+ },
+ "4663: Extinction": {
+  "rating": 4.287
+ },
+ "4664: Fevered Convulsions": {
+  "rating": 3.103
+ },
+ "4665: Gravedigger": {
+  "rating": 3.865
+ },
+ "4666: Imps' Taunt": {
+  "rating": 2.432
+ },
+ "4667: Kezzerdrix": {
+  "rating": 3.839
+ },
+ "4668: Knight of Dusk": {
+  "rating": 3.672
+ },
+ "4670: Leeching Licid": {
+  "rating": 2.621
+ },
+ "4671: Living Death": {
+  "rating": 4.429
+ },
+ "4672: Maddening Imp": {
+  "rating": 4.088
+ },
+ "4673: Marsh Lurker": {
+  "rating": 1.449
+ },
+ "4674: Mindwhip Sliver": {
+  "rating": 3.183
+ },
+ "4675: Minion of the Wastes": {
+  "rating": 3.943
+ },
+ "4676: Perish": {
+  "rating": 4.333
+ },
+ "4677: Pit Imp": {
+  "rating": 3.138
+ },
+ "4678: Rain of Tears": {
+  "rating": 3.824
+ },
+ "4679: Rats of Rath": {
+  "rating": 3
+ },
+ "4680: Reanimate": {
+  "rating": 4.493
+ },
+ "4681: Reckless Spite": {
+  "rating": 3.816
+ },
+ "4682: Sadistic Glee": {
+  "rating": 4.183
+ },
+ "4683: Sarcomancy": {
+  "rating": 4.458
+ },
+ "4684: Screeching Harpy": {
+  "rating": 2.732
+ },
+ "4685: Servant of Volrath": {
+  "rating": 1.737
+ },
+ "4686: Skyshroud Vampire": {
+  "rating": 3.368
+ },
+ "4687: Souldrinker": {
+  "rating": 2.242
+ },
+ "4688: Spinal Graft": {
+  "rating": 2.838
+ },
+ "4689: Armor Sliver": {
+  "rating": 2.3
+ },
+ "4690: Benthic Behemoth": {
+  "rating": 3.167
+ },
+ "4691: Capsize": {
+  "rating": 4.549
+ },
+ "4692: Chill": {
+  "rating": 4.451
+ },
+ "4693: Counterspell": {
+  "rating": 4.558
+ },
+ "4695: Dismiss": {
+  "rating": 4.392
+ },
+ "4696: Dream Cache": {
+  "rating": 3.383
+ },
+ "4697: Duplicity": {
+  "rating": 2.148
+ },
+ "4698: Ertai's Meddling": {
+  "rating": 4.41
+ },
+ "4699: Escaped Shapeshifter": {
+  "rating": 3.236
+ },
+ "4700: Fighting Drake": {
+  "rating": 3
+ },
+ "4701: Fylamarid": {
+  "rating": 3.064
+ },
+ "4702: Gaseous Form": {
+  "rating": 3.23
+ },
+ "4703: Giant Crab": {
+  "rating": 3.036
+ },
+ "4704: Horned Turtle": {
+  "rating": 2.484
+ },
+ "4705: Insight": {
+  "rating": 3.197
+ },
+ "4706: Interdict": {
+  "rating": 3.732
+ },
+ "4707: Intuition": {
+  "rating": 4.583
+ },
+ "4708: Legacy's Allure": {
+  "rating": 3.912
+ },
+ "4709: Legerdemain": {
+  "rating": 3.829
+ },
+ "4710: Mana Severance": {
+  "rating": 4.183
+ },
+ "4711: Manta Riders": {
+  "rating": 2.63
+ },
+ "4712: Mawcor": {
+  "rating": 3
+ },
+ "4713: Meditate": {
+  "rating": 4.147
+ },
+ "4714: Mnemonic Sliver": {
+  "rating": 3.208
+ },
+ "4716: Power Sink": {
+  "rating": 3.88
+ },
+ "4717: Precognition": {
+  "rating": 3.269
+ },
+ "4718: Propaganda": {
+  "rating": 4.557
+ },
+ "4720: Rootwater Diver": {
+  "rating": 3.833
+ },
+ "4721: Rootwater Hunter": {
+  "rating": 3.569
+ },
+ "4722: Rootwater Matriarch": {
+  "rating": 4
+ },
+ "4723: Rootwater Shaman": {
+  "rating": 3.768
+ },
+ "4724: Sea Monster": {
+  "rating": 1.859
+ },
+ "4725: Shadow Rift": {
+  "rating": 4.458
+ },
+ "4726: Shimmering Wings": {
+  "rating": 3.567
+ },
+ "4727: Skyshroud Condor": {
+  "rating": 2.135
+ },
+ "4728: Spell Blast": {
+  "rating": 2.275
+ },
+ "4729: Steal Enchantment": {
+  "rating": 3.927
+ },
+ "4730: Stinging Licid": {
+  "rating": 3.232
+ },
+ "4732: Thalakos Dreamsower": {
+  "rating": 3.219
+ },
+ "4733: Thalakos Mistfolk": {
+  "rating": 3.103
+ },
+ "4734: Thalakos Seer": {
+  "rating": 3.83
+ },
+ "4735: Thalakos Sentry": {
+  "rating": 2.514
+ },
+ "4736: Time Ebb": {
+  "rating": 3.338
+ },
+ "4737: Time Warp": {
+  "rating": 4.172
+ },
+ "4738: Tradewind Rider": {
+  "rating": 4.469
+ },
+ "4739: Twitch": {
+  "rating": 2.724
+ },
+ "4740: Unstable Shapeshifter": {
+  "rating": 2.839
+ },
+ "4741: Volrath's Curse": {
+  "rating": 3.354
+ },
+ "4742: Whim of Volrath": {
+  "rating": 3.6
+ },
+ "4743: Whispers of the Muse": {
+  "rating": 3.705
+ },
+ "4744: Wind Dancer": {
+  "rating": 3.232
+ },
+ "4745: Wind Drake": {
+  "rating": 3.25
+ },
+ "4746: Winged Sliver": {
+  "rating": 4.458
+ },
+ "4747: Aluren": {
+  "rating": 4.547
+ },
+ "4748: Apes of Rath": {
+  "rating": 2.764
+ },
+ "4749: Bayou Dragonfly": {
+  "rating": 3.419
+ },
+ "4750: Broken Fall": {
+  "rating": 3.367
+ },
+ "4751: Canopy Spider": {
+  "rating": 3.017
+ },
+ "4752: Charging Rhino": {
+  "rating": 3.545
+ },
+ "4753: Choke": {
+  "rating": 3.838
+ },
+ "4754: Crazed Armodon": {
+  "rating": 2.903
+ },
+ "4755: Dirtcowl Wurm": {
+  "rating": 3.606
+ },
+ "4756: Earthcraft": {
+  "rating": 4.543
+ },
+ "4757: Eladamri, Lord of Leaves": {
+  "rating": 4.247
+ },
+ "4758: Eladamri's Vineyard": {
+  "rating": 4.351
+ },
+ "4759: Elven Warhounds": {
+  "rating": 4.277
+ },
+ "4760: Elvish Fury": {
+  "rating": 2.868
+ },
+ "4761: Flailing Drake": {
+  "rating": 1.259
+ },
+ "4762: Frog Tongue": {
+  "rating": 3.738
+ },
+ "4763: Fugitive Druid": {
+  "rating": 3.015
+ },
+ "4764: Harrow": {
+  "rating": 4.2
+ },
+ "4765: Heartwood Dryad": {
+  "rating": 2.357
+ },
+ "4766: Heartwood Giant": {
+  "rating": 2.845
+ },
+ "4767: Heartwood Treefolk": {
+  "rating": 2.804
+ },
+ "4768: Horned Sliver": {
+  "rating": 3.979
+ },
+ "4769: Krakilin": {
+  "rating": 4.015
+ },
+ "4770: Mirri's Guile": {
+  "rating": 4.49
+ },
+ "4771: Mongrel Pack": {
+  "rating": 3.773
+ },
+ "4772: Muscle Sliver": {
+  "rating": 4.415
+ },
+ "4773: Natural Spring": {
+  "rating": 2.014
+ },
+ "4774: Nature's Revolt": {
+  "rating": 4.06
+ },
+ "4775: Needle Storm": {
+  "rating": 3.387
+ },
+ "4776: Nurturing Licid": {
+  "rating": 2.809
+ },
+ "4777: Overrun": {
+  "rating": 4.215
+ },
+ "4778: Pincher Beetles": {
+  "rating": 3.271
+ },
+ "4779: Rampant Growth": {
+  "rating": 3.909
+ },
+ "4780: Reality Anchor": {
+  "rating": 1.737
+ },
+ "4781: Reap": {
+  "rating": 3.057
+ },
+ "4782: Recycle": {
+  "rating": 4.222
+ },
+ "4783: Respite": {
+  "rating": 4.262
+ },
+ "4784: Root Maze": {
+  "rating": 3.722
+ },
+ "4785: Rootbreaker Wurm": {
+  "rating": 3.191
+ },
+ "4786: Rootwalla": {
+  "rating": 3.018
+ },
+ "4787: Scragnoth": {
+  "rating": 3.71
+ },
+ "4788: Seeker of Skybreak": {
+  "rating": 4.287
+ },
+ "4789: Skyshroud Elf": {
+  "rating": 4.193
+ },
+ "4790: Skyshroud Ranger": {
+  "rating": 3.926
+ },
+ "4791: Skyshroud Troll": {
+  "rating": 3.452
+ },
+ "4792: Spike Drone": {
+  "rating": 3.089
+ },
+ "4793: Storm Front": {
+  "rating": 3.103
+ },
+ "4794: Trained Armodon": {
+  "rating": 2.797
+ },
+ "4795: Tranquility": {
+  "rating": 3.197
+ },
+ "4796: Trumpeting Armodon": {
+  "rating": 2.852
+ },
+ "4797: Verdant Force": {
+  "rating": 4.339
+ },
+ "4798: Verdigris": {
+  "rating": 1.419
+ },
+ "4799: Winter's Grasp": {
+  "rating": 3.639
+ },
+ "4800: Aftershock": {
+  "rating": 3.217
+ },
+ "4801: Ancient Runes": {
+  "rating": 3.5
+ },
+ "4802: Apocalypse": {
+  "rating": 4.511
+ },
+ "4803: Barbed Sliver": {
+  "rating": 2.037
+ },
+ "4804: Blood Frenzy": {
+  "rating": 3.833
+ },
+ "4805: Boil": {
+  "rating": 4.144
+ },
+ "4806: Canyon Drake": {
+  "rating": 2.602
+ },
+ "4807: Canyon Wildcat": {
+  "rating": 3.016
+ },
+ "4808: Chaotic Goo": {
+  "rating": 3.403
+ },
+ "4809: Crown of Flames": {
+  "rating": 3.716
+ },
+ "4810: Deadshot": {
+  "rating": 3.013
+ },
+ "4811: Enraging Licid": {
+  "rating": 3.062
+ },
+ "4813: Firefly": {
+  "rating": 2.086
+ },
+ "4814: Fireslinger": {
+  "rating": 3.556
+ },
+ "4816: Flowstone Giant": {
+  "rating": 2.486
+ },
+ "4817: Flowstone Salamander": {
+  "rating": 3.268
+ },
+ "4818: Flowstone Wyvern": {
+  "rating": 2.529
+ },
+ "4819: Furnace of Rath": {
+  "rating": 4.338
+ },
+ "4820: Giant Strength": {
+  "rating": 2.85
+ },
+ "4821: Goblin Bombardment": {
+  "rating": 4.246
+ },
+ "4822: Hand to Hand": {
+  "rating": 3.796
+ },
+ "4823: Havoc": {
+  "rating": 3.214
+ },
+ "4824: Heart Sliver": {
+  "rating": 4.488
+ },
+ "4825: Jackal Pup": {
+  "rating": 3.972
+ },
+ "4826: Kindle": {
+  "rating": 3.881
+ },
+ "4827: Lightning Blast": {
+  "rating": 3.026
+ },
+ "4828: Lightning Elemental": {
+  "rating": 2.618
+ },
+ "4829: Lowland Giant": {
+  "rating": 2.815
+ },
+ "4830: Magmasaur": {
+  "rating": 3.794
+ },
+ "4831: Mogg Conscripts": {
+  "rating": 3.286
+ },
+ "4832: Mogg Fanatic": {
+  "rating": 4.456
+ },
+ "4833: Mogg Raider": {
+  "rating": 3.875
+ },
+ "4834: Mogg Squad": {
+  "rating": 1.223
+ },
+ "4835: No Quarter": {
+  "rating": 3.3
+ },
+ "4836: Opportunist": {
+  "rating": 2.641
+ },
+ "4837: Pallimud": {
+  "rating": 3.768
+ },
+ "4838: Rathi Dragon": {
+  "rating": 4
+ },
+ "4839: Renegade Warlord": {
+  "rating": 3.48
+ },
+ "4840: Rolling Thunder": {
+  "rating": 4.463
+ },
+ "4841: Sandstone Warrior": {
+  "rating": 3.484
+ },
+ "4842: Scorched Earth": {
+  "rating": 3.222
+ },
+ "4843: Searing Touch": {
+  "rating": 2.703
+ },
+ "4846: Shadowstorm": {
+  "rating": 2.065
+ },
+ "4847: Shatter": {
+  "rating": 3.192
+ },
+ "4848: Shocker": {
+  "rating": 3.895
+ },
+ "4849: Starke of Rath": {
+  "rating": 3.744
+ },
+ "4850: Stone Rain": {
+  "rating": 3.75
+ },
+ "4851: Stun": {
+  "rating": 2.462
+ },
+ "4852: Sudden Impact": {
+  "rating": 3.482
+ },
+ "4853: Tahngarth's Rage": {
+  "rating": 2.527
+ },
+ "4854: Tooth and Claw": {
+  "rating": 3.25
+ },
+ "4855: Wall of Diffusion": {
+  "rating": 3.184
+ },
+ "4856: Wild Wurm": {
+  "rating": 2.341
+ },
+ "4857: Advance Scout": {
+  "rating": 3.526
+ },
+ "4858: Angelic Protector": {
+  "rating": 3.148
+ },
+ "4859: Anoint": {
+  "rating": 1.955
+ },
+ "4861: Armored Pegasus": {
+  "rating": 2.617
+ },
+ "4862: Auratog": {
+  "rating": 3.561
+ },
+ "4863: Avenging Angel": {
+  "rating": 3.317
+ },
+ "4864: Circle of Protection: Black": {
+  "rating": 2.824
+ },
+ "4865: Circle of Protection: Blue": {
+  "rating": 2.435
+ },
+ "4866: Circle of Protection: Green": {
+  "rating": 2.667
+ },
+ "4867: Circle of Protection: Red": {
+  "rating": 3.236
+ },
+ "4868: Circle of Protection: Shadow": {
+  "rating": 2.7
+ },
+ "4869: Circle of Protection: White": {
+  "rating": 2.963
+ },
+ "4870: Clergy en-Vec": {
+  "rating": 3.367
+ },
+ "4871: Cloudchaser Eagle": {
+  "rating": 3.667
+ },
+ "4872: Disenchant": {
+  "rating": 4.483
+ },
+ "4873: Elite Javelineer": {
+  "rating": 3.2
+ },
+ "4874: Field of Souls": {
+  "rating": 3.935
+ },
+ "4875: Flickering Ward": {
+  "rating": 4.314
+ },
+ "4876: Gallantry": {
+  "rating": 3.613
+ },
+ "4877: Gerrard's Battle Cry": {
+  "rating": 4.008
+ },
+ "4878: Hanna's Custody": {
+  "rating": 4.2
+ },
+ "4879: Hero's Resolve": {
+  "rating": 3.237
+ },
+ "4881: Humility": {
+  "rating": 4.478
+ },
+ "4882: Invulnerability": {
+  "rating": 3.3
+ },
+ "4883: Knight of Dawn": {
+  "rating": 3.745
+ },
+ "4884: Light of Day": {
+  "rating": 3.375
+ },
+ "4886: Marble Titan": {
+  "rating": 3.939
+ },
+ "4887: Master Decoy": {
+  "rating": 3.803
+ },
+ "4888: Mounted Archers": {
+  "rating": 2.828
+ },
+ "4889: Oracle en-Vec": {
+  "rating": 3.987
+ },
+ "4890: Orim, Samite Healer": {
+  "rating": 3.351
+ },
+ "4891: Orim's Prayer": {
+  "rating": 3.955
+ },
+ "4892: Pacifism": {
+  "rating": 4.33
+ },
+ "4893: Pegasus Refuge": {
+  "rating": 2.203
+ },
+ "4894: Quickening Licid": {
+  "rating": 2.759
+ },
+ "4895: Repentance": {
+  "rating": 3.905
+ },
+ "4896: Sacred Guide": {
+  "rating": 3.3
+ },
+ "4897: Safeguard": {
+  "rating": 3.086
+ },
+ "4898: Serene Offering": {
+  "rating": 3.304
+ },
+ "4899: Soltari Crusader": {
+  "rating": 3.5
+ },
+ "4900: Soltari Emissary": {
+  "rating": 3.758
+ },
+ "4901: Soltari Foot Soldier": {
+  "rating": 3.812
+ },
+ "4902: Soltari Lancer": {
+  "rating": 3.453
+ },
+ "4903: Soltari Monk": {
+  "rating": 4.267
+ },
+ "4904: Soltari Priest": {
+  "rating": 4.487
+ },
+ "4905: Soltari Trooper": {
+  "rating": 3.871
+ },
+ "4906: Spirit Mirror": {
+  "rating": 4.173
+ },
+ "4907: Staunch Defenders": {
+  "rating": 3.3
+ },
+ "4908: Talon Sliver": {
+  "rating": 4.017
+ },
+ "4909: Warmth": {
+  "rating": 3
+ },
+ "4910: Winds of Rath": {
+  "rating": 4.303
+ },
+ "4911: Worthy Cause": {
+  "rating": 2.594
+ },
+ "4912: Dracoplasm": {
+  "rating": 4.204
+ },
+ "4913: Lobotomy": {
+  "rating": 4.298
+ },
+ "4914: Ranger en-Vec": {
+  "rating": 4.031
+ },
+ "4915: Segmented Wurm": {
+  "rating": 1.931
+ },
+ "4916: Selenia, Dark Angel": {
+  "rating": 3.9
+ },
+ "4917: Sky Spirit": {
+  "rating": 3.808
+ },
+ "4918: Soltari Guerrillas": {
+  "rating": 4.464
+ },
+ "4919: Spontaneous Combustion": {
+  "rating": 4.279
+ },
+ "4920: Vhati il-Dal": {
+  "rating": 3.976
+ },
+ "4921: Wood Sage": {
+  "rating": 3.671
+ },
+ "4922: Swamp": {
+  "rating": 4.694
+ },
+ "4923: Swamp": {
+  "rating": 4.717
+ },
+ "4924: Swamp": {
+  "rating": 4.154
+ },
+ "4925: Swamp": {
+  "rating": 4.54
+ },
+ "4926: Forest": {
+  "rating": 4.597
+ },
+ "4927: Forest": {
+  "rating": 4.52
+ },
+ "4928: Forest": {
+  "rating": 4.65
+ },
+ "4929: Forest": {
+  "rating": 4.321
+ },
+ "4930: Caldera Lake": {
+  "rating": 2.859
+ },
+ "4931: Cinder Marsh": {
+  "rating": 2.759
+ },
+ "4932: Ghost Town": {
+  "rating": 3.819
+ },
+ "4933: Maze of Shadows": {
+  "rating": 3.162
+ },
+ "4934: Mogg Hollows": {
+  "rating": 2.9
+ },
+ "4935: Pine Barrens": {
+  "rating": 2.456
+ },
+ "4936: Reflecting Pool": {
+  "rating": 4.331
+ },
+ "4937: Rootwater Depths": {
+  "rating": 2.946
+ },
+ "4938: Salt Flats": {
+  "rating": 2.838
+ },
+ "4939: Scabland": {
+  "rating": 2.6
+ },
+ "4940: Skyshroud Forest": {
+  "rating": 2.5
+ },
+ "4941: Stalking Stones": {
+  "rating": 3.75
+ },
+ "4942: Thalakos Lowlands": {
+  "rating": 2.339
+ },
+ "4943: Vec Townships": {
+  "rating": 2.352
+ },
+ "4944: Wasteland": {
+  "rating": 4.585
+ },
+ "4945: Mountain": {
+  "rating": 4.107
+ },
+ "4946: Mountain": {
+  "rating": 4.327
+ },
+ "4947: Mountain": {
+  "rating": 4.089
+ },
+ "4948: Mountain": {
+  "rating": 4.688
+ },
+ "4949: Island": {
+  "rating": 4.562
+ },
+ "4950: Island": {
+  "rating": 4.185
+ },
+ "4951: Island": {
+  "rating": 3.981
+ },
+ "4952: Island": {
+  "rating": 4.333
+ },
+ "4953: Plains": {
+  "rating": 4.54
+ },
+ "4954: Plains": {
+  "rating": 4.478
+ },
+ "4955: Plains": {
+  "rating": 4.591
+ },
+ "4956: Plains": {
+  "rating": 4.353
+ },
+ "12342: Blood Pet": {
+  "rating": 3.979
+ }
+}

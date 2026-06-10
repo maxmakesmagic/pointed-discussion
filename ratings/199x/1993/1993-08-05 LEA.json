@@ -1,0 +1,887 @@
+{
+ "1: Ankh of Mishra": {
+  "rating": 4.183
+ },
+ "2: Basalt Monolith": {
+  "rating": 3.811
+ },
+ "3: Black Lotus": {
+  "rating": 4.749
+ },
+ "4: Black Vise": {
+  "rating": 4.606
+ },
+ "5: Celestial Prism": {
+  "rating": 1.197
+ },
+ "6: Chaos Orb": {
+  "rating": 4.136
+ },
+ "7: Clockwork Beast": {
+  "rating": 3.197
+ },
+ "8: Conservator": {
+  "rating": 1.415
+ },
+ "9: Copper Tablet": {
+  "rating": 2.853
+ },
+ "10: Crystal Rod": {
+  "rating": 1.588
+ },
+ "11: Cyclopean Tomb": {
+  "rating": 3.306
+ },
+ "12: Dingus Egg": {
+  "rating": 3.291
+ },
+ "13: Disrupting Scepter": {
+  "rating": 3.237
+ },
+ "14: Forcefield": {
+  "rating": 4.511
+ },
+ "15: Gauntlet of Might": {
+  "rating": 4.573
+ },
+ "16: Glasses of Urza": {
+  "rating": 3.659
+ },
+ "17: Helm of Chatzuk": {
+  "rating": 2.824
+ },
+ "18: Howling Mine": {
+  "rating": 4.272
+ },
+ "19: Icy Manipulator": {
+  "rating": 4.325
+ },
+ "20: Illusionary Mask": {
+  "rating": 3.793
+ },
+ "21: Iron Star": {
+  "rating": 1.538
+ },
+ "22: Ivory Cup": {
+  "rating": 1.427
+ },
+ "23: Jade Monolith": {
+  "rating": 3.197
+ },
+ "24: Jade Statue": {
+  "rating": 3.214
+ },
+ "25: Jayemdae Tome": {
+  "rating": 3.325
+ },
+ "26: Juggernaut": {
+  "rating": 3.716
+ },
+ "27: Kormus Bell": {
+  "rating": 3.577
+ },
+ "28: Library of Leng": {
+  "rating": 4.228
+ },
+ "29: Living Wall": {
+  "rating": 3.417
+ },
+ "30: Mana Vault": {
+  "rating": 4.606
+ },
+ "31: Meekstone": {
+  "rating": 4.349
+ },
+ "32: Mox Emerald": {
+  "rating": 4.945
+ },
+ "33: Mox Jet": {
+  "rating": 4.945
+ },
+ "34: Mox Pearl": {
+  "rating": 4.889
+ },
+ "35: Mox Ruby": {
+  "rating": 4.847
+ },
+ "36: Mox Sapphire": {
+  "rating": 4.759
+ },
+ "37: Nevinyrral's Disk": {
+  "rating": 4.509
+ },
+ "38: Obsianus Golem": {
+  "rating": 2.378
+ },
+ "39: Rod of Ruin": {
+  "rating": 2.087
+ },
+ "40: Sol Ring": {
+  "rating": 4.761
+ },
+ "41: Soul Net": {
+  "rating": 1.722
+ },
+ "42: Sunglasses of Urza": {
+  "rating": 3.825
+ },
+ "43: The Hive": {
+  "rating": 1.865
+ },
+ "44: Throne of Bone": {
+  "rating": 1.891
+ },
+ "45: Time Vault": {
+  "rating": 4.949
+ },
+ "46: Winter Orb": {
+  "rating": 4.298
+ },
+ "47: Wooden Sphere": {
+  "rating": 1.463
+ },
+ "48: Animate Dead": {
+  "rating": 4.572
+ },
+ "49: Bad Moon": {
+  "rating": 4.321
+ },
+ "50: Black Knight": {
+  "rating": 4.415
+ },
+ "51: Bog Wraith": {
+  "rating": 3.467
+ },
+ "52: Contract from Below": {
+  "rating": 4.687
+ },
+ "53: Cursed Land": {
+  "rating": 2.577
+ },
+ "54: Dark Ritual": {
+  "rating": 4.94
+ },
+ "55: Darkpact": {
+  "rating": 2.919
+ },
+ "56: Deathgrip": {
+  "rating": 3.688
+ },
+ "57: Deathlace": {
+  "rating": 1.755
+ },
+ "58: Demonic Attorney": {
+  "rating": 2.938
+ },
+ "59: Demonic Hordes": {
+  "rating": 3.833
+ },
+ "60: Demonic Tutor": {
+  "rating": 4.933
+ },
+ "61: Drain Life": {
+  "rating": 4.061
+ },
+ "62: Drudge Skeletons": {
+  "rating": 3.962
+ },
+ "63: Evil Presence": {
+  "rating": 2.89
+ },
+ "64: Fear": {
+  "rating": 2.422
+ },
+ "65: Frozen Shade": {
+  "rating": 2.846
+ },
+ "66: Gloom": {
+  "rating": 3.711
+ },
+ "67: Howl from Beyond": {
+  "rating": 3.295
+ },
+ "68: Hypnotic Specter": {
+  "rating": 4.765
+ },
+ "69: Lich": {
+  "rating": 4.286
+ },
+ "70: Lord of the Pit": {
+  "rating": 4.048
+ },
+ "71: Mind Twist": {
+  "rating": 4.861
+ },
+ "72: Nether Shadow": {
+  "rating": 4.174
+ },
+ "73: Nettling Imp": {
+  "rating": 3.667
+ },
+ "74: Nightmare": {
+  "rating": 4.298
+ },
+ "75: Paralyze": {
+  "rating": 3.934
+ },
+ "76: Pestilence": {
+  "rating": 4.223
+ },
+ "77: Plague Rats": {
+  "rating": 2.103
+ },
+ "78: Raise Dead": {
+  "rating": 3.761
+ },
+ "79: Royal Assassin": {
+  "rating": 4.392
+ },
+ "80: Sacrifice": {
+  "rating": 3.652
+ },
+ "81: Scathe Zombies": {
+  "rating": 2.5
+ },
+ "82: Scavenging Ghoul": {
+  "rating": 2.871
+ },
+ "83: Sengir Vampire": {
+  "rating": 4.266
+ },
+ "84: Simulacrum": {
+  "rating": 3.106
+ },
+ "85: Sinkhole": {
+  "rating": 4.819
+ },
+ "86: Terror": {
+  "rating": 4.345
+ },
+ "87: Unholy Strength": {
+  "rating": 3.394
+ },
+ "88: Wall of Bone": {
+  "rating": 3.564
+ },
+ "89: Warp Artifact": {
+  "rating": 2.224
+ },
+ "90: Weakness": {
+  "rating": 3.314
+ },
+ "91: Will-o'-the-Wisp": {
+  "rating": 4.56
+ },
+ "92: Word of Command": {
+  "rating": 4.1
+ },
+ "93: Zombie Master": {
+  "rating": 4.194
+ },
+ "94: Air Elemental": {
+  "rating": 3.245
+ },
+ "95: Ancestral Recall": {
+  "rating": 4.839
+ },
+ "96: Animate Artifact": {
+  "rating": 2.397
+ },
+ "97: Blue Elemental Blast": {
+  "rating": 3.663
+ },
+ "98: Braingeyser": {
+  "rating": 4.5
+ },
+ "99: Clone": {
+  "rating": 4.239
+ },
+ "100: Control Magic": {
+  "rating": 4.46
+ },
+ "101: Copy Artifact": {
+  "rating": 4.389
+ },
+ "102: Counterspell": {
+  "rating": 4.63
+ },
+ "103: Creature Bond": {
+  "rating": 2.703
+ },
+ "104: Drain Power": {
+  "rating": 3.788
+ },
+ "105: Feedback": {
+  "rating": 1.908
+ },
+ "106: Flight": {
+  "rating": 2.389
+ },
+ "107: Invisibility": {
+  "rating": 3.258
+ },
+ "108: Jump": {
+  "rating": 1.446
+ },
+ "109: Lifetap": {
+  "rating": 3.391
+ },
+ "110: Lord of Atlantis": {
+  "rating": 4.436
+ },
+ "111: Magical Hack": {
+  "rating": 3.257
+ },
+ "112: Mahamoti Djinn": {
+  "rating": 4.022
+ },
+ "113: Mana Short": {
+  "rating": 4.2
+ },
+ "114: Merfolk of the Pearl Trident": {
+  "rating": 2.26
+ },
+ "115: Phantasmal Forces": {
+  "rating": 2.829
+ },
+ "116: Phantasmal Terrain": {
+  "rating": 2.75
+ },
+ "117: Phantom Monster": {
+  "rating": 3.449
+ },
+ "118: Pirate Ship": {
+  "rating": 3.312
+ },
+ "119: Power Leak": {
+  "rating": 2.333
+ },
+ "120: Power Sink": {
+  "rating": 4.208
+ },
+ "121: Prodigal Sorcerer": {
+  "rating": 4.104
+ },
+ "122: Psionic Blast": {
+  "rating": 4.359
+ },
+ "123: Psychic Venom": {
+  "rating": 3.568
+ },
+ "124: Sea Serpent": {
+  "rating": 1.615
+ },
+ "125: Siren's Call": {
+  "rating": 4.152
+ },
+ "126: Sleight of Mind": {
+  "rating": 3.103
+ },
+ "127: Spell Blast": {
+  "rating": 2.362
+ },
+ "128: Stasis": {
+  "rating": 4.574
+ },
+ "129: Steal Artifact": {
+  "rating": 3.348
+ },
+ "130: Thoughtlace": {
+  "rating": 1.615
+ },
+ "131: Time Walk": {
+  "rating": 4.868
+ },
+ "132: Timetwister": {
+  "rating": 4.694
+ },
+ "133: Twiddle": {
+  "rating": 3.83
+ },
+ "134: Unsummon": {
+  "rating": 4.181
+ },
+ "135: Vesuvan Doppelganger": {
+  "rating": 4.359
+ },
+ "136: Volcanic Eruption": {
+  "rating": 3.531
+ },
+ "137: Wall of Air": {
+  "rating": 3.452
+ },
+ "138: Wall of Water": {
+  "rating": 3.38
+ },
+ "139: Water Elemental": {
+  "rating": 2.926
+ },
+ "140: Aspect of Wolf": {
+  "rating": 2.644
+ },
+ "141: Berserk": {
+  "rating": 4.921
+ },
+ "142: Birds of Paradise": {
+  "rating": 4.452
+ },
+ "143: Camouflage": {
+  "rating": 3.25
+ },
+ "144: Channel": {
+  "rating": 4.684
+ },
+ "145: Cockatrice": {
+  "rating": 3.686
+ },
+ "146: Craw Wurm": {
+  "rating": 2.949
+ },
+ "147: Elvish Archers": {
+  "rating": 3.684
+ },
+ "148: Fastbond": {
+  "rating": 4.821
+ },
+ "149: Fog": {
+  "rating": 4.255
+ },
+ "150: Force of Nature": {
+  "rating": 3.546
+ },
+ "151: Fungusaur": {
+  "rating": 3.581
+ },
+ "152: Gaea's Liege": {
+  "rating": 3.609
+ },
+ "153: Giant Growth": {
+  "rating": 4.366
+ },
+ "154: Giant Spider": {
+  "rating": 3.5
+ },
+ "155: Grizzly Bears": {
+  "rating": 3.828
+ },
+ "156: Hurricane": {
+  "rating": 4.051
+ },
+ "157: Ice Storm": {
+  "rating": 4.141
+ },
+ "158: Instill Energy": {
+  "rating": 3.975
+ },
+ "159: Ironroot Treefolk": {
+  "rating": 2.109
+ },
+ "160: Kudzu": {
+  "rating": 3.726
+ },
+ "161: Ley Druid": {
+  "rating": 2.819
+ },
+ "162: Lifeforce": {
+  "rating": 3.575
+ },
+ "163: Lifelace": {
+  "rating": 1.614
+ },
+ "164: Living Artifact": {
+  "rating": 2.906
+ },
+ "165: Living Lands": {
+  "rating": 3.191
+ },
+ "166: Llanowar Elves": {
+  "rating": 4.468
+ },
+ "167: Lure": {
+  "rating": 3.988
+ },
+ "168: Natural Selection": {
+  "rating": 3.51
+ },
+ "169: Regeneration": {
+  "rating": 3.049
+ },
+ "170: Regrowth": {
+  "rating": 4.88
+ },
+ "171: Scryb Sprites": {
+  "rating": 3.775
+ },
+ "172: Shanodin Dryads": {
+  "rating": 2.808
+ },
+ "173: Stream of Life": {
+  "rating": 2.667
+ },
+ "174: Thicket Basilisk": {
+  "rating": 3.611
+ },
+ "175: Timber Wolves": {
+  "rating": 3.15
+ },
+ "176: Tranquility": {
+  "rating": 3.146
+ },
+ "177: Tsunami": {
+  "rating": 3.776
+ },
+ "178: Verduran Enchantress": {
+  "rating": 4.162
+ },
+ "179: Wall of Brambles": {
+  "rating": 3.426
+ },
+ "180: Wall of Ice": {
+  "rating": 2.814
+ },
+ "181: Wall of Wood": {
+  "rating": 2.554
+ },
+ "182: Wanderlust": {
+  "rating": 2.432
+ },
+ "183: War Mammoth": {
+  "rating": 3.143
+ },
+ "184: Web": {
+  "rating": 2.851
+ },
+ "185: Wild Growth": {
+  "rating": 4.06
+ },
+ "186: Burrowing": {
+  "rating": 1.922
+ },
+ "187: Chaoslace": {
+  "rating": 1.477
+ },
+ "188: Disintegrate": {
+  "rating": 4.569
+ },
+ "189: Dragon Whelp": {
+  "rating": 3.967
+ },
+ "190: Dwarven Demolition Team": {
+  "rating": 2.141
+ },
+ "191: Dwarven Warriors": {
+  "rating": 2.577
+ },
+ "192: Earth Elemental": {
+  "rating": 2.989
+ },
+ "193: Earthbind": {
+  "rating": 2.942
+ },
+ "194: Earthquake": {
+  "rating": 4.245
+ },
+ "195: False Orders": {
+  "rating": 3.429
+ },
+ "196: Fire Elemental": {
+  "rating": 3.531
+ },
+ "197: Fireball": {
+  "rating": 4.52
+ },
+ "198: Firebreathing": {
+  "rating": 2.934
+ },
+ "199: Flashfires": {
+  "rating": 3.567
+ },
+ "200: Fork": {
+  "rating": 4.713
+ },
+ "201: Goblin Balloon Brigade": {
+  "rating": 3.371
+ },
+ "202: Goblin King": {
+  "rating": 4.347
+ },
+ "203: Granite Gargoyle": {
+  "rating": 3.685
+ },
+ "204: Gray Ogre": {
+  "rating": 1.396
+ },
+ "205: Hill Giant": {
+  "rating": 2.275
+ },
+ "206: Hurloon Minotaur": {
+  "rating": 2.933
+ },
+ "207: Ironclaw Orcs": {
+  "rating": 2.3
+ },
+ "208: Keldon Warlord": {
+  "rating": 3.574
+ },
+ "209: Lightning Bolt": {
+  "rating": 4.789
+ },
+ "210: Mana Flare": {
+  "rating": 4.138
+ },
+ "211: Manabarbs": {
+  "rating": 3.895
+ },
+ "212: Mons's Goblin Raiders": {
+  "rating": 2.085
+ },
+ "213: Orcish Artillery": {
+  "rating": 3.2
+ },
+ "214: Orcish Oriflamme": {
+  "rating": 3.583
+ },
+ "215: Power Surge": {
+  "rating": 2.9
+ },
+ "216: Raging River": {
+  "rating": 3.908
+ },
+ "217: Red Elemental Blast": {
+  "rating": 4.4
+ },
+ "218: Roc of Kher Ridges": {
+  "rating": 4.122
+ },
+ "219: Rock Hydra": {
+  "rating": 3.718
+ },
+ "220: Sedge Troll": {
+  "rating": 4.205
+ },
+ "221: Shatter": {
+  "rating": 3.289
+ },
+ "222: Shivan Dragon": {
+  "rating": 4.316
+ },
+ "223: Smoke": {
+  "rating": 4.209
+ },
+ "224: Stone Giant": {
+  "rating": 3.617
+ },
+ "225: Stone Rain": {
+  "rating": 3.951
+ },
+ "226: Tunnel": {
+  "rating": 2.267
+ },
+ "227: Two-Headed Giant of Foriys": {
+  "rating": 4.435
+ },
+ "228: Uthden Troll": {
+  "rating": 3.855
+ },
+ "229: Wall of Fire": {
+  "rating": 3.013
+ },
+ "230: Wall of Stone": {
+  "rating": 3.183
+ },
+ "231: Wheel of Fortune": {
+  "rating": 4.932
+ },
+ "232: Animate Wall": {
+  "rating": 2.392
+ },
+ "233: Armageddon": {
+  "rating": 4.549
+ },
+ "234: Balance": {
+  "rating": 4.864
+ },
+ "235: Benalish Hero": {
+  "rating": 2.859
+ },
+ "236: Black Ward": {
+  "rating": 1.964
+ },
+ "237: Blaze of Glory": {
+  "rating": 3.73
+ },
+ "238: Blessing": {
+  "rating": 3.089
+ },
+ "239: Blue Ward": {
+  "rating": 1.875
+ },
+ "240: Castle": {
+  "rating": 3.189
+ },
+ "241: Circle of Protection: Blue": {
+  "rating": 2.775
+ },
+ "242: Circle of Protection: Green": {
+  "rating": 2.763
+ },
+ "243: Circle of Protection: Red": {
+  "rating": 3.25
+ },
+ "244: Circle of Protection: White": {
+  "rating": 2.403
+ },
+ "245: Consecrate Land": {
+  "rating": 2.743
+ },
+ "246: Conversion": {
+  "rating": 3.75
+ },
+ "247: Crusade": {
+  "rating": 3.943
+ },
+ "248: Death Ward": {
+  "rating": 2.63
+ },
+ "249: Disenchant": {
+  "rating": 4.455
+ },
+ "250: Farmstead": {
+  "rating": 1.331
+ },
+ "251: Green Ward": {
+  "rating": 1.661
+ },
+ "252: Guardian Angel": {
+  "rating": 3.059
+ },
+ "253: Healing Salve": {
+  "rating": 2.631
+ },
+ "254: Holy Armor": {
+  "rating": 2.539
+ },
+ "255: Holy Strength": {
+  "rating": 2.773
+ },
+ "256: Island Sanctuary": {
+  "rating": 4.062
+ },
+ "257: Karma": {
+  "rating": 3.576
+ },
+ "258: Lance": {
+  "rating": 2.368
+ },
+ "259: Mesa Pegasus": {
+  "rating": 2.838
+ },
+ "260: Northern Paladin": {
+  "rating": 3.84
+ },
+ "261: Pearled Unicorn": {
+  "rating": 1.429
+ },
+ "262: Personal Incarnation": {
+  "rating": 2.462
+ },
+ "263: Purelace": {
+  "rating": 1.592
+ },
+ "264: Red Ward": {
+  "rating": 2.328
+ },
+ "265: Resurrection": {
+  "rating": 4.195
+ },
+ "266: Reverse Damage": {
+  "rating": 3.759
+ },
+ "267: Righteousness": {
+  "rating": 4.125
+ },
+ "268: Samite Healer": {
+  "rating": 2.743
+ },
+ "269: Savannah Lions": {
+  "rating": 4.33
+ },
+ "270: Serra Angel": {
+  "rating": 4.253
+ },
+ "271: Swords to Plowshares": {
+  "rating": 4.931
+ },
+ "272: Veteran Bodyguard": {
+  "rating": 3.474
+ },
+ "273: Wall of Swords": {
+  "rating": 3.671
+ },
+ "274: White Knight": {
+  "rating": 4.39
+ },
+ "275: White Ward": {
+  "rating": 1.603
+ },
+ "276: Wrath of God": {
+  "rating": 4.59
+ },
+ "277: Swamp": {
+  "rating": 4.452
+ },
+ "278: Swamp": {
+  "rating": 4.283
+ },
+ "279: Badlands": {
+  "rating": 4.938
+ },
+ "280: Bayou": {
+  "rating": 4.915
+ },
+ "281: Plateau": {
+  "rating": 4.889
+ },
+ "282: Savannah": {
+  "rating": 4.948
+ },
+ "283: Scrubland": {
+  "rating": 4.778
+ },
+ "284: Taiga": {
+  "rating": 4.931
+ },
+ "285: Tropical Island": {
+  "rating": 4.946
+ },
+ "286: Tundra": {
+  "rating": 4.935
+ },
+ "287: Underground Sea": {
+  "rating": 4.898
+ },
+ "288: Forest": {
+  "rating": 4.197
+ },
+ "289: Forest": {
+  "rating": 4.341
+ },
+ "290: Mountain": {
+  "rating": 4.658
+ },
+ "291: Mountain": {
+  "rating": 4.66
+ },
+ "292: Island": {
+  "rating": 4.602
+ },
+ "293: Island": {
+  "rating": 4.75
+ },
+ "294: Plains": {
+  "rating": 3.956
+ },
+ "295: Plains": {
+  "rating": 4.25
+ }
+}

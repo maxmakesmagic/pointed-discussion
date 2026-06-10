@@ -1,0 +1,923 @@
+{
+ "50219: Counsel of the Soratami": {
+  "rating": 3.1
+ },
+ "50228: Kami of Twisted Reflection": {
+  "rating": 1.444
+ },
+ "50233: Cage of Hands": {
+  "rating": 3.5
+ },
+ "50236: Feral Deceiver": {
+  "rating": 2.703
+ },
+ "50247: Jugan, the Rising Star": {
+  "rating": 4.022
+ },
+ "50253: Marrow-Gnawer": {
+  "rating": 4.033
+ },
+ "50254: Petals of Insight": {
+  "rating": 3.062
+ },
+ "50256: Otherworldly Journey": {
+  "rating": 3.904
+ },
+ "50261: Orbweaver Kumo": {
+  "rating": 0.923
+ },
+ "50262: Ronin Houndmaster": {
+  "rating": 2.736
+ },
+ "50266: Pain Kami": {
+  "rating": 3.091
+ },
+ "50268: Wear Away": {
+  "rating": 3.076
+ },
+ "50272: Field of Reality": {
+  "rating": 1.543
+ },
+ "50285: Frostwielder": {
+  "rating": 2.867
+ },
+ "50288: Soulless Revival": {
+  "rating": 3.242
+ },
+ "50291: Befoul": {
+  "rating": 3.5
+ },
+ "50292: Yamabushi's Flame": {
+  "rating": 3.088
+ },
+ "50293: Rend Spirit": {
+  "rating": 1.796
+ },
+ "50296: Eight-and-a-Half-Tails": {
+  "rating": 4.076
+ },
+ "50299: Kodama's Reach": {
+  "rating": 4.044
+ },
+ "50300: Imi Statue": {
+  "rating": 3.286
+ },
+ "50301: Soratami Cloudskater": {
+  "rating": 2.667
+ },
+ "50305: Burr Grafter": {
+  "rating": 2.516
+ },
+ "50308: Orochi Ranger": {
+  "rating": 2.207
+ },
+ "50311: Kami of the Waning Moon": {
+  "rating": 2.086
+ },
+ "50313: Quiet Purity": {
+  "rating": 3.514
+ },
+ "50315: Uncontrollable Anger": {
+  "rating": 1.95
+ },
+ "50318: Shimatsu the Bloodcloaked": {
+  "rating": 1.825
+ },
+ "50319: Orochi Leafcaller": {
+  "rating": 4
+ },
+ "50320: Lifted by Clouds": {
+  "rating": 1.361
+ },
+ "50321: Kiki-Jiki, Mirror Breaker": {
+  "rating": 4.323
+ },
+ "50338: Akki Coalflinger": {
+  "rating": 3.031
+ },
+ "50342: Kashi-Tribe Warriors": {
+  "rating": 2.224
+ },
+ "50343: Harsh Deceiver": {
+  "rating": 1.103
+ },
+ "50345: Wandering Ones": {
+  "rating": 3.174
+ },
+ "50346: Yamabushi's Storm": {
+  "rating": 2.639
+ },
+ "50349: Kami of Ancient Law": {
+  "rating": 4.317
+ },
+ "50367: Kami of the Palace Fields": {
+  "rating": 1.721
+ },
+ "50379: Unearthly Blizzard": {
+  "rating": 2.812
+ },
+ "50383: Battle-Mad Ronin": {
+  "rating": 2.743
+ },
+ "50385: Mothrider Samurai": {
+  "rating": 2.906
+ },
+ "50394: Oni Possession": {
+  "rating": 2.889
+ },
+ "50400: Sensei's Divining Top": {
+  "rating": 4.673
+ },
+ "50405: Reciprocate": {
+  "rating": 3.906
+ },
+ "50408: Samurai Enforcers": {
+  "rating": 2.612
+ },
+ "50412: Kitsune Riftwalker": {
+  "rating": 1.833
+ },
+ "50413: Nine-Ringed Bo": {
+  "rating": 1.028
+ },
+ "50414: Vigilance": {
+  "rating": 2.578
+ },
+ "50426: Hinder": {
+  "rating": 3.983
+ },
+ "50431: Numai Outcast": {
+  "rating": 0.852
+ },
+ "50432: Wicked Akuba": {
+  "rating": 3.891
+ },
+ "50433: Thoughtbind": {
+  "rating": 1.654
+ },
+ "50437: Kitsune Healer": {
+  "rating": 2.648
+ },
+ "50438: Thousand-legged Kami": {
+  "rating": 2.191
+ },
+ "50439: Hisoka's Defiance": {
+  "rating": 1.064
+ },
+ "50440: Devoted Retainer": {
+  "rating": 3.462
+ },
+ "50441: Kitsune Blademaster": {
+  "rating": 3.725
+ },
+ "50442: Sire of the Storm": {
+  "rating": 2.707
+ },
+ "50445: Kokusho, the Evening Star": {
+  "rating": 4.151
+ },
+ "50449: Midnight Covenant": {
+  "rating": 2.721
+ },
+ "50451: Blessed Breath": {
+  "rating": 3.202
+ },
+ "50459: Sift Through Sands": {
+  "rating": 3.026
+ },
+ "50461: Heartbeat of Spring": {
+  "rating": 3.933
+ },
+ "50469: Hankyu": {
+  "rating": 2.819
+ },
+ "50474: Hisoka, Minamo Sensei": {
+  "rating": 2.289
+ },
+ "50484: Oathkeeper, Takeno's Daisho": {
+  "rating": 3.306
+ },
+ "50487: Order of the Sacred Bell": {
+  "rating": 1.823
+ },
+ "50488: Kodama of the North Tree": {
+  "rating": 3.959
+ },
+ "50499: Indomitable Will": {
+  "rating": 2.586
+ },
+ "50509: Blood Rites": {
+  "rating": 2.212
+ },
+ "50510: Sakura-Tribe Elder": {
+  "rating": 4.152
+ },
+ "50512: Nezumi Ronin": {
+  "rating": 2.821
+ },
+ "50514: Crushing Pain": {
+  "rating": 3.031
+ },
+ "73907: Moonring Mirror": {
+  "rating": 3.038
+ },
+ "75241: Glimpse of Nature": {
+  "rating": 4.237
+ },
+ "75247: Matsu-Tribe Decoy": {
+  "rating": 1.6
+ },
+ "75248: Mindblaze": {
+  "rating": 2.703
+ },
+ "75254: Uba Mask": {
+  "rating": 3.569
+ },
+ "75258: Cruel Deceiver": {
+  "rating": 2.243
+ },
+ "75259: Rend Flesh": {
+  "rating": 3.972
+ },
+ "75262: Cursed Ronin": {
+  "rating": 2.75
+ },
+ "75265: No-Dachi": {
+  "rating": 3.137
+ },
+ "75267: Kumano's Pupils": {
+  "rating": 1.241
+ },
+ "75268: Meloku the Clouded Mirror": {
+  "rating": 4.262
+ },
+ "75269: Kusari-Gama": {
+  "rating": 3.894
+ },
+ "75277: Akki Avalanchers": {
+  "rating": 2.317
+ },
+ "75278: Shell of the Last Kappa": {
+  "rating": 3.803
+ },
+ "75285: Teller of Tales": {
+  "rating": 2.571
+ },
+ "75286: Keiga, the Tide Star": {
+  "rating": 4.318
+ },
+ "75291: Tatsumasa, the Dragon's Fang": {
+  "rating": 3.971
+ },
+ "75302: Takeno, Samurai General": {
+  "rating": 3.86
+ },
+ "75305: Boseiju, Who Shelters All": {
+  "rating": 3.906
+ },
+ "75319: Lantern Kami": {
+  "rating": 3.404
+ },
+ "75328: Ghostly Prison": {
+  "rating": 4.099
+ },
+ "75334: Night Dealings": {
+  "rating": 3.083
+ },
+ "75353: Aura of Dominion": {
+  "rating": 2.833
+ },
+ "75357: Hanabi Blast": {
+  "rating": 2.557
+ },
+ "75366: Strength of Cedars": {
+  "rating": 1.949
+ },
+ "75367: Rootrunner": {
+  "rating": 3.05
+ },
+ "75381: Samurai of the Pale Curtain": {
+  "rating": 4.297
+ },
+ "75399: Akki Underminer": {
+  "rating": 2.151
+ },
+ "75401: Devouring Rage": {
+  "rating": 1.871
+ },
+ "75402: Feast of Worms": {
+  "rating": 2.023
+ },
+ "75403: Orochi Sustainer": {
+  "rating": 2.518
+ },
+ "75404: Serpent Skin": {
+  "rating": 3.014
+ },
+ "76634: Kashi-Tribe Reaver": {
+  "rating": 3.31
+ },
+ "76636: Innocence Kami": {
+  "rating": 1.919
+ },
+ "76637: Konda's Banner": {
+  "rating": 3.698
+ },
+ "76638: Brutal Deceiver": {
+  "rating": 2.323
+ },
+ "76639: Commune with Nature": {
+  "rating": 3.552
+ },
+ "76641: Moss Kami": {
+  "rating": 2.859
+ },
+ "76652: Kitsune Diviner": {
+  "rating": 1.489
+ },
+ "77136: Kami of the Painted Road": {
+  "rating": 1.63
+ },
+ "77138: Hana Kami": {
+  "rating": 3.222
+ },
+ "77139: Hearth Kami": {
+  "rating": 3.366
+ },
+ "77140: Call to Glory": {
+  "rating": 3.174
+ },
+ "77143: Honor-Worn Shaku": {
+  "rating": 2.108
+ },
+ "77919: Akki Rockspeaker": {
+  "rating": 1.55
+ },
+ "77920: Thief of Hope": {
+  "rating": 3.795
+ },
+ "77921: Kami of Lunacy": {
+  "rating": 1.609
+ },
+ "77922: Scuttling Death": {
+  "rating": 1.141
+ },
+ "77924: Hall of the Bandit Lord": {
+  "rating": 2.265
+ },
+ "77925: Blind with Anger": {
+  "rating": 3.3
+ },
+ "77926: Unnatural Speed": {
+  "rating": 1.351
+ },
+ "78184: Time Stop": {
+  "rating": 3.864
+ },
+ "78190: Callous Deceiver": {
+  "rating": 1.265
+ },
+ "78192: Godo, Bandit Warlord": {
+  "rating": 3.991
+ },
+ "78586: River Kaijin": {
+  "rating": 2
+ },
+ "78590: Yosei, the Morning Star": {
+  "rating": 4.076
+ },
+ "78594: Konda, Lord of Eiganjo": {
+  "rating": 4.012
+ },
+ "78600: Bushi Tenderfoot": {
+  "rating": 3.827
+ },
+ "78602: He Who Hungers": {
+  "rating": 3.762
+ },
+ "78606: Tide of War": {
+  "rating": 2.5
+ },
+ "78608: Myojin of Seeing Winds": {
+  "rating": 3.663
+ },
+ "78678: Nezumi Graverobber": {
+  "rating": 4.016
+ },
+ "78679: Nezumi Shortfang": {
+  "rating": 3.975
+ },
+ "78681: Myojin of Cleansing Fire": {
+  "rating": 4.019
+ },
+ "78683: Sensei Golden-Tail": {
+  "rating": 3.909
+ },
+ "78684: Humble Budoka": {
+  "rating": 3.48
+ },
+ "78686: Jushi Apprentice": {
+  "rating": 3.809
+ },
+ "78687: Budoka Gardener": {
+  "rating": 3.154
+ },
+ "78688: Initiate of Blood": {
+  "rating": 3.105
+ },
+ "78690: Peer Through Depths": {
+  "rating": 3.844
+ },
+ "78691: Student of Elements": {
+  "rating": 3.39
+ },
+ "78693: The Unspeakable": {
+  "rating": 3.224
+ },
+ "78694: Akki Lavarunner": {
+  "rating": 2.963
+ },
+ "78695: Kitsune Mystic": {
+  "rating": 3.7
+ },
+ "78697: Azami, Lady of Scrolls": {
+  "rating": 4.085
+ },
+ "78853: Shisato, Whispering Hunter": {
+  "rating": 2.88
+ },
+ "78854: Horobi, Death's Wail": {
+  "rating": 3.913
+ },
+ "78855: Uyo, Silent Prophet": {
+  "rating": 3.367
+ },
+ "78962: Kiku, Night's Flower": {
+  "rating": 3.91
+ },
+ "78963: Waking Nightmare": {
+  "rating": 3.306
+ },
+ "78964: Kumano, Master Yamabushi": {
+  "rating": 4.234
+ },
+ "78965: Seizan, Perverter of Truth": {
+  "rating": 3.958
+ },
+ "78966: Gibbering Kami": {
+  "rating": 2.083
+ },
+ "78968: Brothers Yamazaki": {
+  "rating": 3.633
+ },
+ "78972: Pull Under": {
+  "rating": 1.222
+ },
+ "78975: Orochi Eggwatcher": {
+  "rating": 3.235
+ },
+ "78976: Myojin of Life's Web": {
+  "rating": 3.969
+ },
+ "78979: Venerable Kumo": {
+  "rating": 2.076
+ },
+ "78981: Joyous Respite": {
+  "rating": 1.671
+ },
+ "78984: Ore Gorger": {
+  "rating": 2.338
+ },
+ "78986: Myojin of Infinite Rage": {
+  "rating": 3.663
+ },
+ "78987: Time of Need": {
+  "rating": 3.971
+ },
+ "78989: Sosuke, Son of Seshiro": {
+  "rating": 4.01
+ },
+ "78991: Night of Souls' Betrayal": {
+  "rating": 3.911
+ },
+ "79060: Plains": {
+  "rating": 4.446
+ },
+ "79061: Island": {
+  "rating": 4.597
+ },
+ "79062: Forest": {
+  "rating": 4.65
+ },
+ "79063: Plains": {
+  "rating": 4.818
+ },
+ "79064: Mountain": {
+  "rating": 4.793
+ },
+ "79065: Swamp": {
+  "rating": 4.65
+ },
+ "79066: Swamp": {
+  "rating": 4.466
+ },
+ "79067: Swamp": {
+  "rating": 4.688
+ },
+ "79068: Forest": {
+  "rating": 4.656
+ },
+ "79069: Island": {
+  "rating": 4.717
+ },
+ "79070: Mountain": {
+  "rating": 4.362
+ },
+ "79071: Island": {
+  "rating": 4.656
+ },
+ "79072: Plains": {
+  "rating": 4.667
+ },
+ "79073: Swamp": {
+  "rating": 4.638
+ },
+ "79074: Island": {
+  "rating": 4.362
+ },
+ "79075: Mountain": {
+  "rating": 4.684
+ },
+ "79076: Plains": {
+  "rating": 4.26
+ },
+ "79077: Mountain": {
+  "rating": 4.706
+ },
+ "79078: Forest": {
+  "rating": 4.607
+ },
+ "79079: Forest": {
+  "rating": 4.304
+ },
+ "79080: Lantern-Lit Graveyard": {
+  "rating": 2.235
+ },
+ "79084: Lava Spike": {
+  "rating": 4.144
+ },
+ "79088: Gutwrencher Oni": {
+  "rating": 3.048
+ },
+ "79089: Swallowing Plague": {
+  "rating": 3.163
+ },
+ "79090: Gifts Ungiven": {
+  "rating": 4.691
+ },
+ "79094: Dance of Shadows": {
+  "rating": 1.786
+ },
+ "79098: Honden of Night's Reach": {
+  "rating": 3.884
+ },
+ "79105: Kabuto Moth": {
+  "rating": 3.2
+ },
+ "79110: Honden of Infinite Rage": {
+  "rating": 3.97
+ },
+ "79112: Myojin of Night's Reach": {
+  "rating": 3.476
+ },
+ "79113: Bloodthirsty Ogre": {
+  "rating": 2.757
+ },
+ "79115: Cloudcrest Lake": {
+  "rating": 2.614
+ },
+ "79119: Painwracker Oni": {
+  "rating": 2.879
+ },
+ "79121: Shinka, the Bloodsoaked Keep": {
+  "rating": 4.009
+ },
+ "79125: Reverse the Sands": {
+  "rating": 3.245
+ },
+ "79129: Distress": {
+  "rating": 3.538
+ },
+ "79132: Pinecrest Ridge": {
+  "rating": 2.134
+ },
+ "79133: Mana Seism": {
+  "rating": 2.182
+ },
+ "79136: Nagao, Bound by Honor": {
+  "rating": 3.704
+ },
+ "79140: Sokenzan Bruiser": {
+  "rating": 1.618
+ },
+ "79144: Hold the Line": {
+  "rating": 4.042
+ },
+ "79145: Hundred-Talon Kami": {
+  "rating": 1.589
+ },
+ "79149: Hisoka's Guard": {
+  "rating": 2.577
+ },
+ "79151: Devouring Greed": {
+  "rating": 3.263
+ },
+ "79152: Lure": {
+  "rating": 3.541
+ },
+ "79155: Eye of Nowhere": {
+  "rating": 3.966
+ },
+ "79158: Ragged Veins": {
+  "rating": 3.491
+ },
+ "79159: Honden of Cleansing Fire": {
+  "rating": 3.727
+ },
+ "79166: Blood Speaker": {
+  "rating": 3.806
+ },
+ "79168: Struggle for Sanity": {
+  "rating": 3.339
+ },
+ "79176: Honden of Seeing Winds": {
+  "rating": 4.018
+ },
+ "79177: Soilshaper": {
+  "rating": 2.65
+ },
+ "79179: Minamo, School at Water's Edge": {
+  "rating": 4.317
+ },
+ "79180: Honden of Life's Web": {
+  "rating": 3.647
+ },
+ "79186: Shizo, Death's Storehouse": {
+  "rating": 4.064
+ },
+ "79188: Mystic Restraints": {
+  "rating": 2.649
+ },
+ "79191: Waterveil Cavern": {
+  "rating": 2.196
+ },
+ "79194: Guardian of Solitude": {
+  "rating": 2.173
+ },
+ "79195: Kami of Fire's Roar": {
+  "rating": 1.794
+ },
+ "79196: Tranquil Garden": {
+  "rating": 2.162
+ },
+ "79198: Kami of the Hunt": {
+  "rating": 2.118
+ },
+ "79199: Vassal's Duty": {
+  "rating": 1.054
+ },
+ "79201: Konda's Hatamoto": {
+  "rating": 3.45
+ },
+ "79204: Hideous Laughter": {
+  "rating": 3.616
+ },
+ "79205: Eiganjo Castle": {
+  "rating": 4.047
+ },
+ "79214: Earthshaker": {
+  "rating": 2.821
+ },
+ "79215: Masako the Humorless": {
+  "rating": 3.956
+ },
+ "79217: Isamaru, Hound of Konda": {
+  "rating": 4.226
+ },
+ "79218: Untaidake, the Cloud Keeper": {
+  "rating": 0.893
+ },
+ "79219: Hair-Strung Koto": {
+  "rating": 2.726
+ },
+ "79222: Hikari, Twilight Guardian": {
+  "rating": 3.042
+ },
+ "79223: Stone Rain": {
+  "rating": 4.009
+ },
+ "79226: Horizon Seed": {
+  "rating": 0.983
+ },
+ "79229: Cut the Tethers": {
+  "rating": 1.431
+ },
+ "79230: Graceful Adept": {
+  "rating": 3.133
+ },
+ "79231: Tenza, Godo's Maul": {
+  "rating": 3.62
+ },
+ "79233: Journeyer's Kite": {
+  "rating": 3.533
+ },
+ "79236: Kami of Old Stone": {
+  "rating": 2.486
+ },
+ "79237: Rag Dealer": {
+  "rating": 2.903
+ },
+ "79242: Ryusei, the Falling Star": {
+  "rating": 4.044
+ },
+ "79244: Gale Force": {
+  "rating": 2.37
+ },
+ "79247: Reach Through Mists": {
+  "rating": 3.107
+ },
+ "79248: Ben-Ben, Akki Hermit": {
+  "rating": 2.685
+ },
+ "79252: Forbidden Orchard": {
+  "rating": 4.356
+ },
+ "79253: Soul of Magma": {
+  "rating": 1.823
+ },
+ "79256: Pious Kitsune": {
+  "rating": 2.308
+ },
+ "79857: Nezumi Bone-Reader": {
+  "rating": 2.319
+ },
+ "79862: General's Kabuto": {
+  "rating": 3.902
+ },
+ "79863: Reweave": {
+  "rating": 3.113
+ },
+ "80241: Orochi Hatchery": {
+  "rating": 3.894
+ },
+ "80242: Psychic Puppetry": {
+  "rating": 3.527
+ },
+ "80243: Eerie Procession": {
+  "rating": 3.292
+ },
+ "80245: Glacial Ray": {
+  "rating": 3.823
+ },
+ "80246: Soulblast": {
+  "rating": 3.933
+ },
+ "80250: Through the Breach": {
+  "rating": 3.581
+ },
+ "80251: Okina, Temple to the Grandfathers": {
+  "rating": 4.029
+ },
+ "80254: Sachi, Daughter of Seshiro": {
+  "rating": 4.035
+ },
+ "80255: Consuming Vortex": {
+  "rating": 2.225
+ },
+ "80256: Seshiro the Anointed": {
+  "rating": 4.045
+ },
+ "80273: Reito Lantern": {
+  "rating": 2.952
+ },
+ "80274: Zo-Zu the Punisher": {
+  "rating": 3.918
+ },
+ "80275: Desperate Ritual": {
+  "rating": 4.235
+ },
+ "80276: Swirl the Mists": {
+  "rating": 3.24
+ },
+ "80278: Iname, Death Aspect": {
+  "rating": 3.789
+ },
+ "80280: Junkyo Bell": {
+  "rating": 3.487
+ },
+ "80281: Cranial Extraction": {
+  "rating": 4.311
+ },
+ "80282: Iname, Life Aspect": {
+  "rating": 3.107
+ },
+ "80283: Azusa, Lost but Seeking": {
+  "rating": 4.047
+ },
+ "80284: Dampen Thought": {
+  "rating": 3.013
+ },
+ "80285: Terashi's Cry": {
+  "rating": 2.012
+ },
+ "80288: Kodama of the South Tree": {
+  "rating": 3.736
+ },
+ "80290: Squelch": {
+  "rating": 3.982
+ },
+ "80291: Part the Veil": {
+  "rating": 2.061
+ },
+ "80292: Candles' Glow": {
+  "rating": 2.542
+ },
+ "80410: Soratami Mirror-Mage": {
+  "rating": 1.226
+ },
+ "80413: Soratami Rainshaper": {
+  "rating": 2.043
+ },
+ "80414: Soratami Mirror-Guard": {
+  "rating": 2.257
+ },
+ "80415: Soratami Seer": {
+  "rating": 1.933
+ },
+ "80417: Soratami Savant": {
+  "rating": 3.05
+ },
+ "80500: Cleanfall": {
+  "rating": 2.775
+ },
+ "80507: Floating-Dream Zubera": {
+  "rating": 3.194
+ },
+ "80508: Ember-Fist Zubera": {
+  "rating": 2.776
+ },
+ "80509: Ashen-Skin Zubera": {
+  "rating": 3.242
+ },
+ "80510: Silent-Chant Zubera": {
+  "rating": 2.446
+ },
+ "80511: Dripping-Tongue Zubera": {
+  "rating": 3.329
+ },
+ "80520: Villainous Ogre": {
+  "rating": 2.425
+ },
+ "80521: Nezumi Cutthroat": {
+  "rating": 3.344
+ },
+ "80522: Deathcurse Ogre": {
+  "rating": 1.292
+ },
+ "80523: Sideswipe": {
+  "rating": 1.068
+ },
+ "80524: Dosan the Falling Leaf": {
+  "rating": 3.925
+ },
+ "80525: Jukai Messenger": {
+  "rating": 1.875
+ },
+ "80526: Ethereal Haze": {
+  "rating": 3.897
+ },
+ "80527: Nature's Will": {
+  "rating": 3.787
+ },
+ "80531: Jade Idol": {
+  "rating": 2.3
+ },
+ "80532: Long-Forgotten Gohei": {
+  "rating": 3.93
+ },
+ "81702: Kodama's Might": {
+  "rating": 3.581
+ },
+ "82000: Strange Inversion": {
+  "rating": 2.217
+ },
+ "82001: Vine Kami": {
+  "rating": 2.16
+ },
+ "82423: Kuro, Pitlord": {
+  "rating": 3.128
+ },
+ "85106: Brothers Yamazaki": {
+  "rating": 3.75
+ }
+}

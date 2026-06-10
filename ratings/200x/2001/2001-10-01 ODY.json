@@ -1,0 +1,1052 @@
+{
+ "26812: Bomb Squad": {
+  "rating": 3.469
+ },
+ "28755: Gallantry": {
+  "rating": 3.196
+ },
+ "29688: Blessed Orator": {
+  "rating": 1.833
+ },
+ "29689: Pilgrim of Virtue": {
+  "rating": 2.327
+ },
+ "29690: Pilgrim of Justice": {
+  "rating": 2.562
+ },
+ "29691: Aven Archer": {
+  "rating": 1.742
+ },
+ "29693: Hallowed Healer": {
+  "rating": 2.919
+ },
+ "29694: Aven Cloudchaser": {
+  "rating": 3.02
+ },
+ "29695: Tireless Tribe": {
+  "rating": 3.778
+ },
+ "29697: Mystic Visionary": {
+  "rating": 1.643
+ },
+ "29699: Angelic Wall": {
+  "rating": 3.5
+ },
+ "29700: Auramancer": {
+  "rating": 3.773
+ },
+ "29703: Embolden": {
+  "rating": 3.077
+ },
+ "29704: Life Burst": {
+  "rating": 3.269
+ },
+ "29706: Second Thoughts": {
+  "rating": 2.909
+ },
+ "29707: Kirtar's Desire": {
+  "rating": 3.659
+ },
+ "29709: Aven Smokeweaver": {
+  "rating": 3.091
+ },
+ "29710: Cephalid Scout": {
+  "rating": 1.554
+ },
+ "29711: Cephalid Broker": {
+  "rating": 3.538
+ },
+ "29712: Scrivener": {
+  "rating": 3.045
+ },
+ "29716: Aven Windreader": {
+  "rating": 2.32
+ },
+ "29722: Rites of Refusal": {
+  "rating": 3.135
+ },
+ "29723: Repel": {
+  "rating": 2.278
+ },
+ "29724: Fervent Denial": {
+  "rating": 1.512
+ },
+ "29725: Aether Burst": {
+  "rating": 3.985
+ },
+ "29727: Careful Study": {
+  "rating": 4.351
+ },
+ "29728: Aboshan's Desire": {
+  "rating": 3.105
+ },
+ "29729: Dirty Wererat": {
+  "rating": 2.823
+ },
+ "29730: Cabal Inquisitor": {
+  "rating": 1.763
+ },
+ "29732: Zombie Assassin": {
+  "rating": 1.188
+ },
+ "29733: Frightcrawler": {
+  "rating": 3.058
+ },
+ "29734: Whispering Shade": {
+  "rating": 2.984
+ },
+ "29735: Zombie Cannibal": {
+  "rating": 2.707
+ },
+ "29736: Famished Ghoul": {
+  "rating": 1.463
+ },
+ "29737: Overeager Apprentice": {
+  "rating": 2.854
+ },
+ "29738: Balshan Beguiler": {
+  "rating": 2.4
+ },
+ "29740: Afflict": {
+  "rating": 1.956
+ },
+ "29741: Gravedigger": {
+  "rating": 3.879
+ },
+ "29743: Morgue Theft": {
+  "rating": 2.75
+ },
+ "29744: Ghastly Demise": {
+  "rating": 4.069
+ },
+ "29745: Morbid Hunger": {
+  "rating": 1.333
+ },
+ "29746: Mind Burst": {
+  "rating": 3.37
+ },
+ "29747: Bamboozle": {
+  "rating": 3.109
+ },
+ "29749: Patriarch's Desire": {
+  "rating": 1.189
+ },
+ "29750: Pardic Firecat": {
+  "rating": 3.125
+ },
+ "29751: Halberdier": {
+  "rating": 2.686
+ },
+ "29752: Ember Beast": {
+  "rating": 3.069
+ },
+ "29753: Pardic Swordsmith": {
+  "rating": 1.441
+ },
+ "29755: Chainflinger": {
+  "rating": 2.071
+ },
+ "29757: Barbarian Lunatic": {
+  "rating": 1.964
+ },
+ "29758: Anarchist": {
+  "rating": 3.269
+ },
+ "29759: Thermal Blast": {
+  "rating": 0.893
+ },
+ "29760: Dwarven Grunt": {
+  "rating": 2.518
+ },
+ "29761: Kamahl's Desire": {
+  "rating": 3.2
+ },
+ "29763: Lava Blister": {
+  "rating": 3.642
+ },
+ "29765: Rites of Initiation": {
+  "rating": 3.109
+ },
+ "29767: Flame Burst": {
+  "rating": 3.629
+ },
+ "29768: Volcanic Spray": {
+  "rating": 3.531
+ },
+ "29769: Earth Rift": {
+  "rating": 1.987
+ },
+ "29771: Nantuko Disciple": {
+  "rating": 2.674
+ },
+ "29772: Woodland Druid": {
+  "rating": 2.675
+ },
+ "29773: Diligent Farmhand": {
+  "rating": 3.684
+ },
+ "29774: Metamorphic Wurm": {
+  "rating": 3.75
+ },
+ "29775: Krosan Avenger": {
+  "rating": 3.25
+ },
+ "29776: Howling Gale": {
+  "rating": 2.471
+ },
+ "29777: Wild Mongrel": {
+  "rating": 4.549
+ },
+ "29778: Druid Lyrist": {
+  "rating": 3.196
+ },
+ "29779: Simplify": {
+  "rating": 2.448
+ },
+ "29780: Krosan Archer": {
+  "rating": 2.083
+ },
+ "29781: Rabid Elephant": {
+  "rating": 2.871
+ },
+ "29782: Leaf Dancer": {
+  "rating": 2.4
+ },
+ "29783: Cartographer": {
+  "rating": 3.456
+ },
+ "29784: Nimble Mongoose": {
+  "rating": 4.476
+ },
+ "29785: Werebear": {
+  "rating": 4.563
+ },
+ "29786: Call of the Herd": {
+  "rating": 4.06
+ },
+ "29788: Muscle Burst": {
+  "rating": 3.35
+ },
+ "29789: Rites of Spring": {
+  "rating": 3.656
+ },
+ "29790: Sylvan Might": {
+  "rating": 3.531
+ },
+ "29791: Seton's Desire": {
+  "rating": 2.3
+ },
+ "29792: Skycloud Expanse": {
+  "rating": 3.838
+ },
+ "29793: Darkwater Catacombs": {
+  "rating": 3.982
+ },
+ "29794: Shadowblood Ridge": {
+  "rating": 4.013
+ },
+ "29795: Mossfire Valley": {
+  "rating": 4.062
+ },
+ "29796: Sungrass Prairie": {
+  "rating": 3.81
+ },
+ "29798: Beloved Chaplain": {
+  "rating": 4.073
+ },
+ "29801: Mystic Zealot": {
+  "rating": 3.38
+ },
+ "29802: Mystic Crusader": {
+  "rating": 3.556
+ },
+ "29804: Resilient Wanderer": {
+  "rating": 2.888
+ },
+ "29805: Nomad Decoy": {
+  "rating": 3.182
+ },
+ "29806: Luminous Guardian": {
+  "rating": 2.614
+ },
+ "29807: Spiritualize": {
+  "rating": 2.632
+ },
+ "29808: Ray of Distortion": {
+  "rating": 2.062
+ },
+ "29810: Sphere of Truth": {
+  "rating": 2.091
+ },
+ "29811: Sphere of Reason": {
+  "rating": 2.537
+ },
+ "29812: Sphere of Grace": {
+  "rating": 2.679
+ },
+ "29813: Sphere of Law": {
+  "rating": 3.312
+ },
+ "29814: Sphere of Duty": {
+  "rating": 2.204
+ },
+ "29818: Innocent Blood": {
+  "rating": 4.507
+ },
+ "29819: Puppeteer": {
+  "rating": 3.261
+ },
+ "29820: Balshan Griffin": {
+  "rating": 1.379
+ },
+ "29821: Cephalid Looter": {
+  "rating": 3.162
+ },
+ "29823: Predict": {
+  "rating": 3.603
+ },
+ "29826: Dematerialize": {
+  "rating": 1.177
+ },
+ "29828: Immobilizing Ink": {
+  "rating": 2.662
+ },
+ "29829: Persuasion": {
+  "rating": 3.625
+ },
+ "29830: Think Tank": {
+  "rating": 3.833
+ },
+ "29832: Syncopate": {
+  "rating": 3.837
+ },
+ "29835: Painbringer": {
+  "rating": 2.773
+ },
+ "29836: Childhood Horror": {
+  "rating": 2.525
+ },
+ "29839: Stalking Bloodsucker": {
+  "rating": 3.092
+ },
+ "29840: Crypt Creeper": {
+  "rating": 2.811
+ },
+ "29842: Rotting Giant": {
+  "rating": 3.935
+ },
+ "29845: Screams of the Damned": {
+  "rating": 1.5
+ },
+ "29846: Buried Alive": {
+  "rating": 4.42
+ },
+ "29847: Zombify": {
+  "rating": 4.085
+ },
+ "29848: Skull Fracture": {
+  "rating": 2.635
+ },
+ "29849: Extract": {
+  "rating": 4.326
+ },
+ "29850: Cursed Monstrosity": {
+  "rating": 0.944
+ },
+ "29853: Dwarven Recruiter": {
+  "rating": 3.815
+ },
+ "29854: Spark Mage": {
+  "rating": 2.931
+ },
+ "29855: Frenetic Ogre": {
+  "rating": 1.897
+ },
+ "29858: Blazing Salvo": {
+  "rating": 3.968
+ },
+ "29859: Magma Vein": {
+  "rating": 1.423
+ },
+ "29860: Shower of Coals": {
+  "rating": 3.578
+ },
+ "29861: Battle Strain": {
+  "rating": 2.981
+ },
+ "29864: Recoup": {
+  "rating": 4.033
+ },
+ "29866: Liquid Fire": {
+  "rating": 2.148
+ },
+ "29867: Demolish": {
+  "rating": 3.058
+ },
+ "29870: Nantuko Elder": {
+  "rating": 3.167
+ },
+ "29871: Ivy Elemental": {
+  "rating": 3.017
+ },
+ "29877: Springing Tiger": {
+  "rating": 3.656
+ },
+ "29878: Crashing Centaur": {
+  "rating": 2.913
+ },
+ "29879: Still Life": {
+  "rating": 2.804
+ },
+ "29880: Beast Attack": {
+  "rating": 3.986
+ },
+ "29881: Roar of the Wurm": {
+  "rating": 4.063
+ },
+ "29882: Piper's Melody": {
+  "rating": 3.553
+ },
+ "29884: Deep Reconnaissance": {
+  "rating": 2.906
+ },
+ "29887: Limestone Golem": {
+  "rating": 1.706
+ },
+ "29889: Otarian Juggernaut": {
+  "rating": 1.72
+ },
+ "29892: Skycloud Egg": {
+  "rating": 2.654
+ },
+ "29893: Sandstone Deadfall": {
+  "rating": 0.949
+ },
+ "29897: Steamclaw": {
+  "rating": 1.864
+ },
+ "29899: Charmed Pendant": {
+  "rating": 2.855
+ },
+ "29902: Nomad Stadium": {
+  "rating": 0.989
+ },
+ "29903: Cephalid Coliseum": {
+  "rating": 3.818
+ },
+ "29904: Cabal Pit": {
+  "rating": 3.533
+ },
+ "29905: Centaur Garden": {
+  "rating": 2.481
+ },
+ "29906: Barbarian Ring": {
+  "rating": 3.877
+ },
+ "29909: Devoted Caretaker": {
+  "rating": 4.076
+ },
+ "29910: Wayward Angel": {
+  "rating": 3.938
+ },
+ "29911: Master Apothecary": {
+  "rating": 4.058
+ },
+ "29913: Graceful Antelope": {
+  "rating": 2.756
+ },
+ "29914: Cantivore": {
+  "rating": 3.061
+ },
+ "29916: Delaying Shield": {
+  "rating": 3.85
+ },
+ "29917: Divine Sacrament": {
+  "rating": 4.037
+ },
+ "29918: Earnest Fellowship": {
+  "rating": 3.765
+ },
+ "29921: Kirtar's Wrath": {
+  "rating": 3.855
+ },
+ "29922: Aegis of Honor": {
+  "rating": 3.99
+ },
+ "29923: Aven Shrine": {
+  "rating": 1.696
+ },
+ "29925: Patron Wizard": {
+  "rating": 4.039
+ },
+ "29929: Amugaba": {
+  "rating": 2.744
+ },
+ "29931: Cognivore": {
+  "rating": 2.591
+ },
+ "29933: Time Stretch": {
+  "rating": 4.021
+ },
+ "29934: Unifying Theory": {
+  "rating": 3.135
+ },
+ "29935: Gravestorm": {
+  "rating": 4.039
+ },
+ "29936: Standstill": {
+  "rating": 4.582
+ },
+ "29937: Laquatus's Creativity": {
+  "rating": 2.533
+ },
+ "29938: Aura Graft": {
+  "rating": 3.083
+ },
+ "29940: Pedantic Learning": {
+  "rating": 2.188
+ },
+ "29941: Cephalid Shrine": {
+  "rating": 1.174
+ },
+ "29942: Battle of Wits": {
+  "rating": 3.804
+ },
+ "29943: Cabal Patriarch": {
+  "rating": 3.649
+ },
+ "29945: Repentant Vampire": {
+  "rating": 3.685
+ },
+ "29946: Mortivore": {
+  "rating": 4.043
+ },
+ "29947: Braids, Cabal Minion": {
+  "rating": 4.026
+ },
+ "29949: Mindslicer": {
+  "rating": 3.988
+ },
+ "29950: Bloodcurdler": {
+  "rating": 1.574
+ },
+ "29952: Nefarious Lich": {
+  "rating": 2.534
+ },
+ "29953: Tainted Pact": {
+  "rating": 4.116
+ },
+ "29954: Diabolic Tutor": {
+  "rating": 4
+ },
+ "29955: Decaying Soil": {
+  "rating": 2.904
+ },
+ "29956: Haunting Echoes": {
+  "rating": 3.974
+ },
+ "29957: Zombie Infestation": {
+  "rating": 4.067
+ },
+ "29958: Skeletal Scrying": {
+  "rating": 4.302
+ },
+ "29959: Cabal Shrine": {
+  "rating": 1.732
+ },
+ "29961: Whipkeeper": {
+  "rating": 1.806
+ },
+ "29962: Pardic Miner": {
+  "rating": 2.783
+ },
+ "29963: Kamahl, Pit Fighter": {
+  "rating": 3.978
+ },
+ "29964: Mine Layer": {
+  "rating": 3.371
+ },
+ "29965: Ashen Firebeast": {
+  "rating": 3.562
+ },
+ "29966: Savage Firecat": {
+  "rating": 3.667
+ },
+ "29968: Obstinate Familiar": {
+  "rating": 3.758
+ },
+ "29969: Vampiric Dragon": {
+  "rating": 3.891
+ },
+ "29970: Volley of Boulders": {
+  "rating": 2.183
+ },
+ "29971: Need for Speed": {
+  "rating": 2.5
+ },
+ "29972: Molten Influence": {
+  "rating": 3.784
+ },
+ "29973: Price of Glory": {
+  "rating": 4.026
+ },
+ "29977: Dwarven Shrine": {
+  "rating": 1.841
+ },
+ "29978: Chance Encounter": {
+  "rating": 3.952
+ },
+ "29979: Squirrel Mob": {
+  "rating": 4.042
+ },
+ "29980: Gorilla Titan": {
+  "rating": 4
+ },
+ "29981: Nantuko Mentor": {
+  "rating": 3.371
+ },
+ "29982: Terravore": {
+  "rating": 4.139
+ },
+ "29983: Stone-Tongue Basilisk": {
+  "rating": 3.6
+ },
+ "29984: Zoologist": {
+  "rating": 3.729
+ },
+ "29985: Seton, Krosan Protector": {
+  "rating": 3.92
+ },
+ "29986: Chlorophant": {
+  "rating": 4.034
+ },
+ "29987: Nut Collector": {
+  "rating": 4.036
+ },
+ "29989: Verdant Succession": {
+  "rating": 4.037
+ },
+ "29991: Ground Seal": {
+  "rating": 4.331
+ },
+ "29994: Holistic Wisdom": {
+  "rating": 3.447
+ },
+ "29995: Nantuko Shrine": {
+  "rating": 3
+ },
+ "29996: Overrun": {
+  "rating": 4.081
+ },
+ "29997: Junk Golem": {
+  "rating": 1.806
+ },
+ "30005: Catalyst Stone": {
+  "rating": 3.902
+ },
+ "30010: Mossfire Egg": {
+  "rating": 2.742
+ },
+ "30012: Crystal Quarry": {
+  "rating": 4.074
+ },
+ "30013: Deserted Temple": {
+  "rating": 4.062
+ },
+ "30014: Petrified Field": {
+  "rating": 3.276
+ },
+ "30015: Tarnished Citadel": {
+  "rating": 2.317
+ },
+ "30544: Cease-Fire": {
+  "rating": 2.776
+ },
+ "30545: Demoralize": {
+  "rating": 3.196
+ },
+ "30546: Vivify": {
+  "rating": 2.275
+ },
+ "30547: Epicenter": {
+  "rating": 3.441
+ },
+ "30548: Twigwalker": {
+  "rating": 2.808
+ },
+ "30549: Krosan Beast": {
+  "rating": 4.042
+ },
+ "30550: Magnivore": {
+  "rating": 3.655
+ },
+ "30552: Entomb": {
+  "rating": 4.762
+ },
+ "30553: Shadowblood Egg": {
+  "rating": 2.442
+ },
+ "30555: Ancestral Tribute": {
+  "rating": 1.802
+ },
+ "30556: Traumatize": {
+  "rating": 4.085
+ },
+ "30558: Execute": {
+  "rating": 2.354
+ },
+ "30560: Malevolent Awakening": {
+  "rating": 3.028
+ },
+ "30563: Skyshooter": {
+  "rating": 2.739
+ },
+ "30569: Bash to Bits": {
+  "rating": 1.524
+ },
+ "30570: Firebolt": {
+  "rating": 4.02
+ },
+ "30572: Scorching Missile": {
+  "rating": 2
+ },
+ "30573: Seize the Day": {
+  "rating": 4.048
+ },
+ "30654: Patrol Hound": {
+  "rating": 2.817
+ },
+ "30655: Concentrate": {
+  "rating": 4.01
+ },
+ "30686: Peek": {
+  "rating": 2.913
+ },
+ "30690: Tombfire": {
+  "rating": 1.27
+ },
+ "30691: Touch of Invisibility": {
+  "rating": 1.383
+ },
+ "30692: Acceptable Losses": {
+  "rating": 1.018
+ },
+ "30747: Bearscape": {
+  "rating": 4.043
+ },
+ "30749: Darkwater Egg": {
+  "rating": 2.45
+ },
+ "30750: Sungrass Egg": {
+  "rating": 2.554
+ },
+ "30761: Shelter": {
+  "rating": 4.065
+ },
+ "30762: Coffin Purge": {
+  "rating": 2.774
+ },
+ "30763: Cultural Exchange": {
+  "rating": 3.915
+ },
+ "30765: Testament of Faith": {
+  "rating": 2.679
+ },
+ "31444: Chatter of the Squirrel": {
+  "rating": 3.856
+ },
+ "31450: Reckless Charge": {
+  "rating": 4.02
+ },
+ "31611: Pulsating Illusion": {
+  "rating": 1.155
+ },
+ "31612: Plains": {
+  "rating": 4.767
+ },
+ "31613: Island": {
+  "rating": 4.442
+ },
+ "31614: Island": {
+  "rating": 4.65
+ },
+ "31615: Island": {
+  "rating": 4.721
+ },
+ "31616: Island": {
+  "rating": 4.355
+ },
+ "31617: Swamp": {
+  "rating": 4.727
+ },
+ "31618: Swamp": {
+  "rating": 4.143
+ },
+ "31619: Swamp": {
+  "rating": 4.717
+ },
+ "31620: Swamp": {
+  "rating": 4.75
+ },
+ "31621: Mountain": {
+  "rating": 4.82
+ },
+ "31622: Mountain": {
+  "rating": 4.018
+ },
+ "31623: Mountain": {
+  "rating": 4.648
+ },
+ "31624: Mountain": {
+  "rating": 4.597
+ },
+ "31625: Forest": {
+  "rating": 4.456
+ },
+ "31626: Forest": {
+  "rating": 4.534
+ },
+ "31627: Forest": {
+  "rating": 4.691
+ },
+ "31628: Forest": {
+  "rating": 4.5
+ },
+ "31629: Plains": {
+  "rating": 3.917
+ },
+ "31630: Plains": {
+  "rating": 4.694
+ },
+ "31631: Plains": {
+  "rating": 4.75
+ },
+ "31736: Treetop Sentinel": {
+  "rating": 3.053
+ },
+ "31738: Face of Fear": {
+  "rating": 0.814
+ },
+ "31740: Mudhole": {
+  "rating": 1.11
+ },
+ "31741: Refresh": {
+  "rating": 1.893
+ },
+ "31761: Abandoned Outpost": {
+  "rating": 2.24
+ },
+ "31762: Seafloor Debris": {
+  "rating": 2.381
+ },
+ "31763: Bog Wreckage": {
+  "rating": 2.229
+ },
+ "31764: Ravaged Highlands": {
+  "rating": 2.658
+ },
+ "31765: Timberland Ruins": {
+  "rating": 2.617
+ },
+ "31766: Mystic Penitent": {
+  "rating": 3.763
+ },
+ "31767: Aven Flock": {
+  "rating": 1.411
+ },
+ "31768: Sacred Rites": {
+  "rating": 1.207
+ },
+ "31769: Confessor": {
+  "rating": 2.694
+ },
+ "31770: Lithatog": {
+  "rating": 2.629
+ },
+ "31771: Dedicated Martyr": {
+  "rating": 1.957
+ },
+ "31772: Mystic Enforcer": {
+  "rating": 4.02
+ },
+ "31774: Thought Nibbler": {
+  "rating": 2.303
+ },
+ "31777: Fledgling Imp": {
+  "rating": 1.268
+ },
+ "31778: Last Rites": {
+  "rating": 3.35
+ },
+ "31779: Words of Wisdom": {
+  "rating": 3.431
+ },
+ "31786: Minotaur Explorer": {
+  "rating": 3.3
+ },
+ "31787: Impulsive Maneuvers": {
+  "rating": 2.371
+ },
+ "31789: Dogged Hunter": {
+  "rating": 3.179
+ },
+ "31790: Pianna, Nomad Captain": {
+  "rating": 4
+ },
+ "31791: Psionic Gift": {
+  "rating": 3.838
+ },
+ "31792: Phantatog": {
+  "rating": 3.288
+ },
+ "31793: Sarcatog": {
+  "rating": 3.241
+ },
+ "31794: Decompose": {
+  "rating": 2.552
+ },
+ "31795: Tremble": {
+  "rating": 2.688
+ },
+ "31796: Dwarven Strike Force": {
+  "rating": 2.093
+ },
+ "31797: Burning Sands": {
+  "rating": 3.986
+ },
+ "31798: Decimate": {
+  "rating": 4.054
+ },
+ "31799: Iridescent Angel": {
+  "rating": 4.028
+ },
+ "31800: Spellbane Centaur": {
+  "rating": 4
+ },
+ "31801: Mirari": {
+  "rating": 4.03
+ },
+ "31802: Dreamwinder": {
+  "rating": 1.72
+ },
+ "31803: Thought Eater": {
+  "rating": 2.515
+ },
+ "31804: Filthy Cur": {
+  "rating": 1.029
+ },
+ "31807: Dusk Imp": {
+  "rating": 1.514
+ },
+ "31808: Infected Vermin": {
+  "rating": 2.609
+ },
+ "31809: Sadistic Hypnotist": {
+  "rating": 3.59
+ },
+ "31810: Engulfing Flames": {
+  "rating": 3.281
+ },
+ "31811: Moment's Peace": {
+  "rating": 4.063
+ },
+ "31812: Primal Frenzy": {
+  "rating": 2.016
+ },
+ "31813: Escape Artist": {
+  "rating": 3.057
+ },
+ "31814: Phantom Whelp": {
+  "rating": 1.417
+ },
+ "31815: Aven Fisher": {
+  "rating": 2.804
+ },
+ "31816: Deluge": {
+  "rating": 3.4
+ },
+ "31817: Thought Devourer": {
+  "rating": 3.272
+ },
+ "31818: Mad Dog": {
+  "rating": 1.513
+ },
+ "31819: Balancing Act": {
+  "rating": 4.045
+ },
+ "31820: Lieutenant Kirtar": {
+  "rating": 3.952
+ },
+ "31821: Aboshan, Cephalid Emperor": {
+  "rating": 3.918
+ },
+ "31823: Shifty Doppelganger": {
+  "rating": 3.935
+ },
+ "31824: Divert": {
+  "rating": 4.241
+ },
+ "31825: Psychatog": {
+  "rating": 4.559
+ },
+ "31826: Druid's Call": {
+  "rating": 3.99
+ },
+ "31830: Millikin": {
+  "rating": 2.936
+ },
+ "31832: Patchwork Gnomes": {
+  "rating": 2.636
+ },
+ "31834: Atogatog": {
+  "rating": 3.532
+ },
+ "31835: Thaumatog": {
+  "rating": 2.545
+ },
+ "31836: Squirrel Nest": {
+  "rating": 4.155
+ },
+ "31837: Caustic Tar": {
+  "rating": 3.311
+ },
+ "31838: Steam Vines": {
+  "rating": 2.068
+ },
+ "31839: Animal Boneyard": {
+  "rating": 2.732
+ },
+ "31852: Upheaval": {
+  "rating": 4.097
+ },
+ "31853: Traveling Plague": {
+  "rating": 2.375
+ },
+ "31854: New Frontiers": {
+  "rating": 3.65
+ },
+ "31865: Soulcatcher": {
+  "rating": 3.742
+ },
+ "31867: Hint of Insanity": {
+  "rating": 0.99
+ },
+ "31868: Chamber of Manipulation": {
+  "rating": 3.481
+ },
+ "31870: Cephalid Retainer": {
+  "rating": 3.304
+ },
+ "31872: Karmic Justice": {
+  "rating": 3.962
+ },
+ "31873: Tattoo Ward": {
+  "rating": 2.325
+ },
+ "32919: Elephant Ambush": {
+  "rating": 3.333
+ },
+ "33604: Shadowmage Infiltrator": {
+  "rating": 4.436
+ }
+}

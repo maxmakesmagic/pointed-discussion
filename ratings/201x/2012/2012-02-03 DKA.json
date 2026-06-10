@@ -1,0 +1,515 @@
+{
+ "220003: Curse of Thirst": {
+  "rating": 2.173
+ },
+ "220056: Gravepurge": {
+  "rating": 3
+ },
+ "221174: Forge Devil": {
+  "rating": 3.071
+ },
+ "222001: Hollowhenge Spirit": {
+  "rating": 2.695
+ },
+ "222178: Soul Seizer": {
+  "rating": 2.288
+ },
+ "222902: Gravecrawler": {
+  "rating": 4.318
+ },
+ "226721: Chalice of Death": {
+  "rating": 3.644
+ },
+ "226724: Niblis of the Breath": {
+  "rating": 3.233
+ },
+ "226729: Curse of Exhaustion": {
+  "rating": 3.942
+ },
+ "226735: Chalice of Life": {
+  "rating": 3.659
+ },
+ "226874: Hellrider": {
+  "rating": 3.982
+ },
+ "227080: Beguiler of Wills": {
+  "rating": 3.58
+ },
+ "227091: Curse of Bloodletting": {
+  "rating": 3.682
+ },
+ "227405: Archdemon of Greed": {
+  "rating": 3.368
+ },
+ "227417: Ravenous Demon": {
+  "rating": 3.273
+ },
+ "230621: Secrets of the Dead": {
+  "rating": 3.339
+ },
+ "242498: Ghastly Haunting": {
+  "rating": 2.267
+ },
+ "242500: Tragic Slip": {
+  "rating": 4.273
+ },
+ "242503: Highborn Ghoul": {
+  "rating": 3.281
+ },
+ "242509: Silverpelt Werewolf": {
+  "rating": 3.302
+ },
+ "242511: Chill of Foreboding": {
+  "rating": 2.833
+ },
+ "242525: Shriekgeist": {
+  "rating": 3.213
+ },
+ "242532: Dawntreader Elk": {
+  "rating": 3.642
+ },
+ "242537: Lambholt Elder": {
+  "rating": 3.179
+ },
+ "242539: Lost in the Woods": {
+  "rating": 2.415
+ },
+ "243224: Griptide": {
+  "rating": 2.233
+ },
+ "243229: Chosen of Markov": {
+  "rating": 2.631
+ },
+ "243231: Wrack with Madness": {
+  "rating": 2.713
+ },
+ "243233: Kessig Recluse": {
+  "rating": 3.138
+ },
+ "243250: Geralf's Messenger": {
+  "rating": 3.937
+ },
+ "243257: Hunger of the Howlpack": {
+  "rating": 3.582
+ },
+ "244691: Archangel's Light": {
+  "rating": 1.224
+ },
+ "244695: Jar of Eyeballs": {
+  "rating": 3.121
+ },
+ "244702: Torch Fiend": {
+  "rating": 4.13
+ },
+ "244709: Thraben Heretic": {
+  "rating": 3.337
+ },
+ "244712: Markov's Servant": {
+  "rating": 2.596
+ },
+ "244724: Loyal Cathar": {
+  "rating": 3.595
+ },
+ "244726: Russet Wolves": {
+  "rating": 1.652
+ },
+ "244727: Ulvenwald Bear": {
+  "rating": 3.178
+ },
+ "244731: Blood Feud": {
+  "rating": 2.698
+ },
+ "244734: Unhallowed Cathar": {
+  "rating": 3.405
+ },
+ "244737: Executioner's Hood": {
+  "rating": 2.287
+ },
+ "244738: Withengar Unbound": {
+  "rating": 3.869
+ },
+ "244740: Elbrus, the Binding Blade": {
+  "rating": 3.839
+ },
+ "244744: Niblis of the Urn": {
+  "rating": 3.569
+ },
+ "244759: Reap the Seagraf": {
+  "rating": 2.26
+ },
+ "244761: Headless Skaab": {
+  "rating": 3.223
+ },
+ "244766: Heavy Mattock": {
+  "rating": 1.174
+ },
+ "244768: Somberwald Dryad": {
+  "rating": 3.684
+ },
+ "244773: Drogskol Captain": {
+  "rating": 3.891
+ },
+ "245207: Screeching Skaab": {
+  "rating": 2.798
+ },
+ "245219: Elgaud Inquisitor": {
+  "rating": 2.592
+ },
+ "245288: Ray of Revelation": {
+  "rating": 4.114
+ },
+ "245289: Haunted Fengraf": {
+  "rating": 3.076
+ },
+ "245291: Wild Hunger": {
+  "rating": 3.091
+ },
+ "245292: Niblis of the Mist": {
+  "rating": 2.13
+ },
+ "245296: Saving Grasp": {
+  "rating": 3.327
+ },
+ "245299: Faithless Looting": {
+  "rating": 4.166
+ },
+ "247116: Tracker's Instincts": {
+  "rating": 3.392
+ },
+ "247122: Hinterland Scourge": {
+  "rating": 2.406
+ },
+ "247124: Wolfhunter's Quiver": {
+  "rating": 1.62
+ },
+ "247125: Hinterland Hermit": {
+  "rating": 2.349
+ },
+ "247126: Nephalia Seakite": {
+  "rating": 2.476
+ },
+ "247130: Warden of the Wall": {
+  "rating": 2.554
+ },
+ "249419: Markov Blademaster": {
+  "rating": 3.646
+ },
+ "249422: Séance": {
+  "rating": 3.294
+ },
+ "249875: Dungeon Geists": {
+  "rating": 3.858
+ },
+ "249878: Havengul Runebinder": {
+  "rating": 3.4
+ },
+ "249885: Moonveil Dragon": {
+  "rating": 3.962
+ },
+ "249896: Mikaeus, the Unhallowed": {
+  "rating": 3.897
+ },
+ "249901: Deranged Outcast": {
+  "rating": 3.318
+ },
+ "249979: Erdwal Ripper": {
+  "rating": 2.689
+ },
+ "249983: Pyreheart Wolf": {
+  "rating": 3.704
+ },
+ "249985: Sorin, Lord of Innistrad": {
+  "rating": 3.788
+ },
+ "253426: Wolfbitten Captive": {
+  "rating": 3.41
+ },
+ "253429: Tovolar's Magehunter": {
+  "rating": 3.667
+ },
+ "253431: Krallenhorde Killer": {
+  "rating": 3.418
+ },
+ "253433: Mondronen Shaman": {
+  "rating": 3.403
+ },
+ "254058: Shattered Perception": {
+  "rating": 3.013
+ },
+ "262657: Alpha Brawl": {
+  "rating": 2.843
+ },
+ "262659: Moonscarred Werewolf": {
+  "rating": 3.519
+ },
+ "262660: Stormbound Geist": {
+  "rating": 3.65
+ },
+ "262661: Increasing Vengeance": {
+  "rating": 3.862
+ },
+ "262662: Ghoultree": {
+  "rating": 3.889
+ },
+ "262663: Diregraf Captain": {
+  "rating": 3.861
+ },
+ "262664: Briarpack Alpha": {
+  "rating": 3.122
+ },
+ "262665: Tower Geist": {
+  "rating": 3.43
+ },
+ "262667: Skirsdag Flayer": {
+  "rating": 2.917
+ },
+ "262668: Spiteful Shadows": {
+  "rating": 2.125
+ },
+ "262669: Zombie Apocalypse": {
+  "rating": 3.861
+ },
+ "262671: Strangleroot Geist": {
+  "rating": 4.012
+ },
+ "262673: Gravetiller Wurm": {
+  "rating": 3.427
+ },
+ "262675: Afflicted Deserter": {
+  "rating": 2.593
+ },
+ "262676: Stromkirk Captain": {
+  "rating": 3.89
+ },
+ "262677: Farbog Boneflinger": {
+  "rating": 1.34
+ },
+ "262678: Mystic Retrieval": {
+  "rating": 3.521
+ },
+ "262679: Helvault": {
+  "rating": 3.266
+ },
+ "262680: Evolving Wilds": {
+  "rating": 3.636
+ },
+ "262681: Nearheath Stalker": {
+  "rating": 1.954
+ },
+ "262682: Sightless Ghoul": {
+  "rating": 2.037
+ },
+ "262685: Gavony Ironwright": {
+  "rating": 3.031
+ },
+ "262686: Gather the Townsfolk": {
+  "rating": 3.856
+ },
+ "262687: Favor of the Woods": {
+  "rating": 0.994
+ },
+ "262688: Village Survivors": {
+  "rating": 3.205
+ },
+ "262689: Harrowing Journey": {
+  "rating": 2.554
+ },
+ "262690: Deadly Allure": {
+  "rating": 3.649
+ },
+ "262691: Vengeful Vampire": {
+  "rating": 1.825
+ },
+ "262692: Thraben Doomsayer": {
+  "rating": 3.864
+ },
+ "262693: Markov Warlord": {
+  "rating": 2.769
+ },
+ "262694: Scorned Villager": {
+  "rating": 3.315
+ },
+ "262695: Lingering Souls": {
+  "rating": 4.006
+ },
+ "262696: Faith's Shield": {
+  "rating": 3.667
+ },
+ "262697: Falkenrath Torturer": {
+  "rating": 2.021
+ },
+ "262698: Werewolf Ransacker": {
+  "rating": 2.875
+ },
+ "262699: Ravager of the Fells": {
+  "rating": 3.881
+ },
+ "262700: Immerwolf": {
+  "rating": 3.896
+ },
+ "262701: Relentless Skaabs": {
+  "rating": 3.227
+ },
+ "262702: Break of Day": {
+  "rating": 3.07
+ },
+ "262704: Heckling Fiends": {
+  "rating": 2.291
+ },
+ "262705: Burning Oil": {
+  "rating": 3.122
+ },
+ "262706: Call to the Kindred": {
+  "rating": 3.658
+ },
+ "262828: Scorch the Fields": {
+  "rating": 1.09
+ },
+ "262829: Chant of the Skifsang": {
+  "rating": 2.696
+ },
+ "262830: Counterlash": {
+  "rating": 3.526
+ },
+ "262832: Fires of Undeath": {
+  "rating": 2.047
+ },
+ "262833: Increasing Ambition": {
+  "rating": 3.634
+ },
+ "262834: Increasing Savagery": {
+  "rating": 3.767
+ },
+ "262835: Undying Evil": {
+  "rating": 3.884
+ },
+ "262836: Wakedancer": {
+  "rating": 3.393
+ },
+ "262837: Fiend of the Shadows": {
+  "rating": 3.518
+ },
+ "262838: Thought Scour": {
+  "rating": 3.819
+ },
+ "262839: Geralf's Mindcrusher": {
+  "rating": 3.695
+ },
+ "262840: Artful Dodge": {
+  "rating": 3.675
+ },
+ "262841: Curse of Echoes": {
+  "rating": 3.558
+ },
+ "262842: Grim Flowering": {
+  "rating": 3.1
+ },
+ "262843: Gruesome Discovery": {
+  "rating": 2.817
+ },
+ "262844: Clinging Mists": {
+  "rating": 2.5
+ },
+ "262845: Bone to Ash": {
+  "rating": 2.367
+ },
+ "262846: Altar of the Lost": {
+  "rating": 2.347
+ },
+ "262847: Falkenrath Aristocrat": {
+  "rating": 3.856
+ },
+ "262848: Divination": {
+  "rating": 3
+ },
+ "262850: Vorapede": {
+  "rating": 3.927
+ },
+ "262852: Havengul Lich": {
+  "rating": 4.092
+ },
+ "262853: Flayer of the Hatebound": {
+  "rating": 3.889
+ },
+ "262854: Death's Caress": {
+  "rating": 1.37
+ },
+ "262855: Talons of Falkenrath": {
+  "rating": 1.663
+ },
+ "262856: Increasing Confusion": {
+  "rating": 3.587
+ },
+ "262857: Feed the Pack": {
+  "rating": 3.615
+ },
+ "262858: Bar the Door": {
+  "rating": 2.164
+ },
+ "262859: Midnight Guard": {
+  "rating": 3.356
+ },
+ "262860: Drogskol Reaver": {
+  "rating": 3.859
+ },
+ "262862: Black Cat": {
+  "rating": 3.923
+ },
+ "262863: Avacyn's Collar": {
+  "rating": 3.371
+ },
+ "262864: Sanctuary Cat": {
+  "rating": 3.835
+ },
+ "262865: Sudden Disappearance": {
+  "rating": 3.575
+ },
+ "262866: Predator Ooze": {
+  "rating": 3.873
+ },
+ "262867: Crushing Vines": {
+  "rating": 3.516
+ },
+ "262868: Hollowhenge Beast": {
+  "rating": 2.694
+ },
+ "262870: Increasing Devotion": {
+  "rating": 3.78
+ },
+ "262871: Fling": {
+  "rating": 4.462
+ },
+ "262872: Young Wolf": {
+  "rating": 4.056
+ },
+ "262873: Burden of Guilt": {
+  "rating": 2.969
+ },
+ "262874: Curse of Misfortunes": {
+  "rating": 3.075
+ },
+ "262875: Huntmaster of the Fells": {
+  "rating": 3.953
+ },
+ "262876: Silverclaw Griffin": {
+  "rating": 2.344
+ },
+ "262877: Skillful Lunge": {
+  "rating": 2.467
+ },
+ "270445: Thalia, Guardian of Thraben": {
+  "rating": 4.561
+ },
+ "270779: Requiem Angel": {
+  "rating": 3.631
+ },
+ "270938: Vault of the Archangel": {
+  "rating": 3.845
+ },
+ "270939: Grim Backwoods": {
+  "rating": 3.287
+ },
+ "278452: Grafdigger's Cage": {
+  "rating": 4.05
+ }
+}

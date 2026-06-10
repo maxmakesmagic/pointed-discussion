@@ -1,0 +1,689 @@
+{
+ "370348: Pallid Mycoderm": {
+  "rating": 3.929
+ },
+ "370349: Kira, Great Glass-Spinner": {
+  "rating": 4.463
+ },
+ "370350: Riftwing Cloudskate": {
+  "rating": 3.824
+ },
+ "370351: Vivid Meadow": {
+  "rating": 3.75
+ },
+ "370352: Thallid": {
+  "rating": 4.014
+ },
+ "370353: Bridge from Below": {
+  "rating": 4.47
+ },
+ "370354: Pact of Negation": {
+  "rating": 4.588
+ },
+ "370355: Vivid Creek": {
+  "rating": 3.738
+ },
+ "370356: Skyreach Manta": {
+  "rating": 3.133
+ },
+ "370357: Warren Pilferers": {
+  "rating": 2.893
+ },
+ "370358: Festering Goblin": {
+  "rating": 3.812
+ },
+ "370359: Narcomoeba": {
+  "rating": 4.535
+ },
+ "370360: Absorb Vis": {
+  "rating": 2.635
+ },
+ "370361: Veteran Armorer": {
+  "rating": 3.839
+ },
+ "370362: Tribal Flames": {
+  "rating": 3.694
+ },
+ "370363: Skeletal Vampire": {
+  "rating": 3.625
+ },
+ "370364: Tromp the Domains": {
+  "rating": 3.588
+ },
+ "370365: Riftsweeper": {
+  "rating": 3.944
+ },
+ "370366: Vedalken Shackles": {
+  "rating": 4.458
+ },
+ "370367: Fiery Fall": {
+  "rating": 2.5
+ },
+ "370368: Gifts Ungiven": {
+  "rating": 4.599
+ },
+ "370369: Traumatic Visions": {
+  "rating": 2.647
+ },
+ "370370: Auriok Salvagers": {
+  "rating": 3.557
+ },
+ "370371: Gleam of Resistance": {
+  "rating": 2.147
+ },
+ "370372: Sylvan Bounty": {
+  "rating": 1.444
+ },
+ "370373: Cenn's Enlistment": {
+  "rating": 3.062
+ },
+ "370374: Marsh Flitter": {
+  "rating": 3.367
+ },
+ "370375: Tidehollow Sculler": {
+  "rating": 4.573
+ },
+ "370376: Electrolyze": {
+  "rating": 4.115
+ },
+ "370377: Blind-Spot Giant": {
+  "rating": 3.031
+ },
+ "370378: Etherium Sculptor": {
+  "rating": 4.524
+ },
+ "370379: Knight of the Reliquary": {
+  "rating": 4.549
+ },
+ "370380: Spellstutter Sprite": {
+  "rating": 4.527
+ },
+ "370381: Death Cloud": {
+  "rating": 3.882
+ },
+ "370382: Latchkey Faerie": {
+  "rating": 3.107
+ },
+ "370383: Phthisis": {
+  "rating": 3.56
+ },
+ "370384: Extirpate": {
+  "rating": 4.5
+ },
+ "370385: Meloku the Clouded Mirror": {
+  "rating": 4.3
+ },
+ "370386: Hillcomber Giant": {
+  "rating": 2.528
+ },
+ "370387: Doubling Season": {
+  "rating": 3.6
+ },
+ "370388: Sudden Shock": {
+  "rating": 4.1
+ },
+ "370389: Vivid Marsh": {
+  "rating": 3.344
+ },
+ "370390: Vendilion Clique": {
+  "rating": 4.461
+ },
+ "370391: Drag Down": {
+  "rating": 2.2
+ },
+ "370392: Sandsower": {
+  "rating": 1.969
+ },
+ "370393: Echoing Courage": {
+  "rating": 3.5
+ },
+ "370394: Echoing Truth": {
+  "rating": 4.524
+ },
+ "370395: Petals of Insight": {
+  "rating": 3.679
+ },
+ "370396: Bound in Silence": {
+  "rating": 3.417
+ },
+ "370397: Pyromancer's Swath": {
+  "rating": 3.656
+ },
+ "370398: Life from the Loam": {
+  "rating": 4.56
+ },
+ "370399: Thundercloud Shaman": {
+  "rating": 3.533
+ },
+ "370400: Vivid Crag": {
+  "rating": 3.625
+ },
+ "370401: Hammerheim Deadeye": {
+  "rating": 1.781
+ },
+ "370402: Stingscourger": {
+  "rating": 4.017
+ },
+ "370403: Vivid Grove": {
+  "rating": 3.531
+ },
+ "370404: Tarmogoyf": {
+  "rating": 4.42
+ },
+ "370405: Progenitus": {
+  "rating": 4.444
+ },
+ "370406: Woodfall Primus": {
+  "rating": 4.074
+ },
+ "370407: Blinkmoth Nexus": {
+  "rating": 4.212
+ },
+ "370408: Path to Exile": {
+  "rating": 4.42
+ },
+ "370409: Lava Spike": {
+  "rating": 4.141
+ },
+ "370410: Faerie Macabre": {
+  "rating": 4.524
+ },
+ "370411: Chalice of the Void": {
+  "rating": 4.559
+ },
+ "370412: Reach of Branches": {
+  "rating": 3.786
+ },
+ "370413: Dark Confidant": {
+  "rating": 4.609
+ },
+ "370414: Kataki, War's Wage": {
+  "rating": 4.444
+ },
+ "370415: Ivory Giant": {
+  "rating": 3.417
+ },
+ "370416: Masked Admirers": {
+  "rating": 3.944
+ },
+ "370417: Kodama's Reach": {
+  "rating": 3.829
+ },
+ "370418: Grinning Ignus": {
+  "rating": 3.765
+ },
+ "370419: Blood Moon": {
+  "rating": 4.483
+ },
+ "370420: Grand Arbiter Augustin IV": {
+  "rating": 4.16
+ },
+ "370421: Faerie Mechanist": {
+  "rating": 3.289
+ },
+ "370422: Kithkin Greatheart": {
+  "rating": 3.321
+ },
+ "370423: Plumeveil": {
+  "rating": 3.75
+ },
+ "370424: Academy Ruins": {
+  "rating": 4.556
+ },
+ "370425: Glimmervoid": {
+  "rating": 4.5
+ },
+ "370426: Horobi's Whisper": {
+  "rating": 3.083
+ },
+ "370427: Eternal Witness": {
+  "rating": 4.534
+ },
+ "370428: Street Wraith": {
+  "rating": 4.276
+ },
+ "370429: Oona, Queen of the Fae": {
+  "rating": 4.487
+ },
+ "370430: Aethersnipe": {
+  "rating": 3.643
+ },
+ "370431: Blinding Beam": {
+  "rating": 3.458
+ },
+ "370432: Tooth and Nail": {
+  "rating": 4.198
+ },
+ "370433: Giant Dustwasp": {
+  "rating": 3.265
+ },
+ "370434: Frogmite": {
+  "rating": 4.2
+ },
+ "370435: Etched Oracle": {
+  "rating": 3.429
+ },
+ "370436: Myr Enforcer": {
+  "rating": 4.08
+ },
+ "370437: Molten Disaster": {
+  "rating": 3.452
+ },
+ "370438: Feudkiller's Verdict": {
+  "rating": 3.652
+ },
+ "370439: Cryptic Command": {
+  "rating": 4.058
+ },
+ "370440: Pestermite": {
+  "rating": 4.096
+ },
+ "370441: Sporesower Thallid": {
+  "rating": 3.981
+ },
+ "370442: Bonesplitter": {
+  "rating": 3.986
+ },
+ "370443: Arcbound Stinger": {
+  "rating": 3.447
+ },
+ "370444: Moldervine Cloak": {
+  "rating": 3.611
+ },
+ "370445: Runed Stalactite": {
+  "rating": 3.667
+ },
+ "370446: Crush Underfoot": {
+  "rating": 2.688
+ },
+ "370447: Spell Snare": {
+  "rating": 4.537
+ },
+ "370448: Paradise Mantle": {
+  "rating": 4.316
+ },
+ "370449: Flickerwisp": {
+  "rating": 3.827
+ },
+ "370450: Stinkweed Imp": {
+  "rating": 4.558
+ },
+ "370451: Thieving Sprite": {
+  "rating": 3.077
+ },
+ "370452: Thundering Giant": {
+  "rating": 2.176
+ },
+ "370453: Take Possession": {
+  "rating": 3.947
+ },
+ "370454: Brute Force": {
+  "rating": 4.016
+ },
+ "370455: Sword of Light and Shadow": {
+  "rating": 4.5
+ },
+ "370456: Dakmor Salvage": {
+  "rating": 4.387
+ },
+ "370457: Slaughter Pact": {
+  "rating": 4.312
+ },
+ "370458: Kitchen Finks": {
+  "rating": 4.198
+ },
+ "370459: Terramorphic Expanse": {
+  "rating": 3.75
+ },
+ "370460: Otherworldly Journey": {
+  "rating": 3.7
+ },
+ "370461: Squee, Goblin Nabob": {
+  "rating": 4.521
+ },
+ "370462: Executioner's Capsule": {
+  "rating": 4.273
+ },
+ "370463: Demigod of Revenge": {
+  "rating": 4.054
+ },
+ "370464: Pardic Dragon": {
+  "rating": 2.56
+ },
+ "370465: Fury Charm": {
+  "rating": 3.706
+ },
+ "370466: Figure of Destiny": {
+  "rating": 4.512
+ },
+ "370467: Tar Pitcher": {
+  "rating": 3.455
+ },
+ "370468: Rift Elemental": {
+  "rating": 3.867
+ },
+ "370469: Rift Bolt": {
+  "rating": 3.982
+ },
+ "370470: Rude Awakening": {
+  "rating": 4
+ },
+ "370471: Sword of Fire and Ice": {
+  "rating": 4.563
+ },
+ "370472: Grapeshot": {
+  "rating": 4.431
+ },
+ "370473: Dreamspoiler Witches": {
+  "rating": 2.625
+ },
+ "370474: Syphon Life": {
+  "rating": 3.3
+ },
+ "370475: Hana Kami": {
+  "rating": 3.176
+ },
+ "370476: Trygon Predator": {
+  "rating": 4.577
+ },
+ "370477: Death Rattle": {
+  "rating": 3.06
+ },
+ "370478: Raven's Crime": {
+  "rating": 4.26
+ },
+ "370479: War-Spike Changeling": {
+  "rating": 2.767
+ },
+ "370480: Empty the Warrens": {
+  "rating": 4.523
+ },
+ "370481: Peppersmoke": {
+  "rating": 3.2
+ },
+ "370482: Durkwood Baloth": {
+  "rating": 3.237
+ },
+ "370483: Stinkdrinker Daredevil": {
+  "rating": 3.857
+ },
+ "370484: Nantuko Shaman": {
+  "rating": 3.75
+ },
+ "370485: Sanctum Gargoyle": {
+  "rating": 4
+ },
+ "370486: Thallid Shell-Dweller": {
+  "rating": 3.947
+ },
+ "370487: Perilous Research": {
+  "rating": 3.935
+ },
+ "370488: Warren Weirding": {
+  "rating": 4.324
+ },
+ "370489: Avian Changeling": {
+  "rating": 3.278
+ },
+ "370490: City of Brass": {
+  "rating": 4.509
+ },
+ "370491: Errant Ephemeron": {
+  "rating": 3.421
+ },
+ "370492: Death Denied": {
+  "rating": 3.69
+ },
+ "370493: Reveillark": {
+  "rating": 4.258
+ },
+ "370494: Verdeloth the Ancient": {
+  "rating": 3.941
+ },
+ "370495: Court Homunculus": {
+  "rating": 3.467
+ },
+ "370496: Mad Auntie": {
+  "rating": 3.955
+ },
+ "370497: Epochrasite": {
+  "rating": 4.31
+ },
+ "370498: Esperzoa": {
+  "rating": 4.075
+ },
+ "370499: Facevaulter": {
+  "rating": 2.875
+ },
+ "370500: Thallid Germinator": {
+  "rating": 3.462
+ },
+ "370501: Citanul Woodreaders": {
+  "rating": 3.333
+ },
+ "370502: Kokusho, the Evening Star": {
+  "rating": 4.136
+ },
+ "370503: Sporoloth Ancient": {
+  "rating": 3.694
+ },
+ "370504: Ethersworn Canonist": {
+  "rating": 4.547
+ },
+ "370505: Cold-Eyed Selkie": {
+  "rating": 4.27
+ },
+ "370506: Reach Through Mists": {
+  "rating": 3
+ },
+ "370507: Stir the Pride": {
+  "rating": 3.143
+ },
+ "370508: Mothdust Changeling": {
+  "rating": 2.955
+ },
+ "370509: Mind Funeral": {
+  "rating": 3.833
+ },
+ "370510: Arcbound Ravager": {
+  "rating": 4.569
+ },
+ "370511: Greater Mossdog": {
+  "rating": 3.632
+ },
+ "370512: Pyrite Spellbomb": {
+  "rating": 4.53
+ },
+ "370513: Meadowboon": {
+  "rating": 3.75
+ },
+ "370514: Aether Vial": {
+  "rating": 4.525
+ },
+ "370515: Stonehewer Giant": {
+  "rating": 3.819
+ },
+ "370516: Penumbra Spider": {
+  "rating": 3.977
+ },
+ "370517: Arcbound Worker": {
+  "rating": 3.913
+ },
+ "370518: Murderous Redcap": {
+  "rating": 3.865
+ },
+ "370519: Walker of the Grove": {
+  "rating": 3.192
+ },
+ "370520: Myr Retriever": {
+  "rating": 4.522
+ },
+ "370521: Maelstrom Pulse": {
+  "rating": 4.556
+ },
+ "370522: Glen Elendra Archmage": {
+  "rating": 4.536
+ },
+ "370523: Arcbound Wanderer": {
+  "rating": 2.844
+ },
+ "370524: Aether Spellbomb": {
+  "rating": 4.347
+ },
+ "370525: Thirst for Knowledge": {
+  "rating": 4.554
+ },
+ "370526: Search for Tomorrow": {
+  "rating": 4.088
+ },
+ "370527: Dispeller's Capsule": {
+  "rating": 3.87
+ },
+ "370528: Lightning Helix": {
+  "rating": 4.402
+ },
+ "370529: Logic Knot": {
+  "rating": 3.794
+ },
+ "370530: Earwig Squad": {
+  "rating": 4.238
+ },
+ "370531: Careful Consideration": {
+  "rating": 3.675
+ },
+ "370532: Worm Harvest": {
+  "rating": 3.87
+ },
+ "370533: Auntie's Snitch": {
+  "rating": 3.029
+ },
+ "370534: Kiki-Jiki, Mirror Breaker": {
+  "rating": 4.373
+ },
+ "370535: Mulldrifter": {
+  "rating": 4.205
+ },
+ "370536: Saltfield Recluse": {
+  "rating": 2.286
+ },
+ "370537: Dragonstorm": {
+  "rating": 4.268
+ },
+ "370538: Dampen Thought": {
+  "rating": 3.156
+ },
+ "370539: Tombstalker": {
+  "rating": 4.266
+ },
+ "370540: Peer Through Depths": {
+  "rating": 3.654
+ },
+ "370541: Incremental Growth": {
+  "rating": 3.6
+ },
+ "370542: Keiga, the Tide Star": {
+  "rating": 4.408
+ },
+ "370543: Adarkar Valkyrie": {
+  "rating": 4.018
+ },
+ "370544: Countryside Crusher": {
+  "rating": 4.013
+ },
+ "370545: Angel's Grace": {
+  "rating": 4.297
+ },
+ "370546: Desperate Ritual": {
+  "rating": 4.325
+ },
+ "370547: Mogg War Marshal": {
+  "rating": 4.3
+ },
+ "370548: Jhoira of the Ghitu": {
+  "rating": 3.922
+ },
+ "370549: Engineered Explosives": {
+  "rating": 4.227
+ },
+ "370550: Vedalken Dismisser": {
+  "rating": 2.342
+ },
+ "370551: Elspeth, Knight-Errant": {
+  "rating": 4.288
+ },
+ "370552: Glacial Ray": {
+  "rating": 3.944
+ },
+ "370553: Cloudgoat Ranger": {
+  "rating": 3.763
+ },
+ "370554: Test of Faith": {
+  "rating": 3.94
+ },
+ "370555: Terashi's Grasp": {
+  "rating": 3.867
+ },
+ "370556: Relic of Progenitus": {
+  "rating": 4.514
+ },
+ "370557: Krosan Grip": {
+  "rating": 4.542
+ },
+ "370558: Torrent of Stone": {
+  "rating": 2.292
+ },
+ "370559: Ryusei, the Falling Star": {
+  "rating": 3.65
+ },
+ "370560: Greater Gargadon": {
+  "rating": 3.963
+ },
+ "370561: Imperiosaur": {
+  "rating": 3.812
+ },
+ "370562: Lotus Bloom": {
+  "rating": 4.096
+ },
+ "370563: Summoner's Pact": {
+  "rating": 4.5
+ },
+ "370564: Jugan, the Rising Star": {
+  "rating": 3.717
+ },
+ "370565: Divinity of Pride": {
+  "rating": 3.782
+ },
+ "370566: Sarkhan Vol": {
+  "rating": 4
+ },
+ "370567: Blightspeaker": {
+  "rating": 3.824
+ },
+ "370568: Manamorphose": {
+  "rating": 4.561
+ },
+ "370569: Deepcavern Imp": {
+  "rating": 3.119
+ },
+ "370570: Rathi Trapper": {
+  "rating": 3.656
+ },
+ "370571: Amrou Scout": {
+  "rating": 3.55
+ },
+ "370572: Scion of Oona": {
+  "rating": 4.433
+ },
+ "370573: Shrapnel Blast": {
+  "rating": 4.02
+ },
+ "370574: Yosei, the Morning Star": {
+  "rating": 4.057
+ },
+ "370575: Erratic Mutation": {
+  "rating": 2.357
+ },
+ "370576: Amrou Seekers": {
+  "rating": 3.294
+ }
+}

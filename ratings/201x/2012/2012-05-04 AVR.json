@@ -1,0 +1,734 @@
+{
+ "239959: Thatcher Revolt": {
+  "rating": 3.75
+ },
+ "239960: Renegade Demon": {
+  "rating": 2.138
+ },
+ "239961: Avacyn, Angel of Hope": {
+  "rating": 4.067
+ },
+ "239962: Triumph of Ferocity": {
+  "rating": 3.676
+ },
+ "239963: Driver of the Dead": {
+  "rating": 3
+ },
+ "239964: Borderland Ranger": {
+  "rating": 3.557
+ },
+ "239965: Bladed Bracers": {
+  "rating": 2.667
+ },
+ "239966: Mental Agony": {
+  "rating": 2.288
+ },
+ "239967: Spectral Prison": {
+  "rating": 2
+ },
+ "239968: Elgaud Shieldmate": {
+  "rating": 3.841
+ },
+ "239970: Ghoulflesh": {
+  "rating": 1.484
+ },
+ "239971: Corpse Traders": {
+  "rating": 2.552
+ },
+ "239974: Unhallowed Pact": {
+  "rating": 3.5
+ },
+ "239975: Stonewright": {
+  "rating": 3.473
+ },
+ "239977: Defy Death": {
+  "rating": 3.79
+ },
+ "239978: Nettle Swine": {
+  "rating": 2.065
+ },
+ "239979: Wingcrafter": {
+  "rating": 3.858
+ },
+ "239980: Emancipation Angel": {
+  "rating": 3.898
+ },
+ "239982: Gryff Vanguard": {
+  "rating": 2.805
+ },
+ "239983: Bone Splinters": {
+  "rating": 3.012
+ },
+ "239984: Scalding Devil": {
+  "rating": 1.897
+ },
+ "239985: Thunderous Wrath": {
+  "rating": 3.899
+ },
+ "239986: Spirit Away": {
+  "rating": 2.929
+ },
+ "239987: Riot Ringleader": {
+  "rating": 2.562
+ },
+ "239989: Tormentor's Trident": {
+  "rating": 1.671
+ },
+ "239990: Builder's Blessing": {
+  "rating": 2.229
+ },
+ "239993: Angel of Glory's Rise": {
+  "rating": 3.576
+ },
+ "239994: Midnight Duelist": {
+  "rating": 3.138
+ },
+ "239995: Griselbrand": {
+  "rating": 4.311
+ },
+ "239998: Goldnight Redeemer": {
+  "rating": 3.044
+ },
+ "240001: Thunderbolt": {
+  "rating": 3.915
+ },
+ "240002: Guise of Fire": {
+  "rating": 1.5
+ },
+ "240003: Ghostform": {
+  "rating": 2.851
+ },
+ "240004: Sheltering Word": {
+  "rating": 3.39
+ },
+ "240005: Latch Seeker": {
+  "rating": 3.871
+ },
+ "240006: Cloudshift": {
+  "rating": 3.955
+ },
+ "240007: Dread Slaver": {
+  "rating": 3.413
+ },
+ "240008: Dreadwaters": {
+  "rating": 2.379
+ },
+ "240009: Grounded": {
+  "rating": 1.028
+ },
+ "240010: Barter in Blood": {
+  "rating": 3.764
+ },
+ "240012: Maalfeld Twins": {
+  "rating": 3.267
+ },
+ "240013: Pillar of Flame": {
+  "rating": 3.825
+ },
+ "240014: Banners Raised": {
+  "rating": 1.88
+ },
+ "240015: Riders of Gavony": {
+  "rating": 3.797
+ },
+ "240017: Abundant Growth": {
+  "rating": 3.796
+ },
+ "240019: Zealous Strike": {
+  "rating": 2.69
+ },
+ "240020: Searchlight Geist": {
+  "rating": 2.25
+ },
+ "240021: Geist Snatch": {
+  "rating": 2.321
+ },
+ "240022: Deadeye Navigator": {
+  "rating": 4.039
+ },
+ "240023: Leap of Faith": {
+  "rating": 1.315
+ },
+ "240024: Geist Trappers": {
+  "rating": 1.938
+ },
+ "240025: Holy Justiciar": {
+  "rating": 1.562
+ },
+ "240027: Craterhoof Behemoth": {
+  "rating": 3.971
+ },
+ "240028: Somberwald Vigilante": {
+  "rating": 2.838
+ },
+ "240029: Goldnight Commander": {
+  "rating": 3.771
+ },
+ "240030: Conjurer's Closet": {
+  "rating": 3.955
+ },
+ "240031: Alchemist's Apprentice": {
+  "rating": 2.697
+ },
+ "240032: Vigilante Justice": {
+  "rating": 2.974
+ },
+ "240033: Sigarda, Host of Herons": {
+  "rating": 3.977
+ },
+ "240034: Gisela, Blade of Goldnight": {
+  "rating": 4.159
+ },
+ "240035: Scrapskin Drake": {
+  "rating": 2.216
+ },
+ "240038: Spectral Gateguards": {
+  "rating": 2.172
+ },
+ "240039: Homicidal Seclusion": {
+  "rating": 3.097
+ },
+ "240040: Blessings of Nature": {
+  "rating": 3.681
+ },
+ "240042: Crippling Chill": {
+  "rating": 3.022
+ },
+ "240044: Angel's Mercy": {
+  "rating": 1.352
+ },
+ "240045: Nightshade Peddler": {
+  "rating": 3.549
+ },
+ "240048: Timberland Guide": {
+  "rating": 2.764
+ },
+ "240049: Joint Assault": {
+  "rating": 2.951
+ },
+ "240050: Outwit": {
+  "rating": 2.709
+ },
+ "240051: Wandering Wolf": {
+  "rating": 3.39
+ },
+ "240052: Otherworld Atlas": {
+  "rating": 2.975
+ },
+ "240057: Hunted Ghoul": {
+  "rating": 2.535
+ },
+ "240058: Rotcrown Ghoul": {
+  "rating": 1.962
+ },
+ "240059: Angel's Tomb": {
+  "rating": 3.096
+ },
+ "240060: Demolish": {
+  "rating": 2.691
+ },
+ "240062: Malignus": {
+  "rating": 3.806
+ },
+ "240063: Second Guess": {
+  "rating": 2.62
+ },
+ "240064: Trusted Forcemage": {
+  "rating": 2.986
+ },
+ "240065: Moonsilver Spear": {
+  "rating": 3.891
+ },
+ "240066: Terrifying Presence": {
+  "rating": 3.356
+ },
+ "240069: Stern Mentor": {
+  "rating": 2.515
+ },
+ "240070: Tamiyo, the Moon Sage": {
+  "rating": 3.952
+ },
+ "240072: Divine Deflection": {
+  "rating": 3.88
+ },
+ "240073: Hanweir Lancer": {
+  "rating": 3.056
+ },
+ "240074: Angelic Armaments": {
+  "rating": 2.352
+ },
+ "240076: Natural End": {
+  "rating": 2.895
+ },
+ "240078: Seraph of Dawn": {
+  "rating": 3.878
+ },
+ "240080: Fettergeist": {
+  "rating": 3.264
+ },
+ "240081: Call to Serve": {
+  "rating": 2.8
+ },
+ "240082: Zealous Conscripts": {
+  "rating": 3.894
+ },
+ "240086: Lightning Prowess": {
+  "rating": 2.735
+ },
+ "240087: Defang": {
+  "rating": 2.103
+ },
+ "240088: Druid's Familiar": {
+  "rating": 3.381
+ },
+ "240090: Wolfir Silverheart": {
+  "rating": 4.053
+ },
+ "240093: Kruin Striker": {
+  "rating": 3.058
+ },
+ "240094: Havengul Skaab": {
+  "rating": 1.57
+ },
+ "240095: Mass Appeal": {
+  "rating": 3.489
+ },
+ "240096: Restoration Angel": {
+  "rating": 4.453
+ },
+ "240097: Uncanny Speed": {
+  "rating": 2.173
+ },
+ "240098: Wildwood Geist": {
+  "rating": 1.586
+ },
+ "240099: Thraben Valiant": {
+  "rating": 2.56
+ },
+ "240101: Ghostly Flicker": {
+  "rating": 3.861
+ },
+ "240102: Howlgeist": {
+  "rating": 3.059
+ },
+ "240103: Pathbreaker Wurm": {
+  "rating": 3.21
+ },
+ "240104: Crypt Creeper": {
+  "rating": 3.028
+ },
+ "240105: Scroll of Avacyn": {
+  "rating": 2.962
+ },
+ "240107: Mad Prophet": {
+  "rating": 2.826
+ },
+ "240108: Farbog Explorer": {
+  "rating": 2.554
+ },
+ "240114: Kessig Malcontents": {
+  "rating": 3.477
+ },
+ "240119: Descent into Madness": {
+  "rating": 3.125
+ },
+ "240120: Angel of Jubilation": {
+  "rating": 3.876
+ },
+ "240122: Fervent Cathar": {
+  "rating": 2.564
+ },
+ "240124: Cursebreak": {
+  "rating": 2.716
+ },
+ "240125: Evernight Shade": {
+  "rating": 3.087
+ },
+ "240126: Rite of Ruin": {
+  "rating": 2.969
+ },
+ "240130: Vanishment": {
+  "rating": 3.021
+ },
+ "240131: Favorable Winds": {
+  "rating": 3.896
+ },
+ "240132: Nearheath Pilgrim": {
+  "rating": 3.704
+ },
+ "240133: Temporal Mastery": {
+  "rating": 4.087
+ },
+ "240134: Exquisite Blood": {
+  "rating": 3.839
+ },
+ "240135: Druids' Repository": {
+  "rating": 3.721
+ },
+ "240136: Cathedral Sanctifier": {
+  "rating": 3.5
+ },
+ "240137: Diregraf Escort": {
+  "rating": 1.527
+ },
+ "240138: Dual Casting": {
+  "rating": 3.729
+ },
+ "240141: Peel from Reality": {
+  "rating": 3.408
+ },
+ "240146: Hound of Griselbrand": {
+  "rating": 3.891
+ },
+ "240147: Desolate Lighthouse": {
+  "rating": 4.021
+ },
+ "240149: Vessel of Endless Rest": {
+  "rating": 3.511
+ },
+ "240150: Soulcage Fiend": {
+  "rating": 3.064
+ },
+ "240152: Havengul Vampire": {
+  "rating": 3.754
+ },
+ "240153: Dark Impostor": {
+  "rating": 3.848
+ },
+ "240154: Ulvenwald Tracker": {
+  "rating": 3.959
+ },
+ "240155: Silverblade Paladin": {
+  "rating": 3.945
+ },
+ "240156: Banishing Stroke": {
+  "rating": 3.526
+ },
+ "240157: Yew Spirit": {
+  "rating": 2.934
+ },
+ "240158: Primal Surge": {
+  "rating": 3.658
+ },
+ "240159: Nephalia Smuggler": {
+  "rating": 2.985
+ },
+ "240161: Herald of War": {
+  "rating": 3.792
+ },
+ "240162: Fleeting Distraction": {
+  "rating": 1.698
+ },
+ "240163: Marrow Bats": {
+  "rating": 1.478
+ },
+ "240165: Gloom Surgeon": {
+  "rating": 2.973
+ },
+ "240166: Demonlord of Ashmouth": {
+  "rating": 3.815
+ },
+ "240167: Gang of Devils": {
+  "rating": 2.236
+ },
+ "240169: Rain of Thorns": {
+  "rating": 3.092
+ },
+ "240170: Slayers' Stronghold": {
+  "rating": 3.875
+ },
+ "240171: Undead Executioner": {
+  "rating": 2.328
+ },
+ "240173: Voice of the Provinces": {
+  "rating": 1.643
+ },
+ "240175: Seraph Sanctuary": {
+  "rating": 2.92
+ },
+ "240177: Scroll of Griselbrand": {
+  "rating": 3.134
+ },
+ "240178: Blood Artist": {
+  "rating": 3.955
+ },
+ "240179: Soul of the Harvest": {
+  "rating": 3.92
+ },
+ "240180: Killing Wave": {
+  "rating": 3.492
+ },
+ "240183: Rush of Blood": {
+  "rating": 2.946
+ },
+ "240185: Righteous Blow": {
+  "rating": 3.027
+ },
+ "240187: Necrobite": {
+  "rating": 3.104
+ },
+ "240188: Raging Poltergeist": {
+  "rating": 1.042
+ },
+ "240194: Alchemist's Refuge": {
+  "rating": 4.038
+ },
+ "240196: Bloodflow Connoisseur": {
+  "rating": 2.971
+ },
+ "240198: Vanguard's Shield": {
+  "rating": 1.939
+ },
+ "240199: Harvester of Souls": {
+  "rating": 3.884
+ },
+ "240201: Heirs of Stromkirk": {
+  "rating": 2.947
+ },
+ "240202: Dangerous Wager": {
+  "rating": 3.967
+ },
+ "240203: Tandem Lookout": {
+  "rating": 3.81
+ },
+ "240204: Vorstclaw": {
+  "rating": 3.339
+ },
+ "240205: Archangel": {
+  "rating": 3.022
+ },
+ "240207: Death Wind": {
+  "rating": 2.806
+ },
+ "240208: Bruna, Light of Alabaster": {
+  "rating": 3.967
+ },
+ "240209: Flowering Lumberknot": {
+  "rating": 1.989
+ },
+ "240211: Galvanic Alchemist": {
+  "rating": 2.889
+ },
+ "247426: Entreat the Angels": {
+  "rating": 3.95
+ },
+ "262674: Gallows at Willow Hill": {
+  "rating": 2.67
+ },
+ "262703: Terminus": {
+  "rating": 4.055
+ },
+ "262849: Moorland Inquisitor": {
+  "rating": 2.45
+ },
+ "269622: Mountain": {
+  "rating": 4.194
+ },
+ "269625: Island": {
+  "rating": 4.375
+ },
+ "269627: Swamp": {
+  "rating": 3.964
+ },
+ "269629: Forest": {
+  "rating": 4.214
+ },
+ "269630: Mountain": {
+  "rating": 4.067
+ },
+ "269631: Swamp": {
+  "rating": 4.239
+ },
+ "269632: Mountain": {
+  "rating": 3.684
+ },
+ "269633: Island": {
+  "rating": 4.208
+ },
+ "269634: Plains": {
+  "rating": 4.219
+ },
+ "269635: Forest": {
+  "rating": 4.283
+ },
+ "269636: Forest": {
+  "rating": 3.92
+ },
+ "269637: Plains": {
+  "rating": 4.031
+ },
+ "269638: Plains": {
+  "rating": 4.059
+ },
+ "269639: Island": {
+  "rating": 4
+ },
+ "269641: Swamp": {
+  "rating": 4
+ },
+ "270987: Eaten by Spiders": {
+  "rating": 3.095
+ },
+ "270988: Amass the Components": {
+  "rating": 2.653
+ },
+ "270993: Arcane Melee": {
+  "rating": 2.736
+ },
+ "270996: Battle Hymn": {
+  "rating": 3.456
+ },
+ "271090: Snare the Skies": {
+  "rating": 1.757
+ },
+ "271092: Demonic Taskmaster": {
+  "rating": 3.724
+ },
+ "271093: Lair Delve": {
+  "rating": 1.743
+ },
+ "271095: Bonfire of the Damned": {
+  "rating": 4
+ },
+ "271113: Treacherous Pit-Dweller": {
+  "rating": 3.11
+ },
+ "271114: Essence Harvest": {
+  "rating": 3.633
+ },
+ "271115: Butcher Ghoul": {
+  "rating": 3.038
+ },
+ "271117: Infinite Reflection": {
+  "rating": 3.811
+ },
+ "271119: Lightning Mauler": {
+  "rating": 3.861
+ },
+ "271120: Burn at the Stake": {
+  "rating": 3.77
+ },
+ "271121: Mist Raven": {
+  "rating": 3.75
+ },
+ "271122: Predator's Gambit": {
+  "rating": 3.052
+ },
+ "275706: Lone Revenant": {
+  "rating": 3.712
+ },
+ "275707: Aggravate": {
+  "rating": 2.25
+ },
+ "275711: Somberwald Sage": {
+  "rating": 3.912
+ },
+ "275712: Revenge of the Hunted": {
+  "rating": 3.825
+ },
+ "275713: Captain of the Mists": {
+  "rating": 3.104
+ },
+ "275717: Lunar Mystic": {
+  "rating": 3.57
+ },
+ "275718: Stolen Goods": {
+  "rating": 3.296
+ },
+ "275720: Devastation Tide": {
+  "rating": 3.949
+ },
+ "276194: Tyrant of Discord": {
+  "rating": 3.688
+ },
+ "276195: Devout Chaplain": {
+  "rating": 3.351
+ },
+ "276197: Polluted Dead": {
+  "rating": 2.859
+ },
+ "276198: Cathars' Crusade": {
+  "rating": 3.883
+ },
+ "276199: Wild Defiance": {
+  "rating": 3.775
+ },
+ "276497: Tibalt, the Fiend-Blooded": {
+  "rating": 3.028
+ },
+ "276498: Descendants' Path": {
+  "rating": 3.854
+ },
+ "276499: Falkenrath Exterminator": {
+  "rating": 3.426
+ },
+ "276501: Wolfir Avenger": {
+  "rating": 3.921
+ },
+ "276502: Triumph of Cruelty": {
+  "rating": 2.768
+ },
+ "276504: Misthollow Griffin": {
+  "rating": 3.818
+ },
+ "278058: Cavern of Souls": {
+  "rating": 4.305
+ },
+ "278059: Moonlight Geist": {
+  "rating": 2.062
+ },
+ "278060: Demonic Rising": {
+  "rating": 3.081
+ },
+ "278063: Archwing Dragon": {
+  "rating": 3.832
+ },
+ "278064: Into the Void": {
+  "rating": 3.029
+ },
+ "278065: Angelic Wall": {
+  "rating": 3.538
+ },
+ "278066: Midvast Protector": {
+  "rating": 2.06
+ },
+ "278252: Commander's Authority": {
+  "rating": 2.048
+ },
+ "278254: Gloomwidow": {
+  "rating": 2.667
+ },
+ "278255: Bower Passage": {
+  "rating": 3.609
+ },
+ "278256: Reforge the Soul": {
+  "rating": 4.1
+ },
+ "278257: Vexing Devil": {
+  "rating": 4.083
+ },
+ "278260: Ghostly Touch": {
+  "rating": 3.071
+ },
+ "279607: Narstad Scrapper": {
+  "rating": 1.25
+ },
+ "279608: Champion of Lambholt": {
+  "rating": 3.922
+ },
+ "279609: Human Frailty": {
+  "rating": 2.939
+ },
+ "279611: Grave Exchange": {
+  "rating": 1.906
+ },
+ "279612: Appetite for Brains": {
+  "rating": 3.25
+ },
+ "279613: Haunted Guardian": {
+  "rating": 3.105
+ },
+ "279615: Malicious Intent": {
+  "rating": 1.211
+ }
+}

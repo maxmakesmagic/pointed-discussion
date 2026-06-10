@@ -1,0 +1,440 @@
+{
+ "8827: Root Greevil": {
+  "rating": 3.741
+ },
+ "8902: Goblin Game": {
+  "rating": 4.269
+ },
+ "9690: Destructive Flow": {
+  "rating": 3.282
+ },
+ "10742: Lord of the Undead": {
+  "rating": 4.3
+ },
+ "12691: Radiant Kavu": {
+  "rating": 3.926
+ },
+ "15137: Slay": {
+  "rating": 2.868
+ },
+ "15144: Dralnu's Pet": {
+  "rating": 3.786
+ },
+ "19141: Guard Dogs": {
+  "rating": 2.659
+ },
+ "19149: Ancient Spider": {
+  "rating": 3.841
+ },
+ "19358: Keldon Mantle": {
+  "rating": 3.721
+ },
+ "21276: Escape Routes": {
+  "rating": 2.885
+ },
+ "21305: Sunken Hope": {
+  "rating": 3.956
+ },
+ "21323: Keldon Twilight": {
+  "rating": 3.097
+ },
+ "22025: Slingshot Goblin": {
+  "rating": 2.673
+ },
+ "22298: Multani's Harmony": {
+  "rating": 3.803
+ },
+ "22962: Samite Elder": {
+  "rating": 3.761
+ },
+ "22980: Hunting Drake": {
+  "rating": 2.948
+ },
+ "23051: Doomsday Specter": {
+  "rating": 4.044
+ },
+ "23113: Pygmy Kavu": {
+  "rating": 3.074
+ },
+ "25614: Ertai, the Corrupted": {
+  "rating": 3.953
+ },
+ "25615: Sunscape Familiar": {
+  "rating": 4.261
+ },
+ "25616: Stormscape Familiar": {
+  "rating": 4.235
+ },
+ "25617: Thunderscape Familiar": {
+  "rating": 4.3
+ },
+ "25618: Thornscape Familiar": {
+  "rating": 4.098
+ },
+ "25646: Eladamri's Call": {
+  "rating": 4.284
+ },
+ "25693: Nightscape Familiar": {
+  "rating": 4.301
+ },
+ "25797: Draco": {
+  "rating": 4.254
+ },
+ "25822: Daring Leap": {
+  "rating": 2.345
+ },
+ "25862: Dromar's Charm": {
+  "rating": 4.277
+ },
+ "25863: Crosis's Charm": {
+  "rating": 4.161
+ },
+ "25864: Darigaaz's Charm": {
+  "rating": 4
+ },
+ "25865: Rith's Charm": {
+  "rating": 3.974
+ },
+ "25866: Treva's Charm": {
+  "rating": 3.639
+ },
+ "25869: Stratadon": {
+  "rating": 3.25
+ },
+ "25870: Malicious Advice": {
+  "rating": 1.57
+ },
+ "25871: Terminate": {
+  "rating": 4.333
+ },
+ "25872: Hull Breach": {
+  "rating": 4.333
+ },
+ "25873: Gerrard's Command": {
+  "rating": 4.069
+ },
+ "25880: Star Compass": {
+  "rating": 3.413
+ },
+ "25886: Planeswalker's Mirth": {
+  "rating": 2.902
+ },
+ "25887: Planeswalker's Mischief": {
+  "rating": 3.794
+ },
+ "25888: Planeswalker's Scorn": {
+  "rating": 3.446
+ },
+ "25889: Planeswalker's Fury": {
+  "rating": 3.924
+ },
+ "25890: Planeswalker's Favor": {
+  "rating": 3.327
+ },
+ "25893: Forsaken City": {
+  "rating": 2.917
+ },
+ "25899: Cloud Cover": {
+  "rating": 4.304
+ },
+ "25900: Singe": {
+  "rating": 3.438
+ },
+ "25912: Sunscape Battlemage": {
+  "rating": 3.81
+ },
+ "25913: Stormscape Battlemage": {
+  "rating": 3.576
+ },
+ "25914: Nightscape Battlemage": {
+  "rating": 3.821
+ },
+ "25915: Thunderscape Battlemage": {
+  "rating": 3.796
+ },
+ "25916: Thornscape Battlemage": {
+  "rating": 3.75
+ },
+ "25918: Urza's Guilt": {
+  "rating": 3.63
+ },
+ "25924: Shivan Wurm": {
+  "rating": 4.321
+ },
+ "25925: Silver Drake": {
+  "rating": 4.035
+ },
+ "25926: Cavern Harpy": {
+  "rating": 4.106
+ },
+ "25927: Lava Zombie": {
+  "rating": 3.757
+ },
+ "25928: Horned Kavu": {
+  "rating": 4.262
+ },
+ "25929: Steel Leaf Paladin": {
+  "rating": 1.798
+ },
+ "25931: Exotic Disease": {
+  "rating": 2.171
+ },
+ "25932: Dromar's Cavern": {
+  "rating": 3.571
+ },
+ "25933: Sawtooth Loon": {
+  "rating": 3.176
+ },
+ "25934: Marsh Crocodile": {
+  "rating": 3.649
+ },
+ "25935: Sparkcaster": {
+  "rating": 3.817
+ },
+ "25936: Crosis's Catacombs": {
+  "rating": 4.122
+ },
+ "25937: Razing Snidd": {
+  "rating": 1.649
+ },
+ "25938: Darigaaz's Caldera": {
+  "rating": 4.056
+ },
+ "25939: Rith's Grove": {
+  "rating": 3.953
+ },
+ "25940: Treva's Ruins": {
+  "rating": 4.176
+ },
+ "25941: Pollen Remedy": {
+  "rating": 3
+ },
+ "25942: Rushing River": {
+  "rating": 3.5
+ },
+ "25943: Bog Down": {
+  "rating": 3.269
+ },
+ "25944: Magma Burst": {
+  "rating": 2.828
+ },
+ "25945: Falling Timber": {
+  "rating": 1.75
+ },
+ "25954: Sinister Strength": {
+  "rating": 3.888
+ },
+ "25979: Meteor Crater": {
+  "rating": 4.105
+ },
+ "25980: Terminal Moraine": {
+  "rating": 3.347
+ },
+ "26260: Implode": {
+  "rating": 3.338
+ },
+ "26262: Flametongue Kavu": {
+  "rating": 4.346
+ },
+ "26263: Honorable Scout": {
+  "rating": 3.638
+ },
+ "26266: Maggot Carrier": {
+  "rating": 3.258
+ },
+ "26268: Kavu Recluse": {
+  "rating": 3.286
+ },
+ "26269: Mogg Sentry": {
+  "rating": 3.975
+ },
+ "26271: Samite Pilgrim": {
+  "rating": 3.261
+ },
+ "26275: Mogg Jailer": {
+  "rating": 2.64
+ },
+ "26277: March of Souls": {
+  "rating": 4.019
+ },
+ "26280: Phyrexian Bloodstock": {
+  "rating": 2.882
+ },
+ "26281: Phyrexian Tyranny": {
+  "rating": 3.755
+ },
+ "26284: Aurora Griffin": {
+  "rating": 2.242
+ },
+ "26285: Disciple of Kangee": {
+  "rating": 2.783
+ },
+ "26286: Quirion Dryad": {
+  "rating": 4.351
+ },
+ "26288: Strafe": {
+  "rating": 3.052
+ },
+ "26290: Shifting Sky": {
+  "rating": 3.79
+ },
+ "26292: Hobble": {
+  "rating": 3.397
+ },
+ "26348: Quirion Explorer": {
+  "rating": 3.481
+ },
+ "26360: Arctic Merfolk": {
+  "rating": 2.814
+ },
+ "26362: Sea Snidd": {
+  "rating": 2.444
+ },
+ "26363: Mire Kavu": {
+  "rating": 2.706
+ },
+ "26368: Volcano Imp": {
+  "rating": 1.783
+ },
+ "26377: Stone Kavu": {
+  "rating": 2.84
+ },
+ "26381: Mana Cylix": {
+  "rating": 3.244
+ },
+ "26382: Aura Blast": {
+  "rating": 3.274
+ },
+ "26383: Allied Strategies": {
+  "rating": 3.357
+ },
+ "26396: Primal Growth": {
+  "rating": 3.819
+ },
+ "26397: Magnigoth Treefolk": {
+  "rating": 3.657
+ },
+ "26402: Skyshroud Blessing": {
+  "rating": 3.204
+ },
+ "26403: Surprise Deployment": {
+  "rating": 3.393
+ },
+ "26407: Sisay's Ingenuity": {
+  "rating": 3.88
+ },
+ "26408: Tahngarth, Talruum Hero": {
+  "rating": 4.128
+ },
+ "26409: Amphibious Kavu": {
+  "rating": 2.729
+ },
+ "26410: Natural Emergence": {
+  "rating": 4.212
+ },
+ "26411: Gaea's Herald": {
+  "rating": 3.782
+ },
+ "26412: Nemata, Grove Guardian": {
+  "rating": 4
+ },
+ "26414: Dark Suspicions": {
+  "rating": 3.786
+ },
+ "26415: Insolence": {
+  "rating": 2.357
+ },
+ "26417: Voice of All": {
+  "rating": 4.244
+ },
+ "26420: Heroic Defiance": {
+  "rating": 2.568
+ },
+ "26422: Diabolic Intent": {
+  "rating": 4.299
+ },
+ "26423: Dominaria's Judgment": {
+  "rating": 3.516
+ },
+ "26437: Caldera Kavu": {
+  "rating": 3
+ },
+ "26477: Phyrexian Scuta": {
+  "rating": 3.845
+ },
+ "26478: Noxious Vapors": {
+  "rating": 4.094
+ },
+ "26479: Fleetfoot Panther": {
+  "rating": 4.167
+ },
+ "26480: Skyship Weatherlight": {
+  "rating": 3.886
+ },
+ "26590: Ertai's Trickery": {
+  "rating": 1.725
+ },
+ "26591: Meddling Mage": {
+  "rating": 4.616
+ },
+ "26781: Sleeping Potion": {
+  "rating": 3.188
+ },
+ "26782: Death Bomb": {
+  "rating": 1.82
+ },
+ "26833: Lashknife Barrier": {
+  "rating": 3.708
+ },
+ "26835: Planar Overlay": {
+  "rating": 3.023
+ },
+ "26836: Warped Devotion": {
+  "rating": 4.12
+ },
+ "26837: Deadapult": {
+  "rating": 4.139
+ },
+ "26838: Gaea's Might": {
+  "rating": 3.543
+ },
+ "26839: Mirrorwood Treefolk": {
+  "rating": 3.359
+ },
+ "26840: Dralnu's Crusade": {
+  "rating": 4.043
+ },
+ "26851: Waterspout Elemental": {
+  "rating": 3.083
+ },
+ "26852: Orim's Chant": {
+  "rating": 4.602
+ },
+ "27189: Gainsay": {
+  "rating": 2.5
+ },
+ "27229: Shriek of Dread": {
+  "rating": 2.017
+ },
+ "27589: Morgue Toad": {
+  "rating": 3.459
+ },
+ "27613: Alpha Kavu": {
+  "rating": 2.329
+ },
+ "27634: Questing Phelddagrif": {
+  "rating": 4.243
+ },
+ "27714: Confound": {
+  "rating": 4.07
+ },
+ "29291: Tahngarth, Talruum Hero": {
+  "rating": 4.071
+ },
+ "29292: Ertai, the Corrupted": {
+  "rating": 3.942
+ },
+ "29293: Skyship Weatherlight": {
+  "rating": 3.85
+ }
+}

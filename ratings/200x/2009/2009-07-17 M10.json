@@ -1,0 +1,749 @@
+{
+ "189875: Solemn Offering": {
+  "rating": 3.588
+ },
+ "189876: Fabricate": {
+  "rating": 4.311
+ },
+ "189877: White Knight": {
+  "rating": 4.361
+ },
+ "189878: Llanowar Elves": {
+  "rating": 4.387
+ },
+ "189879: Giant Growth": {
+  "rating": 4.367
+ },
+ "189880: Acidic Slime": {
+  "rating": 3.835
+ },
+ "189882: Enormous Baloth": {
+  "rating": 2.939
+ },
+ "189883: Centaur Courser": {
+  "rating": 2.781
+ },
+ "189884: Air Elemental": {
+  "rating": 3.355
+ },
+ "189885: Xathrid Demon": {
+  "rating": 4.253
+ },
+ "189887: Rampant Growth": {
+  "rating": 4.086
+ },
+ "189888: Runeclaw Bear": {
+  "rating": 1.936
+ },
+ "189890: Emerald Oryx": {
+  "rating": 1.55
+ },
+ "189891: Razorfoot Griffin": {
+  "rating": 2.7
+ },
+ "189892: Phantom Warrior": {
+  "rating": 4.061
+ },
+ "189893: Consume Spirit": {
+  "rating": 3.719
+ },
+ "189894: Alluring Siren": {
+  "rating": 3.394
+ },
+ "189895: Giant Spider": {
+  "rating": 3.39
+ },
+ "189896: Naturalize": {
+  "rating": 4.217
+ },
+ "189897: Illusionary Servant": {
+  "rating": 3.617
+ },
+ "189898: Cudgel Troll": {
+  "rating": 3.862
+ },
+ "189899: Stampeding Rhino": {
+  "rating": 3
+ },
+ "189900: Prized Unicorn": {
+  "rating": 3.398
+ },
+ "189901: Entangling Vines": {
+  "rating": 2.025
+ },
+ "189902: Elite Vanguard": {
+  "rating": 4.286
+ },
+ "189903: Craw Wurm": {
+  "rating": 2.336
+ },
+ "189904: Megrim": {
+  "rating": 3.925
+ },
+ "189905: Borderland Ranger": {
+  "rating": 3.481
+ },
+ "189906: Overrun": {
+  "rating": 4.284
+ },
+ "189907: Awakener Druid": {
+  "rating": 3.49
+ },
+ "189908: Howl of the Night Pack": {
+  "rating": 3.833
+ },
+ "189909: Mold Adder": {
+  "rating": 3.769
+ },
+ "189910: Telepathy": {
+  "rating": 4.227
+ },
+ "189912: Divine Verdict": {
+  "rating": 2.3
+ },
+ "189913: Bountiful Harvest": {
+  "rating": 1.066
+ },
+ "189914: Capricious Efreet": {
+  "rating": 3.531
+ },
+ "189915: Bramble Creeper": {
+  "rating": 2.138
+ },
+ "189917: Nature's Spiral": {
+  "rating": 4.173
+ },
+ "189918: Cancel": {
+  "rating": 2.8
+ },
+ "189919: Fog": {
+  "rating": 4.226
+ },
+ "189920: Ice Cage": {
+  "rating": 2.234
+ },
+ "189921: Mist Leopard": {
+  "rating": 2.534
+ },
+ "189922: Oakenform": {
+  "rating": 2.846
+ },
+ "189923: Veteran Armorsmith": {
+  "rating": 4.101
+ },
+ "189924: Deadly Recluse": {
+  "rating": 4.014
+ },
+ "190159: Ponder": {
+  "rating": 4.718
+ },
+ "190160: Wall of Frost": {
+  "rating": 4.103
+ },
+ "190161: Convincing Mirage": {
+  "rating": 3.01
+ },
+ "190163: Snapping Drake": {
+  "rating": 2.811
+ },
+ "190164: Negate": {
+  "rating": 4.38
+ },
+ "190165: Bog Wraith": {
+  "rating": 2.821
+ },
+ "190166: Harm's Way": {
+  "rating": 4.181
+ },
+ "190167: Zephyr Sprite": {
+  "rating": 4.03
+ },
+ "190168: Flashfreeze": {
+  "rating": 3.568
+ },
+ "190169: Serpent of the Endless Sea": {
+  "rating": 2.781
+ },
+ "190170: Griffin Sentinel": {
+  "rating": 2.929
+ },
+ "190171: Disorient": {
+  "rating": 1.138
+ },
+ "190172: Divination": {
+  "rating": 3.029
+ },
+ "190173: Excommunicate": {
+  "rating": 2.739
+ },
+ "190174: Merfolk Looter": {
+  "rating": 4.104
+ },
+ "190176: Safe Passage": {
+  "rating": 3.766
+ },
+ "190177: Traumatize": {
+  "rating": 4.1
+ },
+ "190178: Horned Turtle": {
+  "rating": 2.187
+ },
+ "190180: Lifelink": {
+  "rating": 2.781
+ },
+ "190182: Wall of Faith": {
+  "rating": 1.936
+ },
+ "190183: Unsummon": {
+  "rating": 4.221
+ },
+ "190186: Sleep": {
+  "rating": 3.775
+ },
+ "190187: Warp World": {
+  "rating": 3.92
+ },
+ "190188: Sage Owl": {
+  "rating": 3.991
+ },
+ "190190: Sanguine Bond": {
+  "rating": 4.268
+ },
+ "190191: Levitation": {
+  "rating": 3.788
+ },
+ "190192: Rise from the Grave": {
+  "rating": 3.782
+ },
+ "190193: Cemetery Reaper": {
+  "rating": 4.065
+ },
+ "190194: Veteran Swordsmith": {
+  "rating": 4.13
+ },
+ "190195: Blinding Mage": {
+  "rating": 3.067
+ },
+ "190196: Glorious Charge": {
+  "rating": 2.433
+ },
+ "190197: Mind Control": {
+  "rating": 3.868
+ },
+ "190198: Djinn of Wishes": {
+  "rating": 4.32
+ },
+ "190533: Diabolic Tutor": {
+  "rating": 3.95
+ },
+ "190534: Palace Guard": {
+  "rating": 3.41
+ },
+ "190535: Doom Blade": {
+  "rating": 4.523
+ },
+ "190536: Kelinore Bat": {
+  "rating": 1.904
+ },
+ "190537: Sign in Blood": {
+  "rating": 4.014
+ },
+ "190538: Holy Strength": {
+  "rating": 3.118
+ },
+ "190539: Weakness": {
+  "rating": 2.839
+ },
+ "190540: Black Knight": {
+  "rating": 4.351
+ },
+ "190543: Stormfront Pegasus": {
+  "rating": 3.009
+ },
+ "190544: Ignite Disorder": {
+  "rating": 2.341
+ },
+ "190545: Zombie Goliath": {
+  "rating": 1.338
+ },
+ "190546: Unholy Strength": {
+  "rating": 3.523
+ },
+ "190548: Howling Banshee": {
+  "rating": 3.435
+ },
+ "190549: Angel's Mercy": {
+  "rating": 2.012
+ },
+ "190550: Looming Shade": {
+  "rating": 3.062
+ },
+ "190551: Earthquake": {
+  "rating": 4.446
+ },
+ "190552: Drudge Skeletons": {
+  "rating": 3.994
+ },
+ "190555: Mind Rot": {
+  "rating": 3.521
+ },
+ "190556: Hive Mind": {
+  "rating": 3.653
+ },
+ "190557: Soul Bleed": {
+  "rating": 1.906
+ },
+ "190558: Goblin Chieftain": {
+  "rating": 4.335
+ },
+ "190559: Disentomb": {
+  "rating": 2.664
+ },
+ "190560: Terramorphic Expanse": {
+  "rating": 3.879
+ },
+ "190562: Glacial Fortress": {
+  "rating": 3.817
+ },
+ "190563: Vampire Aristocrat": {
+  "rating": 3.452
+ },
+ "190564: Tempest of Light": {
+  "rating": 3.689
+ },
+ "190566: Hypnotic Specter": {
+  "rating": 4.571
+ },
+ "190568: Indestructibility": {
+  "rating": 3.762
+ },
+ "190570: Gravedigger": {
+  "rating": 3.706
+ },
+ "190571: Soul Warden": {
+  "rating": 4.364
+ },
+ "190574: Pacifism": {
+  "rating": 4.228
+ },
+ "190575: Dread Warlock": {
+  "rating": 3.609
+ },
+ "190576: Rhox Pikemaster": {
+  "rating": 3.797
+ },
+ "190577: Haunting Echoes": {
+  "rating": 4.19
+ },
+ "190578: Wall of Bone": {
+  "rating": 3.795
+ },
+ "190579: Acolyte of Xathrid": {
+  "rating": 1.256
+ },
+ "190580: Duress": {
+  "rating": 4.451
+ },
+ "190581: Deathmark": {
+  "rating": 3.953
+ },
+ "190582: Undead Slayer": {
+  "rating": 3.586
+ },
+ "191053: Sparkmage Apprentice": {
+  "rating": 3.386
+ },
+ "191054: Lightning Elemental": {
+  "rating": 2.373
+ },
+ "191056: Raging Goblin": {
+  "rating": 3.971
+ },
+ "191057: Rootbound Crag": {
+  "rating": 3.735
+ },
+ "191058: Honor of the Pure": {
+  "rating": 4.105
+ },
+ "191059: Canyon Minotaur": {
+  "rating": 1.725
+ },
+ "191060: Dragon Whelp": {
+  "rating": 4.051
+ },
+ "191061: Burst of Speed": {
+  "rating": 2.196
+ },
+ "191063: Ant Queen": {
+  "rating": 4.097
+ },
+ "191064: Master of the Wild Hunt": {
+  "rating": 4.282
+ },
+ "191065: Baneslayer Angel": {
+  "rating": 4.103
+ },
+ "191067: Drowned Catacomb": {
+  "rating": 3.753
+ },
+ "191068: Child of Night": {
+  "rating": 3.797
+ },
+ "191070: Captain of the Watch": {
+  "rating": 4.116
+ },
+ "191071: Berserkers of Blood Ridge": {
+  "rating": 1.316
+ },
+ "191072: Viashino Spearhunter": {
+  "rating": 2
+ },
+ "191073: Jackal Familiar": {
+  "rating": 3.512
+ },
+ "191074: Goblin Piker": {
+  "rating": 1.919
+ },
+ "191075: Fiery Hellhound": {
+  "rating": 2.913
+ },
+ "191076: Fireball": {
+  "rating": 4.217
+ },
+ "191077: Trumpet Blast": {
+  "rating": 3.64
+ },
+ "191078: Whispersilk Cloak": {
+  "rating": 4.325
+ },
+ "191079: Firebreathing": {
+  "rating": 2.682
+ },
+ "191080: Birds of Paradise": {
+  "rating": 4.436
+ },
+ "191081: Panic Attack": {
+  "rating": 2.99
+ },
+ "191082: Act of Treason": {
+  "rating": 3.691
+ },
+ "191083: Silence": {
+  "rating": 4.361
+ },
+ "191084: Lava Axe": {
+  "rating": 3.207
+ },
+ "191086: Shatter": {
+  "rating": 2.984
+ },
+ "191087: Merfolk Sovereign": {
+  "rating": 4.276
+ },
+ "191088: Yawning Fissure": {
+  "rating": 1.037
+ },
+ "191089: Lightning Bolt": {
+  "rating": 4.816
+ },
+ "191090: Inferno Elemental": {
+  "rating": 3.13
+ },
+ "191091: Dragonskull Summit": {
+  "rating": 3.856
+ },
+ "191092: Goblin Artillery": {
+  "rating": 2.806
+ },
+ "191094: Stone Giant": {
+  "rating": 3.6
+ },
+ "191095: Seismic Strike": {
+  "rating": 3.083
+ },
+ "191096: Burning Inquiry": {
+  "rating": 3.943
+ },
+ "191098: Sphinx Ambassador": {
+  "rating": 4.188
+ },
+ "191100: Sunpetal Grove": {
+  "rating": 3.861
+ },
+ "191102: Prodigal Pyromancer": {
+  "rating": 3.1
+ },
+ "191239: Ajani Goldmane": {
+  "rating": 3.801
+ },
+ "191240: Jace Beleren": {
+  "rating": 3.811
+ },
+ "191241: Liliana Vess": {
+  "rating": 4.136
+ },
+ "191242: Chandra Nalaar": {
+  "rating": 4.1
+ },
+ "191243: Garruk Wildspeaker": {
+  "rating": 4.06
+ },
+ "191244: Dragon's Claw": {
+  "rating": 2.741
+ },
+ "191245: Angel's Feather": {
+  "rating": 2.378
+ },
+ "191246: Kraken's Eye": {
+  "rating": 2.031
+ },
+ "191247: Demon's Horn": {
+  "rating": 2.305
+ },
+ "191248: Wurm's Tooth": {
+  "rating": 2.189
+ },
+ "191312: Darksteel Colossus": {
+  "rating": 4.568
+ },
+ "191313: Platinum Angel": {
+  "rating": 4.401
+ },
+ "191314: Coat of Arms": {
+  "rating": 4.298
+ },
+ "191315: Howling Mine": {
+  "rating": 4.368
+ },
+ "191316: Might of Oaks": {
+  "rating": 3.958
+ },
+ "191317: Elvish Piper": {
+  "rating": 4.337
+ },
+ "191318: Royal Assassin": {
+  "rating": 4.345
+ },
+ "191319: Nightmare": {
+  "rating": 4.093
+ },
+ "191320: Shivan Dragon": {
+  "rating": 4.264
+ },
+ "191321: Clone": {
+  "rating": 4.295
+ },
+ "191322: Twincast": {
+  "rating": 4.21
+ },
+ "191323: Mind Spring": {
+  "rating": 3.719
+ },
+ "191324: Mind Shatter": {
+  "rating": 3.731
+ },
+ "191336: Relentless Rats": {
+  "rating": 4.039
+ },
+ "191337: Ornithopter": {
+  "rating": 4.211
+ },
+ "191338: Spellbook": {
+  "rating": 3.786
+ },
+ "191339: Rod of Ruin": {
+  "rating": 1.247
+ },
+ "191340: Bogardan Hellkite": {
+  "rating": 4.35
+ },
+ "191341: Righteousness": {
+  "rating": 4.239
+ },
+ "191343: Underworld Dreams": {
+  "rating": 4.511
+ },
+ "191378: Mesa Enchantress": {
+  "rating": 3.914
+ },
+ "191379: Time Warp": {
+  "rating": 4.164
+ },
+ "191380: Polymorph": {
+  "rating": 4.137
+ },
+ "191381: Swamp": {
+  "rating": 4.63
+ },
+ "191382: Plains": {
+  "rating": 4.543
+ },
+ "191384: Vampire Nocturnus": {
+  "rating": 4.254
+ },
+ "191385: Plains": {
+  "rating": 4.181
+ },
+ "191387: Island": {
+  "rating": 4.741
+ },
+ "191388: Lurking Predators": {
+  "rating": 4.177
+ },
+ "191389: Island": {
+  "rating": 4.667
+ },
+ "191390: Island": {
+  "rating": 4.517
+ },
+ "191391: Swamp": {
+  "rating": 4.581
+ },
+ "191392: Elvish Archdruid": {
+  "rating": 4.16
+ },
+ "191393: Ball Lightning": {
+  "rating": 4.361
+ },
+ "191394: Kalonian Behemoth": {
+  "rating": 4.142
+ },
+ "191395: Plains": {
+  "rating": 4.226
+ },
+ "191396: Plains": {
+  "rating": 4.635
+ },
+ "191397: Magma Phoenix": {
+  "rating": 3.875
+ },
+ "191398: Swamp": {
+  "rating": 4.579
+ },
+ "191399: Swamp": {
+  "rating": 4.537
+ },
+ "191400: Island": {
+  "rating": 4.5
+ },
+ "191401: Mountain": {
+  "rating": 4.404
+ },
+ "191402: Mountain": {
+  "rating": 4.706
+ },
+ "191403: Mountain": {
+  "rating": 4.655
+ },
+ "191404: Mountain": {
+  "rating": 4.732
+ },
+ "191405: Forest": {
+  "rating": 4.438
+ },
+ "191406: Forest": {
+  "rating": 4.5
+ },
+ "191407: Forest": {
+  "rating": 4.545
+ },
+ "191409: Forest": {
+  "rating": 4.533
+ },
+ "191591: Magebane Armor": {
+  "rating": 3.994
+ },
+ "191592: Pithing Needle": {
+  "rating": 4.228
+ },
+ "191595: Celestial Purge": {
+  "rating": 3.61
+ },
+ "191596: Windstorm": {
+  "rating": 3.529
+ },
+ "191597: Gorgon Flail": {
+  "rating": 4.181
+ },
+ "191598: Tome Scour": {
+  "rating": 3.379
+ },
+ "191599: Planar Cleansing": {
+  "rating": 3.708
+ },
+ "193738: Armored Ascension": {
+  "rating": 3.87
+ },
+ "193739: Regenerate": {
+  "rating": 1.204
+ },
+ "193740: Warpath Ghoul": {
+  "rating": 2.469
+ },
+ "193741: Kindled Fury": {
+  "rating": 2.814
+ },
+ "193742: Essence Scatter": {
+  "rating": 3.326
+ },
+ "193743: Jump": {
+  "rating": 1.32
+ },
+ "193744: Tendrils of Corruption": {
+  "rating": 4.025
+ },
+ "193745: Assassinate": {
+  "rating": 2.585
+ },
+ "193748: Manabarbs": {
+  "rating": 4.129
+ },
+ "193749: Coral Merfolk": {
+  "rating": 1.627
+ },
+ "193750: Silvercoat Lion": {
+  "rating": 1.971
+ },
+ "193751: Siege-Gang Commander": {
+  "rating": 4.565
+ },
+ "193753: Protean Hydra": {
+  "rating": 4.073
+ },
+ "193754: Gargoyle Castle": {
+  "rating": 3.732
+ },
+ "193759: Great Sable Stag": {
+  "rating": 4.351
+ },
+ "193763: Lightwielder Paladin": {
+  "rating": 3.662
+ },
+ "193766: Guardian Seraph": {
+  "rating": 4.3
+ },
+ "193767: Serra Angel": {
+  "rating": 4.176
+ },
+ "193877: Open the Vaults": {
+  "rating": 4.19
+ },
+ "193878: Mirror of Fate": {
+  "rating": 2.822
+ },
+ "193931: Siege Mastodon": {
+  "rating": 1.733
+ },
+ "193962: Wind Drake": {
+  "rating": 3.078
+ },
+ "194423: Wall of Fire": {
+  "rating": 3.194
+ },
+ "194424: Elvish Visionary": {
+  "rating": 3.896
+ },
+ "194425: Pyroclasm": {
+  "rating": 4.517
+ }
+}

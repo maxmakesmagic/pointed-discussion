@@ -1,0 +1,497 @@
+{
+ "108899: Aven Riftwatcher": {
+  "rating": 3.809
+ },
+ "109740: Deadwood Treefolk": {
+  "rating": 3.1
+ },
+ "110501: Dust Corona": {
+  "rating": 2.893
+ },
+ "110503: Waning Wurm": {
+  "rating": 3.181
+ },
+ "110536: Cradle to Grave": {
+  "rating": 1.207
+ },
+ "111046: Deadly Grub": {
+  "rating": 3.103
+ },
+ "111055: Lavacore Elemental": {
+  "rating": 2.871
+ },
+ "111066: Chronozoa": {
+  "rating": 4.233
+ },
+ "122268: Needlepeak Spider": {
+  "rating": 2.703
+ },
+ "122280: Gossamer Phantasm": {
+  "rating": 2.398
+ },
+ "122282: Revered Dead": {
+  "rating": 3.255
+ },
+ "122285: Shrouded Lore": {
+  "rating": 2.987
+ },
+ "122287: Rebuff the Wicked": {
+  "rating": 4.11
+ },
+ "122290: Citanul Woodreaders": {
+  "rating": 2.988
+ },
+ "122313: Giant Dustwasp": {
+  "rating": 3.06
+ },
+ "122321: Bog Serpent": {
+  "rating": 1.123
+ },
+ "122323: Pouncing Wurm": {
+  "rating": 2.891
+ },
+ "122324: Mana Tithe": {
+  "rating": 4.255
+ },
+ "122325: Riptide Pilferer": {
+  "rating": 3.434
+ },
+ "122338: Prodigal Pyromancer": {
+  "rating": 3.404
+ },
+ "122349: Mantle of Leadership": {
+  "rating": 3.295
+ },
+ "122355: Sunlance": {
+  "rating": 3.987
+ },
+ "122360: Calciderm": {
+  "rating": 3.977
+ },
+ "122362: Harmonize": {
+  "rating": 4.203
+ },
+ "122366: Vampiric Link": {
+  "rating": 4.012
+ },
+ "122367: Gaea's Anthem": {
+  "rating": 4.162
+ },
+ "122370: Timebender": {
+  "rating": 3.15
+ },
+ "122371: Healing Leaves": {
+  "rating": 2.305
+ },
+ "122373: Brute Force": {
+  "rating": 4.281
+ },
+ "122374: Fa'adiyah Seer": {
+  "rating": 2.873
+ },
+ "122375: Shaper Parasite": {
+  "rating": 3.043
+ },
+ "122402: Frozen Aether": {
+  "rating": 4.182
+ },
+ "122405: Hedge Troll": {
+  "rating": 4.108
+ },
+ "122406: Mirri the Cursed": {
+  "rating": 4.08
+ },
+ "122408: Benalish Commander": {
+  "rating": 3.991
+ },
+ "122412: Stormfront Riders": {
+  "rating": 3.024
+ },
+ "122413: Enslave": {
+  "rating": 3.602
+ },
+ "122416: Sulfur Elemental": {
+  "rating": 4.06
+ },
+ "122420: Mire Boa": {
+  "rating": 4.214
+ },
+ "122423: Damnation": {
+  "rating": 4.424
+ },
+ "122428: Essence Warden": {
+  "rating": 4.316
+ },
+ "122429: Groundbreaker": {
+  "rating": 4.211
+ },
+ "122431: Roiling Horror": {
+  "rating": 2.838
+ },
+ "122432: Akroma, Angel of Fury": {
+  "rating": 4.328
+ },
+ "122434: Imp's Mischief": {
+  "rating": 3.092
+ },
+ "122435: Saltblast": {
+  "rating": 2.923
+ },
+ "122436: Pyrohemia": {
+  "rating": 4.106
+ },
+ "122438: Heroes Remembered": {
+  "rating": 3.62
+ },
+ "122442: Serendib Sorcerer": {
+  "rating": 3.892
+ },
+ "122449: Aeon Chronicler": {
+  "rating": 3.555
+ },
+ "122451: Keen Sense": {
+  "rating": 3.927
+ },
+ "122455: Dichotomancy": {
+  "rating": 3
+ },
+ "122458: Hunting Wilds": {
+  "rating": 3.512
+ },
+ "122459: Spellshift": {
+  "rating": 2.102
+ },
+ "122468: Wild Pair": {
+  "rating": 3.962
+ },
+ "122469: Stonecloaker": {
+  "rating": 4.044
+ },
+ "122477: Whitemane Lion": {
+  "rating": 3.914
+ },
+ "122478: Muck Drubb": {
+  "rating": 3.3
+ },
+ "122481: Malach of the Dawn": {
+  "rating": 3.179
+ },
+ "122487: Crovax, Ascendant Hero": {
+  "rating": 4.026
+ },
+ "124033: Mycologist": {
+  "rating": 2.961
+ },
+ "124034: Midnight Charm": {
+  "rating": 3.989
+ },
+ "124037: Saltfield Recluse": {
+  "rating": 1.93
+ },
+ "124039: Fury Charm": {
+  "rating": 3.763
+ },
+ "124040: Brain Gorgers": {
+  "rating": 2.905
+ },
+ "124044: Synchronous Sliver": {
+  "rating": 3.22
+ },
+ "124047: Evolution Charm": {
+  "rating": 4.145
+ },
+ "124055: Wistful Thinking": {
+  "rating": 3.993
+ },
+ "124057: Vorosh, the Hunter": {
+  "rating": 4.119
+ },
+ "124062: Numot, the Devastator": {
+  "rating": 4.128
+ },
+ "124065: Fungal Behemoth": {
+  "rating": 3.524
+ },
+ "124066: Piracy Charm": {
+  "rating": 4.087
+ },
+ "124073: Intet, the Dreamer": {
+  "rating": 4.019
+ },
+ "124075: Teneb, the Harvester": {
+  "rating": 4.117
+ },
+ "124080: Dawn Charm": {
+  "rating": 4.171
+ },
+ "124316: Braids, Conjurer Adept": {
+  "rating": 4.093
+ },
+ "124342: Ana Battlemage": {
+  "rating": 3.693
+ },
+ "124343: Dust Elemental": {
+  "rating": 4.128
+ },
+ "124344: Jedit Ojanen of Efrava": {
+  "rating": 4.065
+ },
+ "124443: Body Double": {
+  "rating": 4.311
+ },
+ "124445: Shivan Wumpus": {
+  "rating": 4
+ },
+ "124470: Porphyry Nodes": {
+  "rating": 4.198
+ },
+ "124471: Life and Limb": {
+  "rating": 4.127
+ },
+ "124472: Phantasmagorian": {
+  "rating": 2.781
+ },
+ "124474: Simian Spirit Guide": {
+  "rating": 4.591
+ },
+ "124476: Erratic Mutation": {
+  "rating": 2.622
+ },
+ "124478: Timbermare": {
+  "rating": 4.136
+ },
+ "124482: Jodah's Avenger": {
+  "rating": 3.72
+ },
+ "124504: Aether Membrane": {
+  "rating": 4.005
+ },
+ "124505: Sophic Centaur": {
+  "rating": 1.423
+ },
+ "124506: Blightspeaker": {
+  "rating": 3.513
+ },
+ "124507: Magus of the Coffers": {
+  "rating": 4.071
+ },
+ "124508: Pallid Mycoderm": {
+  "rating": 3.654
+ },
+ "124748: Fatal Frenzy": {
+  "rating": 3.707
+ },
+ "124757: Primal Plasma": {
+  "rating": 2.81
+ },
+ "125873: Serra Sphinx": {
+  "rating": 4.162
+ },
+ "125874: Null Profusion": {
+  "rating": 3.601
+ },
+ "125877: Merfolk Thaumaturgist": {
+  "rating": 3.67
+ },
+ "125879: Sinew Sliver": {
+  "rating": 4.253
+ },
+ "125880: Reality Acid": {
+  "rating": 3.636
+ },
+ "125882: Voidstone Gargoyle": {
+  "rating": 3.802
+ },
+ "125885: Keldon Marauders": {
+  "rating": 3.769
+ },
+ "126011: Frenetic Sliver": {
+  "rating": 3.25
+ },
+ "126012: Darkheart Sliver": {
+  "rating": 3.843
+ },
+ "126014: Poultice Sliver": {
+  "rating": 2.198
+ },
+ "126015: Battering Sliver": {
+  "rating": 2.856
+ },
+ "126018: Reflex Sliver": {
+  "rating": 3.062
+ },
+ "126021: Cautery Sliver": {
+  "rating": 2.9
+ },
+ "126022: Spitting Sliver": {
+  "rating": 2.5
+ },
+ "126023: Necrotic Sliver": {
+  "rating": 4.317
+ },
+ "126024: Aquamorph Entity": {
+  "rating": 2.602
+ },
+ "126025: Dormant Sliver": {
+  "rating": 3.421
+ },
+ "126212: Ovinize": {
+  "rating": 4.148
+ },
+ "126214: Mesa Enchantress": {
+  "rating": 4.012
+ },
+ "126216: Venarian Glimmer": {
+  "rating": 2.843
+ },
+ "126218: Boom // Bust": {
+  "rating": 3.885
+ },
+ "126303: Volcano Hellion": {
+  "rating": 4.115
+ },
+ "126306: Uktabi Drake": {
+  "rating": 3.924
+ },
+ "126408: Shade of Trokair": {
+  "rating": 3.614
+ },
+ "126419: Dead // Gone": {
+  "rating": 4.039
+ },
+ "126420: Rough // Tumble": {
+  "rating": 3.934
+ },
+ "126803: Circle of Affliction": {
+  "rating": 3.375
+ },
+ "126804: Extirpate": {
+  "rating": 4.439
+ },
+ "126806: Veiling Oddity": {
+  "rating": 2.946
+ },
+ "126809: Ghost Tactician": {
+  "rating": 1.19
+ },
+ "126810: Torchling": {
+  "rating": 3.645
+ },
+ "126811: Detritivore": {
+  "rating": 3.06
+ },
+ "126812: Dash Hopes": {
+  "rating": 4.011
+ },
+ "126813: Kavu Predator": {
+  "rating": 4.179
+ },
+ "126814: Temporal Extortion": {
+  "rating": 4.196
+ },
+ "126816: Riftmarked Knight": {
+  "rating": 3.722
+ },
+ "126818: Reckless Wurm": {
+  "rating": 4.106
+ },
+ "128940: Dunerider Outlaw": {
+  "rating": 3.588
+ },
+ "128941: Vitaspore Thallid": {
+  "rating": 2.041
+ },
+ "128944: Psychotrope Thallid": {
+  "rating": 3.583
+ },
+ "128948: Hammerheim Deadeye": {
+  "rating": 1.757
+ },
+ "128949: Radha, Heir to Keld": {
+  "rating": 4.199
+ },
+ "129012: Timecrafting": {
+  "rating": 2.875
+ },
+ "129014: Serra's Boon": {
+  "rating": 2.182
+ },
+ "129015: Pongify": {
+  "rating": 4.198
+ },
+ "129022: Dismal Failure": {
+  "rating": 3.688
+ },
+ "130714: Melancholy": {
+  "rating": 2.21
+ },
+ "130715: Blood Knight": {
+  "rating": 4.274
+ },
+ "130717: Ridged Kusite": {
+  "rating": 2.292
+ },
+ "130718: Rathi Trapper": {
+  "rating": 3.912
+ },
+ "130719: Magus of the Tabernacle": {
+  "rating": 4.027
+ },
+ "130720: Firefright Mage": {
+  "rating": 2.689
+ },
+ "130813: Auramancer's Guise": {
+  "rating": 3.093
+ },
+ "130814: Tidewalker": {
+  "rating": 3.167
+ },
+ "130816: Seal of Primordium": {
+  "rating": 4.408
+ },
+ "131002: Treacherous Urge": {
+  "rating": 3.841
+ },
+ "131004: Utopia Vow": {
+  "rating": 3.346
+ },
+ "131005: Urborg, Tomb of Yawgmoth": {
+  "rating": 4.517
+ },
+ "131006: Kor Dirge": {
+  "rating": 3.75
+ },
+ "131007: Retether": {
+  "rating": 3.925
+ },
+ "131008: Magus of the Bazaar": {
+  "rating": 3.877
+ },
+ "131011: Skirk Shaman": {
+  "rating": 3.162
+ },
+ "134738: Molten Firebird": {
+  "rating": 2.288
+ },
+ "134739: Big Game Hunter": {
+  "rating": 4.333
+ },
+ "134740: Shivan Meteor": {
+  "rating": 4.256
+ },
+ "134741: Magus of the Library": {
+  "rating": 4.031
+ },
+ "134743: Dreamscape Artist": {
+  "rating": 3.912
+ },
+ "134744: Stingscourger": {
+  "rating": 3.978
+ },
+ "134746: Magus of the Arena": {
+  "rating": 3.281
+ },
+ "136170: Oros, the Avenger": {
+  "rating": 4.103
+ }
+}

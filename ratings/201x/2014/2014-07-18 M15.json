@@ -1,0 +1,812 @@
+{
+ "383160: Aegis Angel": {
+  "rating": 3.438
+ },
+ "383161: Cancel": {
+  "rating": 2.214
+ },
+ "383162: Centaur Courser": {
+  "rating": 2.167
+ },
+ "383163: Divine Verdict": {
+  "rating": 2.4
+ },
+ "383164: Furnace Whelp": {
+  "rating": 2.7
+ },
+ "383165: Garruk's Packleader": {
+  "rating": 3.4
+ },
+ "383166: Inspired Charge": {
+  "rating": 1.75
+ },
+ "383167: Mahamoti Djinn": {
+  "rating": 3.167
+ },
+ "383168: Nightmare": {
+  "rating": 3.312
+ },
+ "383169: Seismic Strike": {
+  "rating": 2.4
+ },
+ "383170: Sengir Vampire": {
+  "rating": 3.667
+ },
+ "383171: Serra Angel": {
+  "rating": 3.286
+ },
+ "383172: Shivan Dragon": {
+  "rating": 3.214
+ },
+ "383173: Terra Stomper": {
+  "rating": 3.312
+ },
+ "383174: Walking Corpse": {
+  "rating": 2
+ },
+ "383175: Accursed Spirit": {
+  "rating": 3.071
+ },
+ "383176: Act on Impulse": {
+  "rating": 2.857
+ },
+ "383177: Aeronaut Tinkerer": {
+  "rating": 3.083
+ },
+ "383178: Aetherspouts": {
+  "rating": 3.5
+ },
+ "383179: Aggressive Mining": {
+  "rating": 2.636
+ },
+ "383180: Ajani Steadfast": {
+  "rating": 3.95
+ },
+ "383181: Ajani's Pridemate": {
+  "rating": 3.667
+ },
+ "383182: Altac Bloodseeker": {
+  "rating": 3.2
+ },
+ "383183: Amphin Pathmage": {
+  "rating": 3.071
+ },
+ "383184: Ancient Silverback": {
+  "rating": 3.125
+ },
+ "383185: Avacyn, Guardian Angel": {
+  "rating": 3.833
+ },
+ "383186: Avarice Amulet": {
+  "rating": 3
+ },
+ "383187: Back to Nature": {
+  "rating": 3.85
+ },
+ "383188: Battle Mastery": {
+  "rating": 2.6
+ },
+ "383189: Battlefield Forge": {
+  "rating": 4.1
+ },
+ "383190: Belligerent Sliver": {
+  "rating": 3.4
+ },
+ "383191: Black Cat": {
+  "rating": 3.667
+ },
+ "383192: Blastfire Bolt": {
+  "rating": 2.071
+ },
+ "383193: Blood Host": {
+  "rating": 2.75
+ },
+ "383194: Boonweaver Giant": {
+  "rating": 3
+ },
+ "383195: Borderland Marauder": {
+  "rating": 3.833
+ },
+ "383196: Brawler's Plate": {
+  "rating": 1.857
+ },
+ "383197: Bronze Sable": {
+  "rating": 1.571
+ },
+ "383198: Brood Keeper": {
+  "rating": 3.3
+ },
+ "383199: Burning Anger": {
+  "rating": 3.357
+ },
+ "383200: Carnivorous Moss-Beast": {
+  "rating": 2.143
+ },
+ "383201: Carrion Crow": {
+  "rating": 2.071
+ },
+ "383202: Caustic Tar": {
+  "rating": 2.5
+ },
+ "383203: Caves of Koilos": {
+  "rating": 4.062
+ },
+ "383204: Chandra, Pyromaster": {
+  "rating": 4.667
+ },
+ "383205: Charging Rhino": {
+  "rating": 3
+ },
+ "383206: Chasm Skulker": {
+  "rating": 4
+ },
+ "383207: Chief Engineer": {
+  "rating": 3.562
+ },
+ "383208: Child of Night": {
+  "rating": 2.4
+ },
+ "383209: Chord of Calling": {
+  "rating": 3.778
+ },
+ "383210: Chronostutter": {
+  "rating": 2
+ },
+ "383211: Circle of Flame": {
+  "rating": 2.3
+ },
+ "383212: Clear a Path": {
+  "rating": 1.75
+ },
+ "383213: Cone of Flame": {
+  "rating": 3.429
+ },
+ "383214: Congregate": {
+  "rating": 2.8
+ },
+ "383215: Constricting Sliver": {
+  "rating": 3.688
+ },
+ "383216: Coral Barrier": {
+  "rating": 2.6
+ },
+ "383217: Covenant of Blood": {
+  "rating": 2.786
+ },
+ "383218: Crippling Blight": {
+  "rating": 2.333
+ },
+ "383219: Crowd's Favor": {
+  "rating": 2.917
+ },
+ "383220: Crucible of Fire": {
+  "rating": 2.7
+ },
+ "383221: Cruel Sadist": {
+  "rating": 3.333
+ },
+ "383222: Darksteel Citadel": {
+  "rating": 4.056
+ },
+ "383223: Dauntless River Marshal": {
+  "rating": 3.667
+ },
+ "383224: Devouring Light": {
+  "rating": 3.875
+ },
+ "383225: Diffusion Sliver": {
+  "rating": 3.167
+ },
+ "383226: Dissipate": {
+  "rating": 4
+ },
+ "383227: Divination": {
+  "rating": 3.125
+ },
+ "383228: Divine Favor": {
+  "rating": 2.167
+ },
+ "383229: Elvish Mystic": {
+  "rating": 3.875
+ },
+ "383230: Encrust": {
+  "rating": 2.7
+ },
+ "383231: Endless Obedience": {
+  "rating": 3.167
+ },
+ "383232: Ensoul Artifact": {
+  "rating": 3.7
+ },
+ "383233: Ephemeral Shields": {
+  "rating": 2.857
+ },
+ "383234: Eternal Thirst": {
+  "rating": 2.75
+ },
+ "383235: Evolving Wilds": {
+  "rating": 3.5
+ },
+ "383236: Feast on the Fallen": {
+  "rating": 2.429
+ },
+ "383237: Feral Incarnation": {
+  "rating": 3.5
+ },
+ "383238: Festergloom": {
+  "rating": 2.3
+ },
+ "383239: First Response": {
+  "rating": 2.583
+ },
+ "383240: Flesh to Dust": {
+  "rating": 2.812
+ },
+ "383242: Forest": {
+  "rating": 3.5
+ },
+ "383245: Forge Devil": {
+  "rating": 2.6
+ },
+ "383246: Foundry Street Denizen": {
+  "rating": 3.25
+ },
+ "383247: Frenzied Goblin": {
+  "rating": 3.5
+ },
+ "383248: Frost Lynx": {
+  "rating": 3.286
+ },
+ "383249: Fugitive Wizard": {
+  "rating": 0.591
+ },
+ "383250: Gargoyle Sentinel": {
+  "rating": 2.8
+ },
+ "383251: Garruk, Apex Predator": {
+  "rating": 4.125
+ },
+ "383252: Gather Courage": {
+  "rating": 3.5
+ },
+ "383253: Geist of the Moors": {
+  "rating": 2.917
+ },
+ "383254: Generator Servant": {
+  "rating": 3.722
+ },
+ "383255: Genesis Hydra": {
+  "rating": 3.688
+ },
+ "383256: Glacial Crasher": {
+  "rating": 2.429
+ },
+ "383257: Goblin Kaboomist": {
+  "rating": 2.875
+ },
+ "383258: Goblin Rabblemaster": {
+  "rating": 4
+ },
+ "383259: Goblin Roughrider": {
+  "rating": 2
+ },
+ "383260: Gravedigger": {
+  "rating": 3.417
+ },
+ "383261: Grindclock": {
+  "rating": 2.5
+ },
+ "383262: Hammerhand": {
+  "rating": 2.75
+ },
+ "383263: Haunted Plate Mail": {
+  "rating": 3.4
+ },
+ "383264: Heat Ray": {
+  "rating": 3.2
+ },
+ "383265: Heliod's Pilgrim": {
+  "rating": 3.583
+ },
+ "383266: Hoarding Dragon": {
+  "rating": 3.8
+ },
+ "383267: Hornet Nest": {
+  "rating": 3.857
+ },
+ "383268: Hornet Queen": {
+  "rating": 3.812
+ },
+ "383269: Hot Soup": {
+  "rating": 3.286
+ },
+ "383270: Hunt the Weak": {
+  "rating": 2.6
+ },
+ "383271: Hunter's Ambush": {
+  "rating": 2.25
+ },
+ "383272: Hushwing Gryff": {
+  "rating": 3.812
+ },
+ "383273: Hydrosurge": {
+  "rating": 1.5
+ },
+ "383274: Illusory Angel": {
+  "rating": 3.889
+ },
+ "383275: In Garruk's Wake": {
+  "rating": 3.071
+ },
+ "383276: Indulgent Tormentor": {
+  "rating": 4
+ },
+ "383277: Inferno Fist": {
+  "rating": 3.3
+ },
+ "383278: Into the Void": {
+  "rating": 3.1
+ },
+ "383279: Invasive Species": {
+  "rating": 2.75
+ },
+ "383280: Invisibility": {
+  "rating": 2.1
+ },
+ "383282: Island": {
+  "rating": 3.25
+ },
+ "383285: Jace, the Living Guildpact": {
+  "rating": 2.833
+ },
+ "383286: Jace's Ingenuity": {
+  "rating": 2.929
+ },
+ "383287: Jalira, Master Polymorphist": {
+  "rating": 3.562
+ },
+ "383288: Jorubai Murk Lurker": {
+  "rating": 3.333
+ },
+ "383289: Juggernaut": {
+  "rating": 3.643
+ },
+ "383290: Kalonian Twingrove": {
+  "rating": 3.083
+ },
+ "383291: Kapsho Kitefins": {
+  "rating": 2.917
+ },
+ "383292: Kinsbaile Skirmisher": {
+  "rating": 3.083
+ },
+ "383293: Kird Chieftain": {
+  "rating": 3
+ },
+ "383294: Krenko's Enforcer": {
+  "rating": 3.25
+ },
+ "383295: Kurkesh, Onakke Ancient": {
+  "rating": 3.25
+ },
+ "383296: Lava Axe": {
+  "rating": 1.75
+ },
+ "383297: Leeching Sliver": {
+  "rating": 2.5
+ },
+ "383298: Life's Legacy": {
+  "rating": 2.75
+ },
+ "383299: Lightning Strike": {
+  "rating": 3.75
+ },
+ "383300: Liliana Vess": {
+  "rating": 4.045
+ },
+ "383301: Living Totem": {
+  "rating": 2.429
+ },
+ "383302: Llanowar Wastes": {
+  "rating": 4.111
+ },
+ "383303: Marked by Honor": {
+  "rating": 2
+ },
+ "383304: Mass Calcify": {
+  "rating": 3.357
+ },
+ "383305: Master of Predicaments": {
+  "rating": 3.583
+ },
+ "383306: Meditation Puzzle": {
+  "rating": 1.143
+ },
+ "383307: Mercurial Pretender": {
+  "rating": 2.583
+ },
+ "383308: Meteorite": {
+  "rating": 2.917
+ },
+ "383309: Midnight Guard": {
+  "rating": 2.75
+ },
+ "383310: Might Makes Right": {
+  "rating": 2.083
+ },
+ "383311: Military Intelligence": {
+  "rating": 3.4
+ },
+ "383312: Mind Rot": {
+  "rating": 2.5
+ },
+ "383313: Mind Sculpt": {
+  "rating": 2.25
+ },
+ "383314: Miner's Bane": {
+  "rating": 2.071
+ },
+ "383316: Mountain": {
+  "rating": 4.5
+ },
+ "383317: Mountain": {
+  "rating": 4
+ },
+ "383319: Naturalize": {
+  "rating": 3.812
+ },
+ "383320: Necrobite": {
+  "rating": 2.6
+ },
+ "383321: Necrogen Scudder": {
+  "rating": 3.5
+ },
+ "383322: Necromancer's Assistant": {
+  "rating": 1.571
+ },
+ "383323: Necromancer's Stockpile": {
+  "rating": 2.812
+ },
+ "383324: Negate": {
+  "rating": 4.25
+ },
+ "383325: Netcaster Spider": {
+  "rating": 3.25
+ },
+ "383326: Nightfire Giant": {
+  "rating": 3.5
+ },
+ "383327: Nimbus of the Isles": {
+  "rating": 1.714
+ },
+ "383328: Nissa, Worldwaker": {
+  "rating": 4.15
+ },
+ "383329: Nissa's Expedition": {
+  "rating": 3.167
+ },
+ "383330: Ob Nixilis, Unshackled": {
+  "rating": 3.6
+ },
+ "383331: Obelisk of Urd": {
+  "rating": 3.167
+ },
+ "383332: Oppressive Rays": {
+  "rating": 2.714
+ },
+ "383333: Oreskos Swiftclaw": {
+  "rating": 2.5
+ },
+ "383334: Ornithopter": {
+  "rating": 3.438
+ },
+ "383335: Overwhelm": {
+  "rating": 2.571
+ },
+ "383336: Paragon of Eternal Wilds": {
+  "rating": 3.333
+ },
+ "383337: Paragon of Fierce Defiance": {
+  "rating": 3.375
+ },
+ "383338: Paragon of Gathering Mists": {
+  "rating": 3.167
+ },
+ "383339: Paragon of New Dawns": {
+  "rating": 3.5
+ },
+ "383340: Paragon of Open Graves": {
+  "rating": 3.4
+ },
+ "383341: Peel from Reality": {
+  "rating": 3
+ },
+ "383342: Perilous Vault": {
+  "rating": 3.286
+ },
+ "383343: Phyrexian Revoker": {
+  "rating": 4.333
+ },
+ "383344: Phytotitan": {
+  "rating": 3.444
+ },
+ "383345: Pillar of Light": {
+  "rating": 2.9
+ },
+ "383347: Plains": {
+  "rating": 3.5
+ },
+ "383350: Plummet": {
+  "rating": 2.4
+ },
+ "383351: Polymorphist's Jest": {
+  "rating": 3.773
+ },
+ "383352: Preeminent Captain": {
+  "rating": 3.6
+ },
+ "383353: Profane Memento": {
+  "rating": 2.667
+ },
+ "383354: Quickling": {
+  "rating": 3.625
+ },
+ "383355: Radiant Fountain": {
+  "rating": 3.45
+ },
+ "383356: Raise the Alarm": {
+  "rating": 3.917
+ },
+ "383357: Ranger's Guile": {
+  "rating": 2.7
+ },
+ "383358: Razorfoot Griffin": {
+  "rating": 2.25
+ },
+ "383359: Reclamation Sage": {
+  "rating": 3.929
+ },
+ "383360: Research Assistant": {
+  "rating": 2.071
+ },
+ "383361: Resolute Archangel": {
+  "rating": 3.5
+ },
+ "383362: Restock": {
+  "rating": 3.2
+ },
+ "383363: Return to the Ranks": {
+  "rating": 3.357
+ },
+ "383364: Roaring Primadox": {
+  "rating": 3.375
+ },
+ "383365: Rogue's Gloves": {
+  "rating": 2.583
+ },
+ "383366: Rotfeaster Maggot": {
+  "rating": 3
+ },
+ "383367: Rummaging Goblin": {
+  "rating": 2.071
+ },
+ "383368: Runeclaw Bear": {
+  "rating": 1.917
+ },
+ "383369: Sacred Armory": {
+  "rating": 2.833
+ },
+ "383370: Sanctified Charge": {
+  "rating": 2.571
+ },
+ "383371: Satyr Wayfinder": {
+  "rating": 3.083
+ },
+ "383372: Scrapyard Mongrel": {
+  "rating": 3.167
+ },
+ "383373: Scuttling Doom Engine": {
+  "rating": 4
+ },
+ "383374: Selfless Cathar": {
+  "rating": 2.833
+ },
+ "383375: Seraph of the Masses": {
+  "rating": 3.2
+ },
+ "383376: Shadowcloak Vampire": {
+  "rating": 2.143
+ },
+ "383377: Shaman of Spring": {
+  "rating": 3.083
+ },
+ "383378: Shield of the Avatar": {
+  "rating": 3.214
+ },
+ "383379: Shivan Reef": {
+  "rating": 3.95
+ },
+ "383380: Shrapnel Blast": {
+  "rating": 3.667
+ },
+ "383381: Siege Dragon": {
+  "rating": 2.917
+ },
+ "383382: Siege Wurm": {
+  "rating": 3.333
+ },
+ "383383: Sign in Blood": {
+  "rating": 3.5
+ },
+ "383384: Sliver Hive": {
+  "rating": 3.875
+ },
+ "383385: Sliver Hivelord": {
+  "rating": 3.808
+ },
+ "383386: Solemn Offering": {
+  "rating": 2.833
+ },
+ "383387: Soul of Innistrad": {
+  "rating": 3.688
+ },
+ "383388: Soul of New Phyrexia": {
+  "rating": 4
+ },
+ "383389: Soul of Ravnica": {
+  "rating": 3.455
+ },
+ "383390: Soul of Shandalar": {
+  "rating": 3.708
+ },
+ "383391: Soul of Theros": {
+  "rating": 4
+ },
+ "383392: Soul of Zendikar": {
+  "rating": 3.786
+ },
+ "383393: Soulmender": {
+  "rating": 2.2
+ },
+ "383394: Spectra Ward": {
+  "rating": 3.5
+ },
+ "383395: Spirit Bonds": {
+  "rating": 3.5
+ },
+ "383396: Stab Wound": {
+  "rating": 3.6
+ },
+ "383397: Staff of the Death Magus": {
+  "rating": 1.7
+ },
+ "383398: Staff of the Flame Magus": {
+  "rating": 1.417
+ },
+ "383399: Staff of the Mind Magus": {
+  "rating": 1.4
+ },
+ "383400: Staff of the Sun Magus": {
+  "rating": 1.333
+ },
+ "383401: Staff of the Wild Magus": {
+  "rating": 0.929
+ },
+ "383402: Stain the Mind": {
+  "rating": 2.333
+ },
+ "383403: Statute of Denial": {
+  "rating": 1.714
+ },
+ "383404: Stoke the Flames": {
+  "rating": 3.625
+ },
+ "383405: Stormtide Leviathan": {
+  "rating": 4.1
+ },
+ "383406: Sunblade Elf": {
+  "rating": 3.95
+ },
+ "383407: Sungrace Pegasus": {
+  "rating": 3.083
+ },
+ "383409: Swamp": {
+  "rating": 3.5
+ },
+ "383412: The Chain Veil": {
+  "rating": 2.5
+ },
+ "383413: Thundering Giant": {
+  "rating": 2.333
+ },
+ "383414: Tireless Missionaries": {
+  "rating": 0.571
+ },
+ "383415: Titanic Growth": {
+  "rating": 2.3
+ },
+ "383416: Torch Fiend": {
+  "rating": 3.611
+ },
+ "383417: Tormod's Crypt": {
+  "rating": 3.85
+ },
+ "383418: Triplicate Spirits": {
+  "rating": 3.75
+ },
+ "383419: Turn to Frog": {
+  "rating": 3.4
+ },
+ "383420: Typhoid Rats": {
+  "rating": 3.4
+ },
+ "383421: Tyrant's Machine": {
+  "rating": 1.5
+ },
+ "383422: Ulcerate": {
+  "rating": 4.167
+ },
+ "383423: Undergrowth Scavenger": {
+  "rating": 2.833
+ },
+ "383424: Unmake the Graves": {
+  "rating": 2.786
+ },
+ "383425: Urborg, Tomb of Yawgmoth": {
+  "rating": 4.462
+ },
+ "383426: Venom Sliver": {
+  "rating": 3.778
+ },
+ "383427: Verdant Haven": {
+  "rating": 2.6
+ },
+ "383428: Vineweft": {
+  "rating": 1.917
+ },
+ "383429: Void Snare": {
+  "rating": 3.722
+ },
+ "383430: Wall of Essence": {
+  "rating": 3
+ },
+ "383431: Wall of Fire": {
+  "rating": 1.9
+ },
+ "383432: Wall of Frost": {
+  "rating": 3.214
+ },
+ "383433: Wall of Limbs": {
+  "rating": 2.583
+ },
+ "383434: Wall of Mulch": {
+  "rating": 3
+ },
+ "383435: Warden of the Beyond": {
+  "rating": 3.071
+ },
+ "383436: Waste Not": {
+  "rating": 3.818
+ },
+ "383437: Welkin Tern": {
+  "rating": 3.083
+ },
+ "383438: Will-Forged Golem": {
+  "rating": 2.5
+ },
+ "383439: Witch's Familiar": {
+  "rating": 1.929
+ },
+ "383440: Xathrid Slyblade": {
+  "rating": 3.083
+ },
+ "383441: Yavimaya Coast": {
+  "rating": 4.2
+ },
+ "383442: Yisan, the Wanderer Bard": {
+  "rating": 3.5
+ },
+ "383443: Zof Shade": {
+  "rating": 2.083
+ }
+}
