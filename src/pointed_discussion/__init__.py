@@ -11,6 +11,7 @@ from .data_utils import (
     iter_data_files,
     load_card_name_map,
     load_multiverse_ids,
+    load_ratings,
     load_scryfall_data,
     parse_data_key,
 )
@@ -27,6 +28,7 @@ __all__ = [
     "iter_data_files",
     "load_card_name_map",
     "load_multiverse_ids",
+    "load_ratings",
     "load_scryfall_data",
     "parse_data_key",
     # API utilities

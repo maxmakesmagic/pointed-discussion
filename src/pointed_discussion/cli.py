@@ -45,6 +45,15 @@ def main():
         ),
     )
     parser.add_argument(
+        "--ratings-dir",
+        type=Path,
+        default=Path("ratings"),
+        help=(
+            "Directory containing per-printing community ratings JSON files "
+            "(default: ratings)"
+        ),
+    )
+    parser.add_argument(
         "--single-card",
         type=int,
         metavar="MULTIVERSE_ID",
@@ -70,6 +79,7 @@ def main():
         output_dir=args.output_dir,
         images_dir=args.images_dir,
         base_url=args.base_url,
+        ratings_dir=args.ratings_dir,
     )
 
     try:

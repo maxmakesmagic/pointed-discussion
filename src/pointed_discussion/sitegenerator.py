@@ -13,6 +13,7 @@ from jinja2 import Environment, FileSystemLoader
 from pointed_discussion.data_utils import (
     iter_card_entries,
     load_card_name_map,
+    load_ratings,
     load_scryfall_data,
 )
 from pointed_discussion.models import Card, Comment
@@ -29,6 +30,7 @@ class SiteGenerator:
         output_dir: Path,
         images_dir: Optional[Path] = None,
         base_url: str = "",
+        ratings_dir: Optional[Path] = None,
     ):
         """Initialize the SiteGenerator with directories and options."""
         self.data_dir = Path(data_dir)
@@ -48,6 +50,11 @@ class SiteGenerator:
 
         # Load card name mapping if available
         self.cardmap = load_card_name_map()
+
+        # Load per-printing community ratings
+        self.ratings: Dict[int, float] = load_ratings(
+            ratings_dir if ratings_dir is not None else Path("ratings")
+        )
 
     def process_card_links(self, text: str) -> str:
         """Replace card links in text with local links to card pages."""
@@ -102,6 +109,9 @@ class SiteGenerator:
                     card.artist = scryfall_info.get("artist")
                     card.collector_number = scryfall_info.get("collector_number")
                     card.released_at = scryfall_info.get("released_at")
+
+                # Set per-printing community rating
+                card.community_rating = self.ratings.get(multiverse_id)
 
                 self.cards[multiverse_id] = card
 
@@ -260,31 +270,23 @@ class SiteGenerator:
             self.cards.values(), key=lambda c: len(c.comments), reverse=True
         )[:10]
 
-        # Calculate average ratings for cards with votes
-        def get_avg_rating(card):
-            if not card.comments:
-                return 0
-            rated_comments = [c for c in card.comments if c.vote_count > 0]
-            if not rated_comments:
-                return 0
-            return sum(c.star_rating for c in rated_comments) / len(rated_comments)
-
-        # Get highest rated cards (only those with at least 3 ratings)
-        rated_cards = [(card, get_avg_rating(card)) for card in self.cards.values()]
-        rated_cards = [
-            (card, rating)
-            for card, rating in rated_cards
-            if rating > 0 and sum(1 for c in card.comments if c.vote_count > 0) >= 3
+        # Get highest rated cards using per-printing community ratings
+        rated_cards_community = [
+            card
+            for card in self.cards.values()
+            if card.community_rating is not None
         ]
-        highest_rated = sorted(rated_cards, key=lambda x: x[1], reverse=True)[:10]
+        highest_rated = sorted(
+            rated_cards_community, key=lambda c: c.community_rating, reverse=True  # type: ignore[arg-type]
+        )[:10]
         highest_rated = [
             {
                 "name": card.name,
                 "multiverse_id": card.multiverse_id,
                 "display_name": card.display_name,
-                "avg_rating": rating,
+                "rating": card.community_rating,
             }
-            for card, rating in highest_rated
+            for card in highest_rated
         ]
 
         # Group cards alphabetically
@@ -292,13 +294,13 @@ class SiteGenerator:
         for card in sorted(self.cards.values(), key=lambda c: c.name.lower()):
             first_char = card.name[0].upper()
 
-            # Create enhanced card object with avg_rating
+            # Create enhanced card object with community rating
             enhanced_card = {
                 "name": card.name,
                 "multiverse_id": card.multiverse_id,
                 "display_name": card.display_name,
                 "comments": card.comments,
-                "avg_rating": get_avg_rating(card),
+                "rating": card.community_rating or 0,
             }
 
             if first_char.isdigit():

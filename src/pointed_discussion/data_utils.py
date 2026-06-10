@@ -102,6 +102,38 @@ def load_scryfall_data(scryfall_file: Optional[Path] = None) -> Dict[int, Dict]:
         return {}
 
 
+def load_ratings(ratings_dir: Optional[Path] = None) -> Dict[int, float]:
+    """Load per-printing community ratings from ratings directory.
+
+    Args:
+        ratings_dir: Directory containing ratings JSON files (same layout as
+            data files — rglob ``*.json``, keys ``"<mvid>: <name>"``, values
+            ``{"rating": <float>}``).  Defaults to ``"ratings"``.
+
+    Returns:
+        Dictionary mapping multiverse IDs to float ratings.  Returns ``{}``
+        when the directory does not exist or is not provided.
+
+    """
+    if ratings_dir is None:
+        ratings_dir = Path("ratings")
+
+    if not ratings_dir.exists():
+        log.info("No ratings data found at %s", ratings_dir)
+        return {}
+
+    result: Dict[int, float] = {}
+    for _, data in iter_data_files(ratings_dir):
+        for key, value in data.items():
+            try:
+                multiverse_id, _ = parse_data_key(key)
+                rating = value["rating"] if isinstance(value, dict) else float(value)
+                result[multiverse_id] = float(rating)
+            except Exception as e:
+                log.warning("Error parsing rating entry %s: %s", key, e)
+    return result
+
+
 def load_card_name_map(cardmap_file: Optional[Path] = None) -> Dict[str, int]:
     """Load cached card name to multiverse ID mapping.
 
