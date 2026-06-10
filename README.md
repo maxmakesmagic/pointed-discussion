@@ -2,6 +2,10 @@
 
 This repository contains a historical archive of the comments of the original Gatherer website operated by Wizards.
 
+## Re-Gathered
+
+[Re-Gathered](https://re-gathered.com/) is an up-to-date portal for viewing these comments. Credit to [@austin-schaefer](https://github.com/austin-schaefer) for implementing this!
+
 ## Data background
 
 V1 of this repository contained comments scraped from the Wayback machine, and as such was incomplete.
