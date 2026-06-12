@@ -1,0 +1,497 @@
+{
+ "83546: Teysa, Orzhov Scion": {
+  "rating": 4.004
+ },
+ "83630: Invoke the Firemind": {
+  "rating": 3.245
+ },
+ "83733: Crystal Seer": {
+  "rating": 1.195
+ },
+ "83739: To Arms!": {
+  "rating": 4.106
+ },
+ "83869: Angel of Despair": {
+  "rating": 4.264
+ },
+ "96825: Silhana Ledgewalker": {
+  "rating": 4.108
+ },
+ "96826: Quicken": {
+  "rating": 4.194
+ },
+ "96827: Repeal": {
+  "rating": 4.333
+ },
+ "96829: Electrolyze": {
+  "rating": 4.098
+ },
+ "96833: Gristleback": {
+  "rating": 2.929
+ },
+ "96834: Ghor-Clan Bloodscale": {
+  "rating": 1.638
+ },
+ "96835: Sky Swallower": {
+  "rating": 2.418
+ },
+ "96836: Bloodscale Prowler": {
+  "rating": 2.402
+ },
+ "96837: Gruul Guildmage": {
+  "rating": 2.966
+ },
+ "96838: Skyrider Trainee": {
+  "rating": 1.085
+ },
+ "96840: Hypervolt Grasp": {
+  "rating": 2.909
+ },
+ "96841: Lionheart Maverick": {
+  "rating": 2.865
+ },
+ "96842: Ghostway": {
+  "rating": 4.097
+ },
+ "96843: Harrier Griffin": {
+  "rating": 2.75
+ },
+ "96844: Orzhov Pontiff": {
+  "rating": 3.44
+ },
+ "96845: Pyromatics": {
+  "rating": 3.119
+ },
+ "96848: Dryad Sophisticate": {
+  "rating": 4.082
+ },
+ "96849: Ghor-Clan Savage": {
+  "rating": 1.772
+ },
+ "96851: Vacuumelt": {
+  "rating": 1.87
+ },
+ "96853: Petrified Wood-Kin": {
+  "rating": 3.728
+ },
+ "96855: Restless Bones": {
+  "rating": 1.645
+ },
+ "96857: Bioplasm": {
+  "rating": 2.685
+ },
+ "96858: Abyssal Nocturnus": {
+  "rating": 3.604
+ },
+ "96859: Gruul Signet": {
+  "rating": 3.359
+ },
+ "96860: Vertigo Spawn": {
+  "rating": 2.5
+ },
+ "96863: Silhana Starfletcher": {
+  "rating": 3.119
+ },
+ "96864: Gigadrowse": {
+  "rating": 4.149
+ },
+ "96865: Spelltithe Enforcer": {
+  "rating": 3.3
+ },
+ "96867: Izzet Signet": {
+  "rating": 3.716
+ },
+ "96870: Orzhov Signet": {
+  "rating": 3.395
+ },
+ "96871: Orzhov Basilica": {
+  "rating": 3.783
+ },
+ "96873: Hatching Plans": {
+  "rating": 3.896
+ },
+ "96874: Living Inferno": {
+  "rating": 3.4
+ },
+ "96876: Cryptwailing": {
+  "rating": 1.985
+ },
+ "96877: Gatherer of Graces": {
+  "rating": 2.988
+ },
+ "96882: Pillory of the Sleepless": {
+  "rating": 4.091
+ },
+ "96887: Gruul Scrapper": {
+  "rating": 1.804
+ },
+ "96888: Seize the Soul": {
+  "rating": 3.661
+ },
+ "96889: Sinstriker's Will": {
+  "rating": 2.902
+ },
+ "96890: Frazzle": {
+  "rating": 1.033
+ },
+ "96891: Gelectrode": {
+  "rating": 4.162
+ },
+ "96892: Agent of Masks": {
+  "rating": 3.036
+ },
+ "96893: Orzhov Euthanist": {
+  "rating": 3.103
+ },
+ "96896: Stomping Ground": {
+  "rating": 4.262
+ },
+ "96897: Petrahydrox": {
+  "rating": 2.833
+ },
+ "96898: Burning-Tree Bloodscale": {
+  "rating": 2.267
+ },
+ "96899: Skeletal Vampire": {
+  "rating": 3.935
+ },
+ "96901: Ghost Warden": {
+  "rating": 2.662
+ },
+ "96903: Wee Dragonauts": {
+  "rating": 4.113
+ },
+ "96904: Scab-Clan Mauler": {
+  "rating": 4.099
+ },
+ "96906: Train of Thought": {
+  "rating": 2.75
+ },
+ "96907: Cerebral Vortex": {
+  "rating": 3.808
+ },
+ "96908: Ghost Council of Orzhova": {
+  "rating": 3.929
+ },
+ "96910: Mourning Thrull": {
+  "rating": 3.541
+ },
+ "96916: Runeboggle": {
+  "rating": 2.083
+ },
+ "96918: Crash Landing": {
+  "rating": 1.786
+ },
+ "96920: Vedalken Plotter": {
+  "rating": 2.851
+ },
+ "96921: Orzhov Guildmage": {
+  "rating": 3.9
+ },
+ "96922: Hissing Miasma": {
+  "rating": 3.93
+ },
+ "96923: Steam Vents": {
+  "rating": 4.26
+ },
+ "96924: Aetherplasm": {
+  "rating": 4.025
+ },
+ "96927: Stratozeppelid": {
+  "rating": 2.015
+ },
+ "96928: Stitch in Time": {
+  "rating": 4.083
+ },
+ "96929: Droning Bureaucrats": {
+  "rating": 3.468
+ },
+ "96930: Mortify": {
+  "rating": 4.229
+ },
+ "96931: Predatory Focus": {
+  "rating": 3.575
+ },
+ "96932: Smogsteed Rider": {
+  "rating": 3.419
+ },
+ "96934: Wild Cantor": {
+  "rating": 4.18
+ },
+ "96935: Godless Shrine": {
+  "rating": 4.261
+ },
+ "96936: Cremate": {
+  "rating": 3.7
+ },
+ "96937: Nivix, Aerie of the Firemind": {
+  "rating": 1.662
+ },
+ "96938: Order of the Stars": {
+  "rating": 3.746
+ },
+ "96940: Skarrgan Pit-Skulk": {
+  "rating": 4
+ },
+ "96944: Shadow Lance": {
+  "rating": 3.575
+ },
+ "96945: Feral Animist": {
+  "rating": 3.333
+ },
+ "96946: Thunderheads": {
+  "rating": 2.765
+ },
+ "96949: Daggerclaw Imp": {
+  "rating": 2.625
+ },
+ "96951: Benediction of Moons": {
+  "rating": 2.026
+ },
+ "96952: Niv-Mizzet, the Firemind": {
+  "rating": 4.173
+ },
+ "96953: Absolver Thrull": {
+  "rating": 2.963
+ },
+ "96954: Shrieking Grotesque": {
+  "rating": 3.321
+ },
+ "96957: Skarrgan Firebird": {
+  "rating": 3.826
+ },
+ "96960: Tin Street Hooligan": {
+  "rating": 4.256
+ },
+ "96961: Cry of Contrition": {
+  "rating": 3.553
+ },
+ "96962: Belfry Spirit": {
+  "rating": 3.05
+ },
+ "96964: Battering Wurm": {
+  "rating": 2.609
+ },
+ "96966: Izzet Guildmage": {
+  "rating": 4.282
+ },
+ "96968: Storm Herd": {
+  "rating": 3.705
+ },
+ "96969: Caustic Rain": {
+  "rating": 2.986
+ },
+ "96970: Skarrg, the Rage Pits": {
+  "rating": 3.904
+ },
+ "96972: Revenant Patriarch": {
+  "rating": 2.808
+ },
+ "96974: Ostiary Thrull": {
+  "rating": 1.486
+ },
+ "97190: Sanguine Praetor": {
+  "rating": 3.229
+ },
+ "97192: Moratorium Stone": {
+  "rating": 3.371
+ },
+ "97193: Debtors' Knell": {
+  "rating": 4.134
+ },
+ "97194: Conjurer's Ban": {
+  "rating": 2.782
+ },
+ "97197: Djinn Illuminatus": {
+  "rating": 4.093
+ },
+ "97199: Rumbling Slum": {
+  "rating": 4.073
+ },
+ "97200: Rabble-Rouser": {
+  "rating": 2.441
+ },
+ "97201: Steamcore Weird": {
+  "rating": 2.946
+ },
+ "97202: Izzet Chronarch": {
+  "rating": 2.971
+ },
+ "97203: Withstand": {
+  "rating": 1.952
+ },
+ "97204: Schismotivate": {
+  "rating": 3.547
+ },
+ "97205: Burning-Tree Shaman": {
+  "rating": 4.066
+ },
+ "97206: Orzhova, the Church of Deals": {
+  "rating": 2.919
+ },
+ "97207: Killer Instinct": {
+  "rating": 3.408
+ },
+ "97208: Tibor and Lumia": {
+  "rating": 3.718
+ },
+ "97211: Goblin Flectomancer": {
+  "rating": 3.837
+ },
+ "97212: Ulasht, the Hate Seed": {
+  "rating": 3.929
+ },
+ "97215: Culling Sun": {
+  "rating": 3.358
+ },
+ "97216: Savage Twister": {
+  "rating": 4.051
+ },
+ "97217: Parallectric Feedback": {
+  "rating": 3.75
+ },
+ "97218: Torch Drake": {
+  "rating": 1.838
+ },
+ "97219: Castigate": {
+  "rating": 4.218
+ },
+ "97220: Izzet Boilerworks": {
+  "rating": 4
+ },
+ "97221: Douse in Gloom": {
+  "rating": 2.606
+ },
+ "97222: Skarrgan Skybreaker": {
+  "rating": 2.943
+ },
+ "97223: Gruul Turf": {
+  "rating": 3.625
+ },
+ "97225: Exhumer Thrull": {
+  "rating": 2.032
+ },
+ "97227: Blind Hunter": {
+  "rating": 3.936
+ },
+ "97228: Graven Dominator": {
+  "rating": 3.462
+ },
+ "97229: Borborygmos": {
+  "rating": 4.021
+ },
+ "97230: Wurmweaver Coil": {
+  "rating": 3.326
+ },
+ "97231: Souls of the Faultless": {
+  "rating": 4.14
+ },
+ "97233: Shattering Spree": {
+  "rating": 4.586
+ },
+ "97234: Siege of Towers": {
+  "rating": 2.821
+ },
+ "97236: Ogre Savant": {
+  "rating": 1.561
+ },
+ "97238: Earth Surge": {
+  "rating": 3.096
+ },
+ "106568: Mimeofacture": {
+  "rating": 3.536
+ },
+ "106575: Streetbreaker Wurm": {
+  "rating": 2.952
+ },
+ "106576: Giant Solifuge": {
+  "rating": 4.051
+ },
+ "107090: Witch-Maw Nephilim": {
+  "rating": 4.109
+ },
+ "107091: Dune-Brood Nephilim": {
+  "rating": 4.061
+ },
+ "107092: Ink-Treader Nephilim": {
+  "rating": 4.027
+ },
+ "107093: Yore-Tiller Nephilim": {
+  "rating": 3.681
+ },
+ "107094: Glint-Eye Nephilim": {
+  "rating": 3.782
+ },
+ "107095: Sword of the Paruns": {
+  "rating": 3.44
+ },
+ "107096: Mizzium Transreliquat": {
+  "rating": 4.2
+ },
+ "107097: Wildsize": {
+  "rating": 3
+ },
+ "107098: Gruul War Plow": {
+  "rating": 3.88
+ },
+ "107099: Poisonbelly Ogre": {
+  "rating": 2.433
+ },
+ "107680: Leap of Flame": {
+  "rating": 2.942
+ },
+ "107681: Fencer's Magemark": {
+  "rating": 3.207
+ },
+ "107682: Leyline of the Void": {
+  "rating": 4.531
+ },
+ "107683: Gruul Nodorog": {
+  "rating": 1.6
+ },
+ "107684: Infiltrator's Magemark": {
+  "rating": 3.935
+ },
+ "107685: Necromancer's Magemark": {
+  "rating": 3.449
+ },
+ "107686: Leyline of Lightning": {
+  "rating": 2.879
+ },
+ "107687: Drowned Rusalka": {
+  "rating": 3.205
+ },
+ "107688: Guardian's Magemark": {
+  "rating": 2.405
+ },
+ "107689: Beastmaster's Magemark": {
+  "rating": 2.833
+ },
+ "107691: Plagued Rusalka": {
+  "rating": 3.613
+ },
+ "107692: Starved Rusalka": {
+  "rating": 1.478
+ },
+ "107693: Wreak Havoc": {
+  "rating": 3.34
+ },
+ "107694: Primeval Light": {
+  "rating": 3.605
+ },
+ "107695: Leyline of Lifeforce": {
+  "rating": 3.42
+ },
+ "107696: Martyred Rusalka": {
+  "rating": 2.552
+ },
+ "107697: Leyline of Singularity": {
+  "rating": 4.073
+ },
+ "107698: Scorched Rusalka": {
+  "rating": 3.94
+ },
+ "107699: Leyline of the Meek": {
+  "rating": 3.638
+ }
+}

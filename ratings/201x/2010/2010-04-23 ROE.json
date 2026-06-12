@@ -1,0 +1,746 @@
+{
+ "192218: Gideon Jura": {
+  "rating": 4.101
+ },
+ "193414: Wildheart Invoker": {
+  "rating": 3.551
+ },
+ "193415: Skeletal Wurm": {
+  "rating": 3.494
+ },
+ "193416: Umbra Mystic": {
+  "rating": 3.742
+ },
+ "193420: Nest Invader": {
+  "rating": 4.264
+ },
+ "193421: Hedron-Field Purists": {
+  "rating": 3.473
+ },
+ "193426: Lone Missionary": {
+  "rating": 4.051
+ },
+ "193428: Inquisition of Kozilek": {
+  "rating": 4.401
+ },
+ "193429: Artisan of Kozilek": {
+  "rating": 4.009
+ },
+ "193431: Pestilence Demon": {
+  "rating": 4.098
+ },
+ "193432: Goblin Tunneler": {
+  "rating": 3.292
+ },
+ "193433: Kabira Vindicator": {
+  "rating": 3.696
+ },
+ "193435: Spawning Breath": {
+  "rating": 3.655
+ },
+ "193436: Angelheart Vial": {
+  "rating": 2.699
+ },
+ "193437: Ancient Stirrings": {
+  "rating": 4.182
+ },
+ "193439: Naturalize": {
+  "rating": 4.247
+ },
+ "193440: Champion's Drake": {
+  "rating": 3.231
+ },
+ "193441: Keening Stone": {
+  "rating": 4.039
+ },
+ "193442: Brimstone Mage": {
+  "rating": 3.357
+ },
+ "193443: Venerated Teacher": {
+  "rating": 4.145
+ },
+ "193444: Demonic Appetite": {
+  "rating": 2.688
+ },
+ "193445: Guard Duty": {
+  "rating": 3.595
+ },
+ "193447: Curse of Wizardry": {
+  "rating": 3.058
+ },
+ "193448: Time of Heroes": {
+  "rating": 4.104
+ },
+ "193451: Tajuru Preserver": {
+  "rating": 4.383
+ },
+ "193452: Emrakul, the Aeons Torn": {
+  "rating": 4.406
+ },
+ "193453: Magmaw": {
+  "rating": 2.99
+ },
+ "193454: Rage Nimbus": {
+  "rating": 3.959
+ },
+ "193455: Thought Gorger": {
+  "rating": 3.911
+ },
+ "193456: Unified Will": {
+  "rating": 3.491
+ },
+ "193458: Gravitational Shift": {
+  "rating": 3.885
+ },
+ "193462: Joraga Treespeaker": {
+  "rating": 4.258
+ },
+ "193463: Lightmine Field": {
+  "rating": 4.079
+ },
+ "193464: Jaddi Lifestrider": {
+  "rating": 3.412
+ },
+ "193465: Bramblesnap": {
+  "rating": 3.828
+ },
+ "193467: Near-Death Experience": {
+  "rating": 3.863
+ },
+ "193468: Conquering Manticore": {
+  "rating": 4.085
+ },
+ "193469: Lay Bare": {
+  "rating": 2.328
+ },
+ "193470: Jwari Scuttler": {
+  "rating": 2.056
+ },
+ "193472: Nirkana Revenant": {
+  "rating": 4.251
+ },
+ "193474: Splinter Twin": {
+  "rating": 4.27
+ },
+ "193475: Consume the Meek": {
+  "rating": 4.222
+ },
+ "193476: Frostwind Invoker": {
+  "rating": 2.289
+ },
+ "193478: Aura Gnarlid": {
+  "rating": 4.258
+ },
+ "193479: Explosive Revelation": {
+  "rating": 3.116
+ },
+ "193480: Vent Sentinel": {
+  "rating": 4
+ },
+ "193482: Kargan Dragonlord": {
+  "rating": 4.388
+ },
+ "193483: Evolving Wilds": {
+  "rating": 3.671
+ },
+ "193484: World at War": {
+  "rating": 4.067
+ },
+ "193485: Emrakul's Hatcher": {
+  "rating": 4.08
+ },
+ "193487: Nighthaze": {
+  "rating": 2.25
+ },
+ "193489: Living Destiny": {
+  "rating": 2.171
+ },
+ "193490: Training Grounds": {
+  "rating": 4.375
+ },
+ "193491: Mnemonic Wall": {
+  "rating": 3.122
+ },
+ "193492: Eldrazi Conscription": {
+  "rating": 4.266
+ },
+ "193495: Eel Umbra": {
+  "rating": 4.098
+ },
+ "193496: Grotag Siege-Runner": {
+  "rating": 2.906
+ },
+ "193497: Momentous Fall": {
+  "rating": 4.108
+ },
+ "193499: Soul's Attendant": {
+  "rating": 4.25
+ },
+ "193500: Crab Umbra": {
+  "rating": 3.556
+ },
+ "193501: Dreamstone Hedron": {
+  "rating": 3.59
+ },
+ "193503: Gelatinous Genesis": {
+  "rating": 3.67
+ },
+ "193505: Merfolk Skyscout": {
+  "rating": 3.278
+ },
+ "193506: Akoum Boulderfoot": {
+  "rating": 1.562
+ },
+ "193507: Awakening Zone": {
+  "rating": 4.248
+ },
+ "193509: Boar Umbra": {
+  "rating": 3.796
+ },
+ "193511: Arrogant Bloodlord": {
+  "rating": 3.732
+ },
+ "193512: Forked Bolt": {
+  "rating": 3.984
+ },
+ "193513: Gloomhunter": {
+  "rating": 1.67
+ },
+ "193514: Makindi Griffin": {
+  "rating": 2.79
+ },
+ "193515: Cadaver Imp": {
+  "rating": 3.644
+ },
+ "193517: Ogre's Cleaver": {
+  "rating": 2.892
+ },
+ "193518: Lust for War": {
+  "rating": 3.708
+ },
+ "193519: Deprive": {
+  "rating": 4.042
+ },
+ "193520: Induce Despair": {
+  "rating": 3.333
+ },
+ "193523: Battle-Rattle Shaman": {
+  "rating": 3.137
+ },
+ "193525: Stalwart Shield-Bearers": {
+  "rating": 3.439
+ },
+ "193526: Growth Spasm": {
+  "rating": 4.033
+ },
+ "193527: Irresistible Prey": {
+  "rating": 3.29
+ },
+ "193528: Pennon Blade": {
+  "rating": 3.264
+ },
+ "193531: Survival Cache": {
+  "rating": 3.946
+ },
+ "193534: Shrivel": {
+  "rating": 3.083
+ },
+ "193535: Spawnsire of Ulamog": {
+  "rating": 4.113
+ },
+ "193536: Hedron Matrix": {
+  "rating": 3.115
+ },
+ "193537: Sporecap Spider": {
+  "rating": 3.25
+ },
+ "193538: Bloodrite Invoker": {
+  "rating": 2.185
+ },
+ "193541: Mammoth Umbra": {
+  "rating": 3.148
+ },
+ "193542: Dread Drone": {
+  "rating": 2.58
+ },
+ "193543: Zof Shade": {
+  "rating": 1.857
+ },
+ "193544: Kor Spiritdancer": {
+  "rating": 4.184
+ },
+ "193545: Wall of Omens": {
+  "rating": 4.261
+ },
+ "193546: Last Kiss": {
+  "rating": 2.228
+ },
+ "193547: Might of the Masses": {
+  "rating": 4.022
+ },
+ "193549: Luminous Wake": {
+  "rating": 3.308
+ },
+ "193550: Kor Line-Slinger": {
+  "rating": 2.293
+ },
+ "193551: Khalni Hydra": {
+  "rating": 4.252
+ },
+ "193552: Valakut Fireboar": {
+  "rating": 3.152
+ },
+ "193554: Battle Rampart": {
+  "rating": 3.392
+ },
+ "193556: Vengevine": {
+  "rating": 4.394
+ },
+ "193557: Glory Seeker": {
+  "rating": 2.118
+ },
+ "193558: Dawnglare Invoker": {
+  "rating": 3.681
+ },
+ "193563: Wrap in Flames": {
+  "rating": 2.936
+ },
+ "193565: Prey's Vengeance": {
+  "rating": 3.694
+ },
+ "193566: Puncturing Light": {
+  "rating": 2.765
+ },
+ "193567: Stomper Cub": {
+  "rating": 2.698
+ },
+ "193569: Haze Frog": {
+  "rating": 2.273
+ },
+ "193571: Staggershock": {
+  "rating": 4.227
+ },
+ "193573: Raid Bombardment": {
+  "rating": 4.145
+ },
+ "193575: Soulsurge Elemental": {
+  "rating": 3.582
+ },
+ "193577: See Beyond": {
+  "rating": 4.322
+ },
+ "193579: Disaster Radius": {
+  "rating": 3.317
+ },
+ "193582: Renegade Doppelganger": {
+  "rating": 3.536
+ },
+ "193583: Ogre Sentry": {
+  "rating": 2.64
+ },
+ "193584: Dormant Gomazoa": {
+  "rating": 2.786
+ },
+ "193585: Snake Umbra": {
+  "rating": 3.778
+ },
+ "193590: Lighthouse Chronologist": {
+  "rating": 4.274
+ },
+ "193591: Skywatcher Adept": {
+  "rating": 3.14
+ },
+ "193593: Drana, Kalastria Bloodchief": {
+  "rating": 4.068
+ },
+ "193594: Narcolepsy": {
+  "rating": 3.917
+ },
+ "193595: Smite": {
+  "rating": 4.111
+ },
+ "193596: Sphinx-Bone Wand": {
+  "rating": 2.922
+ },
+ "193598: Student of Warfare": {
+  "rating": 4.414
+ },
+ "193599: Aura Finesse": {
+  "rating": 3.008
+ },
+ "193600: Domestication": {
+  "rating": 3.172
+ },
+ "193602: Guard Gomazoa": {
+  "rating": 4.165
+ },
+ "193603: Regress": {
+  "rating": 2.639
+ },
+ "193605: Realms Uncharted": {
+  "rating": 3.778
+ },
+ "193607: Pathrazer of Ulamog": {
+  "rating": 3.985
+ },
+ "193608: Contaminated Ground": {
+  "rating": 3.644
+ },
+ "193610: Overgrown Battlement": {
+  "rating": 4.268
+ },
+ "193611: Kazandu Tuskcaller": {
+  "rating": 3.699
+ },
+ "193612: Guul Draz Assassin": {
+  "rating": 3.917
+ },
+ "193614: Skittering Invasion": {
+  "rating": 3.325
+ },
+ "193615: Soulbound Guardians": {
+  "rating": 2.276
+ },
+ "193616: Hand of Emrakul": {
+  "rating": 4.004
+ },
+ "193619: Suffer the Past": {
+  "rating": 4.047
+ },
+ "193621: Pelakka Wurm": {
+  "rating": 4.269
+ },
+ "193624: Lavafume Invoker": {
+  "rating": 2.833
+ },
+ "193625: Corpsehatch": {
+  "rating": 3.05
+ },
+ "193626: Enatu Golem": {
+  "rating": 1.963
+ },
+ "193628: Nema Siltlurker": {
+  "rating": 1.277
+ },
+ "193629: Deathless Angel": {
+  "rating": 4.041
+ },
+ "193632: Kozilek, Butcher of Truth": {
+  "rating": 4.398
+ },
+ "193633: Brood Birthing": {
+  "rating": 3.986
+ },
+ "193634: Broodwarden": {
+  "rating": 3.945
+ },
+ "193635: Drake Umbra": {
+  "rating": 3.475
+ },
+ "193638: Beastbreaker of Bala Ged": {
+  "rating": 3.409
+ },
+ "193643: Escaped Null": {
+  "rating": 3.633
+ },
+ "193647: Null Champion": {
+  "rating": 3.344
+ },
+ "193648: Flame Slash": {
+  "rating": 4.22
+ },
+ "193649: Heat Ray": {
+  "rating": 3.216
+ },
+ "193651: Coralhelm Commander": {
+  "rating": 4.402
+ },
+ "193652: Reality Spasm": {
+  "rating": 3.234
+ },
+ "193654: Reinforced Bulwark": {
+  "rating": 2.372
+ },
+ "193656: Hellcarver Demon": {
+  "rating": 4.015
+ },
+ "193657: Repay in Kind": {
+  "rating": 3.446
+ },
+ "193658: All Is Dust": {
+  "rating": 4.397
+ },
+ "193659: Sarkhan the Mad": {
+  "rating": 3.473
+ },
+ "193660: Linvala, Keeper of Silence": {
+  "rating": 4.396
+ },
+ "194902: Goblin Arsonist": {
+  "rating": 3.922
+ },
+ "194903: Enclave Cryptologist": {
+  "rating": 3.944
+ },
+ "194907: Pawn of Ulamog": {
+  "rating": 4.007
+ },
+ "194908: Ulamog's Crusher": {
+  "rating": 4.109
+ },
+ "194911: Ulamog, the Infinite Gyre": {
+  "rating": 4.086
+ },
+ "194912: Kiln Fiend": {
+  "rating": 4.393
+ },
+ "194915: Perish the Thought": {
+  "rating": 2.512
+ },
+ "194916: Warmonger's Chariot": {
+  "rating": 3.317
+ },
+ "194917: Transcendent Master": {
+  "rating": 4.263
+ },
+ "194918: Caravan Escort": {
+  "rating": 2.816
+ },
+ "194919: Gravity Well": {
+  "rating": 3.844
+ },
+ "194922: Vendetta": {
+  "rating": 4.081
+ },
+ "194923: Oust": {
+  "rating": 3.944
+ },
+ "194925: Spider Umbra": {
+  "rating": 3.778
+ },
+ "194926: Daggerback Basilisk": {
+  "rating": 3.083
+ },
+ "194927: Devastating Summons": {
+  "rating": 3.909
+ },
+ "194928: Hada Spy Patrol": {
+  "rating": 3.507
+ },
+ "194929: Ondu Giant": {
+  "rating": 3.562
+ },
+ "194930: Repel the Darkness": {
+  "rating": 3
+ },
+ "194933: Nirkana Cutthroat": {
+  "rating": 4.017
+ },
+ "194936: Recurring Insight": {
+  "rating": 3.107
+ },
+ "194938: Sea Gate Oracle": {
+  "rating": 4.017
+ },
+ "194939: Essence Feed": {
+  "rating": 2.511
+ },
+ "194940: Tuktuk the Explorer": {
+  "rating": 4.011
+ },
+ "194941: Eland Umbra": {
+  "rating": 3.055
+ },
+ "194944: Bala Ged Scorpion": {
+  "rating": 2.765
+ },
+ "194946: Runed Servitor": {
+  "rating": 3.278
+ },
+ "194947: Halimar Wavewatch": {
+  "rating": 3.262
+ },
+ "194948: Death Cultist": {
+  "rating": 3.24
+ },
+ "194949: Emerge Unscathed": {
+  "rating": 4.038
+ },
+ "194950: Shared Discovery": {
+  "rating": 3.038
+ },
+ "194951: Knight of Cliffhaven": {
+  "rating": 2.914
+ },
+ "198162: Lagac Lizard": {
+  "rating": 1.556
+ },
+ "198163: Echo Mage": {
+  "rating": 4.244
+ },
+ "198164: Lord of Shatterskull Pass": {
+  "rating": 4.147
+ },
+ "198165: Harmless Assault": {
+  "rating": 2.556
+ },
+ "198166: Zulaport Enforcer": {
+  "rating": 2.173
+ },
+ "198167: Mul Daya Channelers": {
+  "rating": 4.239
+ },
+ "198168: Distortion Strike": {
+  "rating": 4.225
+ },
+ "198169: Sphinx of Magosi": {
+  "rating": 4.269
+ },
+ "198170: Fissure Vent": {
+  "rating": 1.875
+ },
+ "198171: It That Betrays": {
+  "rating": 4.255
+ },
+ "198172: Gigantomancer": {
+  "rating": 3.74
+ },
+ "198173: Merfolk Observer": {
+  "rating": 2.274
+ },
+ "198174: Phantasmal Abomination": {
+  "rating": 2.552
+ },
+ "198175: Totem-Guide Hartebeest": {
+  "rating": 3.318
+ },
+ "198176: Ikiral Outrider": {
+  "rating": 2.788
+ },
+ "198177: Traitorous Instinct": {
+  "rating": 3.347
+ },
+ "198179: Surreal Memoir": {
+  "rating": 3.856
+ },
+ "198180: Nomads' Assembly": {
+  "rating": 4.074
+ },
+ "198181: Rapacious One": {
+  "rating": 4.122
+ },
+ "198294: Hyena Umbra": {
+  "rating": 4.132
+ },
+ "198295: Prophetic Prism": {
+  "rating": 3.812
+ },
+ "198296: Not of This World": {
+  "rating": 3.5
+ },
+ "198298: Virulent Swipe": {
+  "rating": 4.16
+ },
+ "198301: Cast Through Time": {
+  "rating": 3.673
+ },
+ "198302: Baneful Omen": {
+  "rating": 3.641
+ },
+ "198303: Kozilek's Predator": {
+  "rating": 3.957
+ },
+ "198304: Bear Umbra": {
+  "rating": 4.212
+ },
+ "198305: Affa Guard Hound": {
+  "rating": 2.938
+ },
+ "198306: Hellion Eruption": {
+  "rating": 3.528
+ },
+ "198308: Bloodthrone Vampire": {
+  "rating": 3.393
+ },
+ "198310: Surrakar Spellblade": {
+  "rating": 3.845
+ },
+ "198311: Fleeting Distraction": {
+  "rating": 1.422
+ },
+ "198312: Eldrazi Temple": {
+  "rating": 3.971
+ },
+ "198313: Demystify": {
+  "rating": 3.206
+ },
+ "205923: Mountain": {
+  "rating": 4.403
+ },
+ "205925: Plains": {
+  "rating": 3.923
+ },
+ "205926: Mountain": {
+  "rating": 4.054
+ },
+ "205927: Forest": {
+  "rating": 4.266
+ },
+ "205928: Plains": {
+  "rating": 4.455
+ },
+ "205929: Leaf Arrow": {
+  "rating": 3.282
+ },
+ "205931: Plains": {
+  "rating": 4.556
+ },
+ "205932: Island": {
+  "rating": 4.446
+ },
+ "205933: Forest": {
+  "rating": 4.121
+ },
+ "205935: Forest": {
+  "rating": 4.274
+ },
+ "205936: Consuming Vapors": {
+  "rating": 4.276
+ },
+ "205937: Mountain": {
+  "rating": 4.122
+ },
+ "205938: Plains": {
+  "rating": 4.021
+ },
+ "205939: Island": {
+  "rating": 4.296
+ },
+ "205940: Swamp": {
+  "rating": 4.4
+ },
+ "205941: Swamp": {
+  "rating": 3.629
+ },
+ "205942: Swamp": {
+  "rating": 4.2
+ },
+ "205944: Island": {
+  "rating": 4.216
+ },
+ "205945: Island": {
+  "rating": 4.671
+ },
+ "205947: Mountain": {
+  "rating": 4.417
+ },
+ "205948: Swamp": {
+  "rating": 4.56
+ },
+ "205949: Forest": {
+  "rating": 4.232
+ },
+ "209108: Mortician Beetle": {
+  "rating": 4.175
+ }
+}

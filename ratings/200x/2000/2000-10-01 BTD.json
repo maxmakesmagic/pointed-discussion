@@ -1,0 +1,272 @@
+{
+ "26605: Kird Ape": {
+  "rating": 4.686
+ },
+ "26606: Clockwork Avian": {
+  "rating": 2.724
+ },
+ "26607: Sengir Vampire": {
+  "rating": 4.25
+ },
+ "26608: Mahamoti Djinn": {
+  "rating": 3.5
+ },
+ "26609: Force of Nature": {
+  "rating": 3.233
+ },
+ "26611: Shambling Strider": {
+  "rating": 2.696
+ },
+ "26613: Diabolic Vision": {
+  "rating": 4.403
+ },
+ "26614: Quirion Elves": {
+  "rating": 4.186
+ },
+ "26615: Tar Pit Warrior": {
+  "rating": 3.633
+ },
+ "26616: Impulse": {
+  "rating": 4.66
+ },
+ "26617: Clockwork Beast": {
+  "rating": 2.946
+ },
+ "26618: Drain Life": {
+  "rating": 3.868
+ },
+ "26619: Leviathan": {
+  "rating": 2.583
+ },
+ "26620: Ball Lightning": {
+  "rating": 4.245
+ },
+ "26621: Fireball": {
+  "rating": 4.405
+ },
+ "26622: Shivan Dragon": {
+  "rating": 4.196
+ },
+ "26623: Svyelunite Temple": {
+  "rating": 3.46
+ },
+ "26624: Hulking Cyclops": {
+  "rating": 3.121
+ },
+ "26625: Cloud Djinn": {
+  "rating": 2.167
+ },
+ "26626: Bloodrock Cyclops": {
+  "rating": 3.129
+ },
+ "26627: Giant Crab": {
+  "rating": 3.118
+ },
+ "26628: Segmented Wurm": {
+  "rating": 2.197
+ },
+ "26629: Death Stroke": {
+  "rating": 4
+ },
+ "26631: Yavimaya Wurm": {
+  "rating": 3.654
+ },
+ "26632: Dark Ritual": {
+  "rating": 4.868
+ },
+ "26633: Thundering Giant": {
+  "rating": 3.242
+ },
+ "26634: Slippery Karst": {
+  "rating": 3.517
+ },
+ "26635: Smoldering Crater": {
+  "rating": 3.328
+ },
+ "26636: Remote Isle": {
+  "rating": 3.692
+ },
+ "26637: Polluted Mire": {
+  "rating": 3.45
+ },
+ "26638: Killer Whale": {
+  "rating": 3.364
+ },
+ "26639: Sonic Burst": {
+  "rating": 2.533
+ },
+ "26640: Crashing Boars": {
+  "rating": 3.3
+ },
+ "26641: Gaseous Form": {
+  "rating": 3.955
+ },
+ "26642: Vigilant Drake": {
+  "rating": 2.75
+ },
+ "26643: Lava Axe": {
+  "rating": 3.2
+ },
+ "26644: Counterspell": {
+  "rating": 4.638
+ },
+ "26645: Shock": {
+  "rating": 3.235
+ },
+ "26646: Talruum Minotaur": {
+  "rating": 3.688
+ },
+ "26647: Wild Growth": {
+  "rating": 3.8
+ },
+ "26648: Fog": {
+  "rating": 4.022
+ },
+ "26649: Giant Growth": {
+  "rating": 4.343
+ },
+ "26650: Ebon Stronghold": {
+  "rating": 3.314
+ },
+ "26651: Dwarven Ruins": {
+  "rating": 2.912
+ },
+ "26652: Havenwood Battleground": {
+  "rating": 3.327
+ },
+ "26653: Blizzard Elemental": {
+  "rating": 2.857
+ },
+ "26654: Air Elemental": {
+  "rating": 3.229
+ },
+ "26655: Balduvian Horde": {
+  "rating": 3.455
+ },
+ "26656: Skittering Horror": {
+  "rating": 3.772
+ },
+ "26657: Fog Elemental": {
+  "rating": 3.093
+ },
+ "26658: Power Sink": {
+  "rating": 4.379
+ },
+ "26659: Terror": {
+  "rating": 4.054
+ },
+ "26660: Fallen Angel": {
+  "rating": 4.224
+ },
+ "26661: Plated Spider": {
+  "rating": 3.611
+ },
+ "27227: Erhnam Djinn": {
+  "rating": 3.855
+ },
+ "27233: Swamp": {
+  "rating": 4.8
+ },
+ "27234: Swamp": {
+  "rating": 4.75
+ },
+ "27235: Swamp": {
+  "rating": 4.714
+ },
+ "27236: Island": {
+  "rating": 4.568
+ },
+ "27237: Island": {
+  "rating": 4.72
+ },
+ "27238: Island": {
+  "rating": 4.214
+ },
+ "27239: Mountain": {
+  "rating": 4.448
+ },
+ "27240: Mountain": {
+  "rating": 4.773
+ },
+ "27241: Mountain": {
+  "rating": 4.5
+ },
+ "27242: Forest": {
+  "rating": 4.648
+ },
+ "27243: Forest": {
+  "rating": 4.389
+ },
+ "27244: Forest": {
+  "rating": 4.62
+ },
+ "27245: Bone Harvest": {
+  "rating": 3.718
+ },
+ "27246: Brainstorm": {
+  "rating": 4.731
+ },
+ "27247: Cloud Elemental": {
+  "rating": 3.3
+ },
+ "27248: Coercion": {
+  "rating": 3.433
+ },
+ "27249: Crash of Rhinos": {
+  "rating": 3.551
+ },
+ "27250: Deadly Insect": {
+  "rating": 3.198
+ },
+ "27251: Diabolic Edict": {
+  "rating": 4.574
+ },
+ "27253: Gravedigger": {
+  "rating": 3.733
+ },
+ "27254: Hollow Dogs": {
+  "rating": 2.727
+ },
+ "27255: Lightning Bolt": {
+  "rating": 4.809
+ },
+ "27256: Llanowar Elves": {
+  "rating": 4.451
+ },
+ "27257: Lowland Giant": {
+  "rating": 2.871
+ },
+ "27258: Raging Goblin": {
+  "rating": 3.882
+ },
+ "27259: Rampant Growth": {
+  "rating": 3.894
+ },
+ "27260: Scaled Wurm": {
+  "rating": 2.289
+ },
+ "27261: Skittering Skirge": {
+  "rating": 3.892
+ },
+ "27262: Snapping Drake": {
+  "rating": 3.096
+ },
+ "27264: Tolarian Winds": {
+  "rating": 4.177
+ },
+ "27265: Viashino Warrior": {
+  "rating": 2.436
+ },
+ "27266: Wayward Soul": {
+  "rating": 3.019
+ },
+ "27270: Thunderbolt": {
+  "rating": 3.81
+ },
+ "27271: Woolly Spider": {
+  "rating": 3.406
+ },
+ "27564: Feral Shadow": {
+  "rating": 2.783
+ }
+}

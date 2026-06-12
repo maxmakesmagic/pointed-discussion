@@ -1,0 +1,542 @@
+{
+ "83737: Omnibian": {
+  "rating": 4.114
+ },
+ "97071: Hallowed Fountain": {
+  "rating": 4.305
+ },
+ "97072: Rix Maadi, Dungeon Palace": {
+  "rating": 3.139
+ },
+ "97073: Slaughterhouse Bouncer": {
+  "rating": 1.538
+ },
+ "97074: Rakdos Ickspitter": {
+  "rating": 3.552
+ },
+ "97075: Whiptail Moloch": {
+  "rating": 1.289
+ },
+ "97076: Riot Spikes": {
+  "rating": 2.541
+ },
+ "97077: Azorius Guildmage": {
+  "rating": 4.379
+ },
+ "97078: Simic Guildmage": {
+  "rating": 3.862
+ },
+ "97079: Simic Signet": {
+  "rating": 3.488
+ },
+ "97082: Rakdos Carnarium": {
+  "rating": 3.625
+ },
+ "97083: Minister of Impediments": {
+  "rating": 3.212
+ },
+ "97084: Shielding Plax": {
+  "rating": 4.168
+ },
+ "97085: Azorius Signet": {
+  "rating": 3.595
+ },
+ "97086: Jagged Poppet": {
+  "rating": 3.4
+ },
+ "97087: Azorius Chancery": {
+  "rating": 3.637
+ },
+ "97088: Breeding Pool": {
+  "rating": 4.263
+ },
+ "97089: Simic Growth Chamber": {
+  "rating": 3.85
+ },
+ "97091: Novijen Sages": {
+  "rating": 2.488
+ },
+ "97092: Walking Archive": {
+  "rating": 3.37
+ },
+ "97093: Evolution Vat": {
+  "rating": 3.365
+ },
+ "97094: Windreaver": {
+  "rating": 3.836
+ },
+ "97096: Voidslime": {
+  "rating": 4.262
+ },
+ "97097: Pride of the Clouds": {
+  "rating": 4.14
+ },
+ "97098: Rakdos Signet": {
+  "rating": 3.597
+ },
+ "97099: Novijen, Heart of Progress": {
+  "rating": 3.5
+ },
+ "97100: Hellhole Rats": {
+  "rating": 3.963
+ },
+ "97101: Azorius First-Wing": {
+  "rating": 3.922
+ },
+ "97102: Blood Crypt": {
+  "rating": 4.301
+ },
+ "97104: Plaxcaster Frogling": {
+  "rating": 3.985
+ },
+ "97105: Pain Magnification": {
+  "rating": 3.529
+ },
+ "97106: Coiling Oracle": {
+  "rating": 4.3
+ },
+ "97107: Assault Zeppelid": {
+  "rating": 3.89
+ },
+ "97108: Rakdos Guildmage": {
+  "rating": 3.56
+ },
+ "97109: Sky Hussar": {
+  "rating": 4.107
+ },
+ "97110: Anthem of Rakdos": {
+  "rating": 3.458
+ },
+ "97111: Overrule": {
+  "rating": 3.37
+ },
+ "97112: Trygon Predator": {
+  "rating": 4.442
+ },
+ "97114: Twinstrike": {
+  "rating": 2.529
+ },
+ "97115: Steeling Stance": {
+  "rating": 2.403
+ },
+ "97116: Macabre Waltz": {
+  "rating": 3.314
+ },
+ "97117: Prahv, Spires of Order": {
+  "rating": 2.978
+ },
+ "97118: Palliation Accord": {
+  "rating": 3.58
+ },
+ "97119: Rakdos Riteknife": {
+  "rating": 3.467
+ },
+ "97120: Vigean Intuition": {
+  "rating": 2
+ },
+ "107252: Demonfire": {
+  "rating": 4.208
+ },
+ "107253: Freewind Equenaut": {
+  "rating": 2.872
+ },
+ "107254: Psychic Possession": {
+  "rating": 3.949
+ },
+ "107258: Cackling Flames": {
+  "rating": 1.772
+ },
+ "107259: Trial // Error": {
+  "rating": 3.196
+ },
+ "107260: Mistral Charger": {
+  "rating": 3.134
+ },
+ "107263: Sporeback Troll": {
+  "rating": 3.054
+ },
+ "107264: Flash Foliage": {
+  "rating": 2.5
+ },
+ "107265: Court Hussar": {
+  "rating": 3.76
+ },
+ "107272: Haazda Shield Mate": {
+  "rating": 2.66
+ },
+ "107273: Ratcatcher": {
+  "rating": 3.946
+ },
+ "107276: Utvara Scalper": {
+  "rating": 2.171
+ },
+ "107277: Biomantic Mastery": {
+  "rating": 3.404
+ },
+ "107279: Pillar of the Paruns": {
+  "rating": 4.145
+ },
+ "107281: Spell Snare": {
+  "rating": 4.383
+ },
+ "107284: Swift Silence": {
+  "rating": 3.263
+ },
+ "107285: Crime // Punishment": {
+  "rating": 4.217
+ },
+ "107286: Plaxmanta": {
+  "rating": 4.108
+ },
+ "107293: Vigean Hydropon": {
+  "rating": 3.348
+ },
+ "107300: Stormscale Anarch": {
+  "rating": 2.843
+ },
+ "107301: Stalking Vengeance": {
+  "rating": 3.934
+ },
+ "107303: Squealing Devil": {
+  "rating": 3.276
+ },
+ "107306: Bond of Agony": {
+  "rating": 2.658
+ },
+ "107307: Blessing of the Nephilim": {
+  "rating": 3.307
+ },
+ "107308: Infernal Tutor": {
+  "rating": 4.167
+ },
+ "107310: Carom": {
+  "rating": 2.236
+ },
+ "107312: Cytospawn Shambler": {
+  "rating": 2.543
+ },
+ "107313: Silkwing Scout": {
+  "rating": 2.574
+ },
+ "107315: Hide // Seek": {
+  "rating": 4.315
+ },
+ "107317: Celestial Ancient": {
+  "rating": 3.516
+ },
+ "107320: Might of the Nephilim": {
+  "rating": 3
+ },
+ "107321: Vigean Graftmage": {
+  "rating": 3.054
+ },
+ "107322: Dread Slag": {
+  "rating": 3.178
+ },
+ "107326: Skullmead Cauldron": {
+  "rating": 2.5
+ },
+ "107327: Bronze Bombshell": {
+  "rating": 3.684
+ },
+ "107328: Ocular Halo": {
+  "rating": 3.474
+ },
+ "107329: Grand Arbiter Augustin IV": {
+  "rating": 4.247
+ },
+ "107336: Crypt Champion": {
+  "rating": 3.922
+ },
+ "107337: Flame-Kin War Scout": {
+  "rating": 2.207
+ },
+ "107338: Psychotic Fury": {
+  "rating": 4.017
+ },
+ "107340: Brain Pry": {
+  "rating": 3.212
+ },
+ "107341: Proclamation of Rebirth": {
+  "rating": 3.99
+ },
+ "107342: Enemy of the Guildpact": {
+  "rating": 2.708
+ },
+ "107346: Cytoshape": {
+  "rating": 3.988
+ },
+ "107347: Simic Basilisk": {
+  "rating": 2.286
+ },
+ "107353: Cytoplast Manipulator": {
+  "rating": 4.071
+ },
+ "107358: Rain of Gore": {
+  "rating": 3.938
+ },
+ "107362: Transguild Courier": {
+  "rating": 3.965
+ },
+ "107363: Lyzolda, the Blood Witch": {
+  "rating": 3.854
+ },
+ "107369: Elemental Resonance": {
+  "rating": 3.9
+ },
+ "107371: Street Savvy": {
+  "rating": 2.4
+ },
+ "107373: Bound // Determined": {
+  "rating": 3.971
+ },
+ "107374: Nettling Curse": {
+  "rating": 3.141
+ },
+ "107375: Research // Development": {
+  "rating": 4.337
+ },
+ "107377: Indrik Stomphowler": {
+  "rating": 3.933
+ },
+ "107379: Plumes of Peace": {
+  "rating": 2.889
+ },
+ "107385: Experiment Kraj": {
+  "rating": 4.193
+ },
+ "107387: Hit // Run": {
+  "rating": 3.5
+ },
+ "107389: Ogre Gatecrasher": {
+  "rating": 2.621
+ },
+ "107390: Thrive": {
+  "rating": 3.462
+ },
+ "107395: Govern the Guildless": {
+  "rating": 2.432
+ },
+ "107397: Vision Skeins": {
+  "rating": 3.073
+ },
+ "107408: Tidespout Tyrant": {
+  "rating": 4.361
+ },
+ "107413: Writ of Passage": {
+  "rating": 2.929
+ },
+ "107415: Nightcreep": {
+  "rating": 3.308
+ },
+ "107423: Rise // Fall": {
+  "rating": 3.833
+ },
+ "107427: Azorius Ploy": {
+  "rating": 1.833
+ },
+ "107428: Dovescape": {
+  "rating": 4.057
+ },
+ "107431: Valor Made Real": {
+  "rating": 3.79
+ },
+ "107433: Paladin of Prahv": {
+  "rating": 2.722
+ },
+ "107435: Delirium Skeins": {
+  "rating": 3.269
+ },
+ "107437: Avatar of Discord": {
+  "rating": 3.854
+ },
+ "107438: Rakdos the Defiler": {
+  "rating": 3.799
+ },
+ "107440: Soulsworn Jury": {
+  "rating": 3.51
+ },
+ "107441: Simic Initiate": {
+  "rating": 3.239
+ },
+ "107445: Odds // Ends": {
+  "rating": 4
+ },
+ "107446: Kindle the Carnage": {
+  "rating": 3.878
+ },
+ "107448: Isperia the Inscrutable": {
+  "rating": 3.909
+ },
+ "107449: Skyscribing": {
+  "rating": 2.641
+ },
+ "107451: Unliving Psychopath": {
+  "rating": 2.894
+ },
+ "107464: Supply // Demand": {
+  "rating": 4.02
+ },
+ "107466: Proper Burial": {
+  "rating": 3.888
+ },
+ "107467: Haazda Exonerator": {
+  "rating": 2.141
+ },
+ "107472: Aquastrand Spider": {
+  "rating": 2.976
+ },
+ "107477: Vesper Ghoul": {
+  "rating": 2.062
+ },
+ "107492: War's Toll": {
+  "rating": 3.778
+ },
+ "107493: Kill-Suit Cultist": {
+  "rating": 2.408
+ },
+ "107494: Condemn": {
+  "rating": 3.882
+ },
+ "107504: Ghost Quarter": {
+  "rating": 4.213
+ },
+ "107505: Stomp and Howl": {
+  "rating": 2.513
+ },
+ "107506: Momir Vig, Simic Visionary": {
+  "rating": 4.015
+ },
+ "107507: Cytoplast Root-Kin": {
+  "rating": 3.819
+ },
+ "107517: Nihilistic Glee": {
+  "rating": 1.912
+ },
+ "107526: Gnat Alley Creeper": {
+  "rating": 1.941
+ },
+ "107527: Stoic Ephemera": {
+  "rating": 2.587
+ },
+ "107531: Seal of Fire": {
+  "rating": 4.144
+ },
+ "107532: Pure // Simple": {
+  "rating": 3.788
+ },
+ "107534: Seal of Doom": {
+  "rating": 4
+ },
+ "107535: Helium Squirter": {
+  "rating": 2.872
+ },
+ "107537: Brace for Impact": {
+  "rating": 2.351
+ },
+ "107542: Gobhobbler Rats": {
+  "rating": 3.346
+ },
+ "107543: Rakdos Augermage": {
+  "rating": 3.684
+ },
+ "107549: Patagia Viper": {
+  "rating": 3.432
+ },
+ "107551: Weight of Spires": {
+  "rating": 2.431
+ },
+ "107553: Muse Vessel": {
+  "rating": 3.581
+ },
+ "107557: Leafdrake Roost": {
+  "rating": 3.477
+ },
+ "107562: Wit's End": {
+  "rating": 1.683
+ },
+ "107565: Simic Ragworm": {
+  "rating": 2.955
+ },
+ "107568: Loaming Shaman": {
+  "rating": 3.556
+ },
+ "107569: Utopia Sprawl": {
+  "rating": 3.974
+ },
+ "107570: Ragamuffyn": {
+  "rating": 2.69
+ },
+ "107577: Azorius Herald": {
+  "rating": 3.926
+ },
+ "107583: Guardian of the Guildpact": {
+  "rating": 3.89
+ },
+ "107597: Taste for Mayhem": {
+  "rating": 3.333
+ },
+ "107598: Protean Hulk": {
+  "rating": 4.537
+ },
+ "107599: Demon's Jester": {
+  "rating": 2.655
+ },
+ "110637: Sandstorm Eidolon": {
+  "rating": 1.671
+ },
+ "110638: Verdant Eidolon": {
+  "rating": 3.341
+ },
+ "110639: Aurora Eidolon": {
+  "rating": 1.887
+ },
+ "110640: Enigma Eidolon": {
+  "rating": 2
+ },
+ "110641: Entropic Eidolon": {
+  "rating": 2.227
+ },
+ "111188: Rakdos Pit Dragon": {
+  "rating": 4.132
+ },
+ "111192: Aethermage's Touch": {
+  "rating": 3.314
+ },
+ "111202: Wrecking Ball": {
+  "rating": 3.746
+ },
+ "111203: Fertile Imagination": {
+  "rating": 2.097
+ },
+ "111204: Simic Sky Swallower": {
+  "rating": 4.368
+ },
+ "111220: Sprouting Phytohydra": {
+  "rating": 4
+ },
+ "111225: Beacon Hawk": {
+  "rating": 3.362
+ },
+ "111226: Wakestone Gargoyle": {
+  "rating": 3.531
+ },
+ "111247: Flaring Flame-Kin": {
+  "rating": 3.365
+ },
+ "111256: Azorius Aethermage": {
+  "rating": 3.188
+ },
+ "111258: Drekavac": {
+  "rating": 2.625
+ },
+ "111259: Magewright's Stone": {
+  "rating": 3.333
+ },
+ "111281: Ignorant Bliss": {
+  "rating": 3.162
+ },
+ "111283: Slithering Shade": {
+  "rating": 2.989
+ }
+}

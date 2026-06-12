@@ -1,0 +1,932 @@
+{
+ "1398: Al-abara's Carpet": {
+  "rating": 3.054
+ },
+ "1399: Alchor's Tomb": {
+  "rating": 2.357
+ },
+ "1400: Arena of the Ancients": {
+  "rating": 3.209
+ },
+ "1401: Black Mana Battery": {
+  "rating": 2.741
+ },
+ "1402: Blue Mana Battery": {
+  "rating": 2.222
+ },
+ "1403: Bronze Horse": {
+  "rating": 2.303
+ },
+ "1404: Forethought Amulet": {
+  "rating": 2.276
+ },
+ "1405: Gauntlets of Chaos": {
+  "rating": 2.857
+ },
+ "1406: Green Mana Battery": {
+  "rating": 2.483
+ },
+ "1407: Horn of Deafening": {
+  "rating": 2.53
+ },
+ "1408: Knowledge Vault": {
+  "rating": 2.75
+ },
+ "1409: Kry Shield": {
+  "rating": 2.222
+ },
+ "1410: Life Chisel": {
+  "rating": 3
+ },
+ "1411: Life Matrix": {
+  "rating": 1.707
+ },
+ "1412: Mana Matrix": {
+  "rating": 2.962
+ },
+ "1413: Marble Priest": {
+  "rating": 1.919
+ },
+ "1414: Mirror Universe": {
+  "rating": 4.411
+ },
+ "1415: North Star": {
+  "rating": 1.571
+ },
+ "1416: Nova Pentacle": {
+  "rating": 2.5
+ },
+ "1417: Planar Gate": {
+  "rating": 2.932
+ },
+ "1418: Red Mana Battery": {
+  "rating": 2.556
+ },
+ "1419: Relic Barrier": {
+  "rating": 3.513
+ },
+ "1420: Ring of Immortals": {
+  "rating": 2.897
+ },
+ "1421: Sentinel": {
+  "rating": 3.662
+ },
+ "1422: Serpent Generator": {
+  "rating": 2.744
+ },
+ "1423: Sword of the Ages": {
+  "rating": 3.919
+ },
+ "1424: Triassic Egg": {
+  "rating": 3.3
+ },
+ "1425: Voodoo Doll": {
+  "rating": 2.303
+ },
+ "1426: White Mana Battery": {
+  "rating": 2.259
+ },
+ "1427: Abomination": {
+  "rating": 2.784
+ },
+ "1428: All Hallow's Eve": {
+  "rating": 4.357
+ },
+ "1429: Blight": {
+  "rating": 3.284
+ },
+ "1430: Carrion Ants": {
+  "rating": 2.905
+ },
+ "1431: Chains of Mephistopheles": {
+  "rating": 4.394
+ },
+ "1432: Cosmic Horror": {
+  "rating": 2.628
+ },
+ "1433: Cyclopean Mummy": {
+  "rating": 1.919
+ },
+ "1434: Darkness": {
+  "rating": 4.254
+ },
+ "1435: Demonic Torment": {
+  "rating": 2.162
+ },
+ "1436: Evil Eye of Orms-by-Gore": {
+  "rating": 3.086
+ },
+ "1437: Fallen Angel": {
+  "rating": 4.174
+ },
+ "1438: Ghosts of the Damned": {
+  "rating": 1.406
+ },
+ "1439: Giant Slug": {
+  "rating": 1.545
+ },
+ "1440: Glyph of Doom": {
+  "rating": 2.368
+ },
+ "1441: Greed": {
+  "rating": 3.85
+ },
+ "1442: Headless Horseman": {
+  "rating": 2.275
+ },
+ "1443: Hell Swarm": {
+  "rating": 1.357
+ },
+ "1444: Hell's Caretaker": {
+  "rating": 4.327
+ },
+ "1445: Hellfire": {
+  "rating": 3.625
+ },
+ "1446: Horror of Horrors": {
+  "rating": 1.714
+ },
+ "1447: Imprison": {
+  "rating": 2.513
+ },
+ "1448: Infernal Medusa": {
+  "rating": 3.391
+ },
+ "1449: Jovial Evil": {
+  "rating": 3.295
+ },
+ "1450: Lesser Werewolf": {
+  "rating": 3.154
+ },
+ "1451: Lost Soul": {
+  "rating": 2.961
+ },
+ "1452: Mold Demon": {
+  "rating": 1.088
+ },
+ "1453: Nether Void": {
+  "rating": 4.633
+ },
+ "1454: Pit Scorpion": {
+  "rating": 2.797
+ },
+ "1455: Quagmire": {
+  "rating": 1.585
+ },
+ "1456: Shimian Night Stalker": {
+  "rating": 3.4
+ },
+ "1457: Spirit Shackle": {
+  "rating": 2.044
+ },
+ "1458: Syphon Soul": {
+  "rating": 3.378
+ },
+ "1459: Takklemaggot": {
+  "rating": 3.146
+ },
+ "1460: The Abyss": {
+  "rating": 4.649
+ },
+ "1461: The Wretched": {
+  "rating": 3.968
+ },
+ "1462: Touch of Darkness": {
+  "rating": 2.132
+ },
+ "1463: Transmutation": {
+  "rating": 2.47
+ },
+ "1464: Underworld Dreams": {
+  "rating": 4.386
+ },
+ "1465: Vampire Bats": {
+  "rating": 3.517
+ },
+ "1466: Walking Dead": {
+  "rating": 3.895
+ },
+ "1467: Wall of Putrid Flesh": {
+  "rating": 2.632
+ },
+ "1468: Wall of Shadows": {
+  "rating": 3.069
+ },
+ "1469: Wall of Tombstones": {
+  "rating": 3
+ },
+ "1470: Acid Rain": {
+  "rating": 3.868
+ },
+ "1471: Anti-Magic Aura": {
+  "rating": 2.408
+ },
+ "1472: Azure Drake": {
+  "rating": 3.104
+ },
+ "1473: Backfire": {
+  "rating": 3.295
+ },
+ "1474: Boomerang": {
+  "rating": 4.37
+ },
+ "1475: Brine Hag": {
+  "rating": 3.434
+ },
+ "1476: Devouring Deep": {
+  "rating": 1.625
+ },
+ "1477: Dream Coat": {
+  "rating": 2.547
+ },
+ "1478: Elder Spawn": {
+  "rating": 1.37
+ },
+ "1479: Enchantment Alteration": {
+  "rating": 3.654
+ },
+ "1480: Energy Tap": {
+  "rating": 4.429
+ },
+ "1481: Field of Dreams": {
+  "rating": 3.011
+ },
+ "1482: Flash Counter": {
+  "rating": 2.389
+ },
+ "1483: Flash Flood": {
+  "rating": 3.208
+ },
+ "1484: Force Spike": {
+  "rating": 4.116
+ },
+ "1485: Gaseous Form": {
+  "rating": 3.471
+ },
+ "1486: Glyph of Delusion": {
+  "rating": 2.317
+ },
+ "1487: In the Eye of Chaos": {
+  "rating": 4.4
+ },
+ "1489: Juxtapose": {
+  "rating": 3.474
+ },
+ "1490: Land Equilibrium": {
+  "rating": 4.013
+ },
+ "1491: Mana Drain": {
+  "rating": 4.921
+ },
+ "1492: Part Water": {
+  "rating": 1.606
+ },
+ "1493: Psionic Entity": {
+  "rating": 2.014
+ },
+ "1494: Psychic Purge": {
+  "rating": 2.914
+ },
+ "1495: Puppet Master": {
+  "rating": 2.661
+ },
+ "1496: Recall": {
+  "rating": 3.167
+ },
+ "1497: Relic Bind": {
+  "rating": 1.7
+ },
+ "1498: Remove Soul": {
+  "rating": 4.109
+ },
+ "1499: Reset": {
+  "rating": 4.424
+ },
+ "1500: Reverberation": {
+  "rating": 3.017
+ },
+ "1501: Sea Kings' Blessing": {
+  "rating": 2.393
+ },
+ "1502: Segovian Leviathan": {
+  "rating": 2.446
+ },
+ "1503: Silhouette": {
+  "rating": 1.925
+ },
+ "1504: Spectral Cloak": {
+  "rating": 2.092
+ },
+ "1505: Telekinesis": {
+  "rating": 3.375
+ },
+ "1506: Teleport": {
+  "rating": 2.143
+ },
+ "1507: Time Elemental": {
+  "rating": 3.013
+ },
+ "1508: Undertow": {
+  "rating": 1.734
+ },
+ "1509: Venarian Gold": {
+  "rating": 2.5
+ },
+ "1510: Wall of Vapor": {
+  "rating": 2.4
+ },
+ "1511: Wall of Wonder": {
+  "rating": 2.397
+ },
+ "1512: Zephyr Falcon": {
+  "rating": 3.068
+ },
+ "1513: Aisling Leprechaun": {
+  "rating": 2.622
+ },
+ "1514: Arboria": {
+  "rating": 3.829
+ },
+ "1515: Avoid Fate": {
+  "rating": 4.108
+ },
+ "1516: Barbary Apes": {
+  "rating": 2.622
+ },
+ "1517: Cat Warriors": {
+  "rating": 2.618
+ },
+ "1518: Cocoon": {
+  "rating": 1.742
+ },
+ "1519: Concordant Crossroads": {
+  "rating": 4.245
+ },
+ "1520: Craw Giant": {
+  "rating": 2.638
+ },
+ "1521: Deadfall": {
+  "rating": 1.545
+ },
+ "1522: Durkwood Boars": {
+  "rating": 2.188
+ },
+ "1523: Elven Riders": {
+  "rating": 3.375
+ },
+ "1524: Emerald Dragonfly": {
+  "rating": 2.172
+ },
+ "1525: Eureka": {
+  "rating": 4.43
+ },
+ "1526: Fire Sprites": {
+  "rating": 2.171
+ },
+ "1527: Floral Spuzzem": {
+  "rating": 3.706
+ },
+ "1528: Giant Turtle": {
+  "rating": 2.268
+ },
+ "1529: Glyph of Reincarnation": {
+  "rating": 1.62
+ },
+ "1530: Hornet Cobra": {
+  "rating": 1.303
+ },
+ "1531: Ichneumon Druid": {
+  "rating": 2.064
+ },
+ "1532: Killer Bees": {
+  "rating": 4.011
+ },
+ "1533: Living Plane": {
+  "rating": 4.097
+ },
+ "1534: Master of the Hunt": {
+  "rating": 2.413
+ },
+ "1535: Moss Monster": {
+  "rating": 2.038
+ },
+ "1536: Pixie Queen": {
+  "rating": 2.021
+ },
+ "1537: Pradesh Gypsies": {
+  "rating": 1.339
+ },
+ "1538: Rabid Wombat": {
+  "rating": 3.641
+ },
+ "1539: Radjan Spirit": {
+  "rating": 2.387
+ },
+ "1540: Rebirth": {
+  "rating": 2.143
+ },
+ "1541: Reincarnation": {
+  "rating": 4.132
+ },
+ "1542: Revelation": {
+  "rating": 3.181
+ },
+ "1543: Rust": {
+  "rating": 3.302
+ },
+ "1544: Shelkin Brownie": {
+  "rating": 1.102
+ },
+ "1545: Storm Seeker": {
+  "rating": 3.67
+ },
+ "1546: Subdue": {
+  "rating": 2.196
+ },
+ "1547: Sylvan Library": {
+  "rating": 4.474
+ },
+ "1548: Sylvan Paradise": {
+  "rating": 2.5
+ },
+ "1549: Typhoon": {
+  "rating": 2.828
+ },
+ "1550: Untamed Wilds": {
+  "rating": 3.125
+ },
+ "1551: Whirling Dervish": {
+  "rating": 3.843
+ },
+ "1552: Willow Satyr": {
+  "rating": 3.485
+ },
+ "1553: Winter Blast": {
+  "rating": 3.548
+ },
+ "1554: Wolverine Pack": {
+  "rating": 3.155
+ },
+ "1555: Wood Elemental": {
+  "rating": 0.934
+ },
+ "1556: Active Volcano": {
+  "rating": 3.422
+ },
+ "1557: Aerathi Berserker": {
+  "rating": 2.344
+ },
+ "1558: Backdraft": {
+  "rating": 1.757
+ },
+ "1559: Beasts of Bogardan": {
+  "rating": 2.77
+ },
+ "1560: Blazing Effigy": {
+  "rating": 3.128
+ },
+ "1561: Blood Lust": {
+  "rating": 3.103
+ },
+ "1562: Caverns of Despair": {
+  "rating": 2.614
+ },
+ "1563: Chain Lightning": {
+  "rating": 4.556
+ },
+ "1564: Crevasse": {
+  "rating": 1.5
+ },
+ "1565: Crimson Kobolds": {
+  "rating": 3.393
+ },
+ "1566: Crimson Manticore": {
+  "rating": 2.154
+ },
+ "1567: Crookshank Kobolds": {
+  "rating": 3.548
+ },
+ "1568: Disharmony": {
+  "rating": 3.767
+ },
+ "1569: Dwarven Song": {
+  "rating": 2.24
+ },
+ "1570: Eternal Warrior": {
+  "rating": 2.847
+ },
+ "1571: Falling Star": {
+  "rating": 2.713
+ },
+ "1572: Feint": {
+  "rating": 2.75
+ },
+ "1573: Firestorm Phoenix": {
+  "rating": 2.286
+ },
+ "1574: Frost Giant": {
+  "rating": 2.734
+ },
+ "1575: Giant Strength": {
+  "rating": 2.461
+ },
+ "1576: Glyph of Destruction": {
+  "rating": 3.852
+ },
+ "1577: Gravity Sphere": {
+  "rating": 4.246
+ },
+ "1578: Hyperion Blacksmith": {
+  "rating": 2.783
+ },
+ "1579: Immolation": {
+  "rating": 3.329
+ },
+ "1580: Kobold Drill Sergeant": {
+  "rating": 2.758
+ },
+ "1581: Kobold Overlord": {
+  "rating": 2.941
+ },
+ "1582: Kobold Taskmaster": {
+  "rating": 3.714
+ },
+ "1583: Kobolds of Kher Keep": {
+  "rating": 3.592
+ },
+ "1584: Land's Edge": {
+  "rating": 3.074
+ },
+ "1585: Mountain Yeti": {
+  "rating": 3.586
+ },
+ "1586: Primordial Ooze": {
+  "rating": 2.062
+ },
+ "1587: Pyrotechnics": {
+  "rating": 3.614
+ },
+ "1588: Quarum Trench Gnomes": {
+  "rating": 2.582
+ },
+ "1589: Raging Bull": {
+  "rating": 1.51
+ },
+ "1590: Spinal Villain": {
+  "rating": 3.51
+ },
+ "1591: Storm World": {
+  "rating": 3.288
+ },
+ "1592: Tempest Efreet": {
+  "rating": 2.84
+ },
+ "1593: The Brute": {
+  "rating": 1.95
+ },
+ "1594: Wall of Dust": {
+  "rating": 2.958
+ },
+ "1595: Wall of Earth": {
+  "rating": 3.069
+ },
+ "1596: Wall of Heat": {
+  "rating": 3.034
+ },
+ "1597: Wall of Opposition": {
+  "rating": 2.094
+ },
+ "1598: Winds of Change": {
+  "rating": 3.757
+ },
+ "1599: Akron Legionnaire": {
+  "rating": 1.587
+ },
+ "1600: Alabaster Potion": {
+  "rating": 2.659
+ },
+ "1601: Amrou Kithkin": {
+  "rating": 2.646
+ },
+ "1602: Angelic Voices": {
+  "rating": 1.955
+ },
+ "1603: Cleanse": {
+  "rating": 3.962
+ },
+ "1604: Clergy of the Holy Nimbus": {
+  "rating": 2.99
+ },
+ "1605: D'Avenant Archer": {
+  "rating": 2.576
+ },
+ "1606: Divine Intervention": {
+  "rating": 3.515
+ },
+ "1607: Divine Offering": {
+  "rating": 3.903
+ },
+ "1608: Divine Transformation": {
+  "rating": 2.19
+ },
+ "1609: Elder Land Wurm": {
+  "rating": 1.856
+ },
+ "1610: Enchanted Being": {
+  "rating": 2.1
+ },
+ "1611: Equinox": {
+  "rating": 2.378
+ },
+ "1612: Fortified Area": {
+  "rating": 2
+ },
+ "1613: Glyph of Life": {
+  "rating": 2.03
+ },
+ "1614: Great Defender": {
+  "rating": 2.057
+ },
+ "1615: Great Wall": {
+  "rating": 1.068
+ },
+ "1616: Greater Realm of Preservation": {
+  "rating": 3.262
+ },
+ "1617: Heaven's Gate": {
+  "rating": 1.955
+ },
+ "1618: Holy Day": {
+  "rating": 3.92
+ },
+ "1619: Indestructible Aura": {
+  "rating": 2.333
+ },
+ "1620: Infinite Authority": {
+  "rating": 2.108
+ },
+ "1621: Ivory Guardians": {
+  "rating": 1.583
+ },
+ "1622: Keepers of the Faith": {
+  "rating": 1.85
+ },
+ "1623: Kismet": {
+  "rating": 4.35
+ },
+ "1624: Land Tax": {
+  "rating": 4.659
+ },
+ "1625: Lifeblood": {
+  "rating": 1.838
+ },
+ "1626: Moat": {
+  "rating": 4.529
+ },
+ "1627: Osai Vultures": {
+  "rating": 2.561
+ },
+ "1628: Petra Sphinx": {
+  "rating": 2.768
+ },
+ "1629: Presence of the Master": {
+  "rating": 4.163
+ },
+ "1630: Rapid Fire": {
+  "rating": 2.297
+ },
+ "1631: Remove Enchantments": {
+  "rating": 2.338
+ },
+ "1632: Righteous Avengers": {
+  "rating": 1.246
+ },
+ "1633: Seeker": {
+  "rating": 2.312
+ },
+ "1634: Shield Wall": {
+  "rating": 2.435
+ },
+ "1635: Spirit Link": {
+  "rating": 3.791
+ },
+ "1636: Spiritual Sanctuary": {
+  "rating": 1.196
+ },
+ "1637: Thunder Spirit": {
+  "rating": 4.25
+ },
+ "1638: Tundra Wolves": {
+  "rating": 3.557
+ },
+ "1639: Visions": {
+  "rating": 2.517
+ },
+ "1640: Wall of Caltrops": {
+  "rating": 1.333
+ },
+ "1641: Wall of Light": {
+  "rating": 2.75
+ },
+ "1642: Adun Oakenshield": {
+  "rating": 3.412
+ },
+ "1643: Angus Mackenzie": {
+  "rating": 4.024
+ },
+ "1644: Arcades Sabboth": {
+  "rating": 3.214
+ },
+ "1645: Axelrod Gunnarson": {
+  "rating": 2.5
+ },
+ "1646: Ayesha Tanaka": {
+  "rating": 3.083
+ },
+ "1647: Barktooth Warbeard": {
+  "rating": 1.802
+ },
+ "1648: Bartel Runeaxe": {
+  "rating": 3.556
+ },
+ "1649: Boris Devilboon": {
+  "rating": 2.311
+ },
+ "1650: Chromium": {
+  "rating": 3.264
+ },
+ "1651: Dakkon Blackblade": {
+  "rating": 3.871
+ },
+ "1652: Gabriel Angelfire": {
+  "rating": 1.824
+ },
+ "1653: Gosta Dirk": {
+  "rating": 1.707
+ },
+ "1654: Gwendlyn Di Corci": {
+  "rating": 4.048
+ },
+ "1655: Halfdane": {
+  "rating": 3.647
+ },
+ "1656: Hazezon Tamar": {
+  "rating": 4
+ },
+ "1657: Hunding Gjornersen": {
+  "rating": 2.681
+ },
+ "1658: Jacques le Vert": {
+  "rating": 3.667
+ },
+ "1659: Jasmine Boreal": {
+  "rating": 1.965
+ },
+ "1660: Jedit Ojanen": {
+  "rating": 1.162
+ },
+ "1661: Jerrard of the Closed Fist": {
+  "rating": 2.593
+ },
+ "1662: Johan": {
+  "rating": 3.654
+ },
+ "1663: Kasimir the Lone Wolf": {
+  "rating": 1.018
+ },
+ "1664: Kei Takahashi": {
+  "rating": 2.418
+ },
+ "1665: Lady Caleria": {
+  "rating": 3.064
+ },
+ "1666: Lady Evangela": {
+  "rating": 3.351
+ },
+ "1667: Lady Orca": {
+  "rating": 1.598
+ },
+ "1668: Livonya Silone": {
+  "rating": 3.319
+ },
+ "1669: Lord Magnus": {
+  "rating": 2.429
+ },
+ "1670: Marhault Elsdragon": {
+  "rating": 2.569
+ },
+ "1671: Nebuchadnezzar": {
+  "rating": 3.858
+ },
+ "1672: Nicol Bolas": {
+  "rating": 4.139
+ },
+ "1673: Palladia-Mors": {
+  "rating": 3
+ },
+ "1674: Pavel Maliki": {
+  "rating": 1.7
+ },
+ "1675: Princess Lucrezia": {
+  "rating": 1.677
+ },
+ "1676: Ragnar": {
+  "rating": 3
+ },
+ "1677: Ramirez DePietro": {
+  "rating": 3.259
+ },
+ "1678: Ramses Overdark": {
+  "rating": 3.103
+ },
+ "1679: Rasputin Dreamweaver": {
+  "rating": 4.018
+ },
+ "1680: Riven Turnbull": {
+  "rating": 2.347
+ },
+ "1681: Rohgahh of Kher Keep": {
+  "rating": 2.595
+ },
+ "1682: Rubinia Soulsinger": {
+  "rating": 3.679
+ },
+ "1683: Sir Shandlar of Eberyn": {
+  "rating": 2.085
+ },
+ "1684: Sivitri Scarzam": {
+  "rating": 1.221
+ },
+ "1685: Sol'kanar the Swamp King": {
+  "rating": 4.036
+ },
+ "1686: Stangg": {
+  "rating": 3.25
+ },
+ "1687: Sunastian Falconer": {
+  "rating": 2.888
+ },
+ "1688: Tetsuo Umezawa": {
+  "rating": 4.267
+ },
+ "1689: The Lady of the Mountain": {
+  "rating": 1.522
+ },
+ "1690: The Tabernacle at Pendrell Vale": {
+  "rating": 4.62
+ },
+ "1691: Tobias Andrion": {
+  "rating": 1.411
+ },
+ "1692: Tor Wauki": {
+  "rating": 2.75
+ },
+ "1693: Torsten Von Ursus": {
+  "rating": 1.775
+ },
+ "1694: Tuknir Deathlock": {
+  "rating": 2.786
+ },
+ "1695: Ur-Drago": {
+  "rating": 1.406
+ },
+ "1696: Vaevictis Asmadi": {
+  "rating": 3.262
+ },
+ "1697: Xira Arien": {
+  "rating": 3.106
+ },
+ "1698: Adventurers' Guildhouse": {
+  "rating": 1.477
+ },
+ "1699: Cathedral of Serra": {
+  "rating": 1.506
+ },
+ "1700: Hammerheim": {
+  "rating": 4.274
+ },
+ "1701: Karakas": {
+  "rating": 4.505
+ },
+ "1702: Mountain Stronghold": {
+  "rating": 1.29
+ },
+ "1703: Pendelhaven": {
+  "rating": 4.368
+ },
+ "1704: Seafarer's Quay": {
+  "rating": 1.297
+ },
+ "1705: Tolaria": {
+  "rating": 3.155
+ },
+ "1706: Unholy Citadel": {
+  "rating": 1.633
+ },
+ "1707: Urborg": {
+  "rating": 4.2
+ },
+ "485302: Invoke Prejudice": {
+  "rating": 4.408
+ }
+}

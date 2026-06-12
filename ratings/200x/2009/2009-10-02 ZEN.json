@@ -1,0 +1,809 @@
+{
+ "169958: Predatory Urge": {
+  "rating": 2.726
+ },
+ "169963: Kabira Crossroads": {
+  "rating": 3.635
+ },
+ "169971: Turntimber Ranger": {
+  "rating": 3.861
+ },
+ "169975: Piranha Marsh": {
+  "rating": 3.509
+ },
+ "169977: Turntimber Grove": {
+  "rating": 3.089
+ },
+ "170971: Territorial Baloth": {
+  "rating": 2.977
+ },
+ "170977: Plated Geopede": {
+  "rating": 4.004
+ },
+ "170978: Merfolk Wayfinder": {
+  "rating": 3.125
+ },
+ "170982: Windrider Eel": {
+  "rating": 3.549
+ },
+ "170987: Goblin Guide": {
+  "rating": 4.307
+ },
+ "170991: Kor Cartographer": {
+  "rating": 3.424
+ },
+ "170993: Aether Figment": {
+  "rating": 3.564
+ },
+ "170995: Blood Tribute": {
+  "rating": 3.881
+ },
+ "170998: Hagra Crocodile": {
+  "rating": 1.992
+ },
+ "171001: Noble Vestige": {
+  "rating": 1.627
+ },
+ "171012: Steppe Lynx": {
+  "rating": 4.096
+ },
+ "177500: Bog Tatters": {
+  "rating": 2.12
+ },
+ "177501: Goblin Bushwhacker": {
+  "rating": 4.068
+ },
+ "177505: Journey to Nowhere": {
+  "rating": 4.022
+ },
+ "177517: Shoal Serpent": {
+  "rating": 1.438
+ },
+ "177530: Kor Aeronaut": {
+  "rating": 3.857
+ },
+ "177541: Soaring Seacliff": {
+  "rating": 3.317
+ },
+ "177542: Kor Duelist": {
+  "rating": 3.902
+ },
+ "177543: Marsh Casualties": {
+  "rating": 3.743
+ },
+ "177546: Cliff Threader": {
+  "rating": 2.5
+ },
+ "177549: Teetering Peaks": {
+  "rating": 3.377
+ },
+ "177551: Sunspring Expedition": {
+  "rating": 3.309
+ },
+ "177558: Burst Lightning": {
+  "rating": 3.923
+ },
+ "177571: Vines of Vastwood": {
+  "rating": 4.176
+ },
+ "177584: Arid Mesa": {
+  "rating": 4.478
+ },
+ "177585: Kraken Hatchling": {
+  "rating": 3.856
+ },
+ "177586: Soul Stair Expedition": {
+  "rating": 3.402
+ },
+ "178109: Paralyzing Grasp": {
+  "rating": 2.4
+ },
+ "178113: Scythe Tiger": {
+  "rating": 3.805
+ },
+ "178115: Relic Crush": {
+  "rating": 2.972
+ },
+ "178119: Shieldmate's Blessing": {
+  "rating": 1.324
+ },
+ "178121: Crypt Ripper": {
+  "rating": 3.514
+ },
+ "178131: Kor Hookmaster": {
+  "rating": 3.793
+ },
+ "178134: Spidersilk Net": {
+  "rating": 3.61
+ },
+ "178135: Adventuring Gear": {
+  "rating": 3.471
+ },
+ "178136: Slaughter Cry": {
+  "rating": 2.375
+ },
+ "178137: Desecrated Earth": {
+  "rating": 3.076
+ },
+ "178138: Oran-Rief Survivalist": {
+  "rating": 3.82
+ },
+ "178140: Turntimber Basilisk": {
+  "rating": 3.61
+ },
+ "178144: Spell Pierce": {
+  "rating": 4.537
+ },
+ "178145: Kor Skyfisher": {
+  "rating": 3.891
+ },
+ "178150: Vampire's Bite": {
+  "rating": 3.845
+ },
+ "178151: Into the Roil": {
+  "rating": 4.031
+ },
+ "180115: Disfigure": {
+  "rating": 4.127
+ },
+ "180127: Grim Discovery": {
+  "rating": 4.431
+ },
+ "180134: Seismic Shudder": {
+  "rating": 2.745
+ },
+ "180346: Nimbus Wings": {
+  "rating": 2.951
+ },
+ "180347: Kabira Evangel": {
+  "rating": 3.861
+ },
+ "180348: Hedron Crab": {
+  "rating": 4.22
+ },
+ "180350: Bladetusk Boar": {
+  "rating": 2.824
+ },
+ "180352: Magma Rift": {
+  "rating": 1.859
+ },
+ "180360: Narrow Escape": {
+  "rating": 3.182
+ },
+ "180361: Frontier Guide": {
+  "rating": 2.953
+ },
+ "180362: Blood Seeker": {
+  "rating": 3.724
+ },
+ "180408: Harrow": {
+  "rating": 4.178
+ },
+ "180411: Goblin Ruinblaster": {
+  "rating": 3.891
+ },
+ "180415: Mindless Null": {
+  "rating": 0.851
+ },
+ "180423: Torch Slinger": {
+  "rating": 2.527
+ },
+ "180435: Hideous End": {
+  "rating": 3.801
+ },
+ "180447: Umara Raptor": {
+  "rating": 3.82
+ },
+ "180448: Quest for the Gravelord": {
+  "rating": 3.869
+ },
+ "180454: Vastwood Gorger": {
+  "rating": 2.148
+ },
+ "180455: Scute Mob": {
+  "rating": 4.134
+ },
+ "180457: Tajuru Archer": {
+  "rating": 2.138
+ },
+ "180458: Timbermaw Larva": {
+  "rating": 3.859
+ },
+ "180465: Surrakar Marauder": {
+  "rating": 2.646
+ },
+ "180467: Highland Berserker": {
+  "rating": 3.115
+ },
+ "180473: Goblin Shortcutter": {
+  "rating": 3.395
+ },
+ "180482: Tempest Owl": {
+  "rating": 2.812
+ },
+ "180493: Reckless Scholar": {
+  "rating": 3.3
+ },
+ "180495: Spire Barrage": {
+  "rating": 3.779
+ },
+ "180498: Guul Draz Vampire": {
+  "rating": 3.865
+ },
+ "180505: Shatterskull Giant": {
+  "rating": 2.811
+ },
+ "180509: Bold Defense": {
+  "rating": 1.569
+ },
+ "183403: Zektar Shrine Expedition": {
+  "rating": 3.86
+ },
+ "183414: Mold Shambler": {
+  "rating": 3.855
+ },
+ "183417: Caller of Gales": {
+  "rating": 2.761
+ },
+ "183418: Guul Draz Specter": {
+  "rating": 3.867
+ },
+ "185694: Greenweaver Druid": {
+  "rating": 3.48
+ },
+ "185696: Oran-Rief Recluse": {
+  "rating": 2.952
+ },
+ "185697: Caravan Hurda": {
+  "rating": 1.191
+ },
+ "185698: Gatekeeper of Malakir": {
+  "rating": 4.258
+ },
+ "185699: Nissa's Chosen": {
+  "rating": 3.855
+ },
+ "185701: Goblin War Paint": {
+  "rating": 3.464
+ },
+ "185703: Beast Hunt": {
+  "rating": 1.851
+ },
+ "185704: Kalitas, Bloodchief of Ghet": {
+  "rating": 3.849
+ },
+ "185707: Vampire Nighthawk": {
+  "rating": 4.414
+ },
+ "185709: Sphinx of Jwar Isle": {
+  "rating": 4.139
+ },
+ "185711: Ior Ruin Expedition": {
+  "rating": 3.07
+ },
+ "185712: Roil Elemental": {
+  "rating": 3.938
+ },
+ "185727: Hellkite Charger": {
+  "rating": 3.919
+ },
+ "185734: Brave the Elements": {
+  "rating": 4.098
+ },
+ "185737: Oracle of Mul Daya": {
+  "rating": 4.052
+ },
+ "185743: Felidar Sovereign": {
+  "rating": 4.118
+ },
+ "185749: Lotus Cobra": {
+  "rating": 4.427
+ },
+ "185751: Sphinx of Lost Truths": {
+  "rating": 3.907
+ },
+ "185752: Halo Hunter": {
+  "rating": 3.447
+ },
+ "186309: Day of Judgment": {
+  "rating": 4.113
+ },
+ "186316: Savage Silhouette": {
+  "rating": 3.167
+ },
+ "186320: Khalni Heart Expedition": {
+  "rating": 3.86
+ },
+ "186321: Terra Stomper": {
+  "rating": 4.124
+ },
+ "186322: Cosi's Trickster": {
+  "rating": 4.146
+ },
+ "186324: Mark of Mutiny": {
+  "rating": 3.159
+ },
+ "188999: Landbind Ritual": {
+  "rating": 2.864
+ },
+ "189001: Cancel": {
+  "rating": 2.782
+ },
+ "189006: Eternity Vessel": {
+  "rating": 3.848
+ },
+ "189620: Zendikar Farguide": {
+  "rating": 1.321
+ },
+ "189621: Grazing Gladehart": {
+  "rating": 3.866
+ },
+ "189624: Ruinous Minotaur": {
+  "rating": 3.753
+ },
+ "189625: Merfolk Seastalkers": {
+  "rating": 3
+ },
+ "189626: Sejiri Refuge": {
+  "rating": 3.869
+ },
+ "189627: Jwar Isle Refuge": {
+  "rating": 3.855
+ },
+ "189629: Feast of Blood": {
+  "rating": 3.862
+ },
+ "189631: Graypelt Refuge": {
+  "rating": 3.723
+ },
+ "189635: Kazandu Refuge": {
+  "rating": 3.865
+ },
+ "189636: Living Tsunami": {
+  "rating": 3.742
+ },
+ "189637: Kor Outfitter": {
+  "rating": 3.703
+ },
+ "189638: Akoum Refuge": {
+  "rating": 3.675
+ },
+ "190393: Scalding Tarn": {
+  "rating": 4.481
+ },
+ "190394: Crypt of Agadeem": {
+  "rating": 3.51
+ },
+ "190395: Pillarfield Ox": {
+  "rating": 1.792
+ },
+ "190396: Explorer's Scope": {
+  "rating": 3.847
+ },
+ "190397: Stonework Puma": {
+  "rating": 2.523
+ },
+ "190398: Malakir Bloodwitch": {
+  "rating": 4.061
+ },
+ "190399: Emeria Angel": {
+  "rating": 4.037
+ },
+ "190400: Valakut, the Molten Pinnacle": {
+  "rating": 4.073
+ },
+ "190401: Mire Blight": {
+  "rating": 2.95
+ },
+ "190404: Lullmage Mentor": {
+  "rating": 4.197
+ },
+ "190405: Spreading Seas": {
+  "rating": 4.057
+ },
+ "190406: Demolish": {
+  "rating": 3.186
+ },
+ "190407: Iona, Shield of Emeria": {
+  "rating": 4.353
+ },
+ "190408: Kazuul Warlord": {
+  "rating": 3.843
+ },
+ "190410: Trailblazer's Boots": {
+  "rating": 3.109
+ },
+ "190411: Nissa Revane": {
+  "rating": 3.471
+ },
+ "190412: Magosi, the Waterveil": {
+  "rating": 3.512
+ },
+ "190413: Misty Rainforest": {
+  "rating": 4.513
+ },
+ "190414: Emeria, the Sky Ruin": {
+  "rating": 4.026
+ },
+ "190417: Oran-Rief, the Vastwood": {
+  "rating": 4.022
+ },
+ "190418: Windborne Charge": {
+  "rating": 2.849
+ },
+ "190420: Armament Master": {
+  "rating": 3.898
+ },
+ "191353: Welkin Tern": {
+  "rating": 3.121
+ },
+ "191355: Tanglesap": {
+  "rating": 2.877
+ },
+ "191356: Kazandu Blademaster": {
+  "rating": 4.119
+ },
+ "191359: Molten Ravager": {
+  "rating": 3.057
+ },
+ "191360: Summoner's Bane": {
+  "rating": 3.373
+ },
+ "191361: Heartstabber Mosquito": {
+  "rating": 2.631
+ },
+ "191368: Warren Instigator": {
+  "rating": 4.131
+ },
+ "191369: Lorthos, the Tidemaker": {
+  "rating": 3.945
+ },
+ "191371: Marsh Flats": {
+  "rating": 4.477
+ },
+ "191372: Blazing Torch": {
+  "rating": 3.096
+ },
+ "191373: Electropotence": {
+  "rating": 3.2
+ },
+ "191374: Devout Lightcaster": {
+  "rating": 3.886
+ },
+ "191376: World Queller": {
+  "rating": 3.916
+ },
+ "192209: Unstable Footing": {
+  "rating": 3.836
+ },
+ "192210: Ondu Cleric": {
+  "rating": 3.85
+ },
+ "192211: Sky Ruin Drake": {
+  "rating": 2.131
+ },
+ "192212: Trapfinder's Trick": {
+  "rating": 1.467
+ },
+ "192214: Kor Sanctifiers": {
+  "rating": 3.788
+ },
+ "192215: Hellfire Mongrel": {
+  "rating": 3.562
+ },
+ "192217: Punishing Fire": {
+  "rating": 3.982
+ },
+ "192219: Ob Nixilis, the Fallen": {
+  "rating": 4.052
+ },
+ "192220: Grappling Hook": {
+  "rating": 3.507
+ },
+ "192221: Elemental Appeal": {
+  "rating": 3.847
+ },
+ "192222: Rampaging Baloths": {
+  "rating": 4.114
+ },
+ "192223: Trapmaker's Snare": {
+  "rating": 3.49
+ },
+ "192224: Obsidian Fireheart": {
+  "rating": 4.095
+ },
+ "192225: Vampire Lacerator": {
+  "rating": 3.882
+ },
+ "192226: Giant Scorpion": {
+  "rating": 3.387
+ },
+ "192227: Joraga Bard": {
+  "rating": 2.404
+ },
+ "192229: Tuktuk Grunts": {
+  "rating": 1.927
+ },
+ "192230: Bloodghast": {
+  "rating": 4.458
+ },
+ "192231: Baloth Woodcrasher": {
+  "rating": 3.869
+ },
+ "192232: Vampire Hexmage": {
+  "rating": 4.518
+ },
+ "193394: Hedron Scrabbler": {
+  "rating": 1.906
+ },
+ "193396: Trusty Machete": {
+  "rating": 3.87
+ },
+ "193397: Blade of the Bloodchief": {
+  "rating": 4.035
+ },
+ "193398: Eldrazi Monument": {
+  "rating": 4.065
+ },
+ "193399: Shepherd of the Lost": {
+  "rating": 3.861
+ },
+ "193400: Verdant Catacombs": {
+  "rating": 4.48
+ },
+ "193403: Mind Sludge": {
+  "rating": 3.832
+ },
+ "193404: Arrow Volley Trap": {
+  "rating": 2.787
+ },
+ "193405: Expedition Map": {
+  "rating": 3.895
+ },
+ "193406: Carnage Altar": {
+  "rating": 2.304
+ },
+ "193407: Primal Bellow": {
+  "rating": 3.929
+ },
+ "195157: Swamp": {
+  "rating": 4.686
+ },
+ "195158: Forest": {
+  "rating": 4.702
+ },
+ "195159: Swamp": {
+  "rating": 4.765
+ },
+ "195161: Island": {
+  "rating": 4.738
+ },
+ "195163: Plains": {
+  "rating": 4.765
+ },
+ "195165: Island": {
+  "rating": 4.705
+ },
+ "195170: Island": {
+  "rating": 4.764
+ },
+ "195171: Mountain": {
+  "rating": 4.174
+ },
+ "195172: Swamp": {
+  "rating": 4.667
+ },
+ "195173: Plains": {
+  "rating": 4.706
+ },
+ "195177: Forest": {
+  "rating": 4.083
+ },
+ "195178: Mountain": {
+  "rating": 4.625
+ },
+ "195179: Plains": {
+  "rating": 4.844
+ },
+ "195181: Mountain": {
+  "rating": 4.696
+ },
+ "195183: Forest": {
+  "rating": 4.614
+ },
+ "195184: Mountain": {
+  "rating": 4.357
+ },
+ "195187: Island": {
+  "rating": 4.682
+ },
+ "195192: Forest": {
+  "rating": 4.283
+ },
+ "195194: Swamp": {
+  "rating": 4.4
+ },
+ "195196: Plains": {
+  "rating": 4.652
+ },
+ "195402: Chandra Ablaze": {
+  "rating": 3.98
+ },
+ "195403: Sorin Markov": {
+  "rating": 3.852
+ },
+ "195572: Quest for the Gemblades": {
+  "rating": 3.869
+ },
+ "195626: Conqueror's Pledge": {
+  "rating": 3.887
+ },
+ "195627: Gigantiform": {
+  "rating": 3.844
+ },
+ "195628: Makindi Shieldmate": {
+  "rating": 2.843
+ },
+ "195629: Sea Gate Loremaster": {
+  "rating": 3.865
+ },
+ "195630: Rite of Replication": {
+  "rating": 4.115
+ },
+ "195631: Seascape Aerialist": {
+  "rating": 2.57
+ },
+ "195632: Sadistic Sacrament": {
+  "rating": 4.471
+ },
+ "195634: Murasa Pyromancer": {
+  "rating": 3
+ },
+ "195635: Quest for Ancient Secrets": {
+  "rating": 3.414
+ },
+ "197402: Bala Ged Thief": {
+  "rating": 3.287
+ },
+ "197403: Nimana Sell-Sword": {
+  "rating": 2.189
+ },
+ "197404: Hagra Diabolist": {
+  "rating": 3.808
+ },
+ "197405: River Boa": {
+  "rating": 4.324
+ },
+ "197406: Quest for the Holy Relic": {
+  "rating": 3.672
+ },
+ "197407: Quest for Pure Flame": {
+  "rating": 3.86
+ },
+ "197526: Whiplash Trap": {
+  "rating": 3.795
+ },
+ "197527: Summoning Trap": {
+  "rating": 3.975
+ },
+ "197528: Lavaball Trap": {
+  "rating": 3.198
+ },
+ "197529: Needlebite Trap": {
+  "rating": 3.809
+ },
+ "197530: Inferno Trap": {
+  "rating": 2.211
+ },
+ "197531: Baloth Cage Trap": {
+  "rating": 3.824
+ },
+ "197532: Mindbreak Trap": {
+  "rating": 4.512
+ },
+ "197533: Pitfall Trap": {
+  "rating": 3.058
+ },
+ "197534: Lethargy Trap": {
+  "rating": 2.643
+ },
+ "197535: Cobra Trap": {
+  "rating": 3.326
+ },
+ "197536: Runeflare Trap": {
+  "rating": 3.417
+ },
+ "197537: Ravenous Trap": {
+  "rating": 4.415
+ },
+ "197538: Archive Trap": {
+  "rating": 4.483
+ },
+ "197887: Geyser Glider": {
+  "rating": 2.347
+ },
+ "197889: Luminarch Ascension": {
+  "rating": 4.118
+ },
+ "197890: Beastmaster Ascension": {
+  "rating": 4.049
+ },
+ "197891: Pyromancer Ascension": {
+  "rating": 4.066
+ },
+ "197892: Bloodchief Ascension": {
+  "rating": 4.11
+ },
+ "197893: Archmage Ascension": {
+  "rating": 3.086
+ },
+ "198519: Khalni Gem": {
+  "rating": 3.614
+ },
+ "198523: Gomazoa": {
+  "rating": 3.829
+ },
+ "198524: Celestial Mantle": {
+  "rating": 3.86
+ },
+ "201959: Forest": {
+  "rating": 4.583
+ },
+ "201960: Forest": {
+  "rating": 4.617
+ },
+ "201961: Forest": {
+  "rating": 4.196
+ },
+ "201962: Forest": {
+  "rating": 4.667
+ },
+ "201963: Island": {
+  "rating": 4.825
+ },
+ "201964: Island": {
+  "rating": 4.747
+ },
+ "201965: Island": {
+  "rating": 4.686
+ },
+ "201966: Island": {
+  "rating": 4.741
+ },
+ "201967: Mountain": {
+  "rating": 4.793
+ },
+ "201968: Mountain": {
+  "rating": 4.684
+ },
+ "201969: Mountain": {
+  "rating": 4.79
+ },
+ "201970: Mountain": {
+  "rating": 4.656
+ },
+ "201971: Plains": {
+  "rating": 4.779
+ },
+ "201972: Plains": {
+  "rating": 4.543
+ },
+ "201973: Plains": {
+  "rating": 4.5
+ },
+ "201974: Plains": {
+  "rating": 4.655
+ },
+ "201975: Swamp": {
+  "rating": 4.32
+ },
+ "201976: Swamp": {
+  "rating": 4.458
+ },
+ "201977: Swamp": {
+  "rating": 4.833
+ },
+ "201978: Swamp": {
+  "rating": 4.723
+ }
+}

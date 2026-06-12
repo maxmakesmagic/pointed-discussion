@@ -1,0 +1,1052 @@
+{
+ "5680: Goblin Spy": {
+  "rating": 3.841
+ },
+ "12605: Utopia Tree": {
+  "rating": 4.16
+ },
+ "20573: Stand // Deliver": {
+  "rating": 3.219
+ },
+ "20576: Spite // Malice": {
+  "rating": 3.314
+ },
+ "20577: Pain // Suffering": {
+  "rating": 3.591
+ },
+ "20579: Assault // Battery": {
+  "rating": 3.909
+ },
+ "20582: Wax // Wane": {
+  "rating": 3.935
+ },
+ "22317: Scouting Trek": {
+  "rating": 4.179
+ },
+ "22928: Sunscape Apprentice": {
+  "rating": 3.156
+ },
+ "22929: Glimmering Angel": {
+  "rating": 2.75
+ },
+ "22930: Viashino Grappler": {
+  "rating": 2.241
+ },
+ "22931: Ardent Soldier": {
+  "rating": 2.64
+ },
+ "22932: Benalish Lancer": {
+  "rating": 3.031
+ },
+ "22933: Razorfoot Griffin": {
+  "rating": 2.71
+ },
+ "22934: Crimson Acolyte": {
+  "rating": 3.696
+ },
+ "22935: Obsidian Acolyte": {
+  "rating": 3.741
+ },
+ "22936: Capashen Unicorn": {
+  "rating": 2.957
+ },
+ "22937: Benalish Trapper": {
+  "rating": 3.824
+ },
+ "22939: Strength of Unity": {
+  "rating": 1.625
+ },
+ "22940: Holy Day": {
+  "rating": 4.027
+ },
+ "22941: Reviving Dose": {
+  "rating": 2.536
+ },
+ "22942: Shackles": {
+  "rating": 3.959
+ },
+ "22943: Restrain": {
+  "rating": 2.56
+ },
+ "22944: Prison Barricade": {
+  "rating": 2.661
+ },
+ "22945: Orim's Touch": {
+  "rating": 2.8
+ },
+ "22946: Dismantling Blow": {
+  "rating": 3.778
+ },
+ "22947: Benalish Heralds": {
+  "rating": 2.547
+ },
+ "22948: Benalish Emissary": {
+  "rating": 3.6
+ },
+ "22949: Ruham Djinn": {
+  "rating": 1.959
+ },
+ "22950: Spirit Weaver": {
+  "rating": 2.25
+ },
+ "22952: Angel of Mercy": {
+  "rating": 2.75
+ },
+ "22953: Liberate": {
+  "rating": 3.786
+ },
+ "22954: Samite Ministration": {
+  "rating": 3.096
+ },
+ "22955: Blinding Light": {
+  "rating": 3.766
+ },
+ "22956: Death or Glory": {
+  "rating": 4.028
+ },
+ "22958: Pledge of Loyalty": {
+  "rating": 2.971
+ },
+ "22959: Teferi's Care": {
+  "rating": 2.344
+ },
+ "22960: Alabaster Leech": {
+  "rating": 0.943
+ },
+ "22961: Sunscape Master": {
+  "rating": 4.071
+ },
+ "22963: Crusading Knight": {
+  "rating": 3.744
+ },
+ "22964: Atalya, Samite Master": {
+  "rating": 3.144
+ },
+ "22965: Reya Dawnbringer": {
+  "rating": 4.312
+ },
+ "22966: Winnow": {
+  "rating": 3.611
+ },
+ "22967: Global Ruin": {
+  "rating": 4.208
+ },
+ "22968: Spirit of Resistance": {
+  "rating": 4.179
+ },
+ "22969: Divine Presence": {
+  "rating": 4.057
+ },
+ "22970: Fight or Flight": {
+  "rating": 3.365
+ },
+ "22971: Rout": {
+  "rating": 4.156
+ },
+ "22972: Stormscape Apprentice": {
+  "rating": 4.22
+ },
+ "22973: Metathran Zombie": {
+  "rating": 3.079
+ },
+ "22974: Tower Drake": {
+  "rating": 3.226
+ },
+ "22975: Faerie Squadron": {
+  "rating": 2.894
+ },
+ "22976: Vodalian Serpent": {
+  "rating": 2.536
+ },
+ "22977: Tidal Visionary": {
+  "rating": 3.414
+ },
+ "22978: Shoreline Raider": {
+  "rating": 2.653
+ },
+ "22979: Dream Thrush": {
+  "rating": 3.895
+ },
+ "22981: Shimmering Wings": {
+  "rating": 3.647
+ },
+ "22982: Worldly Counsel": {
+  "rating": 2.838
+ },
+ "22983: Phantasmal Terrain": {
+  "rating": 2.55
+ },
+ "22984: Barrin's Unmaking": {
+  "rating": 2.13
+ },
+ "22985: Repulse": {
+  "rating": 4.01
+ },
+ "22986: Exclude": {
+  "rating": 4.193
+ },
+ "22987: Traveler's Cloak": {
+  "rating": 3.9
+ },
+ "22988: Opt": {
+  "rating": 4.164
+ },
+ "22989: Prohibit": {
+  "rating": 3.375
+ },
+ "22990: Probe": {
+  "rating": 3.872
+ },
+ "22991: Tolarian Emissary": {
+  "rating": 2.667
+ },
+ "22992: Zanam Djinn": {
+  "rating": 2.359
+ },
+ "22993: Vodalian Hypnotist": {
+  "rating": 2.98
+ },
+ "22994: Rainbow Crow": {
+  "rating": 2.583
+ },
+ "22996: Sky Weaver": {
+  "rating": 2.804
+ },
+ "22997: Essence Leak": {
+  "rating": 3.54
+ },
+ "22998: Fact or Fiction": {
+  "rating": 4.598
+ },
+ "22999: Sway of Illusion": {
+  "rating": 3.823
+ },
+ "23000: Disrupt": {
+  "rating": 4.475
+ },
+ "23001: Collective Restraint": {
+  "rating": 4.222
+ },
+ "23003: Manipulate Fate": {
+  "rating": 2.75
+ },
+ "23004: Metathran Aerostat": {
+  "rating": 3.016
+ },
+ "23005: Stormscape Master": {
+  "rating": 3.789
+ },
+ "23006: Blind Seer": {
+  "rating": 3.55
+ },
+ "23007: Empress Galina": {
+  "rating": 3.816
+ },
+ "23008: Crystal Spray": {
+  "rating": 2.328
+ },
+ "23009: Mana Maze": {
+  "rating": 3.806
+ },
+ "23010: Sapphire Leech": {
+  "rating": 1.398
+ },
+ "23011: Distorting Wake": {
+  "rating": 3.467
+ },
+ "23012: Breaking Wave": {
+  "rating": 3.9
+ },
+ "23015: Teferi's Response": {
+  "rating": 4.154
+ },
+ "23016: Nightscape Apprentice": {
+  "rating": 3.089
+ },
+ "23017: Firescreamer": {
+  "rating": 2.077
+ },
+ "23018: Urborg Phantom": {
+  "rating": 2.773
+ },
+ "23019: Duskwalker": {
+  "rating": 2.714
+ },
+ "23020: Urborg Skeleton": {
+  "rating": 3.488
+ },
+ "23021: Plague Spitter": {
+  "rating": 4.246
+ },
+ "23022: Phyrexian Delver": {
+  "rating": 3.717
+ },
+ "23023: Phyrexian Battleflies": {
+  "rating": 2.936
+ },
+ "23024: Bog Initiate": {
+  "rating": 2.912
+ },
+ "23026: Soul Burn": {
+  "rating": 3.129
+ },
+ "23028: Scavenged Weaponry": {
+  "rating": 2.621
+ },
+ "23029: Recover": {
+  "rating": 3.232
+ },
+ "23030: Addle": {
+  "rating": 3.784
+ },
+ "23031: Mourning": {
+  "rating": 2.148
+ },
+ "23032: Exotic Curse": {
+  "rating": 3.106
+ },
+ "23033: Hypnotic Cloud": {
+  "rating": 2.382
+ },
+ "23034: Agonizing Demise": {
+  "rating": 3.461
+ },
+ "23035: Urborg Shambler": {
+  "rating": 2.774
+ },
+ "23036: Phyrexian Reaper": {
+  "rating": 2.797
+ },
+ "23037: Goham Djinn": {
+  "rating": 2.194
+ },
+ "23038: Urborg Emissary": {
+  "rating": 2.581
+ },
+ "23039: Trench Wurm": {
+  "rating": 3.586
+ },
+ "23040: Phyrexian Slayer": {
+  "rating": 2.87
+ },
+ "23041: Hate Weaver": {
+  "rating": 2.268
+ },
+ "23042: Annihilate": {
+  "rating": 3
+ },
+ "23044: Cursed Flesh": {
+  "rating": 2.971
+ },
+ "23045: Reckless Spite": {
+  "rating": 4.236
+ },
+ "23046: Defiling Tears": {
+  "rating": 1.797
+ },
+ "23048: Tsabo's Assassin": {
+  "rating": 3.471
+ },
+ "23049: Nightscape Master": {
+  "rating": 3.804
+ },
+ "23050: Devouring Strossus": {
+  "rating": 4.167
+ },
+ "23052: Andradite Leech": {
+  "rating": 1.19
+ },
+ "23053: Marauding Knight": {
+  "rating": 4.132
+ },
+ "23054: Yawgmoth's Agenda": {
+  "rating": 4
+ },
+ "23055: Desperate Research": {
+  "rating": 3.672
+ },
+ "23057: Spreading Plague": {
+  "rating": 4.105
+ },
+ "23058: Twilight's Call": {
+  "rating": 4.141
+ },
+ "23059: Do or Die": {
+  "rating": 4.263
+ },
+ "23060: Thunderscape Apprentice": {
+  "rating": 3.107
+ },
+ "23061: Hooded Kavu": {
+  "rating": 2.605
+ },
+ "23062: Rampant Elephant": {
+  "rating": 2.56
+ },
+ "23063: Kavu Aggressor": {
+  "rating": 1.764
+ },
+ "23064: Pouncing Kavu": {
+  "rating": 3.224
+ },
+ "23065: Rogue Kavu": {
+  "rating": 2.371
+ },
+ "23067: Scarred Puma": {
+  "rating": 2.303
+ },
+ "23068: Slimy Kavu": {
+  "rating": 2.636
+ },
+ "23069: Ancient Kavu": {
+  "rating": 2.969
+ },
+ "23070: Overload": {
+  "rating": 2.63
+ },
+ "23071: Turf Wound": {
+  "rating": 2.897
+ },
+ "23072: Maniacal Rage": {
+  "rating": 2.75
+ },
+ "23073: Stun": {
+  "rating": 2.387
+ },
+ "23074: Crown of Flames": {
+  "rating": 4.167
+ },
+ "23075: Zap": {
+  "rating": 1.693
+ },
+ "23076: Tribal Flames": {
+  "rating": 3.603
+ },
+ "23077: Scorching Lava": {
+  "rating": 3.143
+ },
+ "23078: Savage Offensive": {
+  "rating": 2.74
+ },
+ "23079: Kavu Runner": {
+  "rating": 2.516
+ },
+ "23080: Skittish Kavu": {
+  "rating": 2.047
+ },
+ "23081: Rage Weaver": {
+  "rating": 2.19
+ },
+ "23082: Halam Djinn": {
+  "rating": 2.889
+ },
+ "23083: Firebrand Ranger": {
+  "rating": 3.393
+ },
+ "23084: Shivan Emissary": {
+  "rating": 2.443
+ },
+ "23085: Chaotic Strike": {
+  "rating": 1.324
+ },
+ "23086: Ghitu Fire": {
+  "rating": 3.682
+ },
+ "23087: Urza's Rage": {
+  "rating": 4.17
+ },
+ "23088: Lightning Dart": {
+  "rating": 3.083
+ },
+ "23089: Collapsing Borders": {
+  "rating": 3.25
+ },
+ "23090: Breath of Darigaaz": {
+  "rating": 4.267
+ },
+ "23091: Shivan Harvest": {
+  "rating": 3.431
+ },
+ "23092: Loafing Giant": {
+  "rating": 1.873
+ },
+ "23093: Thunderscape Master": {
+  "rating": 3.75
+ },
+ "23094: Callous Giant": {
+  "rating": 3.394
+ },
+ "23095: Ruby Leech": {
+  "rating": 1.385
+ },
+ "23096: Skizzik": {
+  "rating": 4.215
+ },
+ "23097: Kavu Monarch": {
+  "rating": 4.24
+ },
+ "23098: Obliterate": {
+  "rating": 4.235
+ },
+ "23099: Bend or Break": {
+  "rating": 4.027
+ },
+ "23100: Tectonic Instability": {
+  "rating": 3.024
+ },
+ "23102: Mages' Contest": {
+  "rating": 3.561
+ },
+ "23104: Thornscape Apprentice": {
+  "rating": 3.819
+ },
+ "23105: Serpentine Kavu": {
+  "rating": 2.435
+ },
+ "23106: Kavu Titan": {
+  "rating": 4.279
+ },
+ "23107: Pincer Spider": {
+  "rating": 2.631
+ },
+ "23109: Kavu Climber": {
+  "rating": 3.569
+ },
+ "23110: Quirion Trailblazer": {
+  "rating": 2.411
+ },
+ "23111: Nomadic Elf": {
+  "rating": 2.47
+ },
+ "23112: Quirion Elves": {
+  "rating": 4.1
+ },
+ "23114: Fertile Ground": {
+  "rating": 4.05
+ },
+ "23115: Tangle": {
+  "rating": 4.244
+ },
+ "23116: Tranquility": {
+  "rating": 3.658
+ },
+ "23118: Whip Silk": {
+  "rating": 3.404
+ },
+ "23119: Wandering Stream": {
+  "rating": 2.448
+ },
+ "23120: Explosive Growth": {
+  "rating": 2.618
+ },
+ "23121: Vigorous Charge": {
+  "rating": 3.431
+ },
+ "23122: Rooting Kavu": {
+  "rating": 3.447
+ },
+ "23123: Llanowar Vanguard": {
+  "rating": 1.595
+ },
+ "23124: Might Weaver": {
+  "rating": 2.587
+ },
+ "23125: Kavu Chameleon": {
+  "rating": 4.048
+ },
+ "23126: Sulam Djinn": {
+  "rating": 1.909
+ },
+ "23127: Verduran Emissary": {
+  "rating": 2.767
+ },
+ "23128: Treefolk Healer": {
+  "rating": 1.75
+ },
+ "23130: Wallop": {
+  "rating": 1.855
+ },
+ "23131: Harrow": {
+  "rating": 4.179
+ },
+ "23134: Canopy Surge": {
+  "rating": 3.6
+ },
+ "23135: Thicket Elemental": {
+  "rating": 4.119
+ },
+ "23136: Thornscape Master": {
+  "rating": 3.403
+ },
+ "23137: Verdeloth the Ancient": {
+  "rating": 3.986
+ },
+ "23138: Molimo, Maro-Sorcerer": {
+  "rating": 4.021
+ },
+ "23139: Blurred Mongoose": {
+  "rating": 4.094
+ },
+ "23140: Jade Leech": {
+  "rating": 2.492
+ },
+ "23142: Elfhame Sanctuary": {
+  "rating": 3.75
+ },
+ "23143: Pulse of Llanowar": {
+  "rating": 3.615
+ },
+ "23144: Kavu Lair": {
+  "rating": 3.757
+ },
+ "23145: Restock": {
+  "rating": 3.31
+ },
+ "23146: Bind": {
+  "rating": 4.15
+ },
+ "23147: Noble Panther": {
+  "rating": 3.484
+ },
+ "23148: Raging Kavu": {
+  "rating": 3.692
+ },
+ "23149: Slinking Serpent": {
+  "rating": 1.791
+ },
+ "23150: Riptide Crab": {
+  "rating": 3.878
+ },
+ "23151: Vicious Kavu": {
+  "rating": 3.345
+ },
+ "23152: Aura Shards": {
+  "rating": 4.344
+ },
+ "23153: Plague Spores": {
+  "rating": 2.909
+ },
+ "23154: Recoil": {
+  "rating": 4.331
+ },
+ "23155: Absorb": {
+  "rating": 4.124
+ },
+ "23156: Frenzied Tilling": {
+  "rating": 3.336
+ },
+ "23157: Llanowar Knight": {
+  "rating": 3.75
+ },
+ "23158: Galina's Knight": {
+  "rating": 3.862
+ },
+ "23159: Vodalian Zombie": {
+  "rating": 3.588
+ },
+ "23160: Shivan Zombie": {
+  "rating": 3.9
+ },
+ "23161: Yavimaya Barbarian": {
+  "rating": 3.57
+ },
+ "23162: Charging Troll": {
+  "rating": 4.147
+ },
+ "23163: Horned Cheetah": {
+  "rating": 2.309
+ },
+ "23164: Armadillo Cloak": {
+  "rating": 4.179
+ },
+ "23165: Samite Archer": {
+  "rating": 3.543
+ },
+ "23167: Teferi's Moat": {
+  "rating": 3.862
+ },
+ "23168: Sleeper's Robe": {
+  "rating": 3.988
+ },
+ "23170: Lobotomy": {
+  "rating": 4.335
+ },
+ "23171: Backlash": {
+  "rating": 4.187
+ },
+ "23172: Cinder Shade": {
+  "rating": 3.569
+ },
+ "23173: Cauldron Dance": {
+  "rating": 4.192
+ },
+ "23174: Yavimaya Kavu": {
+  "rating": 3.378
+ },
+ "23175: Simoon": {
+  "rating": 3.75
+ },
+ "23176: Hunting Kavu": {
+  "rating": 3.294
+ },
+ "23177: Angelic Shield": {
+  "rating": 3.595
+ },
+ "23178: Seer's Vision": {
+  "rating": 3.161
+ },
+ "23179: Smoldering Tar": {
+  "rating": 3.283
+ },
+ "23180: Fires of Yavimaya": {
+  "rating": 4.278
+ },
+ "23181: Sterling Grove": {
+  "rating": 4.36
+ },
+ "23183: Heroes' Reunion": {
+  "rating": 4.008
+ },
+ "23184: Aura Mutation": {
+  "rating": 4.271
+ },
+ "23186: Kangee, Aerie Keeper": {
+  "rating": 3.755
+ },
+ "23187: Ordered Migration": {
+  "rating": 3.05
+ },
+ "23188: Vile Consumption": {
+  "rating": 4.263
+ },
+ "23189: Spinal Embrace": {
+  "rating": 4.043
+ },
+ "23190: Undermine": {
+  "rating": 4.321
+ },
+ "23191: Reckless Assault": {
+  "rating": 2.645
+ },
+ "23192: Blazing Specter": {
+  "rating": 4.27
+ },
+ "23193: Meteor Storm": {
+  "rating": 1.929
+ },
+ "23194: Aether Rift": {
+  "rating": 3.978
+ },
+ "23195: Artifact Mutation": {
+  "rating": 4.532
+ },
+ "23196: Reviving Vapors": {
+  "rating": 3.855
+ },
+ "23197: Armored Guardian": {
+  "rating": 3.098
+ },
+ "23200: Void": {
+  "rating": 4.189
+ },
+ "23201: Pyre Zombie": {
+  "rating": 3.151
+ },
+ "23202: Overabundance": {
+  "rating": 3.484
+ },
+ "23203: Voracious Cobra": {
+  "rating": 4.256
+ },
+ "23205: Sabertooth Nishoba": {
+  "rating": 3.981
+ },
+ "23206: Dromar, the Banisher": {
+  "rating": 3.971
+ },
+ "23207: Crosis, the Purger": {
+  "rating": 4.231
+ },
+ "23208: Darigaaz, the Igniter": {
+  "rating": 4.088
+ },
+ "23209: Rith, the Awakener": {
+  "rating": 4.198
+ },
+ "23210: Treva, the Renewer": {
+  "rating": 4.046
+ },
+ "23211: Wayfaring Giant": {
+  "rating": 1.829
+ },
+ "23212: Temporal Distortion": {
+  "rating": 3.652
+ },
+ "23216: Coalition Victory": {
+  "rating": 3.917
+ },
+ "23217: Seashell Cameo": {
+  "rating": 2.676
+ },
+ "23218: Drake-Skull Cameo": {
+  "rating": 2.515
+ },
+ "23219: Bloodstone Cameo": {
+  "rating": 2.2
+ },
+ "23220: Troll-Horn Cameo": {
+  "rating": 2.571
+ },
+ "23221: Tigereye Cameo": {
+  "rating": 2.517
+ },
+ "23222: Power Armor": {
+  "rating": 2.662
+ },
+ "23223: Juntu Stakes": {
+  "rating": 3.786
+ },
+ "23224: Alloy Golem": {
+  "rating": 2.073
+ },
+ "23225: Sparring Golem": {
+  "rating": 3.122
+ },
+ "23226: Phyrexian Altar": {
+  "rating": 4.051
+ },
+ "23227: Urza's Filter": {
+  "rating": 3.632
+ },
+ "23228: Tsabo's Web": {
+  "rating": 4.272
+ },
+ "23229: Tek": {
+  "rating": 3.918
+ },
+ "23230: Chromatic Sphere": {
+  "rating": 3.654
+ },
+ "23231: Phyrexian Lens": {
+  "rating": 1.593
+ },
+ "23233: Lotus Guardian": {
+  "rating": 2.199
+ },
+ "23234: Planar Portal": {
+  "rating": 3.55
+ },
+ "23235: Irrigation Ditch": {
+  "rating": 3.182
+ },
+ "23236: Ancient Spring": {
+  "rating": 3.221
+ },
+ "23237: Sulfur Vent": {
+  "rating": 3.192
+ },
+ "23238: Geothermal Crevice": {
+  "rating": 3.423
+ },
+ "23239: Tinder Farm": {
+  "rating": 3.143
+ },
+ "23240: Coastal Tower": {
+  "rating": 3.683
+ },
+ "23241: Salt Marsh": {
+  "rating": 3.865
+ },
+ "23242: Urborg Volcano": {
+  "rating": 3.73
+ },
+ "23243: Shivan Oasis": {
+  "rating": 3.941
+ },
+ "23244: Elfhame Palace": {
+  "rating": 3.554
+ },
+ "23245: Archaeological Dig": {
+  "rating": 3.405
+ },
+ "23319: Pure Reflection": {
+  "rating": 3.554
+ },
+ "23320: Crypt Angel": {
+  "rating": 4.069
+ },
+ "23321: Tsabo Tavoc": {
+  "rating": 4.049
+ },
+ "23322: Llanowar Cavalry": {
+  "rating": 2.4
+ },
+ "23323: Kavu Scout": {
+  "rating": 2.846
+ },
+ "24117: Well-Laid Plans": {
+  "rating": 2.397
+ },
+ "24118: Wings of Hope": {
+  "rating": 3.346
+ },
+ "24119: Cremate": {
+  "rating": 3.95
+ },
+ "24124: Dredge": {
+  "rating": 1.92
+ },
+ "24127: Aggressive Urge": {
+  "rating": 3.037
+ },
+ "24670: Saproling Symbiosis": {
+  "rating": 4.139
+ },
+ "25320: Wash Out": {
+  "rating": 4.3
+ },
+ "25323: Rewards of Diversity": {
+  "rating": 2.729
+ },
+ "25363: Llanowar Elite": {
+  "rating": 3.341
+ },
+ "25438: Dueling Grounds": {
+  "rating": 4.208
+ },
+ "25748: Tainted Well": {
+  "rating": 3.111
+ },
+ "25749: Searing Rays": {
+  "rating": 3.271
+ },
+ "25750: Saproling Infestation": {
+  "rating": 2.851
+ },
+ "25751: Barrin's Spite": {
+  "rating": 3.688
+ },
+ "25752: Stalking Assassin": {
+  "rating": 1.873
+ },
+ "25836: Dromar's Attendant": {
+  "rating": 2.558
+ },
+ "25837: Crosis's Attendant": {
+  "rating": 3.944
+ },
+ "25838: Darigaaz's Attendant": {
+  "rating": 2.862
+ },
+ "25839: Rith's Attendant": {
+  "rating": 2.532
+ },
+ "25840: Treva's Attendant": {
+  "rating": 2.197
+ },
+ "25930: Keldon Necropolis": {
+  "rating": 3.114
+ },
+ "25963: Plains": {
+  "rating": 4.845
+ },
+ "25964: Island": {
+  "rating": 4.759
+ },
+ "25965: Swamp": {
+  "rating": 4.738
+ },
+ "25966: Mountain": {
+  "rating": 4.667
+ },
+ "25967: Forest": {
+  "rating": 4.577
+ },
+ "25975: Urborg Drake": {
+  "rating": 3.484
+ },
+ "25976: Captain Sisay": {
+  "rating": 4.129
+ },
+ "25977: Hanna, Ship's Navigator": {
+  "rating": 4.038
+ },
+ "26257: Protective Sphere": {
+  "rating": 2.859
+ },
+ "26282: Harsh Judgment": {
+  "rating": 3.44
+ },
+ "26287: Psychic Battle": {
+  "rating": 3.871
+ },
+ "26296: Vodalian Merchant": {
+  "rating": 3.061
+ },
+ "26297: Ravenous Rats": {
+  "rating": 4.111
+ },
+ "26298: Plains": {
+  "rating": 4.288
+ },
+ "26299: Plains": {
+  "rating": 4.5
+ },
+ "26300: Plains": {
+  "rating": 4.773
+ },
+ "26301: Island": {
+  "rating": 4.667
+ },
+ "26302: Island": {
+  "rating": 4.532
+ },
+ "26303: Island": {
+  "rating": 4.196
+ },
+ "26304: Swamp": {
+  "rating": 4.357
+ },
+ "26305: Swamp": {
+  "rating": 4.621
+ },
+ "26306: Swamp": {
+  "rating": 4.4
+ },
+ "26307: Mountain": {
+  "rating": 4.354
+ },
+ "26308: Mountain": {
+  "rating": 4.481
+ },
+ "26309: Mountain": {
+  "rating": 4.231
+ },
+ "26310: Forest": {
+  "rating": 4
+ },
+ "26311: Forest": {
+  "rating": 4.578
+ },
+ "26312: Forest": {
+  "rating": 4.548
+ },
+ "26372: Phyrexian Infiltrator": {
+  "rating": 3.913
+ },
+ "26379: Metathran Transport": {
+  "rating": 3.241
+ },
+ "26380: Tsabo's Decree": {
+  "rating": 4.254
+ },
+ "26389: Stand or Fall": {
+  "rating": 3.25
+ },
+ "26416: Quirion Sentinel": {
+  "rating": 3.212
+ },
+ "26445: Elvish Champion": {
+  "rating": 4.198
+ }
+}

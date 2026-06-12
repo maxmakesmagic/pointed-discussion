@@ -1,0 +1,509 @@
+{
+ "205263: Ascendant Evincar": {
+  "rating": 3.968
+ },
+ "205264: Blaze": {
+  "rating": 3.158
+ },
+ "205265: Bogardan Firefiend": {
+  "rating": 3.324
+ },
+ "205266: Cone of Flame": {
+  "rating": 4.041
+ },
+ "205267: Festering Goblin": {
+  "rating": 4.132
+ },
+ "205268: Furnace of Rath": {
+  "rating": 4.366
+ },
+ "205269: Grave Pact": {
+  "rating": 4.441
+ },
+ "205270: Loxodon Warhammer": {
+  "rating": 4.028
+ },
+ "205271: Relentless Assault": {
+  "rating": 4.221
+ },
+ "205272: Verdant Force": {
+  "rating": 4.217
+ },
+ "205273: Forgotten Ancient": {
+  "rating": 4.367
+ },
+ "205274: Nefashu": {
+  "rating": 3.816
+ },
+ "205275: Ancient Den": {
+  "rating": 4.272
+ },
+ "205276: Bosh, Iron Golem": {
+  "rating": 4.228
+ },
+ "205277: Broodstar": {
+  "rating": 4.347
+ },
+ "205278: Copper Myr": {
+  "rating": 2.845
+ },
+ "205279: Forest": {
+  "rating": 4.275
+ },
+ "205283: Gold Myr": {
+  "rating": 3.198
+ },
+ "205284: Great Furnace": {
+  "rating": 4.47
+ },
+ "205285: Iron Myr": {
+  "rating": 2.974
+ },
+ "205286: Island": {
+  "rating": 4.379
+ },
+ "205287: Island": {
+  "rating": 4.542
+ },
+ "205288: Island": {
+  "rating": 4.517
+ },
+ "205289: Island": {
+  "rating": 4.387
+ },
+ "205290: Leaden Myr": {
+  "rating": 3.078
+ },
+ "205291: Lodestone Myr": {
+  "rating": 4.446
+ },
+ "205292: Mountain": {
+  "rating": 4.575
+ },
+ "205296: Myr Enforcer": {
+  "rating": 4.327
+ },
+ "205297: Nuisance Engine": {
+  "rating": 3.777
+ },
+ "205298: Pentavus": {
+  "rating": 4.412
+ },
+ "205301: Plains": {
+  "rating": 4.75
+ },
+ "205303: Seat of the Synod": {
+  "rating": 4.56
+ },
+ "205304: Serum Tank": {
+  "rating": 3.269
+ },
+ "205305: Silver Myr": {
+  "rating": 3.471
+ },
+ "205306: Skeleton Shard": {
+  "rating": 4.411
+ },
+ "205309: Swamp": {
+  "rating": 4.562
+ },
+ "205311: Thirst for Knowledge": {
+  "rating": 4.639
+ },
+ "205312: Tree of Tales": {
+  "rating": 4.128
+ },
+ "205313: Vault of Whispers": {
+  "rating": 4.36
+ },
+ "205314: Wizard Replica": {
+  "rating": 3.8
+ },
+ "205315: Living Hive": {
+  "rating": 4.107
+ },
+ "205316: Mask of Memory": {
+  "rating": 4.186
+ },
+ "205317: Arsenal Thresher": {
+  "rating": 2.833
+ },
+ "205318: Glory of Warfare": {
+  "rating": 3.4
+ },
+ "205319: Mage Slayer": {
+  "rating": 3.823
+ },
+ "205320: Branching Bolt": {
+  "rating": 3.06
+ },
+ "205321: Bull Cerodon": {
+  "rating": 3.365
+ },
+ "205322: Death Baron": {
+  "rating": 4.147
+ },
+ "205323: Dregscape Zombie": {
+  "rating": 2.816
+ },
+ "205325: Master of Etherium": {
+  "rating": 4.5
+ },
+ "205326: Relic of Progenitus": {
+  "rating": 4.588
+ },
+ "205327: Rockslide Elemental": {
+  "rating": 2.973
+ },
+ "205328: Cranial Plating": {
+  "rating": 4.552
+ },
+ "205329: Door to Nothingness": {
+  "rating": 4.153
+ },
+ "205330: Etched Oracle": {
+  "rating": 3.779
+ },
+ "205331: Pentad Prism": {
+  "rating": 4.417
+ },
+ "205332: Qumulox": {
+  "rating": 3.649
+ },
+ "205333: Tornado Elemental": {
+  "rating": 4.421
+ },
+ "205334: Suntouched Myr": {
+  "rating": 2.32
+ },
+ "205335: Arcbound Crusher": {
+  "rating": 4.467
+ },
+ "205336: Arcbound Slith": {
+  "rating": 4.311
+ },
+ "205337: Darksteel Forge": {
+  "rating": 4.335
+ },
+ "205338: Vedalken Engineer": {
+  "rating": 4.454
+ },
+ "205339: Sarcomite Myr": {
+  "rating": 2.707
+ },
+ "205340: Beast Hunt": {
+  "rating": 1.985
+ },
+ "205341: Hideous End": {
+  "rating": 3.403
+ },
+ "205342: Kor Sanctifiers": {
+  "rating": 3.297
+ },
+ "205343: Whiplash Trap": {
+  "rating": 3.306
+ },
+ "205344: Rotting Rats": {
+  "rating": 3.065
+ },
+ "205345: Sludge Strider": {
+  "rating": 3.011
+ },
+ "205346: Keep Watch": {
+  "rating": 3.774
+ },
+ "205347: Consume Spirit": {
+  "rating": 3.59
+ },
+ "205348: Fabricate": {
+  "rating": 4.423
+ },
+ "205349: Gravedigger": {
+  "rating": 3.806
+ },
+ "205350: Rampant Growth": {
+  "rating": 4.075
+ },
+ "205351: Soul Warden": {
+  "rating": 4.42
+ },
+ "205352: Terramorphic Expanse": {
+  "rating": 3.637
+ },
+ "205353: Gruul Turf": {
+  "rating": 3.756
+ },
+ "205354: Rumbling Slum": {
+  "rating": 4.181
+ },
+ "205355: Savage Twister": {
+  "rating": 4
+ },
+ "205356: Boros Garrison": {
+  "rating": 3.919
+ },
+ "205357: Boros Guildmage": {
+  "rating": 3.656
+ },
+ "205358: Boros Signet": {
+  "rating": 3.512
+ },
+ "205359: Boros Swiftblade": {
+  "rating": 4.084
+ },
+ "205360: Helldozer": {
+  "rating": 4.219
+ },
+ "205361: Lightning Helix": {
+  "rating": 4.447
+ },
+ "205362: Razia, Boros Archangel": {
+  "rating": 3.793
+ },
+ "205363: Sunhome, Fortress of the Legion": {
+  "rating": 3.488
+ },
+ "205364: Innocent Blood": {
+  "rating": 4.537
+ },
+ "205365: Reckless Charge": {
+  "rating": 4.016
+ },
+ "205366: Akroma's Vengeance": {
+  "rating": 4.011
+ },
+ "205367: Cruel Revival": {
+  "rating": 3.868
+ },
+ "205368: Explosive Vegetation": {
+  "rating": 3.631
+ },
+ "205369: Insurrection": {
+  "rating": 4.206
+ },
+ "205370: Menacing Ogre": {
+  "rating": 3.485
+ },
+ "205371: Rorix Bladewing": {
+  "rating": 4.18
+ },
+ "205372: Shepherd of Rot": {
+  "rating": 3.99
+ },
+ "205373: Soulless One": {
+  "rating": 4.383
+ },
+ "205374: Syphon Mind": {
+  "rating": 3.812
+ },
+ "205375: Syphon Soul": {
+  "rating": 3.643
+ },
+ "205376: Tribal Unity": {
+  "rating": 3.075
+ },
+ "205377: Balefire Liege": {
+  "rating": 4.281
+ },
+ "205378: Battlegate Mimic": {
+  "rating": 3.559
+ },
+ "205379: Double Cleave": {
+  "rating": 3.915
+ },
+ "205380: Duergar Hedge-Mage": {
+  "rating": 3.802
+ },
+ "205381: Hearthfire Hobgoblin": {
+  "rating": 3.804
+ },
+ "205382: Captain's Maneuver": {
+  "rating": 3.737
+ },
+ "205384: Order // Chaos": {
+  "rating": 4.151
+ },
+ "205385: Orim's Thunder": {
+  "rating": 4.147
+ },
+ "205386: Arc Lightning": {
+  "rating": 4.144
+ },
+ "205387: Congregate": {
+  "rating": 3.862
+ },
+ "205388: Goblin Offensive": {
+  "rating": 3.062
+ },
+ "205389: Phyrexian Ghoul": {
+  "rating": 4.118
+ },
+ "205391: Rolling Thunder": {
+  "rating": 4.294
+ },
+ "205392: Flametongue Kavu": {
+  "rating": 4.578
+ },
+ "205393: Briarhorn": {
+  "rating": 3.522
+ },
+ "205394: Fertile Ground": {
+  "rating": 4.264
+ },
+ "205395: Flamekin Harbinger": {
+  "rating": 4.19
+ },
+ "205396: Oblivion Ring": {
+  "rating": 4.368
+ },
+ "205397: Profane Command": {
+  "rating": 4
+ },
+ "205398: Smokebraider": {
+  "rating": 4.012
+ },
+ "205399: Beseech the Queen": {
+  "rating": 3.577
+ },
+ "205400: Incremental Blight": {
+  "rating": 3.311
+ },
+ "205401: Leechridden Swamp": {
+  "rating": 3.393
+ },
+ "205402: Prison Term": {
+  "rating": 4.014
+ },
+ "205403: Fertilid": {
+  "rating": 3.379
+ },
+ "205404: Taurean Mauler": {
+  "rating": 4.3
+ },
+ "205405: Pyrotechnics": {
+  "rating": 3.568
+ },
+ "205406: Shivan Oasis": {
+  "rating": 3.654
+ },
+ "205407: Bogardan Rager": {
+  "rating": 2.25
+ },
+ "205408: Search for Tomorrow": {
+  "rating": 4.071
+ },
+ "205409: Assault // Battery": {
+  "rating": 3.628
+ },
+ "205410: Undead Warchief": {
+  "rating": 4.302
+ },
+ "205411: Withered Wretch": {
+  "rating": 4.342
+ },
+ "205412: Fires of Yavimaya": {
+  "rating": 4.272
+ },
+ "205413: Hull Breach": {
+  "rating": 4.471
+ },
+ "205414: Cinder Elemental": {
+  "rating": 3.531
+ },
+ "205415: Silverglade Elemental": {
+  "rating": 4.095
+ },
+ "205416: Browbeat": {
+  "rating": 3.633
+ },
+ "205417: Phyrexian Arena": {
+  "rating": 4.417
+ },
+ "205418: Beacon of Unrest": {
+  "rating": 4.319
+ },
+ "205419: Corpse Harvester": {
+  "rating": 3.851
+ },
+ "205420: Noxious Ghoul": {
+  "rating": 4.186
+ },
+ "205421: Cabal Coffers": {
+  "rating": 4.348
+ },
+ "205422: Dark Ritual": {
+  "rating": 4.869
+ },
+ "205423: Cadaverous Knight": {
+  "rating": 3.803
+ },
+ "205428: Plains": {
+  "rating": 3.917
+ },
+ "205430: Plains": {
+  "rating": 4.548
+ },
+ "205432: Mountain": {
+  "rating": 4.611
+ },
+ "205434: Swamp": {
+  "rating": 4.804
+ },
+ "205435: Mountain": {
+  "rating": 4.575
+ },
+ "205436: Plains": {
+  "rating": 4.468
+ },
+ "205440: Plains": {
+  "rating": 4.42
+ },
+ "205441: Mountain": {
+  "rating": 4.261
+ },
+ "205442: Swamp": {
+  "rating": 4.75
+ },
+ "205443: Swamp": {
+  "rating": 4.812
+ },
+ "205446: Swamp": {
+  "rating": 4.38
+ },
+ "205447: Mountain": {
+  "rating": 4.717
+ },
+ "205464: Forest": {
+  "rating": 4.635
+ },
+ "205465: Forest": {
+  "rating": 4.519
+ },
+ "205466: Forest": {
+  "rating": 4.5
+ },
+ "205467: Forest": {
+  "rating": 3.909
+ },
+ "205468: Mountain": {
+  "rating": 4.689
+ },
+ "205469: Mountain": {
+  "rating": 4.725
+ },
+ "205470: Mountain": {
+  "rating": 4.741
+ },
+ "205471: Mountain": {
+  "rating": 4.312
+ },
+ "205801: Keldon Champion": {
+  "rating": 3.953
+ },
+ "205802: Cerodon Yearling": {
+  "rating": 3.841
+ },
+ "206024: Ivy Elemental": {
+  "rating": 3.377
+ }
+}

@@ -1,0 +1,431 @@
+{
+ "5584: Aven Trooper": {
+  "rating": 0.812
+ },
+ "5598: False Memories": {
+  "rating": 1.857
+ },
+ "5663: Narcissism": {
+  "rating": 3.212
+ },
+ "8875: Transcendence": {
+  "rating": 3.597
+ },
+ "12345: Teroh's Faithful": {
+  "rating": 2.385
+ },
+ "12363: Militant Monk": {
+  "rating": 2.812
+ },
+ "12405: Gloomdrifter": {
+  "rating": 3.413
+ },
+ "12623: Arrogant Wurm": {
+  "rating": 4.218
+ },
+ "15229: Far Wanderings": {
+  "rating": 4.138
+ },
+ "19553: Balthor the Stout": {
+  "rating": 3.966
+ },
+ "19696: Coral Net": {
+  "rating": 2.348
+ },
+ "23043: Shade's Form": {
+  "rating": 4.139
+ },
+ "26279: Carrion Rats": {
+  "rating": 2.839
+ },
+ "26361: Spirit Flare": {
+  "rating": 2.521
+ },
+ "26404: Dwell on the Past": {
+  "rating": 3.183
+ },
+ "26432: Mind Sludge": {
+  "rating": 3.562
+ },
+ "26449: Carrion Wurm": {
+  "rating": 3.178
+ },
+ "26726: Barbarian Outcast": {
+  "rating": 1.597
+ },
+ "27175: Llawan, Cephalid Empress": {
+  "rating": 4
+ },
+ "29571: Equal Treatment": {
+  "rating": 3.667
+ },
+ "29603: Chainer's Edict": {
+  "rating": 4.301
+ },
+ "29698: Vengeful Dreams": {
+  "rating": 3.909
+ },
+ "29705: Hypochondria": {
+  "rating": 2.719
+ },
+ "29708: Cephalid Aristocrat": {
+  "rating": 1.152
+ },
+ "29713: Skywing Aven": {
+  "rating": 2.5
+ },
+ "29715: Krosan Constrictor": {
+  "rating": 1.591
+ },
+ "29719: Hydromorph Gull": {
+  "rating": 2.5
+ },
+ "29720: Churning Eddy": {
+  "rating": 3.1
+ },
+ "29721: Obsessive Search": {
+  "rating": 3.737
+ },
+ "29731: Soul Scourge": {
+  "rating": 2.257
+ },
+ "29739: Faceless Butcher": {
+  "rating": 4.111
+ },
+ "29754: Crazed Firecat": {
+  "rating": 2.561
+ },
+ "29770: Longhorn Firebeast": {
+  "rating": 2.683
+ },
+ "29787: Possessed Centaur": {
+  "rating": 3.774
+ },
+ "29799: Petradon": {
+  "rating": 3.879
+ },
+ "29800: Centaur Veteran": {
+  "rating": 1.514
+ },
+ "29816: Possessed Nomad": {
+  "rating": 3.622
+ },
+ "29824: Plagiarize": {
+  "rating": 3.7
+ },
+ "29825: Insidious Dreams": {
+  "rating": 4.041
+ },
+ "29827: Turbulent Dreams": {
+  "rating": 3.537
+ },
+ "29841: Frantic Purification": {
+  "rating": 1.979
+ },
+ "29857: Accelerate": {
+  "rating": 1.768
+ },
+ "29863: Flash of Defiance": {
+  "rating": 1.796
+ },
+ "29868: Overmaster": {
+  "rating": 4.23
+ },
+ "29872: Krosan Restorer": {
+  "rating": 4.056
+ },
+ "29873: Acorn Harvest": {
+  "rating": 3.293
+ },
+ "29883: Cleansing Meditation": {
+  "rating": 3.883
+ },
+ "29886: Insist": {
+  "rating": 4.102
+ },
+ "29896: Cabal Coffers": {
+  "rating": 4.144
+ },
+ "29907: Invigorating Falls": {
+  "rating": 2.577
+ },
+ "29908: Restless Dreams": {
+  "rating": 2.741
+ },
+ "29912: Major Teroh": {
+  "rating": 3.908
+ },
+ "29927: Breakthrough": {
+  "rating": 4.263
+ },
+ "29960: Mortal Combat": {
+  "rating": 3.854
+ },
+ "29992: Parallel Evolution": {
+  "rating": 3.565
+ },
+ "30561: Devastating Dreams": {
+  "rating": 3.743
+ },
+ "30564: Cabal Ritual": {
+  "rating": 4.371
+ },
+ "30607: Mystic Familiar": {
+  "rating": 3.438
+ },
+ "30658: Possessed Aven": {
+  "rating": 3.839
+ },
+ "31598: Rancid Earth": {
+  "rating": 4.117
+ },
+ "31757: Tainted Field": {
+  "rating": 4.107
+ },
+ "31758: Tainted Isle": {
+  "rating": 4.133
+ },
+ "31759: Tainted Peak": {
+  "rating": 4.13
+ },
+ "31760: Tainted Wood": {
+  "rating": 4.068
+ },
+ "31805: Petravark": {
+  "rating": 2.792
+ },
+ "31822: Shambling Swarm": {
+  "rating": 3.516
+ },
+ "31831: Hypnox": {
+  "rating": 3.812
+ },
+ "31833: Slithery Stalker": {
+  "rating": 2.045
+ },
+ "31840: Cephalid Snitch": {
+  "rating": 0.985
+ },
+ "31851: Nantuko Calmer": {
+  "rating": 1.828
+ },
+ "31869: Laquatus's Champion": {
+  "rating": 4.177
+ },
+ "32133: Waste Away": {
+  "rating": 0.973
+ },
+ "32205: Teroh's Vanguard": {
+  "rating": 2.452
+ },
+ "32208: Nostalgic Dreams": {
+  "rating": 4.174
+ },
+ "32210: Gravegouger": {
+  "rating": 2.167
+ },
+ "32211: Mesmeric Fiend": {
+  "rating": 4.298
+ },
+ "32213: Pardic Arsonist": {
+  "rating": 3.32
+ },
+ "32218: Centaur Chieftain": {
+  "rating": 4.138
+ },
+ "32221: Gurzigost": {
+  "rating": 4.103
+ },
+ "32222: Grotesque Hybrid": {
+  "rating": 3.562
+ },
+ "32224: Cabal Surgeon": {
+  "rating": 1.783
+ },
+ "32225: Boneshard Slasher": {
+  "rating": 2.9
+ },
+ "32226: Cabal Torturer": {
+  "rating": 2.015
+ },
+ "32229: Kamahl's Sledge": {
+  "rating": 0.867
+ },
+ "32231: Possessed Barbarian": {
+  "rating": 3.661
+ },
+ "32232: Pay No Heed": {
+  "rating": 2.472
+ },
+ "32233: Angel of Retribution": {
+  "rating": 2.204
+ },
+ "32235: Ghostly Wings": {
+  "rating": 3.058
+ },
+ "32236: Temporary Insanity": {
+  "rating": 2.9
+ },
+ "32237: Deep Analysis": {
+  "rating": 4.326
+ },
+ "32238: Organ Grinder": {
+  "rating": 3.739
+ },
+ "32240: Pardic Lancer": {
+  "rating": 1.667
+ },
+ "32243: Nantuko Blightcutter": {
+  "rating": 3.409
+ },
+ "32244: Seton's Scout": {
+  "rating": 3.717
+ },
+ "32396: Floating Shield": {
+  "rating": 2.618
+ },
+ "32915: Balshan Collaborator": {
+  "rating": 3.045
+ },
+ "32916: Chainer, Dementia Master": {
+  "rating": 4.023
+ },
+ "32917: Enslaved Dwarf": {
+  "rating": 1.672
+ },
+ "32918: Fiery Temper": {
+  "rating": 4.181
+ },
+ "32921: Flaming Gambit": {
+  "rating": 1.909
+ },
+ "33627: Hydromorph Guardian": {
+  "rating": 3.054
+ },
+ "33687: Anurid Scavenger": {
+  "rating": 3.714
+ },
+ "33690: Cephalid Sage": {
+  "rating": 2.5
+ },
+ "33691: Psychotic Haze": {
+  "rating": 2.016
+ },
+ "33698: Retraced Image": {
+  "rating": 3.912
+ },
+ "34222: Strength of Lunacy": {
+  "rating": 3.783
+ },
+ "34225: Crippling Fatigue": {
+  "rating": 2.625
+ },
+ "34229: Nantuko Cultivator": {
+  "rating": 4
+ },
+ "34234: Morningtide": {
+  "rating": 3.643
+ },
+ "34247: Reborn Hero": {
+  "rating": 3.744
+ },
+ "34250: Radiate": {
+  "rating": 4.091
+ },
+ "34253: Violent Eruption": {
+  "rating": 4.148
+ },
+ "34278: Crackling Club": {
+  "rating": 2.5
+ },
+ "34368: Circular Logic": {
+  "rating": 4.314
+ },
+ "34378: Ambassador Laquatus": {
+  "rating": 4.033
+ },
+ "34382: Skullscorch": {
+  "rating": 4.07
+ },
+ "34384: Hell-Bent Raider": {
+  "rating": 3.786
+ },
+ "34390: Pyromania": {
+  "rating": 1.457
+ },
+ "34465: Aquamoeba": {
+  "rating": 3.653
+ },
+ "34467: Last Laugh": {
+  "rating": 3.788
+ },
+ "34470: Putrid Imp": {
+  "rating": 4.209
+ },
+ "34473: Compulsion": {
+  "rating": 4.144
+ },
+ "34756: Liquify": {
+  "rating": 2.864
+ },
+ "34776: Cephalid Illusionist": {
+  "rating": 4.014
+ },
+ "34782: Strength of Isolation": {
+  "rating": 3.234
+ },
+ "34819: Zombie Trailblazer": {
+  "rating": 3.868
+ },
+ "34832: Alter Reality": {
+  "rating": 3.851
+ },
+ "35053: Nantuko Shade": {
+  "rating": 4.29
+ },
+ "35054: Pardic Collaborator": {
+  "rating": 3.074
+ },
+ "35063: Sickening Dreams": {
+  "rating": 3.485
+ },
+ "35072: Basking Rootwalla": {
+  "rating": 4.318
+ },
+ "35082: Stern Judge": {
+  "rating": 3.354
+ },
+ "35086: Sengir Vampire": {
+  "rating": 4.012
+ },
+ "35165: Sonic Seizure": {
+  "rating": 2.618
+ },
+ "35194: Mutilate": {
+  "rating": 4.191
+ },
+ "35922: Unhinge": {
+  "rating": 2.531
+ },
+ "35923: Ichorid": {
+  "rating": 4.548
+ },
+ "35924: Dawn of the Dead": {
+  "rating": 4
+ },
+ "36034: Cephalid Vandal": {
+  "rating": 2.362
+ },
+ "36111: Grim Lavamancer": {
+  "rating": 4.309
+ },
+ "36415: Stupefying Touch": {
+  "rating": 3.017
+ },
+ "36432: Pitchstone Wall": {
+  "rating": 3.017
+ },
+ "36433: Mortiphobia": {
+  "rating": 1.79
+ }
+}

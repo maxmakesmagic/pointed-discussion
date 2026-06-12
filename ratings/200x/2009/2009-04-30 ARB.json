@@ -1,0 +1,437 @@
+{
+ "138217: Unbender Tine": {
+  "rating": 3.079
+ },
+ "144249: Pale Recluse": {
+  "rating": 2.415
+ },
+ "144260: Valley Rannet": {
+  "rating": 2.196
+ },
+ "144276: Igneous Pouncer": {
+  "rating": 2.329
+ },
+ "144282: Sanctum Plowbeast": {
+  "rating": 2.039
+ },
+ "144286: Jhessian Zombies": {
+  "rating": 2.124
+ },
+ "147530: Retaliator Griffin": {
+  "rating": 3.382
+ },
+ "159688: Sigiled Behemoth": {
+  "rating": 2.225
+ },
+ "161276: Mistvein Borderpost": {
+  "rating": 2.964
+ },
+ "161291: Breath of Malfegor": {
+  "rating": 3.022
+ },
+ "161292: Trace of Abundance": {
+  "rating": 3.545
+ },
+ "175109: Identity Crisis": {
+  "rating": 3.276
+ },
+ "175256: Reborn Hope": {
+  "rating": 3.183
+ },
+ "176449: Terminate": {
+  "rating": 4.495
+ },
+ "177922: Lord of Extinction": {
+  "rating": 4.104
+ },
+ "179406: Blitz Hellion": {
+  "rating": 3.302
+ },
+ "179409: Soulquake": {
+  "rating": 2.293
+ },
+ "179534: Stormcaller's Boon": {
+  "rating": 2.686
+ },
+ "179535: Vithian Renegades": {
+  "rating": 4.101
+ },
+ "179537: Talon Trooper": {
+  "rating": 2.754
+ },
+ "179538: Anathemancer": {
+  "rating": 3.478
+ },
+ "179540: Maelstrom Nexus": {
+  "rating": 3.654
+ },
+ "179542: Ethercaste Knight": {
+  "rating": 3.061
+ },
+ "179543: Deadshot Minotaur": {
+  "rating": 2.923
+ },
+ "179544: Double Negative": {
+  "rating": 3.346
+ },
+ "179545: Behemoth Sledge": {
+  "rating": 3.92
+ },
+ "179547: Meddling Mage": {
+  "rating": 4.604
+ },
+ "179548: Mycoid Shepherd": {
+  "rating": 3.67
+ },
+ "179551: Spellbreaker Behemoth": {
+  "rating": 3.994
+ },
+ "179553: Sangrite Backlash": {
+  "rating": 2.889
+ },
+ "179555: Lich Lord of Unx": {
+  "rating": 3.662
+ },
+ "179556: Qasali Pridemage": {
+  "rating": 4.682
+ },
+ "179560: Sigil Captain": {
+  "rating": 3.591
+ },
+ "179561: Gorger Wurm": {
+  "rating": 3.124
+ },
+ "179562: Fight to the Death": {
+  "rating": 3.435
+ },
+ "179567: Mage Slayer": {
+  "rating": 3.712
+ },
+ "179568: Intimidation Bolt": {
+  "rating": 3.43
+ },
+ "179569: Skyclaw Thrash": {
+  "rating": 2.754
+ },
+ "179573: Etherium Abomination": {
+  "rating": 2.137
+ },
+ "179574: Singe-Mind Ogre": {
+  "rating": 3.02
+ },
+ "179575: Zealous Persecution": {
+  "rating": 4.236
+ },
+ "179576: Glassdust Hulk": {
+  "rating": 3.273
+ },
+ "179578: Ethersworn Shieldmage": {
+  "rating": 3
+ },
+ "179580: Nulltread Gargantuan": {
+  "rating": 3.759
+ },
+ "179584: Mask of Riddles": {
+  "rating": 3.48
+ },
+ "179585: Marisi's Twinclaws": {
+  "rating": 3.347
+ },
+ "179587: Drastic Revelation": {
+  "rating": 2.951
+ },
+ "179589: Stun Sniper": {
+  "rating": 3.52
+ },
+ "179590: Wildfield Borderpost": {
+  "rating": 3.045
+ },
+ "179591: Magefire Wings": {
+  "rating": 2.61
+ },
+ "179592: Vectis Dominator": {
+  "rating": 2.292
+ },
+ "179594: Sewn-Eye Drake": {
+  "rating": 2.929
+ },
+ "179596: Illusory Demon": {
+  "rating": 2.413
+ },
+ "179597: Architects of Will": {
+  "rating": 2.809
+ },
+ "179598: Giant Ambush Beetle": {
+  "rating": 3.022
+ },
+ "179599: Mind Funeral": {
+  "rating": 4.131
+ },
+ "179601: Wall of Denial": {
+  "rating": 4.275
+ },
+ "179602: Kathari Bomber": {
+  "rating": 2.979
+ },
+ "179603: Winged Coatl": {
+  "rating": 3.705
+ },
+ "179605: Flurry of Wings": {
+  "rating": 3.259
+ },
+ "179607: Brainbite": {
+  "rating": 2.975
+ },
+ "179611: Glory of Warfare": {
+  "rating": 3.413
+ },
+ "179612: Putrid Leech": {
+  "rating": 4.296
+ },
+ "179614: Morbid Bloom": {
+  "rating": 2.894
+ },
+ "179618: Etherwrought Page": {
+  "rating": 2.95
+ },
+ "179621: Crystallization": {
+  "rating": 3.442
+ },
+ "179623: Sanity Gnawers": {
+  "rating": 2.638
+ },
+ "179624: Colossal Might": {
+  "rating": 3.648
+ },
+ "179628: Vengeful Rebirth": {
+  "rating": 3.013
+ },
+ "179630: Sigil of the Nayan Gods": {
+  "rating": 3.066
+ },
+ "179633: Lorescale Coatl": {
+  "rating": 4.45
+ },
+ "180311: Demonspine Whip": {
+  "rating": 3
+ },
+ "180587: Karrthus, Tyrant of Jund": {
+  "rating": 4.101
+ },
+ "180592: Wargate": {
+  "rating": 3.087
+ },
+ "180595: Thraximundar": {
+  "rating": 3.991
+ },
+ "180596: Thought Hemorrhage": {
+  "rating": 4.211
+ },
+ "180597: Enigma Sphinx": {
+  "rating": 3.422
+ },
+ "180600: Sovereigns of Lost Alara": {
+  "rating": 3.783
+ },
+ "180601: Sages of the Anima": {
+  "rating": 2.968
+ },
+ "180602: Predatory Advantage": {
+  "rating": 2.878
+ },
+ "180604: Cerodon Yearling": {
+  "rating": 3.718
+ },
+ "180605: Jenara, Asura of War": {
+  "rating": 4.005
+ },
+ "180606: Leonin Armorguard": {
+  "rating": 2.825
+ },
+ "180607: Sen Triplets": {
+  "rating": 3.998
+ },
+ "180608: Aven Mimeomancer": {
+  "rating": 3.479
+ },
+ "180609: Finest Hour": {
+  "rating": 4.023
+ },
+ "180611: Spellbound Dragon": {
+  "rating": 3.863
+ },
+ "180612: Lavalanche": {
+  "rating": 3.594
+ },
+ "180613: Maelstrom Pulse": {
+  "rating": 4.541
+ },
+ "180614: Dauntless Escort": {
+  "rating": 3.933
+ },
+ "180616: Dragon Appeasement": {
+  "rating": 2.346
+ },
+ "180617: Lightning Reaver": {
+  "rating": 3.796
+ },
+ "180618: Tainted Sigil": {
+  "rating": 3.236
+ },
+ "180619: Vedalken Heretic": {
+  "rating": 2.954
+ },
+ "180620: Mayael's Aria": {
+  "rating": 3.836
+ },
+ "180622: Deathbringer Thoctar": {
+  "rating": 3.648
+ },
+ "180624: Knotvine Paladin": {
+  "rating": 3.522
+ },
+ "180625: Madrush Cyclops": {
+  "rating": 3.449
+ },
+ "183005: Fieldmist Borderpost": {
+  "rating": 3.021
+ },
+ "183007: Offering to Asha": {
+  "rating": 2.986
+ },
+ "183008: Soul Manipulation": {
+  "rating": 3.65
+ },
+ "183010: Vedalken Ghoul": {
+  "rating": 3
+ },
+ "183011: Necromancer's Covenant": {
+  "rating": 3.667
+ },
+ "183014: Marrow Chomper": {
+  "rating": 3.024
+ },
+ "183017: Thopter Foundry": {
+  "rating": 4.112
+ },
+ "183994: Godtracker of Jund": {
+  "rating": 2.264
+ },
+ "185045: Deny Reality": {
+  "rating": 2.944
+ },
+ "185047: Enlisted Wurm": {
+  "rating": 3.55
+ },
+ "185051: Monstrous Carabid": {
+  "rating": 2.221
+ },
+ "185053: Bloodbraid Elf": {
+  "rating": 4.372
+ },
+ "185054: Ardent Plea": {
+  "rating": 3.403
+ },
+ "185056: Violent Outburst": {
+  "rating": 3.038
+ },
+ "185057: Bituminous Blast": {
+  "rating": 3.639
+ },
+ "185060: Kathari Remnant": {
+  "rating": 3.024
+ },
+ "185062: Demonic Dread": {
+  "rating": 2.879
+ },
+ "185063: Shield of the Righteous": {
+  "rating": 3.013
+ },
+ "185064: Captured Sunlight": {
+  "rating": 2.815
+ },
+ "188962: Nemesis of Reason": {
+  "rating": 4.252
+ },
+ "188963: Bant Sojourners": {
+  "rating": 2.922
+ },
+ "188965: Filigree Angel": {
+  "rating": 3.126
+ },
+ "188966: Jund Sojourners": {
+  "rating": 2.614
+ },
+ "188967: Esper Sojourners": {
+  "rating": 2.725
+ },
+ "188968: Esper Stormblade": {
+  "rating": 3.515
+ },
+ "188969: Naya Hushblade": {
+  "rating": 3.362
+ },
+ "188970: Naya Sojourners": {
+  "rating": 2.889
+ },
+ "188971: Slave of Bolas": {
+  "rating": 3.832
+ },
+ "188972: Grixis Sojourners": {
+  "rating": 2.51
+ },
+ "188973: Jund Hackblade": {
+  "rating": 3.531
+ },
+ "188974: Firewild Borderpost": {
+  "rating": 3.032
+ },
+ "188975: Bant Sureblade": {
+  "rating": 3.616
+ },
+ "188976: Grixis Grimblade": {
+  "rating": 3.333
+ },
+ "189640: Veinfire Borderpost": {
+  "rating": 3.014
+ },
+ "189641: Sphinx of the Steel Wind": {
+  "rating": 4.611
+ },
+ "189642: Knight of New Alara": {
+  "rating": 3.84
+ },
+ "189644: Messenger Falcons": {
+  "rating": 2.717
+ },
+ "189645: Uril, the Miststalker": {
+  "rating": 4.009
+ },
+ "189646: Defiler of Souls": {
+  "rating": 3.617
+ },
+ "189647: Grizzled Leotau": {
+  "rating": 3.195
+ },
+ "189648: Dragon Broodmother": {
+  "rating": 4.093
+ },
+ "189649: Time Sieve": {
+  "rating": 4.09
+ },
+ "189650: Rhox Brute": {
+  "rating": 2.774
+ },
+ "189651: Unscythe, Killer of Kings": {
+  "rating": 3.637
+ },
+ "189652: Arsenal Thresher": {
+  "rating": 3.006
+ },
+ "189653: Cloven Casting": {
+  "rating": 2.847
+ },
+ "189654: Gloryscale Viashino": {
+  "rating": 2.994
+ }
+}

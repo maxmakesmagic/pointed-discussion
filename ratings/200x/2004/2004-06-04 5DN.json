@@ -1,0 +1,497 @@
+{
+ "39667: Avarice Totem": {
+  "rating": 3.667
+ },
+ "43529: Cosmic Larva": {
+  "rating": 3.724
+ },
+ "43574: Relic Barrier": {
+  "rating": 3.329
+ },
+ "44608: Iron-Barb Hellion": {
+  "rating": 1.871
+ },
+ "46108: Feedback Bolt": {
+  "rating": 3.032
+ },
+ "46159: Fill with Fright": {
+  "rating": 2.823
+ },
+ "46175: Auriok Windwalker": {
+  "rating": 3.524
+ },
+ "47438: Energy Chamber": {
+  "rating": 4.149
+ },
+ "47449: Helm of Kaldra": {
+  "rating": 4.018
+ },
+ "47800: Qumulox": {
+  "rating": 4.096
+ },
+ "48177: Suncrusher": {
+  "rating": 3.434
+ },
+ "48215: Goblin Cannon": {
+  "rating": 2.582
+ },
+ "50117: Fist of Suns": {
+  "rating": 4.303
+ },
+ "50119: Possessed Portal": {
+  "rating": 4.056
+ },
+ "50120: Vedalken Shackles": {
+  "rating": 4.506
+ },
+ "50129: Endless Whispers": {
+  "rating": 4.071
+ },
+ "50134: Vedalken Orrery": {
+  "rating": 4.194
+ },
+ "50136: Skyhunter Prowler": {
+  "rating": 3.015
+ },
+ "50137: Loxodon Anchorite": {
+  "rating": 2.486
+ },
+ "50138: Stand Firm": {
+  "rating": 2.689
+ },
+ "50139: Engineered Explosives": {
+  "rating": 4.23
+ },
+ "50141: Beacon of Immortality": {
+  "rating": 4
+ },
+ "50144: Advanced Hoverguard": {
+  "rating": 2.326
+ },
+ "50145: Serum Visions": {
+  "rating": 4.194
+ },
+ "50147: Into Thin Air": {
+  "rating": 1.55
+ },
+ "50150: Gemstone Array": {
+  "rating": 3.83
+ },
+ "50155: Razormane Masticore": {
+  "rating": 4.533
+ },
+ "50156: Chimeric Coils": {
+  "rating": 2.536
+ },
+ "50158: Opaline Bracers": {
+  "rating": 3.04
+ },
+ "50159: Conjurer's Bauble": {
+  "rating": 3.636
+ },
+ "50162: Staff of Domination": {
+  "rating": 4.414
+ },
+ "50163: Trinket Mage": {
+  "rating": 4.574
+ },
+ "50164: Abuna's Chant": {
+  "rating": 2.167
+ },
+ "50171: Fangren Pathcutter": {
+  "rating": 3.583
+ },
+ "50172: Artificer's Intuition": {
+  "rating": 3.475
+ },
+ "50176: Myr Quadropod": {
+  "rating": 2.222
+ },
+ "50177: Thermal Navigator": {
+  "rating": 1.6
+ },
+ "50179: Myr Servitor": {
+  "rating": 4.331
+ },
+ "50188: Viridian Lorebearers": {
+  "rating": 2.338
+ },
+ "50189: Ouphe Vandals": {
+  "rating": 2.389
+ },
+ "50190: Tel-Jilad Justice": {
+  "rating": 3.757
+ },
+ "50191: Tyrranax": {
+  "rating": 2.94
+ },
+ "50192: Heliophial": {
+  "rating": 2.226
+ },
+ "50198: Clearwater Goblet": {
+  "rating": 4.269
+ },
+ "50201: Krark-Clan Engineers": {
+  "rating": 2.274
+ },
+ "50203: Tangle Asp": {
+  "rating": 3.88
+ },
+ "50204: Desecration Elemental": {
+  "rating": 3.531
+ },
+ "50207: Lose Hope": {
+  "rating": 3.5
+ },
+ "50209: Fleshgrafter": {
+  "rating": 2.658
+ },
+ "50210: Devour in Shadow": {
+  "rating": 3.674
+ },
+ "50211: Mephidross Vampire": {
+  "rating": 4.269
+ },
+ "50212: Blind Creeper": {
+  "rating": 2.949
+ },
+ "50213: Retaliate": {
+  "rating": 3.47
+ },
+ "50834: Vedalken Mastermind": {
+  "rating": 4.081
+ },
+ "50927: Grafted Wargear": {
+  "rating": 4.34
+ },
+ "51075: Summoner's Egg": {
+  "rating": 4.185
+ },
+ "51078: Steelshaper's Gift": {
+  "rating": 4.176
+ },
+ "51080: Roar of Reclamation": {
+  "rating": 3.574
+ },
+ "51086: Hoverguard Sweepers": {
+  "rating": 2.769
+ },
+ "51088: Acquire": {
+  "rating": 4.117
+ },
+ "51091: Moriok Rigger": {
+  "rating": 3.948
+ },
+ "51092: Shattered Dreams": {
+  "rating": 2.452
+ },
+ "51095: Ebon Drake": {
+  "rating": 1.913
+ },
+ "51097: Krark-Clan Ogre": {
+  "rating": 1.948
+ },
+ "51101: Magnetic Theft": {
+  "rating": 3.712
+ },
+ "51102: Magma Giant": {
+  "rating": 3.904
+ },
+ "51105: Suntouched Myr": {
+  "rating": 2.764
+ },
+ "51110: Wayfarer's Bauble": {
+  "rating": 4.068
+ },
+ "51113: Ferropede": {
+  "rating": 3.524
+ },
+ "51115: Ensouled Scimitar": {
+  "rating": 3.75
+ },
+ "51119: Anodet Lurker": {
+  "rating": 1.629
+ },
+ "51125: Sylvok Explorer": {
+  "rating": 2.862
+ },
+ "51129: Clock of Omens": {
+  "rating": 4.286
+ },
+ "51131: Blasting Station": {
+  "rating": 3.756
+ },
+ "51132: Salvaging Station": {
+  "rating": 4.08
+ },
+ "51133: Crucible of Worlds": {
+  "rating": 4.828
+ },
+ "51135: Doubling Cube": {
+  "rating": 3.842
+ },
+ "51136: Mycosynth Golem": {
+  "rating": 4.435
+ },
+ "51138: Guardian Idol": {
+  "rating": 3.308
+ },
+ "51141: Sawtooth Thresher": {
+  "rating": 2.64
+ },
+ "51146: Infused Arrows": {
+  "rating": 2.778
+ },
+ "51147: Vanquish": {
+  "rating": 2.25
+ },
+ "51148: Screaming Fury": {
+  "rating": 2.731
+ },
+ "51160: Eon Hub": {
+  "rating": 4.387
+ },
+ "51161: Tornado Elemental": {
+  "rating": 4.309
+ },
+ "51163: Rite of Passage": {
+  "rating": 3.128
+ },
+ "51166: Auriok Salvagers": {
+  "rating": 4.434
+ },
+ "51170: Goblin Brawler": {
+  "rating": 2.47
+ },
+ "51177: Vulshok Sorcerer": {
+  "rating": 3.316
+ },
+ "51178: Night's Whisper": {
+  "rating": 4.366
+ },
+ "51180: Magma Jet": {
+  "rating": 3.981
+ },
+ "51182: Healer's Headdress": {
+  "rating": 2.726
+ },
+ "51183: Neurok Stealthsuit": {
+  "rating": 3.873
+ },
+ "51184: Cranial Plating": {
+  "rating": 4.516
+ },
+ "51185: Sparring Collar": {
+  "rating": 2.942
+ },
+ "51186: Horned Helm": {
+  "rating": 3.449
+ },
+ "51189: Dross Crocodile": {
+  "rating": 2.821
+ },
+ "51190: Rain of Rust": {
+  "rating": 1
+ },
+ "51220: Skyhunter Skirmisher": {
+  "rating": 3.756
+ },
+ "51221: All Suns' Dawn": {
+  "rating": 4.083
+ },
+ "51222: Dawn's Reflection": {
+  "rating": 3.75
+ },
+ "51223: Condescend": {
+  "rating": 3.962
+ },
+ "51229: Grinding Station": {
+  "rating": 3.375
+ },
+ "51230: Arachnoid": {
+  "rating": 1.371
+ },
+ "51374: Skyreach Manta": {
+  "rating": 3.151
+ },
+ "51375: Baton of Courage": {
+  "rating": 1.402
+ },
+ "51607: Stasis Cocoon": {
+  "rating": 3.044
+ },
+ "51610: Beacon of Tomorrows": {
+  "rating": 4.134
+ },
+ "51611: Beacon of Unrest": {
+  "rating": 4.122
+ },
+ "51612: Beacon of Destruction": {
+  "rating": 3.95
+ },
+ "51613: Beacon of Creation": {
+  "rating": 4.446
+ },
+ "51617: Ferocious Charge": {
+  "rating": 3.067
+ },
+ "51628: Eternal Witness": {
+  "rating": 4.614
+ },
+ "51629: Solarion": {
+  "rating": 4.114
+ },
+ "51631: Fold into Aether": {
+  "rating": 2.3
+ },
+ "51633: Krark-Clan Ironworks": {
+  "rating": 4.361
+ },
+ "51634: Blinkmoth Infusion": {
+  "rating": 3.587
+ },
+ "72681: Plunge into Darkness": {
+  "rating": 3.971
+ },
+ "72720: Arcbound Wanderer": {
+  "rating": 2.4
+ },
+ "72721: Granulate": {
+  "rating": 3.327
+ },
+ "72722: Leonin Squire": {
+  "rating": 4.027
+ },
+ "72725: Etched Oracle": {
+  "rating": 3.762
+ },
+ "72727: Mana Geyser": {
+  "rating": 2.179
+ },
+ "72858: Summoning Station": {
+  "rating": 4.16
+ },
+ "72860: Pentad Prism": {
+  "rating": 4.208
+ },
+ "72862: Lunar Avenger": {
+  "rating": 2.842
+ },
+ "72921: Auriok Champion": {
+  "rating": 4.059
+ },
+ "72925: Ion Storm": {
+  "rating": 4.034
+ },
+ "72928: Joiner Adept": {
+  "rating": 4.098
+ },
+ "72999: Razorgrass Screen": {
+  "rating": 1.845
+ },
+ "73552: Bringer of the Green Dawn": {
+  "rating": 4.112
+ },
+ "73553: Bringer of the Red Dawn": {
+  "rating": 4.196
+ },
+ "73554: Bringer of the Blue Dawn": {
+  "rating": 4.28
+ },
+ "73555: Bringer of the Black Dawn": {
+  "rating": 4.255
+ },
+ "73556: Bringer of the White Dawn": {
+  "rating": 4.141
+ },
+ "73557: Composite Golem": {
+  "rating": 3.655
+ },
+ "73558: Paradise Mantle": {
+  "rating": 4.311
+ },
+ "73559: Door to Nothingness": {
+  "rating": 4.165
+ },
+ "73561: Circle of Protection: Artifacts": {
+  "rating": 2.84
+ },
+ "73562: Plasma Elemental": {
+  "rating": 3
+ },
+ "73564: Reversal of Fortune": {
+  "rating": 3.375
+ },
+ "73565: Channel the Suns": {
+  "rating": 4.179
+ },
+ "73566: Armed Response": {
+  "rating": 1.588
+ },
+ "73567: Loxodon Stalwart": {
+  "rating": 3
+ },
+ "73569: Raksha Golden Cub": {
+  "rating": 4.043
+ },
+ "73570: Thought Courier": {
+  "rating": 3.606
+ },
+ "73571: Early Frost": {
+  "rating": 3.262
+ },
+ "73572: Spectral Shift": {
+  "rating": 3.614
+ },
+ "73573: Relentless Rats": {
+  "rating": 3.487
+ },
+ "73574: Nim Grotesque": {
+  "rating": 1.812
+ },
+ "73575: Vicious Betrayal": {
+  "rating": 1.278
+ },
+ "73578: Furnace Whelp": {
+  "rating": 3.333
+ },
+ "73579: Spark Elemental": {
+  "rating": 3.161
+ },
+ "73582: Tel-Jilad Lifebreather": {
+  "rating": 1.25
+ },
+ "73583: Viridian Scout": {
+  "rating": 0.871
+ },
+ "73587: Rude Awakening": {
+  "rating": 4.103
+ },
+ "73597: Cackling Imp": {
+  "rating": 2.397
+ },
+ "73598: Silent Arbiter": {
+  "rating": 4.408
+ },
+ "73925: Eyes of the Watcher": {
+  "rating": 3.936
+ },
+ "73926: Skullcage": {
+  "rating": 3.306
+ },
+ "73927: Lantern of Insight": {
+  "rating": 3.977
+ },
+ "73928: Spinal Parasite": {
+  "rating": 1.462
+ },
+ "73929: Synod Centurion": {
+  "rating": 2.839
+ },
+ "73932: Battered Golem": {
+  "rating": 2.652
+ },
+ "76971: Disruption Aura": {
+  "rating": 1.828
+ }
+}

@@ -1,0 +1,431 @@
+{
+ "4980: Mogg Bombers": {
+  "rating": 2.667
+ },
+ "5100: Mogg Flunkies": {
+  "rating": 3.63
+ },
+ "5101: Mob Justice": {
+  "rating": 3.859
+ },
+ "5103: Silver Wyvern": {
+  "rating": 3.426
+ },
+ "5105: Dream Halls": {
+  "rating": 4.481
+ },
+ "5106: Crovax the Cursed": {
+  "rating": 3.7
+ },
+ "5107: Mogg Infestation": {
+  "rating": 4.404
+ },
+ "5108: Acidic Sliver": {
+  "rating": 3.919
+ },
+ "5109: Amok": {
+  "rating": 2.467
+ },
+ "5110: Awakening": {
+  "rating": 3.818
+ },
+ "5111: Bandage": {
+  "rating": 2.311
+ },
+ "5113: Bottomless Pit": {
+  "rating": 3.732
+ },
+ "5114: Brush with Death": {
+  "rating": 2.788
+ },
+ "5115: Bullwhip": {
+  "rating": 3.323
+ },
+ "5116: Burgeoning": {
+  "rating": 4.435
+ },
+ "5117: Calming Licid": {
+  "rating": 3.267
+ },
+ "5118: Cannibalize": {
+  "rating": 4.038
+ },
+ "5120: Mogg Maniac": {
+  "rating": 4.436
+ },
+ "5121: Change of Heart": {
+  "rating": 3.438
+ },
+ "5122: Cloud Spirit": {
+  "rating": 3.074
+ },
+ "5123: Constant Mists": {
+  "rating": 4.281
+ },
+ "5124: Ensnaring Bridge": {
+  "rating": 4.5
+ },
+ "5125: Contemplation": {
+  "rating": 3.266
+ },
+ "5126: Contempt": {
+  "rating": 3.37
+ },
+ "5127: Conviction": {
+  "rating": 3.044
+ },
+ "5128: Corrupting Licid": {
+  "rating": 3.074
+ },
+ "5129: Convulsing Licid": {
+  "rating": 2.889
+ },
+ "5130: Craven Giant": {
+  "rating": 2.886
+ },
+ "5131: Crossbow Ambush": {
+  "rating": 3.147
+ },
+ "5134: Crystalline Sliver": {
+  "rating": 4.427
+ },
+ "5135: Dauthi Trapper": {
+  "rating": 3.69
+ },
+ "5136: Grave Pact": {
+  "rating": 4.288
+ },
+ "5137: Death Stroke": {
+  "rating": 3.868
+ },
+ "5138: Scapegoat": {
+  "rating": 3.853
+ },
+ "5140: Dream Prowler": {
+  "rating": 2.341
+ },
+ "5141: Duct Crawler": {
+  "rating": 2.2
+ },
+ "5142: Dungeon Shade": {
+  "rating": 3.534
+ },
+ "5143: Shock": {
+  "rating": 3.861
+ },
+ "5144: Elven Rite": {
+  "rating": 3.016
+ },
+ "5145: Endangered Armodon": {
+  "rating": 2.676
+ },
+ "5147: Evacuation": {
+  "rating": 4.366
+ },
+ "5148: Fanning the Flames": {
+  "rating": 3.764
+ },
+ "5149: Primal Rage": {
+  "rating": 4.112
+ },
+ "5150: Flame Wave": {
+  "rating": 3.83
+ },
+ "5151: Fling": {
+  "rating": 4.46
+ },
+ "5152: Flowstone Blade": {
+  "rating": 2.514
+ },
+ "5153: Flowstone Hellion": {
+  "rating": 3.803
+ },
+ "5154: Flowstone Mauler": {
+  "rating": 2.742
+ },
+ "5155: Shard Phoenix": {
+  "rating": 3.844
+ },
+ "5156: Flowstone Shambler": {
+  "rating": 2.19
+ },
+ "5158: Foul Imp": {
+  "rating": 3.539
+ },
+ "5160: Furnace Spirit": {
+  "rating": 2.086
+ },
+ "5162: Gliding Licid": {
+  "rating": 3.175
+ },
+ "5163: Hammerhead Shark": {
+  "rating": 3.245
+ },
+ "5164: Heartstone": {
+  "rating": 4.311
+ },
+ "5165: Heat of Battle": {
+  "rating": 3.21
+ },
+ "5166: Hermit Druid": {
+  "rating": 4.436
+ },
+ "5167: Hesitation": {
+  "rating": 3.633
+ },
+ "5168: Hibernation Sliver": {
+  "rating": 3.854
+ },
+ "5169: Hidden Retreat": {
+  "rating": 3.13
+ },
+ "5170: Honor Guard": {
+  "rating": 2.472
+ },
+ "5172: Horn of Greed": {
+  "rating": 3.823
+ },
+ "5173: Hornet Cannon": {
+  "rating": 2.25
+ },
+ "5174: Intruder Alarm": {
+  "rating": 4.25
+ },
+ "5175: Invasion Plans": {
+  "rating": 4.236
+ },
+ "5177: Jinxed Ring": {
+  "rating": 3
+ },
+ "5178: Lab Rats": {
+  "rating": 3.13
+ },
+ "5179: Lancers en-Kor": {
+  "rating": 3.426
+ },
+ "5180: Leap": {
+  "rating": 4.053
+ },
+ "5181: Lowland Basilisk": {
+  "rating": 3.145
+ },
+ "5182: Mana Leak": {
+  "rating": 4.511
+ },
+ "5183: Mask of the Mimic": {
+  "rating": 4.267
+ },
+ "5185: Megrim": {
+  "rating": 4.146
+ },
+ "5186: Mind Games": {
+  "rating": 3.784
+ },
+ "5187: Mind Peel": {
+  "rating": 3.242
+ },
+ "5188: Mindwarper": {
+  "rating": 2.956
+ },
+ "5190: Spined Sliver": {
+  "rating": 3.883
+ },
+ "5191: Morgue Thrull": {
+  "rating": 2.234
+ },
+ "5192: Mortuary": {
+  "rating": 3.438
+ },
+ "5193: Mox Diamond": {
+  "rating": 4.65
+ },
+ "5194: Mulch": {
+  "rating": 4.087
+ },
+ "5195: Tortured Existence": {
+  "rating": 4.163
+ },
+ "5196: Nomads en-Kor": {
+  "rating": 4.037
+ },
+ "5197: Victual Sliver": {
+  "rating": 3.514
+ },
+ "5198: Overgrowth": {
+  "rating": 3.621
+ },
+ "5202: Portcullis": {
+  "rating": 4.413
+ },
+ "5203: Provoke": {
+  "rating": 3.52
+ },
+ "5204: Pursuit of Knowledge": {
+  "rating": 4.175
+ },
+ "5205: Rabid Rats": {
+  "rating": 2.842
+ },
+ "5206: Ransack": {
+  "rating": 3.5
+ },
+ "5209: Rebound": {
+  "rating": 3.417
+ },
+ "5210: Reins of Power": {
+  "rating": 4.429
+ },
+ "5211: Revenant": {
+  "rating": 4.139
+ },
+ "5212: Rolling Stones": {
+  "rating": 3.682
+ },
+ "5213: Ruination": {
+  "rating": 4.123
+ },
+ "5214: Sacred Ground": {
+  "rating": 4.037
+ },
+ "5215: Samite Blessing": {
+  "rating": 2.933
+ },
+ "5217: Carnassid": {
+  "rating": 3.077
+ },
+ "5218: Seething Anger": {
+  "rating": 2.768
+ },
+ "5219: Serpent Warrior": {
+  "rating": 1.804
+ },
+ "5220: Shaman en-Kor": {
+  "rating": 4.327
+ },
+ "5222: Shifting Wall": {
+  "rating": 3.571
+ },
+ "5223: Sift": {
+  "rating": 3.413
+ },
+ "5224: Skyshroud Falcon": {
+  "rating": 2.786
+ },
+ "5226: Skeleton Scavengers": {
+  "rating": 3.514
+ },
+ "5228: Skyshroud Archer": {
+  "rating": 3.25
+ },
+ "5230: Skyshroud Troopers": {
+  "rating": 2.338
+ },
+ "5233: Sliver Queen": {
+  "rating": 4.46
+ },
+ "5234: Smite": {
+  "rating": 4.11
+ },
+ "5235: Soltari Champion": {
+  "rating": 4.417
+ },
+ "5236: Spirit en-Kor": {
+  "rating": 3.444
+ },
+ "5237: Spike Breeder": {
+  "rating": 3.719
+ },
+ "5238: Spike Colony": {
+  "rating": 3.077
+ },
+ "5239: Spike Feeder": {
+  "rating": 3.784
+ },
+ "5241: Spike Soldier": {
+  "rating": 3.532
+ },
+ "5242: Spike Worker": {
+  "rating": 2.96
+ },
+ "5243: Spindrift Drake": {
+  "rating": 3.411
+ },
+ "5245: Spined Wurm": {
+  "rating": 2.632
+ },
+ "5246: Spitting Hydra": {
+  "rating": 2.631
+ },
+ "5247: Stronghold Assassin": {
+  "rating": 4.15
+ },
+ "5249: Stronghold Taskmaster": {
+  "rating": 2.597
+ },
+ "5250: Sword of the Chosen": {
+  "rating": 3.176
+ },
+ "5251: Temper": {
+  "rating": 3.667
+ },
+ "5252: Tempting Licid": {
+  "rating": 3.889
+ },
+ "5253: Thalakos Deceiver": {
+  "rating": 3.978
+ },
+ "5255: Tidal Surge": {
+  "rating": 2.938
+ },
+ "5256: Tidal Warrior": {
+  "rating": 3.433
+ },
+ "5257: Torment": {
+  "rating": 1.971
+ },
+ "5258: Venerable Monk": {
+  "rating": 2.729
+ },
+ "5259: Verdant Touch": {
+  "rating": 3.311
+ },
+ "5260: Volrath's Gardens": {
+  "rating": 2.282
+ },
+ "5261: Volrath's Laboratory": {
+  "rating": 3.062
+ },
+ "5262: Volrath's Shapeshifter": {
+  "rating": 4.5
+ },
+ "5263: Volrath's Stronghold": {
+  "rating": 4.453
+ },
+ "5264: Walking Dream": {
+  "rating": 2.686
+ },
+ "5265: Wall of Blossoms": {
+  "rating": 4.419
+ },
+ "5267: Wall of Essence": {
+  "rating": 4.182
+ },
+ "5268: Wall of Razors": {
+  "rating": 4
+ },
+ "5269: Wall of Souls": {
+  "rating": 4.255
+ },
+ "5270: Wall of Tears": {
+  "rating": 4.408
+ },
+ "5271: Warrior Angel": {
+  "rating": 3.144
+ },
+ "5272: Warrior en-Kor": {
+  "rating": 3.914
+ },
+ "5274: Youthful Knight": {
+  "rating": 3.172
+ }
+}

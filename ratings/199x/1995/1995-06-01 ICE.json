@@ -1,0 +1,1151 @@
+{
+ "2392: Adarkar Sentinel": {
+  "rating": 2.764
+ },
+ "2393: Aegis of the Meek": {
+  "rating": 1.641
+ },
+ "2394: Amulet of Quoz": {
+  "rating": 2.975
+ },
+ "2395: Arcum's Sleigh": {
+  "rating": 1.205
+ },
+ "2396: Arcum's Weathervane": {
+  "rating": 2.25
+ },
+ "2397: Arcum's Whistle": {
+  "rating": 2.161
+ },
+ "2398: Barbed Sextant": {
+  "rating": 2.817
+ },
+ "2399: Baton of Morale": {
+  "rating": 3.689
+ },
+ "2400: Celestial Sword": {
+  "rating": 1.719
+ },
+ "2401: Crown of the Ages": {
+  "rating": 3.266
+ },
+ "2402: Despotic Scepter": {
+  "rating": 3.39
+ },
+ "2403: Elkin Bottle": {
+  "rating": 2.63
+ },
+ "2404: Fyndhorn Bow": {
+  "rating": 1.75
+ },
+ "2405: Goblin Lyre": {
+  "rating": 2.078
+ },
+ "2406: Hematite Talisman": {
+  "rating": 1.724
+ },
+ "2407: Ice Cauldron": {
+  "rating": 3.7
+ },
+ "2408: Icy Manipulator": {
+  "rating": 4.4
+ },
+ "2409: Infinite Hourglass": {
+  "rating": 2.433
+ },
+ "2410: Jester's Cap": {
+  "rating": 4.298
+ },
+ "2411: Jester's Mask": {
+  "rating": 4.053
+ },
+ "2412: Jeweled Amulet": {
+  "rating": 2.833
+ },
+ "2413: Lapis Lazuli Talisman": {
+  "rating": 1.333
+ },
+ "2414: Malachite Talisman": {
+  "rating": 2.317
+ },
+ "2415: Nacre Talisman": {
+  "rating": 2.029
+ },
+ "2416: Naked Singularity": {
+  "rating": 3.443
+ },
+ "2417: Onyx Talisman": {
+  "rating": 2.367
+ },
+ "2418: Pentagram of the Ages": {
+  "rating": 3.089
+ },
+ "2419: Pit Trap": {
+  "rating": 3.861
+ },
+ "2420: Runed Arch": {
+  "rating": 3.088
+ },
+ "2421: Shield of the Ages": {
+  "rating": 2.903
+ },
+ "2422: Skull Catapult": {
+  "rating": 3.176
+ },
+ "2423: Snow Fortress": {
+  "rating": 3.644
+ },
+ "2424: Soldevi Golem": {
+  "rating": 2.931
+ },
+ "2425: Soldevi Simulacrum": {
+  "rating": 2.372
+ },
+ "2426: Staff of the Ages": {
+  "rating": 3.102
+ },
+ "2427: Sunstone": {
+  "rating": 3
+ },
+ "2428: Time Bomb": {
+  "rating": 3.71
+ },
+ "2429: Urza's Bauble": {
+  "rating": 3.602
+ },
+ "2430: Vexing Arcanix": {
+  "rating": 3.426
+ },
+ "2431: Vibrating Sphere": {
+  "rating": 2.133
+ },
+ "2432: Walking Wall": {
+  "rating": 3.122
+ },
+ "2433: Wall of Shields": {
+  "rating": 2.462
+ },
+ "2434: War Chariot": {
+  "rating": 2.036
+ },
+ "2435: Whalebone Glider": {
+  "rating": 2.516
+ },
+ "2436: Zuran Orb": {
+  "rating": 4.582
+ },
+ "2437: Abyssal Specter": {
+  "rating": 3.556
+ },
+ "2438: Ashen Ghoul": {
+  "rating": 3.676
+ },
+ "2439: Brine Shaman": {
+  "rating": 3.556
+ },
+ "2440: Burnt Offering": {
+  "rating": 4.109
+ },
+ "2441: Cloak of Confusion": {
+  "rating": 3
+ },
+ "2442: Dance of the Dead": {
+  "rating": 4.386
+ },
+ "2443: Dark Banishing": {
+  "rating": 3.976
+ },
+ "2444: Dark Ritual": {
+  "rating": 4.873
+ },
+ "2445: Demonic Consultation": {
+  "rating": 4.648
+ },
+ "2446: Dread Wight": {
+  "rating": 3.471
+ },
+ "2447: Drift of the Dead": {
+  "rating": 2.459
+ },
+ "2448: Fear": {
+  "rating": 2.889
+ },
+ "2449: Flow of Maggots": {
+  "rating": 1.75
+ },
+ "2450: Foul Familiar": {
+  "rating": 2.781
+ },
+ "2451: Gangrenous Zombies": {
+  "rating": 3.236
+ },
+ "2452: Gaze of Pain": {
+  "rating": 3.018
+ },
+ "2453: Gravebind": {
+  "rating": 2.083
+ },
+ "2454: Hecatomb": {
+  "rating": 4.064
+ },
+ "2455: Hoar Shade": {
+  "rating": 2.819
+ },
+ "2456: Howl from Beyond": {
+  "rating": 3.632
+ },
+ "2457: Hyalopterous Lemure": {
+  "rating": 3.264
+ },
+ "2458: Icequake": {
+  "rating": 3.809
+ },
+ "2459: Infernal Darkness": {
+  "rating": 3.974
+ },
+ "2460: Infernal Denizen": {
+  "rating": 2.133
+ },
+ "2461: Kjeldoran Dead": {
+  "rating": 3.755
+ },
+ "2462: Knight of Stromgald": {
+  "rating": 4.289
+ },
+ "2463: Krovikan Elementalist": {
+  "rating": 1.676
+ },
+ "2464: Krovikan Fetish": {
+  "rating": 2.344
+ },
+ "2465: Krovikan Vampire": {
+  "rating": 2.931
+ },
+ "2466: Legions of Lim-Dûl": {
+  "rating": 2.53
+ },
+ "2467: Leshrac's Rite": {
+  "rating": 2.048
+ },
+ "2468: Leshrac's Sigil": {
+  "rating": 3.632
+ },
+ "2469: Lim-Dûl's Cohort": {
+  "rating": 2.953
+ },
+ "2470: Lim-Dûl's Hex": {
+  "rating": 3.284
+ },
+ "2471: Mind Ravel": {
+  "rating": 2.804
+ },
+ "2472: Mind Warp": {
+  "rating": 2.367
+ },
+ "2473: Mind Whip": {
+  "rating": 2.919
+ },
+ "2474: Minion of Leshrac": {
+  "rating": 3.485
+ },
+ "2475: Minion of Tevesh Szat": {
+  "rating": 2.683
+ },
+ "2476: Mole Worms": {
+  "rating": 2.308
+ },
+ "2477: Moor Fiend": {
+  "rating": 3.024
+ },
+ "2478: Necropotence": {
+  "rating": 4.909
+ },
+ "2479: Norritt": {
+  "rating": 3.388
+ },
+ "2480: Oath of Lim-Dûl": {
+  "rating": 2.973
+ },
+ "2481: Pestilence Rats": {
+  "rating": 2.865
+ },
+ "2482: Pox": {
+  "rating": 4.378
+ },
+ "2483: Seizures": {
+  "rating": 3.328
+ },
+ "2484: Songs of the Damned": {
+  "rating": 4.185
+ },
+ "2485: Soul Burn": {
+  "rating": 3.542
+ },
+ "2486: Soul Kiss": {
+  "rating": 2.917
+ },
+ "2487: Spoils of Evil": {
+  "rating": 4.265
+ },
+ "2488: Spoils of War": {
+  "rating": 2.946
+ },
+ "2489: Stench of Evil": {
+  "rating": 3.929
+ },
+ "2490: Stromgald Cabal": {
+  "rating": 3.603
+ },
+ "2491: Touch of Death": {
+  "rating": 2.722
+ },
+ "2492: Withering Wisps": {
+  "rating": 3.409
+ },
+ "2493: Arnjlot's Ascent": {
+  "rating": 1.803
+ },
+ "2494: Balduvian Conjurer": {
+  "rating": 2.653
+ },
+ "2495: Balduvian Shaman": {
+  "rating": 1.961
+ },
+ "2496: Binding Grasp": {
+  "rating": 3.5
+ },
+ "2497: Brainstorm": {
+  "rating": 4.665
+ },
+ "2498: Breath of Dreams": {
+  "rating": 2.7
+ },
+ "2499: Clairvoyance": {
+  "rating": 3.025
+ },
+ "2500: Counterspell": {
+  "rating": 4.607
+ },
+ "2501: Deflection": {
+  "rating": 3.389
+ },
+ "2502: Dreams of the Dead": {
+  "rating": 3.259
+ },
+ "2503: Enervate": {
+  "rating": 3.104
+ },
+ "2504: Errant Minion": {
+  "rating": 3.05
+ },
+ "2505: Essence Flare": {
+  "rating": 3
+ },
+ "2506: Force Void": {
+  "rating": 1.827
+ },
+ "2507: Glacial Wall": {
+  "rating": 3.375
+ },
+ "2508: Hydroblast": {
+  "rating": 3.805
+ },
+ "2509: Iceberg": {
+  "rating": 3.015
+ },
+ "2510: Icy Prison": {
+  "rating": 3.204
+ },
+ "2511: Illusionary Forces": {
+  "rating": 2.691
+ },
+ "2512: Illusionary Presence": {
+  "rating": 2.212
+ },
+ "2513: Illusionary Terrain": {
+  "rating": 3.833
+ },
+ "2514: Illusionary Wall": {
+  "rating": 3.484
+ },
+ "2515: Illusions of Grandeur": {
+  "rating": 4.344
+ },
+ "2516: Infuse": {
+  "rating": 2.233
+ },
+ "2517: Krovikan Sorcerer": {
+  "rating": 3.036
+ },
+ "2518: Magus of the Unseen": {
+  "rating": 3.773
+ },
+ "2519: Mesmeric Trance": {
+  "rating": 2.138
+ },
+ "2520: Mistfolk": {
+  "rating": 3.838
+ },
+ "2521: Musician": {
+  "rating": 3.154
+ },
+ "2522: Mystic Might": {
+  "rating": 2
+ },
+ "2523: Mystic Remora": {
+  "rating": 4.356
+ },
+ "2524: Phantasmal Mount": {
+  "rating": 2.212
+ },
+ "2525: Polar Kraken": {
+  "rating": 3.282
+ },
+ "2526: Portent": {
+  "rating": 4.278
+ },
+ "2527: Power Sink": {
+  "rating": 4.171
+ },
+ "2528: Ray of Command": {
+  "rating": 4.05
+ },
+ "2529: Ray of Erasure": {
+  "rating": 2.897
+ },
+ "2530: Reality Twist": {
+  "rating": 3.622
+ },
+ "2531: Sea Spirit": {
+  "rating": 2.382
+ },
+ "2532: Shyft": {
+  "rating": 2.471
+ },
+ "2533: Sibilant Spirit": {
+  "rating": 2.809
+ },
+ "2534: Silver Erne": {
+  "rating": 2.58
+ },
+ "2535: Sleight of Mind": {
+  "rating": 3.609
+ },
+ "2536: Snow Devil": {
+  "rating": 2.839
+ },
+ "2537: Snowfall": {
+  "rating": 2.302
+ },
+ "2538: Soldevi Machinist": {
+  "rating": 2.817
+ },
+ "2539: Soul Barrier": {
+  "rating": 3.951
+ },
+ "2540: Thunder Wall": {
+  "rating": 3.188
+ },
+ "2541: Updraft": {
+  "rating": 2.15
+ },
+ "2542: Wind Spirit": {
+  "rating": 3.025
+ },
+ "2543: Winter's Chill": {
+  "rating": 3.342
+ },
+ "2544: Word of Undoing": {
+  "rating": 3.9
+ },
+ "2545: Wrath of Marit Lage": {
+  "rating": 3.306
+ },
+ "2546: Zur's Weirding": {
+  "rating": 4.321
+ },
+ "2547: Zuran Enchanter": {
+  "rating": 2.581
+ },
+ "2548: Zuran Spellcaster": {
+  "rating": 4.125
+ },
+ "2549: Aurochs": {
+  "rating": 2.632
+ },
+ "2550: Balduvian Bears": {
+  "rating": 3.118
+ },
+ "2551: Blizzard": {
+  "rating": 1.889
+ },
+ "2552: Brown Ouphe": {
+  "rating": 3.075
+ },
+ "2553: Chub Toad": {
+  "rating": 2.411
+ },
+ "2554: Dire Wolves": {
+  "rating": 2.341
+ },
+ "2555: Earthlore": {
+  "rating": 2.115
+ },
+ "2556: Elder Druid": {
+  "rating": 2.368
+ },
+ "2557: Essence Filter": {
+  "rating": 3.581
+ },
+ "2558: Fanatical Fever": {
+  "rating": 1.3
+ },
+ "2559: Folk of the Pines": {
+  "rating": 2.095
+ },
+ "2560: Forbidden Lore": {
+  "rating": 2.714
+ },
+ "2561: Forgotten Lore": {
+  "rating": 3.386
+ },
+ "2562: Foxfire": {
+  "rating": 2.441
+ },
+ "2563: Freyalise Supplicant": {
+  "rating": 3.103
+ },
+ "2564: Freyalise's Charm": {
+  "rating": 2.236
+ },
+ "2565: Freyalise's Winds": {
+  "rating": 3.562
+ },
+ "2566: Fyndhorn Brownie": {
+  "rating": 2.219
+ },
+ "2567: Fyndhorn Elder": {
+  "rating": 3.674
+ },
+ "2568: Fyndhorn Elves": {
+  "rating": 4.551
+ },
+ "2569: Fyndhorn Pollen": {
+  "rating": 2.109
+ },
+ "2570: Giant Growth": {
+  "rating": 4.338
+ },
+ "2571: Gorilla Pack": {
+  "rating": 1.875
+ },
+ "2572: Hot Springs": {
+  "rating": 1.564
+ },
+ "2573: Hurricane": {
+  "rating": 3.957
+ },
+ "2574: Johtull Wurm": {
+  "rating": 1.805
+ },
+ "2575: Juniper Order Druid": {
+  "rating": 3.161
+ },
+ "2576: Lhurgoyf": {
+  "rating": 4.333
+ },
+ "2577: Lure": {
+  "rating": 3.767
+ },
+ "2578: Maddening Wind": {
+  "rating": 2.583
+ },
+ "2579: Nature's Lore": {
+  "rating": 4.145
+ },
+ "2580: Pale Bears": {
+  "rating": 2.713
+ },
+ "2581: Pygmy Allosaurus": {
+  "rating": 2.587
+ },
+ "2582: Pyknite": {
+  "rating": 2.694
+ },
+ "2583: Regeneration": {
+  "rating": 2.75
+ },
+ "2584: Rime Dryad": {
+  "rating": 3.691
+ },
+ "2585: Ritual of Subdual": {
+  "rating": 3.159
+ },
+ "2586: Scaled Wurm": {
+  "rating": 3.098
+ },
+ "2587: Shambling Strider": {
+  "rating": 2.583
+ },
+ "2588: Snowblind": {
+  "rating": 1.804
+ },
+ "2589: Stampede": {
+  "rating": 3
+ },
+ "2590: Stunted Growth": {
+  "rating": 4.208
+ },
+ "2591: Tarpan": {
+  "rating": 2.821
+ },
+ "2592: Thermokarst": {
+  "rating": 3.629
+ },
+ "2593: Thoughtleech": {
+  "rating": 2.879
+ },
+ "2594: Tinder Wall": {
+  "rating": 4.358
+ },
+ "2595: Touch of Vitae": {
+  "rating": 2.75
+ },
+ "2596: Trailblazer": {
+  "rating": 1.857
+ },
+ "2597: Venomous Breath": {
+  "rating": 2.333
+ },
+ "2598: Wall of Pine Needles": {
+  "rating": 3.1
+ },
+ "2599: Whiteout": {
+  "rating": 3.027
+ },
+ "2600: Wiitigo": {
+  "rating": 3.562
+ },
+ "2601: Wild Growth": {
+  "rating": 3.929
+ },
+ "2602: Woolly Mammoths": {
+  "rating": 2.957
+ },
+ "2603: Woolly Spider": {
+  "rating": 3.262
+ },
+ "2604: Yavimaya Gnats": {
+  "rating": 2.786
+ },
+ "2605: Aggression": {
+  "rating": 2.961
+ },
+ "2606: Anarchy": {
+  "rating": 4.27
+ },
+ "2607: Avalanche": {
+  "rating": 1.865
+ },
+ "2608: Balduvian Barbarians": {
+  "rating": 2.652
+ },
+ "2609: Balduvian Hydra": {
+  "rating": 2.929
+ },
+ "2610: Barbarian Guides": {
+  "rating": 2.023
+ },
+ "2611: Battle Frenzy": {
+  "rating": 3.051
+ },
+ "2612: Bone Shaman": {
+  "rating": 2.097
+ },
+ "2613: Brand of Ill Omen": {
+  "rating": 3.63
+ },
+ "2614: Chaos Lord": {
+  "rating": 2.32
+ },
+ "2615: Chaos Moon": {
+  "rating": 2.985
+ },
+ "2616: Conquer": {
+  "rating": 2.743
+ },
+ "2617: Curse of Marit Lage": {
+  "rating": 3.605
+ },
+ "2618: Dwarven Armory": {
+  "rating": 3
+ },
+ "2619: Errantry": {
+  "rating": 2
+ },
+ "2620: Flame Spirit": {
+  "rating": 2.121
+ },
+ "2621: Flare": {
+  "rating": 1.75
+ },
+ "2622: Game of Chaos": {
+  "rating": 3.679
+ },
+ "2623: Glacial Crevasses": {
+  "rating": 3.088
+ },
+ "2624: Goblin Mutant": {
+  "rating": 3.13
+ },
+ "2625: Goblin Sappers": {
+  "rating": 1.983
+ },
+ "2626: Goblin Ski Patrol": {
+  "rating": 3.192
+ },
+ "2627: Goblin Snowman": {
+  "rating": 3.529
+ },
+ "2628: Grizzled Wolverine": {
+  "rating": 3
+ },
+ "2629: Imposing Visage": {
+  "rating": 2.786
+ },
+ "2630: Incinerate": {
+  "rating": 4.613
+ },
+ "2631: Jokulhaups": {
+  "rating": 4.538
+ },
+ "2632: Karplusan Giant": {
+  "rating": 1.542
+ },
+ "2633: Karplusan Yeti": {
+  "rating": 3.347
+ },
+ "2634: Lava Burst": {
+  "rating": 4.016
+ },
+ "2635: Márton Stromgald": {
+  "rating": 3.965
+ },
+ "2636: Melee": {
+  "rating": 3.375
+ },
+ "2637: Melting": {
+  "rating": 1.619
+ },
+ "2638: Meteor Shower": {
+  "rating": 2.829
+ },
+ "2639: Mountain Goat": {
+  "rating": 3.527
+ },
+ "2640: Mudslide": {
+  "rating": 3.69
+ },
+ "2641: Orcish Cannoneers": {
+  "rating": 2.967
+ },
+ "2642: Orcish Conscripts": {
+  "rating": 2
+ },
+ "2643: Orcish Farmer": {
+  "rating": 2.717
+ },
+ "2644: Orcish Healer": {
+  "rating": 2.132
+ },
+ "2645: Orcish Librarian": {
+  "rating": 3.221
+ },
+ "2646: Orcish Lumberjack": {
+  "rating": 4.449
+ },
+ "2647: Orcish Squatters": {
+  "rating": 2.9
+ },
+ "2648: Panic": {
+  "rating": 3.542
+ },
+ "2649: Pyroblast": {
+  "rating": 4.319
+ },
+ "2650: Pyroclasm": {
+  "rating": 4.544
+ },
+ "2651: Sabretooth Tiger": {
+  "rating": 2.395
+ },
+ "2652: Shatter": {
+  "rating": 3.186
+ },
+ "2653: Stone Rain": {
+  "rating": 4.053
+ },
+ "2654: Stone Spirit": {
+  "rating": 2.704
+ },
+ "2655: Stonehands": {
+  "rating": 2.885
+ },
+ "2656: Tor Giant": {
+  "rating": 2.125
+ },
+ "2657: Total War": {
+  "rating": 3.037
+ },
+ "2658: Vertigo": {
+  "rating": 2.304
+ },
+ "2659: Wall of Lava": {
+  "rating": 3.171
+ },
+ "2660: Word of Blasting": {
+  "rating": 2.154
+ },
+ "2661: Adarkar Unicorn": {
+  "rating": 2.26
+ },
+ "2662: Arctic Foxes": {
+  "rating": 1.854
+ },
+ "2663: Arenson's Aura": {
+  "rating": 2.591
+ },
+ "2664: Armor of Faith": {
+  "rating": 2.567
+ },
+ "2665: Battle Cry": {
+  "rating": 2.643
+ },
+ "2666: Black Scarab": {
+  "rating": 2.294
+ },
+ "2667: Blessed Wine": {
+  "rating": 1.583
+ },
+ "2668: Blinking Spirit": {
+  "rating": 4.213
+ },
+ "2669: Blue Scarab": {
+  "rating": 2.435
+ },
+ "2670: Call to Arms": {
+  "rating": 2.212
+ },
+ "2671: Caribou Range": {
+  "rating": 3.016
+ },
+ "2672: Circle of Protection: Black": {
+  "rating": 2.871
+ },
+ "2673: Circle of Protection: Blue": {
+  "rating": 2.452
+ },
+ "2674: Circle of Protection: Green": {
+  "rating": 2.727
+ },
+ "2675: Circle of Protection: Red": {
+  "rating": 3.106
+ },
+ "2676: Circle of Protection: White": {
+  "rating": 2.65
+ },
+ "2677: Cold Snap": {
+  "rating": 2.221
+ },
+ "2678: Cooperation": {
+  "rating": 2.625
+ },
+ "2679: Death Ward": {
+  "rating": 2.625
+ },
+ "2680: Disenchant": {
+  "rating": 4.546
+ },
+ "2681: Drought": {
+  "rating": 3.856
+ },
+ "2682: Elvish Healer": {
+  "rating": 2.347
+ },
+ "2683: Enduring Renewal": {
+  "rating": 4.102
+ },
+ "2684: Energy Storm": {
+  "rating": 3.69
+ },
+ "2685: Formation": {
+  "rating": 2.516
+ },
+ "2686: Fylgja": {
+  "rating": 2.729
+ },
+ "2687: General Jarkeld": {
+  "rating": 3.02
+ },
+ "2688: Green Scarab": {
+  "rating": 2.19
+ },
+ "2689: Hallowed Ground": {
+  "rating": 3.138
+ },
+ "2690: Heal": {
+  "rating": 2.069
+ },
+ "2691: Hipparion": {
+  "rating": 1.617
+ },
+ "2692: Justice": {
+  "rating": 4.264
+ },
+ "2693: Kelsinko Ranger": {
+  "rating": 2.453
+ },
+ "2694: Kjeldoran Elite Guard": {
+  "rating": 2.422
+ },
+ "2695: Kjeldoran Guard": {
+  "rating": 1.361
+ },
+ "2696: Kjeldoran Knight": {
+  "rating": 3.324
+ },
+ "2697: Kjeldoran Phalanx": {
+  "rating": 2.688
+ },
+ "2698: Kjeldoran Royal Guard": {
+  "rating": 3.549
+ },
+ "2699: Kjeldoran Skycaptain": {
+  "rating": 2.282
+ },
+ "2700: Kjeldoran Skyknight": {
+  "rating": 2.457
+ },
+ "2701: Kjeldoran Warrior": {
+  "rating": 3.268
+ },
+ "2702: Lightning Blow": {
+  "rating": 2.812
+ },
+ "2703: Lost Order of Jarkeld": {
+  "rating": 3.297
+ },
+ "2704: Mercenaries": {
+  "rating": 1.214
+ },
+ "2705: Order of the Sacred Torch": {
+  "rating": 3.962
+ },
+ "2706: Order of the White Shield": {
+  "rating": 4.145
+ },
+ "2707: Prismatic Ward": {
+  "rating": 3.083
+ },
+ "2708: Rally": {
+  "rating": 2.047
+ },
+ "2709: Red Scarab": {
+  "rating": 2.375
+ },
+ "2710: Sacred Boon": {
+  "rating": 3.359
+ },
+ "2711: Seraph": {
+  "rating": 3.211
+ },
+ "2712: Shield Bearer": {
+  "rating": 2.855
+ },
+ "2713: Snow Hound": {
+  "rating": 2.924
+ },
+ "2714: Swords to Plowshares": {
+  "rating": 4.874
+ },
+ "2715: Warning": {
+  "rating": 2.361
+ },
+ "2716: White Scarab": {
+  "rating": 1.985
+ },
+ "2717: Altar of Bone": {
+  "rating": 2.7
+ },
+ "2718: Centaur Archer": {
+  "rating": 2.952
+ },
+ "2719: Chromatic Armor": {
+  "rating": 2.839
+ },
+ "2720: Diabolic Vision": {
+  "rating": 4.145
+ },
+ "2721: Earthlink": {
+  "rating": 2.75
+ },
+ "2722: Elemental Augury": {
+  "rating": 3.415
+ },
+ "2723: Essence Vortex": {
+  "rating": 3.361
+ },
+ "2724: Fiery Justice": {
+  "rating": 3.103
+ },
+ "2725: Fire Covenant": {
+  "rating": 3.654
+ },
+ "2726: Flooded Woodlands": {
+  "rating": 3.209
+ },
+ "2727: Fumarole": {
+  "rating": 3.406
+ },
+ "2728: Ghostly Flame": {
+  "rating": 3.188
+ },
+ "2729: Giant Trap Door Spider": {
+  "rating": 3.652
+ },
+ "2730: Glaciers": {
+  "rating": 2.943
+ },
+ "2731: Hymn of Rebirth": {
+  "rating": 4.012
+ },
+ "2732: Kjeldoran Frostbeast": {
+  "rating": 3.405
+ },
+ "2733: Merieke Ri Berit": {
+  "rating": 3.933
+ },
+ "2734: Monsoon": {
+  "rating": 3.044
+ },
+ "2735: Mountain Titan": {
+  "rating": 2.125
+ },
+ "2736: Reclamation": {
+  "rating": 3.423
+ },
+ "2737: Skeleton Ship": {
+  "rating": 3.464
+ },
+ "2738: Spectral Shield": {
+  "rating": 3.018
+ },
+ "2739: Storm Spirit": {
+  "rating": 2.971
+ },
+ "2740: Stormbind": {
+  "rating": 4.115
+ },
+ "2741: Wings of Aesthir": {
+  "rating": 3.385
+ },
+ "2742: Snow-Covered Swamp": {
+  "rating": 4.557
+ },
+ "2743: Swamp": {
+  "rating": 4.5
+ },
+ "2744: Swamp": {
+  "rating": 4.389
+ },
+ "2745: Swamp": {
+  "rating": 4.304
+ },
+ "2746: Forest": {
+  "rating": 4.434
+ },
+ "2747: Forest": {
+  "rating": 4.424
+ },
+ "2748: Forest": {
+  "rating": 4.459
+ },
+ "2749: Snow-Covered Forest": {
+  "rating": 4.532
+ },
+ "2750: Adarkar Wastes": {
+  "rating": 4.231
+ },
+ "2751: Brushland": {
+  "rating": 4.265
+ },
+ "2752: Glacial Chasm": {
+  "rating": 3.926
+ },
+ "2753: Halls of Mist": {
+  "rating": 3.188
+ },
+ "2754: Ice Floe": {
+  "rating": 3.562
+ },
+ "2755: Karplusan Forest": {
+  "rating": 4.287
+ },
+ "2756: Land Cap": {
+  "rating": 1.912
+ },
+ "2757: Lava Tubes": {
+  "rating": 2.3
+ },
+ "2758: River Delta": {
+  "rating": 2.111
+ },
+ "2759: Sulfurous Springs": {
+  "rating": 4.289
+ },
+ "2760: Timberline Ridge": {
+  "rating": 2.14
+ },
+ "2761: Underground River": {
+  "rating": 4.426
+ },
+ "2762: Veldt": {
+  "rating": 2.4
+ },
+ "2763: Mountain": {
+  "rating": 4.323
+ },
+ "2764: Mountain": {
+  "rating": 4.423
+ },
+ "2765: Mountain": {
+  "rating": 4.558
+ },
+ "2766: Snow-Covered Mountain": {
+  "rating": 4.571
+ },
+ "2767: Island": {
+  "rating": 4.426
+ },
+ "2768: Island": {
+  "rating": 4.583
+ },
+ "2769: Island": {
+  "rating": 4.589
+ },
+ "2770: Snow-Covered Island": {
+  "rating": 4.611
+ },
+ "2771: Plains": {
+  "rating": 4.2
+ },
+ "2772: Plains": {
+  "rating": 4.5
+ },
+ "2773: Plains": {
+  "rating": 4.5
+ },
+ "2774: Snow-Covered Plains": {
+  "rating": 4.5
+ }
+}

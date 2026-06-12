@@ -1,0 +1,749 @@
+{
+ "366231: Undercity Plague": {
+  "rating": 3.127
+ },
+ "366232: Stomping Ground": {
+  "rating": 4.095
+ },
+ "366233: Predator's Rapport": {
+  "rating": 2.895
+ },
+ "366234: Gutter Skulk": {
+  "rating": 2.708
+ },
+ "366235: Ruination Wurm": {
+  "rating": 2.976
+ },
+ "366236: Spire Tracer": {
+  "rating": 3.186
+ },
+ "366237: Knight of Obligation": {
+  "rating": 3.105
+ },
+ "366238: Skullcrack": {
+  "rating": 3.978
+ },
+ "366239: Wight of Precinct Six": {
+  "rating": 3.824
+ },
+ "366240: Luminate Primordial": {
+  "rating": 3.037
+ },
+ "366241: Scatter Arc": {
+  "rating": 2.42
+ },
+ "366242: Nightveil Specter": {
+  "rating": 4.022
+ },
+ "366243: Syndicate Enforcer": {
+  "rating": 2.443
+ },
+ "366244: Hellkite Tyrant": {
+  "rating": 4.209
+ },
+ "366245: Rust Scarab": {
+  "rating": 2.948
+ },
+ "366246: Obzedat, Ghost Council": {
+  "rating": 4.035
+ },
+ "366247: Immortal Servitude": {
+  "rating": 3.674
+ },
+ "366248: Unexpected Results": {
+  "rating": 3.512
+ },
+ "366249: Zarichi Tiger": {
+  "rating": 2.275
+ },
+ "366250: Primal Visitation": {
+  "rating": 0.907
+ },
+ "366251: Daring Skyjek": {
+  "rating": 3.354
+ },
+ "366252: Zhur-Taa Swine": {
+  "rating": 3.167
+ },
+ "366253: Gruul Guildgate": {
+  "rating": 3.027
+ },
+ "366254: Deathcult Rogue": {
+  "rating": 3.295
+ },
+ "366255: Crackling Perimeter": {
+  "rating": 2.407
+ },
+ "366256: Crowned Ceratok": {
+  "rating": 3.351
+ },
+ "366257: Smog Elemental": {
+  "rating": 2.88
+ },
+ "366258: Agoraphobia": {
+  "rating": 2.891
+ },
+ "366259: Ordruun Veteran": {
+  "rating": 2.814
+ },
+ "366260: Guardian of the Gateless": {
+  "rating": 3.551
+ },
+ "366261: One Thousand Lashes": {
+  "rating": 3.068
+ },
+ "366262: Prophetic Prism": {
+  "rating": 3.865
+ },
+ "366263: Whispering Madness": {
+  "rating": 3.578
+ },
+ "366264: Viashino Shanktail": {
+  "rating": 2.938
+ },
+ "366265: Wojek Halberdiers": {
+  "rating": 4.016
+ },
+ "366266: High Priest of Penance": {
+  "rating": 3.928
+ },
+ "366267: Vizkopa Confessor": {
+  "rating": 2.447
+ },
+ "366268: Debtor's Pulpit": {
+  "rating": 1.791
+ },
+ "366269: Serene Remembrance": {
+  "rating": 3.026
+ },
+ "366270: Dimir Keyrune": {
+  "rating": 3.259
+ },
+ "366271: Undercity Informer": {
+  "rating": 4.243
+ },
+ "366272: Warmind Infantry": {
+  "rating": 2.73
+ },
+ "366273: Aetherize": {
+  "rating": 3.752
+ },
+ "366274: Simic Fluxmage": {
+  "rating": 2.904
+ },
+ "366275: Nimbus Swimmer": {
+  "rating": 3.07
+ },
+ "366276: Hold the Gates": {
+  "rating": 2.948
+ },
+ "366277: Corpse Blockade": {
+  "rating": 2.144
+ },
+ "366278: Deathpact Angel": {
+  "rating": 3.294
+ },
+ "366279: Elusive Krasis": {
+  "rating": 3.826
+ },
+ "366280: Fortress Cyclops": {
+  "rating": 2.892
+ },
+ "366281: Slaughterhorn": {
+  "rating": 3.944
+ },
+ "366282: Sylvan Primordial": {
+  "rating": 3.763
+ },
+ "366283: Borborygmos Enraged": {
+  "rating": 3.529
+ },
+ "366284: Mindeye Drake": {
+  "rating": 2.067
+ },
+ "366285: Sepulchral Primordial": {
+  "rating": 3.493
+ },
+ "366286: Mark for Death": {
+  "rating": 2.607
+ },
+ "366287: Ghor-Clan Rampager": {
+  "rating": 4.025
+ },
+ "366288: Righteous Charge": {
+  "rating": 2.867
+ },
+ "366289: Gyre Sage": {
+  "rating": 3.787
+ },
+ "366290: Adaptive Snapjaw": {
+  "rating": 3.047
+ },
+ "366291: Breeding Pool": {
+  "rating": 4.126
+ },
+ "366292: Drakewing Krasis": {
+  "rating": 3.301
+ },
+ "366293: Metropolis Sprite": {
+  "rating": 2.809
+ },
+ "366294: Aerial Maneuver": {
+  "rating": 2.598
+ },
+ "366295: Frenzied Tilling": {
+  "rating": 3.302
+ },
+ "366296: Psychic Strike": {
+  "rating": 3.704
+ },
+ "366297: Homing Lightning": {
+  "rating": 3.18
+ },
+ "366298: Frilled Oculus": {
+  "rating": 2.971
+ },
+ "366299: Bioshift": {
+  "rating": 3.174
+ },
+ "366300: Death's Approach": {
+  "rating": 2.664
+ },
+ "366301: Incursion Specialist": {
+  "rating": 2.576
+ },
+ "366302: Godless Shrine": {
+  "rating": 4.101
+ },
+ "366303: Naturalize": {
+  "rating": 4.318
+ },
+ "366304: Burst of Strength": {
+  "rating": 2.947
+ },
+ "366305: Act of Treason": {
+  "rating": 3.528
+ },
+ "366306: Ember Beast": {
+  "rating": 3.1
+ },
+ "366307: Shadow Alley Denizen": {
+  "rating": 3.107
+ },
+ "366308: Call of the Nightwing": {
+  "rating": 2.952
+ },
+ "366309: Furious Resistance": {
+  "rating": 2.58
+ },
+ "366310: Duskmantle Seer": {
+  "rating": 3.735
+ },
+ "366311: Firefist Striker": {
+  "rating": 2.992
+ },
+ "366312: Biomass Mutation": {
+  "rating": 3.487
+ },
+ "366313: Dimir Guildgate": {
+  "rating": 3.111
+ },
+ "366314: Cinder Elemental": {
+  "rating": 3.43
+ },
+ "366315: Realmwright": {
+  "rating": 3.906
+ },
+ "366316: Merciless Eviction": {
+  "rating": 4.036
+ },
+ "366317: Ivy Lane Denizen": {
+  "rating": 3.197
+ },
+ "366318: Tin Street Market": {
+  "rating": 1.167
+ },
+ "366319: Crocanura": {
+  "rating": 3.176
+ },
+ "366320: Massive Raid": {
+  "rating": 3.17
+ },
+ "366321: Basilica Screecher": {
+  "rating": 3.153
+ },
+ "366322: Truefire Paladin": {
+  "rating": 3.848
+ },
+ "366323: Skygames": {
+  "rating": 2.019
+ },
+ "366324: Paranoid Delusions": {
+  "rating": 2.865
+ },
+ "366325: Alpha Authority": {
+  "rating": 3.058
+ },
+ "366326: Diluvian Primordial": {
+  "rating": 3.069
+ },
+ "366327: Murder Investigation": {
+  "rating": 2.946
+ },
+ "366328: Duskmantle Guildmage": {
+  "rating": 3.87
+ },
+ "366329: Leyline Phantom": {
+  "rating": 1.975
+ },
+ "366330: Gridlock": {
+  "rating": 2.946
+ },
+ "366331: Shattering Blow": {
+  "rating": 4.177
+ },
+ "366332: Shielded Passage": {
+  "rating": 2
+ },
+ "366333: Way of the Thief": {
+  "rating": 2.012
+ },
+ "366334: Glaring Spotlight": {
+  "rating": 3.888
+ },
+ "366335: Watery Grave": {
+  "rating": 4.122
+ },
+ "366336: Forced Adaptation": {
+  "rating": 3.17
+ },
+ "366337: Assault Griffin": {
+  "rating": 2.491
+ },
+ "366338: Skyknight Legionnaire": {
+  "rating": 3.821
+ },
+ "366339: Gift of Orzhova": {
+  "rating": 3.803
+ },
+ "366340: Miming Slime": {
+  "rating": 3.093
+ },
+ "366341: Firemane Avenger": {
+  "rating": 4.019
+ },
+ "366342: Hellraiser Goblin": {
+  "rating": 2.944
+ },
+ "366343: Simic Manipulator": {
+  "rating": 3.582
+ },
+ "366344: Armored Transport": {
+  "rating": 3.188
+ },
+ "366345: Gideon, Champion of Justice": {
+  "rating": 3.525
+ },
+ "366346: Skyblinder Staff": {
+  "rating": 2.177
+ },
+ "366347: Basilica Guards": {
+  "rating": 2.914
+ },
+ "366348: Legion Loyalist": {
+  "rating": 4.054
+ },
+ "366349: Riot Gear": {
+  "rating": 1.67
+ },
+ "366350: Skarrg Guildmage": {
+  "rating": 3.9
+ },
+ "366351: Soul Ransom": {
+  "rating": 3.303
+ },
+ "366352: Master Biomancer": {
+  "rating": 4.028
+ },
+ "366353: Thespian's Stage": {
+  "rating": 4
+ },
+ "366354: Illness in the Ranks": {
+  "rating": 3.381
+ },
+ "366355: Towering Thunderfist": {
+  "rating": 2.775
+ },
+ "366356: Molten Primordial": {
+  "rating": 3.222
+ },
+ "366357: Simic Keyrune": {
+  "rating": 3.128
+ },
+ "366358: Martial Glory": {
+  "rating": 3.214
+ },
+ "366359: Treasury Thrull": {
+  "rating": 3.432
+ },
+ "366360: Gruul Charm": {
+  "rating": 3.121
+ },
+ "366361: Kingpin's Pet": {
+  "rating": 3.507
+ },
+ "366362: Ripscale Predator": {
+  "rating": 3.08
+ },
+ "366363: Clinging Anemones": {
+  "rating": 2.233
+ },
+ "366364: Cartel Aristocrat": {
+  "rating": 3.435
+ },
+ "366365: Signal the Clans": {
+  "rating": 3.277
+ },
+ "366366: Slate Street Ruffian": {
+  "rating": 2.807
+ },
+ "366367: Domri Rade": {
+  "rating": 3.672
+ },
+ "366368: Holy Mantle": {
+  "rating": 2.841
+ },
+ "366369: Boros Elite": {
+  "rating": 3.355
+ },
+ "366370: Bomber Corps": {
+  "rating": 2.786
+ },
+ "366371: Vizkopa Guildmage": {
+  "rating": 3.976
+ },
+ "366372: Spell Rupture": {
+  "rating": 3.303
+ },
+ "366373: Mental Vapors": {
+  "rating": 2.427
+ },
+ "366374: Orzhov Guildgate": {
+  "rating": 3.024
+ },
+ "366375: Ooze Flux": {
+  "rating": 3.316
+ },
+ "366376: Structural Collapse": {
+  "rating": 1.375
+ },
+ "366377: Madcap Skills": {
+  "rating": 3.667
+ },
+ "366378: Nav Squad Commandos": {
+  "rating": 2.12
+ },
+ "366379: Devour Flesh": {
+  "rating": 3.529
+ },
+ "366380: Keymaster Rogue": {
+  "rating": 3
+ },
+ "366381: Arrows of Justice": {
+  "rating": 2.853
+ },
+ "366382: Dying Wish": {
+  "rating": 2.815
+ },
+ "366383: Simic Guildgate": {
+  "rating": 3.359
+ },
+ "366384: Aurelia's Fury": {
+  "rating": 4.041
+ },
+ "366385: Boros Reckoner": {
+  "rating": 4.043
+ },
+ "366386: Five-Alarm Fire": {
+  "rating": 3.377
+ },
+ "366387: Syndic of Tithes": {
+  "rating": 3.246
+ },
+ "366388: Rapid Hybridization": {
+  "rating": 3.911
+ },
+ "366389: Court Street Denizen": {
+  "rating": 2.93
+ },
+ "366390: Boros Guildgate": {
+  "rating": 3.061
+ },
+ "366391: Consuming Aberration": {
+  "rating": 4.05
+ },
+ "366392: Guildscorn Ward": {
+  "rating": 2.509
+ },
+ "366393: Purge the Profane": {
+  "rating": 2.176
+ },
+ "366394: Giant Adephage": {
+  "rating": 3.624
+ },
+ "366395: Angelic Skirmisher": {
+  "rating": 3.789
+ },
+ "366396: Grisly Spectacle": {
+  "rating": 3.161
+ },
+ "366397: Horror of the Dim": {
+  "rating": 2.26
+ },
+ "366398: Gruul Ragebeast": {
+  "rating": 3.38
+ },
+ "366399: Fathom Mage": {
+  "rating": 3.973
+ },
+ "366400: Angelic Edict": {
+  "rating": 2.782
+ },
+ "366401: Mystic Genesis": {
+  "rating": 3.388
+ },
+ "366402: Alms Beast": {
+  "rating": 3.266
+ },
+ "366403: Cloudfin Raptor": {
+  "rating": 3.926
+ },
+ "366404: Tower Defense": {
+  "rating": 2.824
+ },
+ "366405: Razortip Whip": {
+  "rating": 1.915
+ },
+ "366406: Sage's Row Denizen": {
+  "rating": 2.58
+ },
+ "366407: Last Thoughts": {
+  "rating": 2.585
+ },
+ "366408: Coerced Confession": {
+  "rating": 2.2
+ },
+ "366409: Scorchwalker": {
+  "rating": 3.08
+ },
+ "366410: Scab-Clan Charger": {
+  "rating": 2.737
+ },
+ "366411: Enter the Infinite": {
+  "rating": 3.435
+ },
+ "366412: Lord of the Void": {
+  "rating": 3.828
+ },
+ "366413: Boros Keyrune": {
+  "rating": 2.915
+ },
+ "366414: Biovisionary": {
+  "rating": 3.332
+ },
+ "366415: Urbis Protector": {
+  "rating": 2.798
+ },
+ "366416: Prime Speaker Zegana": {
+  "rating": 4.035
+ },
+ "366417: Wasteland Viper": {
+  "rating": 4.015
+ },
+ "366418: Mind Grind": {
+  "rating": 3.788
+ },
+ "366419: Urban Evolution": {
+  "rating": 3.547
+ },
+ "366420: Contaminated Ground": {
+  "rating": 3.156
+ },
+ "366421: Sapphire Drake": {
+  "rating": 3.148
+ },
+ "366422: Spark Trooper": {
+  "rating": 3.78
+ },
+ "366423: Hydroform": {
+  "rating": 2.592
+ },
+ "366424: Rubblehulk": {
+  "rating": 3.421
+ },
+ "366425: Wildwood Rebirth": {
+  "rating": 2.366
+ },
+ "366426: Illusionist's Bracers": {
+  "rating": 3.722
+ },
+ "366427: Stolen Identity": {
+  "rating": 3.652
+ },
+ "366428: Ground Assault": {
+  "rating": 3.2
+ },
+ "366429: Sunhome Guildmage": {
+  "rating": 3.411
+ },
+ "366430: Mugging": {
+  "rating": 2.886
+ },
+ "366431: Foundry Champion": {
+  "rating": 3.208
+ },
+ "366432: Ogre Slumlord": {
+  "rating": 3.621
+ },
+ "366433: Totally Lost": {
+  "rating": 2.91
+ },
+ "366434: Skinbrand Goblin": {
+  "rating": 2.818
+ },
+ "366435: Boros Charm": {
+  "rating": 3.995
+ },
+ "366436: Orzhov Charm": {
+  "rating": 4.025
+ },
+ "366437: Thrull Parasite": {
+  "rating": 3.978
+ },
+ "366438: Gateway Shade": {
+  "rating": 2.868
+ },
+ "366439: Sacred Foundry": {
+  "rating": 4.106
+ },
+ "366440: Greenside Watcher": {
+  "rating": 2.5
+ },
+ "366441: Experiment One": {
+  "rating": 3.875
+ },
+ "366442: Merfolk of the Depths": {
+  "rating": 1.14
+ },
+ "366443: Gruul Keyrune": {
+  "rating": 3.193
+ },
+ "366444: Executioner's Swing": {
+  "rating": 2.815
+ },
+ "366445: Hands of Binding": {
+  "rating": 3.518
+ },
+ "366446: Wrecking Ogre": {
+  "rating": 3.479
+ },
+ "366447: Disciple of the Old Ways": {
+  "rating": 2.977
+ },
+ "366448: Aurelia, the Warleader": {
+  "rating": 4.039
+ },
+ "366449: Mortus Strider": {
+  "rating": 3.104
+ },
+ "366450: Pit Fight": {
+  "rating": 3.372
+ },
+ "366451: Millennial Gargoyle": {
+  "rating": 1.803
+ },
+ "366452: Crypt Ghast": {
+  "rating": 3.992
+ },
+ "366453: Dinrova Horror": {
+  "rating": 3.242
+ },
+ "366454: Zameck Guildmage": {
+  "rating": 3.772
+ },
+ "366455: Shadow Slice": {
+  "rating": 2.472
+ },
+ "366456: Smite": {
+  "rating": 3.976
+ },
+ "366457: Dutiful Thrull": {
+  "rating": 3.401
+ },
+ "366458: Skarrg Goliath": {
+  "rating": 3.157
+ },
+ "366459: Hindervines": {
+  "rating": 2.191
+ },
+ "366460: Frontline Medic": {
+  "rating": 4.028
+ },
+ "366461: Beckon Apparition": {
+  "rating": 4.027
+ },
+ "366462: Rubblebelt Raiders": {
+  "rating": 3.92
+ },
+ "366463: Simic Charm": {
+  "rating": 3.742
+ },
+ "366464: Balustrade Spy": {
+  "rating": 3.958
+ },
+ "366465: Blind Obedience": {
+  "rating": 4.123
+ },
+ "366466: Killing Glare": {
+  "rating": 2.689
+ },
+ "366467: Burning-Tree Emissary": {
+  "rating": 4.044
+ },
+ "366468: Clan Defiance": {
+  "rating": 4.005
+ },
+ "366469: Lazav, Dimir Mastermind": {
+  "rating": 4.039
+ },
+ "366470: Assemble the Legion": {
+  "rating": 3.825
+ },
+ "366471: Verdant Haven": {
+  "rating": 2.589
+ },
+ "366472: Foundry Street Denizen": {
+  "rating": 3.025
+ },
+ "366473: Dimir Charm": {
+  "rating": 4.197
+ },
+ "366474: Voidwalk": {
+  "rating": 2.409
+ },
+ "366475: Bane Alley Broker": {
+  "rating": 3.5
+ },
+ "366476: Midnight Recovery": {
+  "rating": 2.739
+ },
+ "366477: Knight Watch": {
+  "rating": 2.845
+ },
+ "366478: Shambleshark": {
+  "rating": 3.806
+ },
+ "366479: Orzhov Keyrune": {
+  "rating": 3.011
+ }
+}

@@ -1,0 +1,920 @@
+{
+ "5585: Vulshok Berserker": {
+  "rating": 2.378
+ },
+ "12394: Nim Lasher": {
+  "rating": 2.662
+ },
+ "30008: Mesmeric Orb": {
+  "rating": 4.396
+ },
+ "34901: Oblivion Stone": {
+  "rating": 4.225
+ },
+ "34945: Seething Song": {
+  "rating": 4.415
+ },
+ "35464: Tower of Fortunes": {
+  "rating": 3.385
+ },
+ "39597: Talisman of Progress": {
+  "rating": 2.726
+ },
+ "39598: Talisman of Dominance": {
+  "rating": 3.743
+ },
+ "39599: Talisman of Indulgence": {
+  "rating": 3.019
+ },
+ "39600: Talisman of Impulse": {
+  "rating": 3.143
+ },
+ "39601: Talisman of Unity": {
+  "rating": 3.136
+ },
+ "43614: War Elemental": {
+  "rating": 4.194
+ },
+ "45958: Leonin Den-Guard": {
+  "rating": 3.757
+ },
+ "45960: Leonin Skyhunter": {
+  "rating": 3.402
+ },
+ "45963: Auriok Transfixer": {
+  "rating": 2.75
+ },
+ "45965: Moriok Scavenger": {
+  "rating": 3.297
+ },
+ "45968: Sphere of Purity": {
+  "rating": 2.364
+ },
+ "45970: Fatespinner": {
+  "rating": 4.357
+ },
+ "45972: Lumengrid Sentinel": {
+  "rating": 3.8
+ },
+ "45973: Somber Hoverguard": {
+  "rating": 3.694
+ },
+ "45974: Neurok Spy": {
+  "rating": 2.78
+ },
+ "45976: Annul": {
+  "rating": 4.305
+ },
+ "45978: Thirst for Knowledge": {
+  "rating": 4.5
+ },
+ "45985: Chimney Imp": {
+  "rating": 3.312
+ },
+ "45987: Consume Spirit": {
+  "rating": 3.618
+ },
+ "45988: Terror": {
+  "rating": 4.067
+ },
+ "45990: Wrench Mind": {
+  "rating": 4.038
+ },
+ "45992: Krark-Clan Grunt": {
+  "rating": 2.68
+ },
+ "45993: Ogre Leadfoot": {
+  "rating": 2.729
+ },
+ "45994: Krark-Clan Shaman": {
+  "rating": 2.839
+ },
+ "45999: Shatter": {
+  "rating": 3.5
+ },
+ "46000: Molten Rain": {
+  "rating": 4.295
+ },
+ "46003: Tel-Jilad Chosen": {
+  "rating": 3
+ },
+ "46004: Tel-Jilad Archers": {
+  "rating": 2.556
+ },
+ "46010: Brown Ouphe": {
+  "rating": 3.61
+ },
+ "46013: Myr Adapter": {
+  "rating": 2.527
+ },
+ "46014: Duskworker": {
+  "rating": 2.306
+ },
+ "46015: Myr Enforcer": {
+  "rating": 4.339
+ },
+ "46016: Ornithopter": {
+  "rating": 4.008
+ },
+ "46017: Bottle Gnomes": {
+  "rating": 3.775
+ },
+ "46018: Viridian Longbow": {
+  "rating": 3.978
+ },
+ "46021: Lightning Greaves": {
+  "rating": 4.522
+ },
+ "46024: Gold Myr": {
+  "rating": 3.198
+ },
+ "46025: Soldier Replica": {
+  "rating": 3.094
+ },
+ "46026: Yotian Soldier": {
+  "rating": 3.333
+ },
+ "46027: Pearl Shard": {
+  "rating": 2
+ },
+ "46028: Slagwurm Armor": {
+  "rating": 4.375
+ },
+ "46029: Leonin Scimitar": {
+  "rating": 3
+ },
+ "46032: Silver Myr": {
+  "rating": 3.653
+ },
+ "46033: Wizard Replica": {
+  "rating": 3.987
+ },
+ "46035: Crystal Shard": {
+  "rating": 4
+ },
+ "46037: Neurok Hoversail": {
+  "rating": 2.983
+ },
+ "46040: Leaden Myr": {
+  "rating": 3.185
+ },
+ "46041: Nim Replica": {
+  "rating": 1.667
+ },
+ "46044: Goblin War Wagon": {
+  "rating": 0.897
+ },
+ "46046: Chromatic Sphere": {
+  "rating": 3.07
+ },
+ "46048: Iron Myr": {
+  "rating": 3.067
+ },
+ "46049: Goblin Replica": {
+  "rating": 2.488
+ },
+ "46051: Granite Shard": {
+  "rating": 3.013
+ },
+ "46053: Vorrac Battlehorns": {
+  "rating": 3.854
+ },
+ "46055: Necrogen Spellbomb": {
+  "rating": 4.177
+ },
+ "46056: Copper Myr": {
+  "rating": 3
+ },
+ "46057: Elf Replica": {
+  "rating": 2.683
+ },
+ "46059: Heartwood Shard": {
+  "rating": 1.732
+ },
+ "46061: Golem-Skin Gauntlets": {
+  "rating": 3.275
+ },
+ "46063: Ancient Den": {
+  "rating": 4.356
+ },
+ "46064: Seat of the Synod": {
+  "rating": 4.428
+ },
+ "46065: Vault of Whispers": {
+  "rating": 4.344
+ },
+ "46066: Great Furnace": {
+  "rating": 4.438
+ },
+ "46067: Tree of Tales": {
+  "rating": 4.25
+ },
+ "46069: Slith Ascendant": {
+  "rating": 3.635
+ },
+ "46071: Loxodon Mender": {
+  "rating": 1.191
+ },
+ "46072: Leonin Elder": {
+  "rating": 3.5
+ },
+ "46074: Woebearer": {
+  "rating": 3.829
+ },
+ "46075: Tempest of Light": {
+  "rating": 3.6
+ },
+ "46079: Taj-Nar Swordsmith": {
+  "rating": 2.971
+ },
+ "46080: Slith Strider": {
+  "rating": 3.65
+ },
+ "46081: Auriok Steelshaper": {
+  "rating": 4.404
+ },
+ "46082: Neurok Familiar": {
+  "rating": 2.75
+ },
+ "46084: Disarm": {
+  "rating": 1.778
+ },
+ "46085: Thoughtcast": {
+  "rating": 4.401
+ },
+ "46089: Override": {
+  "rating": 2.938
+ },
+ "46090: Nim Devourer": {
+  "rating": 3.408
+ },
+ "46091: Slith Bloodletter": {
+  "rating": 3.988
+ },
+ "46094: Flayed Nim": {
+  "rating": 3.955
+ },
+ "46102: Slith Firewalker": {
+  "rating": 4.134
+ },
+ "46103: Spikeshot Goblin": {
+  "rating": 4.188
+ },
+ "46105: Loxodon Punisher": {
+  "rating": 3.092
+ },
+ "46106: Atog": {
+  "rating": 3.948
+ },
+ "46109: Lightning Coils": {
+  "rating": 3.755
+ },
+ "46110: Detonate": {
+  "rating": 3.735
+ },
+ "46113: Slith Predator": {
+  "rating": 3.756
+ },
+ "46114: Viridian Joiner": {
+  "rating": 3.655
+ },
+ "46115: Fangren Hunter": {
+  "rating": 2.9
+ },
+ "46117: Trolls of Tel-Jilad": {
+  "rating": 2.914
+ },
+ "46118: Rustmouth Ogre": {
+  "rating": 2.444
+ },
+ "46119: Viridian Shaman": {
+  "rating": 3.734
+ },
+ "46123: Clockwork Vorrac": {
+  "rating": 3.147
+ },
+ "46124: Clockwork Condor": {
+  "rating": 1.607
+ },
+ "46126: Myr Retriever": {
+  "rating": 4.39
+ },
+ "46128: Lodestone Myr": {
+  "rating": 4.132
+ },
+ "46135: Farsight Mask": {
+  "rating": 2.926
+ },
+ "46138: Rustspore Ram": {
+  "rating": 2.081
+ },
+ "46153: Mask of Memory": {
+  "rating": 4.158
+ },
+ "46156: Serum Tank": {
+  "rating": 3.017
+ },
+ "46434: Dross Scorpion": {
+  "rating": 4.045
+ },
+ "46546: Luminous Angel": {
+  "rating": 3.091
+ },
+ "46550: Leonin Abunas": {
+  "rating": 3.991
+ },
+ "46556: Broodstar": {
+  "rating": 4.23
+ },
+ "46557: Vedalken Archmage": {
+  "rating": 4.255
+ },
+ "46559: Quicksilver Elemental": {
+  "rating": 3.888
+ },
+ "46572: Spoils of the Vault": {
+  "rating": 4.167
+ },
+ "46577: Forge Armor": {
+  "rating": 2.167
+ },
+ "46579: Megatog": {
+  "rating": 4.086
+ },
+ "46582: Psychogenic Probe": {
+  "rating": 3.744
+ },
+ "46694: Living Hive": {
+  "rating": 4.109
+ },
+ "46699: March of the Machines": {
+  "rating": 4.167
+ },
+ "46702: Triskelion": {
+  "rating": 4.451
+ },
+ "46703: Pentavus": {
+  "rating": 4.562
+ },
+ "46704: Clockwork Dragon": {
+  "rating": 3.892
+ },
+ "46708: Leveler": {
+  "rating": 3.097
+ },
+ "46714: Blinkmoth Urn": {
+  "rating": 4
+ },
+ "46715: Mindstorm Crown": {
+  "rating": 3.539
+ },
+ "46719: Synod Sanctum": {
+  "rating": 3.393
+ },
+ "46720: Sculpting Steel": {
+  "rating": 4.45
+ },
+ "46721: Gate to the Aether": {
+  "rating": 4.026
+ },
+ "46723: Soul Foundry": {
+  "rating": 4.033
+ },
+ "46724: Mindslaver": {
+  "rating": 4.454
+ },
+ "46727: Damping Matrix": {
+  "rating": 3.977
+ },
+ "46728: Icy Manipulator": {
+  "rating": 4.436
+ },
+ "46729: Tel-Jilad Stylus": {
+  "rating": 3.518
+ },
+ "46730: Tower of Murmurs": {
+  "rating": 2.663
+ },
+ "46733: Liar's Pendulum": {
+  "rating": 3.096
+ },
+ "46741: Isochron Scepter": {
+  "rating": 4.524
+ },
+ "46760: Jinxed Choker": {
+  "rating": 3.596
+ },
+ "46791: Worldslayer": {
+  "rating": 4.33
+ },
+ "47442: Bonesplitter": {
+  "rating": 4.173
+ },
+ "47445: Culling Scales": {
+  "rating": 3.629
+ },
+ "47446: Chrome Mox": {
+  "rating": 4.59
+ },
+ "47450: Myr Incubator": {
+  "rating": 4.114
+ },
+ "47781: Plated Slagwurm": {
+  "rating": 4.266
+ },
+ "47791: Lumengrid Augur": {
+  "rating": 3.371
+ },
+ "47935: Razor Barrier": {
+  "rating": 3.444
+ },
+ "47936: Vermiculos": {
+  "rating": 3.162
+ },
+ "48046: Skyhunter Cub": {
+  "rating": 2.929
+ },
+ "48047: Spellweaver Helix": {
+  "rating": 3.72
+ },
+ "48052: Titanium Golem": {
+  "rating": 1.343
+ },
+ "48053: Cobalt Golem": {
+  "rating": 1.895
+ },
+ "48054: Pewter Golem": {
+  "rating": 1.786
+ },
+ "48055: Hematite Golem": {
+  "rating": 2.629
+ },
+ "48056: Malachite Golem": {
+  "rating": 1.517
+ },
+ "48073: Fiery Gambit": {
+  "rating": 4.218
+ },
+ "48074: Awe Strike": {
+  "rating": 3.5
+ },
+ "48077: Goblin Dirigible": {
+  "rating": 1.408
+ },
+ "48082: Hum of the Radix": {
+  "rating": 2.967
+ },
+ "48083: Molder Slug": {
+  "rating": 4.263
+ },
+ "48092: Roar of the Kha": {
+  "rating": 3.613
+ },
+ "48096: Promise of Power": {
+  "rating": 4.047
+ },
+ "48099: Blinding Beam": {
+  "rating": 3.583
+ },
+ "48101: Soul Nova": {
+  "rating": 2.362
+ },
+ "48103: Raise the Alarm": {
+  "rating": 4.143
+ },
+ "48105: Wail of the Nim": {
+  "rating": 3.689
+ },
+ "48108: Lifespark Spellbomb": {
+  "rating": 3.317
+ },
+ "48110: Pyrite Spellbomb": {
+  "rating": 4.51
+ },
+ "48112: Rule of Law": {
+  "rating": 4.237
+ },
+ "48113: Aether Spellbomb": {
+  "rating": 4.181
+ },
+ "48114: Looming Hoverguard": {
+  "rating": 2.261
+ },
+ "48116: Battlegrowth": {
+  "rating": 1.864
+ },
+ "48119: Clockwork Beetle": {
+  "rating": 3.044
+ },
+ "48121: Vulshok Battlegear": {
+  "rating": 3.37
+ },
+ "48122: Tooth and Nail": {
+  "rating": 4.298
+ },
+ "48125: Vulshok Battlemaster": {
+  "rating": 3.526
+ },
+ "48126: Nim Shambler": {
+  "rating": 2.578
+ },
+ "48132: Glimmervoid": {
+  "rating": 4.566
+ },
+ "48138: Incite War": {
+  "rating": 3.74
+ },
+ "48139: Dead-Iron Sledge": {
+  "rating": 3.23
+ },
+ "48155: Tower of Champions": {
+  "rating": 1.5
+ },
+ "48156: Altar of Shadows": {
+  "rating": 3.702
+ },
+ "48159: Dream's Grip": {
+  "rating": 3.976
+ },
+ "48167: Psychic Membrane": {
+  "rating": 2.857
+ },
+ "48174: Rust Elemental": {
+  "rating": 1.729
+ },
+ "48178: Grid Monitor": {
+  "rating": 2.671
+ },
+ "48180: Loxodon Peacekeeper": {
+  "rating": 2.333
+ },
+ "48184: Wall of Blood": {
+  "rating": 3.444
+ },
+ "48189: Gilded Lotus": {
+  "rating": 4.332
+ },
+ "48191: Mass Hysteria": {
+  "rating": 3.979
+ },
+ "48194: Banshee's Blade": {
+  "rating": 3.282
+ },
+ "48195: Cathodion": {
+  "rating": 4.355
+ },
+ "48203: Fireshrieker": {
+  "rating": 4.058
+ },
+ "48210: Mirror Golem": {
+  "rating": 3.059
+ },
+ "48214: Sunbeam Spellbomb": {
+  "rating": 3.403
+ },
+ "48325: Dragon Blood": {
+  "rating": 3.256
+ },
+ "48326: Chalice of the Void": {
+  "rating": 4.483
+ },
+ "48328: Welding Jar": {
+  "rating": 4.132
+ },
+ "48329: Relic Bane": {
+  "rating": 2.906
+ },
+ "48377: Fists of the Anvil": {
+  "rating": 2.904
+ },
+ "48378: Leonin Bladetrap": {
+  "rating": 2.333
+ },
+ "48383: Altar's Light": {
+  "rating": 2.351
+ },
+ "48385: One Dozen Eyes": {
+  "rating": 3.436
+ },
+ "48386: Glissa Sunseeker": {
+  "rating": 4.041
+ },
+ "48390: Fractured Loyalty": {
+  "rating": 3.259
+ },
+ "48397: Vulshok Gauntlets": {
+  "rating": 3.175
+ },
+ "48399: Galvanic Key": {
+  "rating": 2.568
+ },
+ "48400: Scale of Chiss-Goria": {
+  "rating": 2.25
+ },
+ "48401: Tooth of Chiss-Goria": {
+  "rating": 3.203
+ },
+ "48406: Plains": {
+  "rating": 4.342
+ },
+ "48407: Plains": {
+  "rating": 3.815
+ },
+ "48408: Plains": {
+  "rating": 4.2
+ },
+ "48409: Plains": {
+  "rating": 4.538
+ },
+ "48410: Island": {
+  "rating": 4.43
+ },
+ "48411: Island": {
+  "rating": 4.417
+ },
+ "48412: Island": {
+  "rating": 4.232
+ },
+ "48413: Island": {
+  "rating": 4.431
+ },
+ "48414: Swamp": {
+  "rating": 4.481
+ },
+ "48415: Swamp": {
+  "rating": 4.397
+ },
+ "48416: Swamp": {
+  "rating": 4.556
+ },
+ "48417: Mountain": {
+  "rating": 4.667
+ },
+ "48418: Mountain": {
+  "rating": 4.333
+ },
+ "48419: Mountain": {
+  "rating": 4.083
+ },
+ "48420: Mountain": {
+  "rating": 4.037
+ },
+ "48421: Forest": {
+  "rating": 4.018
+ },
+ "48422: Forest": {
+  "rating": 4.606
+ },
+ "48423: Forest": {
+  "rating": 4.5
+ },
+ "48424: Forest": {
+  "rating": 4.173
+ },
+ "48425: Swamp": {
+  "rating": 4.741
+ },
+ "48427: Reiver Demon": {
+  "rating": 4.127
+ },
+ "48431: Skyhunter Patrol": {
+  "rating": 3.097
+ },
+ "48432: Arrest": {
+  "rating": 3.953
+ },
+ "48433: Auriok Bladewarden": {
+  "rating": 3.266
+ },
+ "48436: Arc-Slogger": {
+  "rating": 3.886
+ },
+ "48437: Solar Tide": {
+  "rating": 3.44
+ },
+ "48438: Lumengrid Warden": {
+  "rating": 2.02
+ },
+ "48439: Wanderguard Sentry": {
+  "rating": 1.435
+ },
+ "48568: Fabricate": {
+  "rating": 4.138
+ },
+ "48570: Dross Prowler": {
+  "rating": 2.217
+ },
+ "48571: Domineer": {
+  "rating": 3.256
+ },
+ "48580: Platinum Angel": {
+  "rating": 4.424
+ },
+ "48581: Bosh, Iron Golem": {
+  "rating": 4.225
+ },
+ "48583: Sword of Kaldra": {
+  "rating": 4.267
+ },
+ "48584: Nim Shrieker": {
+  "rating": 3.221
+ },
+ "48585: Irradiate": {
+  "rating": 2.714
+ },
+ "48586: Trash for Treasure": {
+  "rating": 4.025
+ },
+ "48588: Betrayal of Flesh": {
+  "rating": 2.298
+ },
+ "48589: Necrogen Mists": {
+  "rating": 3.641
+ },
+ "48591: Barter in Blood": {
+  "rating": 3.877
+ },
+ "48592: Goblin Striker": {
+  "rating": 3.067
+ },
+ "48594: Turn to Dust": {
+  "rating": 2.415
+ },
+ "48595: Predator's Strike": {
+  "rating": 3.964
+ },
+ "48597: Bloodscent": {
+  "rating": 1.649
+ },
+ "48599: Wurmskin Forger": {
+  "rating": 1.264
+ },
+ "48600: Groffskithur": {
+  "rating": 1.081
+ },
+ "48603: Copperhoof Vorrac": {
+  "rating": 3.08
+ },
+ "48605: Omega Myr": {
+  "rating": 2.489
+ },
+ "48910: Steel Wall": {
+  "rating": 4.345
+ },
+ "48913: Tanglebloom": {
+  "rating": 1.886
+ },
+ "48914: Tower of Eons": {
+  "rating": 3.026
+ },
+ "48915: Thought Prison": {
+  "rating": 3.6
+ },
+ "48916: Blinkmoth Well": {
+  "rating": 3.625
+ },
+ "48917: Stalking Stones": {
+  "rating": 3.537
+ },
+ "48919: Mind's Eye": {
+  "rating": 3.978
+ },
+ "48923: Krark's Thumb": {
+  "rating": 4.219
+ },
+ "48925: Myr Mindservant": {
+  "rating": 3.25
+ },
+ "48930: Needlebug": {
+  "rating": 3.037
+ },
+ "48931: Sun Droplet": {
+  "rating": 4.057
+ },
+ "49009: Second Sunrise": {
+  "rating": 4.373
+ },
+ "49045: Alpha Myr": {
+  "rating": 1.975
+ },
+ "49046: Myr Prototype": {
+  "rating": 1.659
+ },
+ "49047: Power Conduit": {
+  "rating": 4.416
+ },
+ "49048: Scythe of the Wretched": {
+  "rating": 4.38
+ },
+ "49050: Cloudpost": {
+  "rating": 4.413
+ },
+ "49053: Timesifter": {
+  "rating": 4.011
+ },
+ "49055: Temporal Cascade": {
+  "rating": 2.929
+ },
+ "49060: Deconstruct": {
+  "rating": 3.9
+ },
+ "49061: Regress": {
+  "rating": 2.628
+ },
+ "49062: Assert Authority": {
+  "rating": 3.797
+ },
+ "49081: Grim Reminder": {
+  "rating": 2.962
+ },
+ "49090: Disciple of the Vault": {
+  "rating": 4.57
+ },
+ "49101: Electrostatic Bolt": {
+  "rating": 3.655
+ },
+ "49108: Creeping Mold": {
+  "rating": 3.859
+ },
+ "49429: Frogmite": {
+  "rating": 4.198
+ },
+ "49430: Empyrial Plate": {
+  "rating": 3.917
+ },
+ "49434: Solemn Simulacrum": {
+  "rating": 4.514
+ },
+ "49435: Grab the Reins": {
+  "rating": 4.25
+ },
+ "49436: Tel-Jilad Exile": {
+  "rating": 2.125
+ },
+ "49437: Journey of Discovery": {
+  "rating": 3.671
+ },
+ "49439: Duplicant": {
+  "rating": 4.507
+ },
+ "49440: Extraplanar Lens": {
+  "rating": 4.387
+ },
+ "49443: Inertia Bubble": {
+  "rating": 2.167
+ },
+ "49444: Contaminated Bond": {
+  "rating": 3.154
+ },
+ "49528: Confusion in the Ranks": {
+  "rating": 4.026
+ },
+ "49529: Sylvan Scrying": {
+  "rating": 3.837
+ },
+ "49759: Loxodon Warhammer": {
+  "rating": 4.115
+ },
+ "49763: Scrabbling Claws": {
+  "rating": 3.417
+ },
+ "49764: Shared Fate": {
+  "rating": 3.787
+ },
+ "49767: Tangleroot": {
+  "rating": 3.6
+ },
+ "49768: Leonin Sun Standard": {
+  "rating": 4.127
+ },
+ "49769: Proteus Staff": {
+  "rating": 4.343
+ },
+ "49770: Nightmare Lash": {
+  "rating": 4.208
+ },
+ "49771: Goblin Charbelcher": {
+  "rating": 4.57
+ },
+ "49772: Quicksilver Fountain": {
+  "rating": 4.043
+ },
+ "49774: Skeleton Shard": {
+  "rating": 4.125
+ },
+ "49828: Troll Ascetic": {
+  "rating": 4.218
+ },
+ "49835: Shrapnel Blast": {
+  "rating": 4.272
+ },
+ "50104: Nuisance Engine": {
+  "rating": 3.324
+ },
+ "50537: Dross Harvester": {
+  "rating": 3.769
+ },
+ "50538: Mourner's Shield": {
+  "rating": 2.857
+ }
+}

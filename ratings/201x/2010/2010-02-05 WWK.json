@@ -1,0 +1,437 @@
+{
+ "171007: Lavaclaw Reaches": {
+  "rating": 3.462
+ },
+ "177508: Anowon, the Ruin Sage": {
+  "rating": 3.743
+ },
+ "177520: Creeping Tar Pit": {
+  "rating": 4.143
+ },
+ "177545: Celestial Colonnade": {
+  "rating": 4.194
+ },
+ "177560: Stirring Wildwood": {
+  "rating": 3.794
+ },
+ "177583: Raging Ravine": {
+  "rating": 3.877
+ },
+ "180412: Horizon Drake": {
+  "rating": 3.065
+ },
+ "180416: Crusher Zendikon": {
+  "rating": 3.008
+ },
+ "189159: Lightkeeper of Emeria": {
+  "rating": 2.993
+ },
+ "189162: Wolfbriar Elemental": {
+  "rating": 4.14
+ },
+ "189163: Refraction Trap": {
+  "rating": 2.33
+ },
+ "189180: Rest for the Weary": {
+  "rating": 3.636
+ },
+ "189181: Voyager Drake": {
+  "rating": 3.009
+ },
+ "191540: Deathforge Shaman": {
+  "rating": 3.025
+ },
+ "191547: Snapping Creeper": {
+  "rating": 2.794
+ },
+ "191548: Grotag Thrasher": {
+  "rating": 2.391
+ },
+ "191549: Ricochet Trap": {
+  "rating": 3.824
+ },
+ "191552: Stone Idol Trap": {
+  "rating": 3.538
+ },
+ "191557: Lodestone Golem": {
+  "rating": 4.704
+ },
+ "191569: Calcite Snapper": {
+  "rating": 3.791
+ },
+ "191570: Bloodhusk Ritualist": {
+  "rating": 3.541
+ },
+ "191577: Amulet of Vigor": {
+  "rating": 4.12
+ },
+ "191578: Smother": {
+  "rating": 4.431
+ },
+ "191580: Fledgling Griffin": {
+  "rating": 2.825
+ },
+ "191581: Jagwasp Swarm": {
+  "rating": 2.333
+ },
+ "193970: Canopy Cover": {
+  "rating": 3.747
+ },
+ "193975: Claws of Valakut": {
+  "rating": 3.574
+ },
+ "193982: Searing Blaze": {
+  "rating": 4.09
+ },
+ "193994: Graypelt Hunter": {
+  "rating": 3.198
+ },
+ "193998: Groundswell": {
+  "rating": 3.522
+ },
+ "194002: Mire's Toll": {
+  "rating": 3.065
+ },
+ "194003: Vapor Snare": {
+  "rating": 2.964
+ },
+ "194007: Quest for Renewal": {
+  "rating": 3.792
+ },
+ "194012: Tideforce Elemental": {
+  "rating": 3.471
+ },
+ "194017: Slingbow Trap": {
+  "rating": 2.051
+ },
+ "194018: Kitesail Apprentice": {
+  "rating": 3.23
+ },
+ "194671: Roiling Terrain": {
+  "rating": 3.515
+ },
+ "194672: Talus Paladin": {
+  "rating": 3.577
+ },
+ "194675: Harabaz Druid": {
+  "rating": 3.947
+ },
+ "194678: Ruthless Cullblade": {
+  "rating": 3.018
+ },
+ "194679: Dead Reckoning": {
+  "rating": 3.194
+ },
+ "194681: Goblin Roughrider": {
+  "rating": 2.914
+ },
+ "194686: Hedron Rover": {
+  "rating": 2.28
+ },
+ "194699: Mysteries of the Deep": {
+  "rating": 2.131
+ },
+ "194700: Selective Memory": {
+  "rating": 2.679
+ },
+ "194703: Permafrost Trap": {
+  "rating": 3.008
+ },
+ "194706: Join the Ranks": {
+  "rating": 3.544
+ },
+ "194708: Kor Firewalker": {
+  "rating": 3.805
+ },
+ "194714: Spell Contortion": {
+  "rating": 2.5
+ },
+ "194718: Marsh Threader": {
+  "rating": 2.616
+ },
+ "195297: Jace, the Mind Sculptor": {
+  "rating": 4.058
+ },
+ "195307: Tomb Hex": {
+  "rating": 2.6
+ },
+ "197118: Kalastria Highborn": {
+  "rating": 4.048
+ },
+ "197125: Butcher of Malakir": {
+  "rating": 3.691
+ },
+ "197129: Halimar Excavator": {
+  "rating": 3.603
+ },
+ "197137: Terastodon": {
+  "rating": 4.456
+ },
+ "197145: Kazuul, Tyrant of the Cliffs": {
+  "rating": 4.073
+ },
+ "197152: Kitesail": {
+  "rating": 2.508
+ },
+ "197153: Goliath Sphinx": {
+  "rating": 3.639
+ },
+ "197154: Pulse Tracker": {
+  "rating": 3.647
+ },
+ "197159: Bojuka Brigand": {
+  "rating": 2.741
+ },
+ "197160: Admonition Angel": {
+  "rating": 3.992
+ },
+ "197162: Mordant Dragon": {
+  "rating": 3.622
+ },
+ "197758: Skitter of Lizards": {
+  "rating": 3.52
+ },
+ "197759: Omnath, Locus of Mana": {
+  "rating": 4.096
+ },
+ "197763: Quag Vampires": {
+  "rating": 3.023
+ },
+ "197765: Joraga Warcaller": {
+  "rating": 4.166
+ },
+ "197766: Comet Storm": {
+  "rating": 3.953
+ },
+ "197767: Enclave Elite": {
+  "rating": 2.457
+ },
+ "197769: Apex Hawks": {
+  "rating": 2.582
+ },
+ "197770: Rumbling Aftershocks": {
+  "rating": 1.449
+ },
+ "197771: Gnarlid Pack": {
+  "rating": 2.906
+ },
+ "197785: Smoldering Spires": {
+  "rating": 3.022
+ },
+ "197786: Bojuka Bog": {
+  "rating": 4.527
+ },
+ "197787: Halimar Depths": {
+  "rating": 4.084
+ },
+ "197788: Sejiri Steppe": {
+  "rating": 3.674
+ },
+ "197789: Khalni Garden": {
+  "rating": 3.759
+ },
+ "197836: Nemesis Trap": {
+  "rating": 3.018
+ },
+ "197840: Wrexial, the Risen Deep": {
+  "rating": 3.985
+ },
+ "197843: Bestial Menace": {
+  "rating": 3.624
+ },
+ "197844: Sejiri Merfolk": {
+  "rating": 4.131
+ },
+ "197853: Quicksand": {
+  "rating": 3.907
+ },
+ "197854: Dragonmaster Outcast": {
+  "rating": 4.325
+ },
+ "197855: Tectonic Edge": {
+  "rating": 3.608
+ },
+ "197856: Leatherback Baloth": {
+  "rating": 4.319
+ },
+ "197857: Novablast Wurm": {
+  "rating": 4.192
+ },
+ "197859: Slavering Nulls": {
+  "rating": 3.341
+ },
+ "197864: Summit Apes": {
+  "rating": 2.96
+ },
+ "197865: Wind Zendikon": {
+  "rating": 3.803
+ },
+ "197866: Terra Eternal": {
+  "rating": 3.853
+ },
+ "197869: Abyssal Persecutor": {
+  "rating": 4.288
+ },
+ "197870: Vastwood Zendikon": {
+  "rating": 2.574
+ },
+ "197871: Hammer of Ruin": {
+  "rating": 2.582
+ },
+ "197872: Guardian Zendikon": {
+  "rating": 2.518
+ },
+ "197873: Loam Lion": {
+  "rating": 4.374
+ },
+ "197874: Corrupted Zendikon": {
+  "rating": 2.985
+ },
+ "197875: Strength of the Tajuru": {
+  "rating": 3.539
+ },
+ "197877: Shoreline Salvager": {
+  "rating": 2.781
+ },
+ "197880: Iona's Judgment": {
+  "rating": 2.382
+ },
+ "197881: Eye of Ugin": {
+  "rating": 3.555
+ },
+ "197959: Arbor Elf": {
+  "rating": 3.962
+ },
+ "197968: Treasure Hunt": {
+  "rating": 3.715
+ },
+ "197973: Thada Adel, Acquisitor": {
+  "rating": 4.201
+ },
+ "198356: Basilisk Collar": {
+  "rating": 4.396
+ },
+ "198357: Nature's Claim": {
+  "rating": 4.139
+ },
+ "198360: Akoum Battlesinger": {
+  "rating": 2.975
+ },
+ "198361: Perimeter Captain": {
+  "rating": 3.863
+ },
+ "198362: Feral Contest": {
+  "rating": 1.946
+ },
+ "198364: Bazaar Trader": {
+  "rating": 3.864
+ },
+ "198367: Pilgrim's Eye": {
+  "rating": 3.336
+ },
+ "198368: Urge to Feed": {
+  "rating": 3.785
+ },
+ "198370: Surrakar Banisher": {
+  "rating": 2.087
+ },
+ "198371: Grappler Spider": {
+  "rating": 1.652
+ },
+ "198372: Death's Shadow": {
+  "rating": 3.8
+ },
+ "198374: Everflowing Chalice": {
+  "rating": 3.812
+ },
+ "198375: Walking Atlas": {
+  "rating": 3.623
+ },
+ "198376: Caustic Crawler": {
+  "rating": 2.873
+ },
+ "198378: Ruin Ghost": {
+  "rating": 3.641
+ },
+ "198382: Scrib Nibblers": {
+  "rating": 3.173
+ },
+ "198383: Stoneforge Mystic": {
+  "rating": 4.433
+ },
+ "198384: Veteran's Reflexes": {
+  "rating": 2.824
+ },
+ "198386: Quest for the Nihil Stone": {
+  "rating": 3.748
+ },
+ "198390: Jwari Shapeshifter": {
+  "rating": 3.676
+ },
+ "198392: Quest for the Goblin Lord": {
+  "rating": 3.395
+ },
+ "198393: Marshal's Anthem": {
+  "rating": 3.745
+ },
+ "198394: Battle Hurda": {
+  "rating": 1.647
+ },
+ "198395: Razor Boomerang": {
+  "rating": 0.795
+ },
+ "198396: Twitch": {
+  "rating": 2.643
+ },
+ "198400: Hada Freeblade": {
+  "rating": 3.97
+ },
+ "198401: Quest for Ula's Temple": {
+  "rating": 3.825
+ },
+ "198402: Agadeem Occultist": {
+  "rating": 3.513
+ },
+ "201560: Bull Rush": {
+  "rating": 0.998
+ },
+ "201561: Seer's Sundial": {
+  "rating": 3.235
+ },
+ "201562: Dispel": {
+  "rating": 3.623
+ },
+ "201563: Cunning Sparkmage": {
+  "rating": 3.834
+ },
+ "201565: Cosi's Ravager": {
+  "rating": 2.61
+ },
+ "201566: Vastwood Animist": {
+  "rating": 2.823
+ },
+ "201568: Aether Tradewinds": {
+  "rating": 3.298
+ },
+ "201570: Avenger of Zendikar": {
+  "rating": 4.053
+ },
+ "201571: Brink of Disaster": {
+  "rating": 2.127
+ },
+ "201573: Chain Reaction": {
+  "rating": 3.71
+ },
+ "201575: Archon of Redemption": {
+  "rating": 3.521
+ },
+ "201578: Explore": {
+  "rating": 3.801
+ },
+ "201579: Tuktuk Scrapper": {
+  "rating": 3.549
+ },
+ "205425: Dread Statuary": {
+  "rating": 3.683
+ }
+}

@@ -1,0 +1,632 @@
+{
+ "382205: Academy Elite": {
+  "rating": 3.083
+ },
+ "382206: Advantageous Proclamation": {
+  "rating": 4.667
+ },
+ "382207: Aether Searcher": {
+  "rating": 3.571
+ },
+ "382208: Aether Tradewinds": {
+  "rating": 3.2
+ },
+ "382209: Agent of Acquisitions": {
+  "rating": 3.909
+ },
+ "382210: Air Servant": {
+  "rating": 3.6
+ },
+ "382211: Ajani's Sunstriker": {
+  "rating": 3.375
+ },
+ "382212: Altar of Dementia": {
+  "rating": 4.393
+ },
+ "382213: Altar's Reap": {
+  "rating": 3.917
+ },
+ "382214: Apex Hawks": {
+  "rating": 3.125
+ },
+ "382215: Assassinate": {
+  "rating": 2.625
+ },
+ "382216: Backup Plan": {
+  "rating": 4.5
+ },
+ "382217: Barbed Shocker": {
+  "rating": 3.833
+ },
+ "382218: Basandra, Battle Seraph": {
+  "rating": 3.8
+ },
+ "382219: Bite of the Black Rose": {
+  "rating": 3.083
+ },
+ "382220: Boldwyr Intimidator": {
+  "rating": 3.5
+ },
+ "382221: Brago, King Eternal": {
+  "rating": 4.278
+ },
+ "382222: Brago's Favor": {
+  "rating": 4.167
+ },
+ "382223: Brago's Representative": {
+  "rating": 3.167
+ },
+ "382224: Brainstorm": {
+  "rating": 4.75
+ },
+ "382225: Breakthrough": {
+  "rating": 4.5
+ },
+ "382226: Brimstone Volley": {
+  "rating": 4.125
+ },
+ "382227: Canal Dredger": {
+  "rating": 3.458
+ },
+ "382228: Charging Rhino": {
+  "rating": 3.75
+ },
+ "382229: Chartooth Cougar": {
+  "rating": 3.625
+ },
+ "382230: Cinder Wall": {
+  "rating": 3.25
+ },
+ "382231: Coercive Portal": {
+  "rating": 4
+ },
+ "382232: Cogwork Grinder": {
+  "rating": 3.278
+ },
+ "382233: Cogwork Librarian": {
+  "rating": 3.938
+ },
+ "382234: Cogwork Spy": {
+  "rating": 2.6
+ },
+ "382235: Cogwork Tracker": {
+  "rating": 3.1
+ },
+ "382236: Compulsive Research": {
+  "rating": 4.143
+ },
+ "382237: Copperhorn Scout": {
+  "rating": 3.4
+ },
+ "382238: Council Guardian": {
+  "rating": 4.083
+ },
+ "382239: Council's Judgment": {
+  "rating": 4.52
+ },
+ "382240: Courier Hawk": {
+  "rating": 3.571
+ },
+ "382241: Crookclaw Transmuter": {
+  "rating": 3.833
+ },
+ "382242: Custodi Soulbinders": {
+  "rating": 3.636
+ },
+ "382243: Custodi Squire": {
+  "rating": 3.786
+ },
+ "382244: Dack Fayden": {
+  "rating": 3.862
+ },
+ "382245: Dack's Duplicate": {
+  "rating": 4.042
+ },
+ "382246: Deal Broker": {
+  "rating": 3.944
+ },
+ "382247: Deathforge Shaman": {
+  "rating": 3.875
+ },
+ "382248: Deathreap Ritual": {
+  "rating": 4.111
+ },
+ "382249: Deathrender": {
+  "rating": 3.571
+ },
+ "382250: Decimate": {
+  "rating": 4.357
+ },
+ "382251: Dimir Doppelganger": {
+  "rating": 4.25
+ },
+ "382252: Doomed Traveler": {
+  "rating": 4.167
+ },
+ "382253: Double Stroke": {
+  "rating": 4.833
+ },
+ "382254: Drakestown Forgotten": {
+  "rating": 3.812
+ },
+ "382255: Dream Fracture": {
+  "rating": 3.8
+ },
+ "382256: Echoing Courage": {
+  "rating": 3.667
+ },
+ "382257: Edric, Spymaster of Trest": {
+  "rating": 4.538
+ },
+ "382258: Elephant Guide": {
+  "rating": 4.4
+ },
+ "382259: Elvish Aberration": {
+  "rating": 3.667
+ },
+ "382260: Enclave Elite": {
+  "rating": 3
+ },
+ "382261: Enraged Revolutionary": {
+  "rating": 2.714
+ },
+ "382262: Exploration": {
+  "rating": 4.568
+ },
+ "382263: Explorer's Scope": {
+  "rating": 3.833
+ },
+ "382264: Extract from Darkness": {
+  "rating": 3.885
+ },
+ "382265: Fact or Fiction": {
+  "rating": 4.667
+ },
+ "382266: Favorable Winds": {
+  "rating": 4
+ },
+ "382267: Fires of Yavimaya": {
+  "rating": 4.5
+ },
+ "382268: Fireshrieker": {
+  "rating": 3.625
+ },
+ "382269: Flamewright": {
+  "rating": 4.042
+ },
+ "382270: Flaring Flame-Kin": {
+  "rating": 3.333
+ },
+ "382271: Flowstone Blade": {
+  "rating": 2.5
+ },
+ "382272: Galvanic Juggernaut": {
+  "rating": 3.5
+ },
+ "382273: Gamekeeper": {
+  "rating": 3.875
+ },
+ "382274: Glimmerpoint Stag": {
+  "rating": 3.857
+ },
+ "382275: Gnarlid Pack": {
+  "rating": 3.333
+ },
+ "382276: Grenzo, Dungeon Warden": {
+  "rating": 4.059
+ },
+ "382277: Grenzo's Cutthroat": {
+  "rating": 3.643
+ },
+ "382278: Grenzo's Rebuttal": {
+  "rating": 3.889
+ },
+ "382279: Grixis Illusionist": {
+  "rating": 2.5
+ },
+ "382280: Grudge Keeper": {
+  "rating": 3.5
+ },
+ "382281: Guardian Zendikon": {
+  "rating": 2.875
+ },
+ "382282: Heartless Hidetsugu": {
+  "rating": 3.75
+ },
+ "382283: Heckling Fiends": {
+  "rating": 2.5
+ },
+ "382284: Howling Wolf": {
+  "rating": 2.625
+ },
+ "382285: Hunger of the Howlpack": {
+  "rating": 4.125
+ },
+ "382286: Hydra Omnivore": {
+  "rating": 4.083
+ },
+ "382287: Ignition Team": {
+  "rating": 3.7
+ },
+ "382288: Ill-Gotten Gains": {
+  "rating": 4.5
+ },
+ "382289: Immediate Action": {
+  "rating": 4.667
+ },
+ "382290: Infectious Horror": {
+  "rating": 3.667
+ },
+ "382291: Intangible Virtue": {
+  "rating": 4.214
+ },
+ "382292: Iterative Analysis": {
+  "rating": 4.625
+ },
+ "382293: Jetting Glasskite": {
+  "rating": 3.429
+ },
+ "382294: Kor Chant": {
+  "rating": 3.75
+ },
+ "382295: Lead the Stampede": {
+  "rating": 3.833
+ },
+ "382296: Liliana's Specter": {
+  "rating": 4.125
+ },
+ "382297: Lizard Warrior": {
+  "rating": 2.444
+ },
+ "382298: Lore Seeker": {
+  "rating": 3.923
+ },
+ "382299: Lurking Automaton": {
+  "rating": 3.625
+ },
+ "382300: Magister of Worth": {
+  "rating": 4.15
+ },
+ "382301: Magus of the Mirror": {
+  "rating": 3.375
+ },
+ "382302: Mana Geyser": {
+  "rating": 2.643
+ },
+ "382303: Marchesa, the Black Rose": {
+  "rating": 4.212
+ },
+ "382304: Marchesa's Emissary": {
+  "rating": 3.071
+ },
+ "382305: Marchesa's Infiltrator": {
+  "rating": 3.75
+ },
+ "382306: Marchesa's Smuggler": {
+  "rating": 3.857
+ },
+ "382307: Minamo Scrollkeeper": {
+  "rating": 2.833
+ },
+ "382308: Mirari's Wake": {
+  "rating": 4.167
+ },
+ "382309: Mirrodin's Core": {
+  "rating": 3.5
+ },
+ "382310: Misdirection": {
+  "rating": 4.364
+ },
+ "382311: Moment of Heroism": {
+  "rating": 3.875
+ },
+ "382312: Morkrut Banshee": {
+  "rating": 3.9
+ },
+ "382313: Mortify": {
+  "rating": 4.417
+ },
+ "382314: Muzzio, Visionary Architect": {
+  "rating": 4.219
+ },
+ "382315: Muzzio's Preparations": {
+  "rating": 4.5
+ },
+ "382316: Nature's Claim": {
+  "rating": 4.706
+ },
+ "382317: Necromantic Thirst": {
+  "rating": 3
+ },
+ "382318: Noble Templar": {
+  "rating": 3.5
+ },
+ "382319: Orcish Cannonade": {
+  "rating": 2.357
+ },
+ "382320: Paliano, the High City": {
+  "rating": 3.458
+ },
+ "382321: Peace Strider": {
+  "rating": 3.125
+ },
+ "382322: Pelakka Wurm": {
+  "rating": 3.75
+ },
+ "382323: Pernicious Deed": {
+  "rating": 4.571
+ },
+ "382324: Phage the Untouchable": {
+  "rating": 4.25
+ },
+ "382325: Pillarfield Ox": {
+  "rating": 2.75
+ },
+ "382326: Pitchburn Devils": {
+  "rating": 2.9
+ },
+ "382327: Plagued Rusalka": {
+  "rating": 3.3
+ },
+ "382328: Plated Seastrider": {
+  "rating": 3.083
+ },
+ "382329: Plea for Power": {
+  "rating": 4
+ },
+ "382330: Plummet": {
+  "rating": 3.6
+ },
+ "382331: Power of Fire": {
+  "rating": 2.5
+ },
+ "382332: Power Play": {
+  "rating": 4.167
+ },
+ "382333: Predator's Howl": {
+  "rating": 3.611
+ },
+ "382334: Pride Guardian": {
+  "rating": 3.2
+ },
+ "382335: Pristine Angel": {
+  "rating": 4.5
+ },
+ "382336: Provoke": {
+  "rating": 4.125
+ },
+ "382337: Quag Vampires": {
+  "rating": 3.2
+ },
+ "382338: Quicksand": {
+  "rating": 3.625
+ },
+ "382339: Realm Seekers": {
+  "rating": 3.929
+ },
+ "382340: Reckless Scholar": {
+  "rating": 3.375
+ },
+ "382341: Reckless Spite": {
+  "rating": 4.417
+ },
+ "382342: Reflecting Pool": {
+  "rating": 4.438
+ },
+ "382343: Reign of the Pit": {
+  "rating": 4.05
+ },
+ "382344: Reito Lantern": {
+  "rating": 3.167
+ },
+ "382345: Relic Crush": {
+  "rating": 3.333
+ },
+ "382346: Respite": {
+  "rating": 4
+ },
+ "382347: Reya Dawnbringer": {
+  "rating": 4.333
+ },
+ "382348: Rousing of Souls": {
+  "rating": 3.15
+ },
+ "382349: Rout": {
+  "rating": 4.421
+ },
+ "382350: Runed Servitor": {
+  "rating": 3.167
+ },
+ "382351: Sakura-Tribe Elder": {
+  "rating": 4.5
+ },
+ "382352: Scaled Wurm": {
+  "rating": 2.625
+ },
+ "382353: Scourge of the Throne": {
+  "rating": 3.969
+ },
+ "382354: Screaming Seahawk": {
+  "rating": 2.571
+ },
+ "382355: Secret Summoning": {
+  "rating": 4.833
+ },
+ "382356: Secrets of Paradise": {
+  "rating": 4.5
+ },
+ "382357: Selvala, Explorer Returned": {
+  "rating": 4.071
+ },
+ "382358: Selvala's Charge": {
+  "rating": 3.429
+ },
+ "382359: Selvala's Enforcer": {
+  "rating": 3.7
+ },
+ "382360: Sentinel Dispatch": {
+  "rating": 4.1
+ },
+ "382361: Shoreline Ranger": {
+  "rating": 3.9
+ },
+ "382362: Silent Arbiter": {
+  "rating": 4.083
+ },
+ "382363: Silverchase Fox": {
+  "rating": 3.7
+ },
+ "382364: Skeletal Scrying": {
+  "rating": 4.125
+ },
+ "382365: Skitter of Lizards": {
+  "rating": 3.667
+ },
+ "382366: Sky Spirit": {
+  "rating": 3.917
+ },
+ "382367: Smallpox": {
+  "rating": 4.214
+ },
+ "382368: Soulcatcher": {
+  "rating": 4.214
+ },
+ "382369: Spectral Searchlight": {
+  "rating": 3.5
+ },
+ "382370: Spiritmonger": {
+  "rating": 4.455
+ },
+ "382371: Split Decision": {
+  "rating": 3.929
+ },
+ "382372: Spontaneous Combustion": {
+  "rating": 3.857
+ },
+ "382373: Sporecap Spider": {
+  "rating": 3.667
+ },
+ "382374: Squirrel Nest": {
+  "rating": 4.35
+ },
+ "382375: Stasis Cell": {
+  "rating": 1.9
+ },
+ "382376: Stave Off": {
+  "rating": 3.7
+ },
+ "382377: Stifle": {
+  "rating": 4.696
+ },
+ "382378: Stronghold Discipline": {
+  "rating": 3.375
+ },
+ "382379: Sulfuric Vortex": {
+  "rating": 3.8
+ },
+ "382380: Swords to Plowshares": {
+  "rating": 4.731
+ },
+ "382381: Syphon Soul": {
+  "rating": 3.667
+ },
+ "382382: Terastodon": {
+  "rating": 4.5
+ },
+ "382383: Torch Fiend": {
+  "rating": 4
+ },
+ "382384: Tragic Slip": {
+  "rating": 3.75
+ },
+ "382385: Traveler's Cloak": {
+  "rating": 3.8
+ },
+ "382386: Treasonous Ogre": {
+  "rating": 3.818
+ },
+ "382387: Trumpet Blast": {
+  "rating": 3.25
+ },
+ "382388: Turn the Tide": {
+  "rating": 2.667
+ },
+ "382389: Twisted Abomination": {
+  "rating": 3.75
+ },
+ "382390: Typhoid Rats": {
+  "rating": 4.125
+ },
+ "382391: Tyrant's Choice": {
+  "rating": 3.4
+ },
+ "382392: Uncontrollable Anger": {
+  "rating": 2.5
+ },
+ "382393: Unexpected Potential": {
+  "rating": 4.875
+ },
+ "382394: Unhallowed Pact": {
+  "rating": 3.667
+ },
+ "382395: Unquestioned Authority": {
+  "rating": 4.125
+ },
+ "382396: Valor Made Real": {
+  "rating": 3.625
+ },
+ "382397: Vampire Hexmage": {
+  "rating": 4.545
+ },
+ "382398: Vedalken Orrery": {
+  "rating": 4.25
+ },
+ "382399: Vent Sentinel": {
+  "rating": 3.5
+ },
+ "382400: Victimize": {
+  "rating": 4.423
+ },
+ "382401: Volcanic Fallout": {
+  "rating": 4.5
+ },
+ "382402: Vow of Duty": {
+  "rating": 3.5
+ },
+ "382403: Wakedancer": {
+  "rating": 3.75
+ },
+ "382404: Wakestone Gargoyle": {
+  "rating": 3.786
+ },
+ "382405: Warmonger's Chariot": {
+  "rating": 3.1
+ },
+ "382406: Whispergear Sneak": {
+  "rating": 3.7
+ },
+ "382407: Wind Dancer": {
+  "rating": 3.75
+ },
+ "382408: Wolfbriar Elemental": {
+  "rating": 4.143
+ },
+ "382409: Wood Sage": {
+  "rating": 3.833
+ },
+ "382410: Woodvine Elemental": {
+  "rating": 3.778
+ },
+ "382411: Worldknit": {
+  "rating": 4.909
+ },
+ "382412: Wrap in Flames": {
+  "rating": 3
+ },
+ "382413: Wrap in Vigor": {
+  "rating": 3.8
+ },
+ "382414: Zombie Goliath": {
+  "rating": 1.312
+ }
+}

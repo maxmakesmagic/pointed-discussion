@@ -1,0 +1,431 @@
+{
+ "22011: Rock Jockey": {
+  "rating": 2.182
+ },
+ "35344: Dispersal Shield": {
+  "rating": 2.705
+ },
+ "35409: Alpha Status": {
+  "rating": 4.208
+ },
+ "39714: Dragonstalker": {
+  "rating": 2.154
+ },
+ "39750: Cabal Interrogator": {
+  "rating": 3.946
+ },
+ "40648: Exiled Doomsayer": {
+  "rating": 1.839
+ },
+ "41164: Unburden": {
+  "rating": 3.233
+ },
+ "42024: Bladewing the Risen": {
+  "rating": 4.028
+ },
+ "42040: Zealous Inquisitor": {
+  "rating": 3.13
+ },
+ "43493: Frontline Strategist": {
+  "rating": 3.878
+ },
+ "43500: Frozen Solid": {
+  "rating": 2.943
+ },
+ "43501: Treetop Scout": {
+  "rating": 3.806
+ },
+ "43512: Carrion Feeder": {
+  "rating": 4.354
+ },
+ "43513: Edgewalker": {
+  "rating": 4.213
+ },
+ "43515: Zombie Cutthroat": {
+  "rating": 1.653
+ },
+ "43522: Decree of Pain": {
+  "rating": 4.013
+ },
+ "43525: Goblin Brigand": {
+  "rating": 2.379
+ },
+ "43530: Torrent of Fire": {
+  "rating": 2.957
+ },
+ "43533: Dragon Breath": {
+  "rating": 3.975
+ },
+ "43535: Krosan Warchief": {
+  "rating": 4.087
+ },
+ "43537: Wirewood Guardian": {
+  "rating": 2.731
+ },
+ "43538: Elvish Aberration": {
+  "rating": 4.067
+ },
+ "43539: Accelerated Mutation": {
+  "rating": 2.641
+ },
+ "43541: Claws of Wirewood": {
+  "rating": 3.091
+ },
+ "43543: One with Nature": {
+  "rating": 3.912
+ },
+ "43552: Siege-Gang Commander": {
+  "rating": 4.5
+ },
+ "43555: Misguided Rage": {
+  "rating": 2.66
+ },
+ "43558: Upwelling": {
+  "rating": 3.727
+ },
+ "43564: Xantid Swarm": {
+  "rating": 4.569
+ },
+ "43566: Form of the Dragon": {
+  "rating": 4.349
+ },
+ "43567: Goblin Psychopath": {
+  "rating": 1.609
+ },
+ "43569: Dragon Mage": {
+  "rating": 4.305
+ },
+ "43573: Dimensional Breach": {
+  "rating": 3.714
+ },
+ "43577: Trap Digger": {
+  "rating": 1.219
+ },
+ "43578: Riptide Survivor": {
+  "rating": 2.5
+ },
+ "43581: Pemmin's Aura": {
+  "rating": 4.426
+ },
+ "43582: Raven Guild Master": {
+  "rating": 4.377
+ },
+ "43586: Undead Warchief": {
+  "rating": 4.186
+ },
+ "43590: Skirk Volcanist": {
+  "rating": 2.241
+ },
+ "43591: Goblin Warchief": {
+  "rating": 4.483
+ },
+ "43595: Extra Arms": {
+  "rating": 2.833
+ },
+ "43596: Woodcloaker": {
+  "rating": 1.738
+ },
+ "43599: Ambush Commander": {
+  "rating": 4.122
+ },
+ "43602: Day of the Dragons": {
+  "rating": 4.34
+ },
+ "43604: Parallel Thoughts": {
+  "rating": 4.225
+ },
+ "43605: Long-Term Plans": {
+  "rating": 3.662
+ },
+ "43606: Thundercloud Elemental": {
+  "rating": 2.339
+ },
+ "43611: Final Punishment": {
+  "rating": 3.404
+ },
+ "43615: Soul Collector": {
+  "rating": 4.093
+ },
+ "43616: Nefashu": {
+  "rating": 3.395
+ },
+ "43622: Rain of Blades": {
+  "rating": 2.724
+ },
+ "43623: Gilded Light": {
+  "rating": 3.688
+ },
+ "43625: Daru Warchief": {
+  "rating": 4.428
+ },
+ "43626: Aven Liberator": {
+  "rating": 2.674
+ },
+ "43711: Dragon Tyrant": {
+  "rating": 4.338
+ },
+ "43713: Ageless Sentinels": {
+  "rating": 3.847
+ },
+ "43717: Twisted Abomination": {
+  "rating": 4.058
+ },
+ "43725: Call to the Grave": {
+  "rating": 4.071
+ },
+ "43727: Lingering Death": {
+  "rating": 3.134
+ },
+ "43729: Rush of Knowledge": {
+  "rating": 3.857
+ },
+ "43733: Metamorphose": {
+  "rating": 1.814
+ },
+ "43734: Skulltap": {
+  "rating": 3.284
+ },
+ "44218: Fierce Empath": {
+  "rating": 3.742
+ },
+ "44219: Forgotten Ancient": {
+  "rating": 4.365
+ },
+ "44220: Fatal Mutation": {
+  "rating": 1.306
+ },
+ "44263: Karona, False God": {
+  "rating": 2.624
+ },
+ "44264: Clutch of Undeath": {
+  "rating": 2.013
+ },
+ "44281: Chartooth Cougar": {
+  "rating": 3.304
+ },
+ "44290: Pyrostatic Pillar": {
+  "rating": 3.744
+ },
+ "44292: Goblin War Strike": {
+  "rating": 4.14
+ },
+ "44311: Dawn Elemental": {
+  "rating": 4.38
+ },
+ "44313: Silver Knight": {
+  "rating": 4.405
+ },
+ "44320: Krosan Drover": {
+  "rating": 4.163
+ },
+ "44333: Root Elemental": {
+  "rating": 3.722
+ },
+ "44335: Decree of Annihilation": {
+  "rating": 4.272
+ },
+ "44336: Temple of the False God": {
+  "rating": 4.02
+ },
+ "44337: Raven Guild Initiate": {
+  "rating": 2.486
+ },
+ "44339: Aphetto Runecaster": {
+  "rating": 3.113
+ },
+ "44342: Bonethorn Valesk": {
+  "rating": 2.129
+ },
+ "44343: Aven Farseer": {
+  "rating": 2.318
+ },
+ "44398: Eternal Dragon": {
+  "rating": 4.447
+ },
+ "44400: Dragon Scales": {
+  "rating": 3.067
+ },
+ "44401: Reward the Faithful": {
+  "rating": 3.382
+ },
+ "44403: Mischievous Quanar": {
+  "rating": 4.068
+ },
+ "44484: Spark Spray": {
+  "rating": 2.735
+ },
+ "44491: Cabal Conditioning": {
+  "rating": 3.052
+ },
+ "45138: Force Bubble": {
+  "rating": 2.917
+ },
+ "45139: Daru Spiritualist": {
+  "rating": 3.722
+ },
+ "45141: Decree of Justice": {
+  "rating": 4.426
+ },
+ "45155: Dragon Shadow": {
+  "rating": 3.702
+ },
+ "45164: Ancient Ooze": {
+  "rating": 3.736
+ },
+ "45165: Kurgadon": {
+  "rating": 3.788
+ },
+ "45166: Sliver Overlord": {
+  "rating": 4.245
+ },
+ "45833: Astral Steel": {
+  "rating": 2.21
+ },
+ "45834: Noble Templar": {
+  "rating": 3.263
+ },
+ "45835: Wing Shards": {
+  "rating": 4.341
+ },
+ "45836: Temporal Fissure": {
+  "rating": 2.932
+ },
+ "45837: Hindering Touch": {
+  "rating": 2.778
+ },
+ "45841: Shoreline Ranger": {
+  "rating": 2.942
+ },
+ "45842: Tendrils of Agony": {
+  "rating": 4.579
+ },
+ "45843: Scattershot": {
+  "rating": 2.097
+ },
+ "45844: Enrage": {
+  "rating": 3.667
+ },
+ "45845: Reaping the Graves": {
+  "rating": 3.655
+ },
+ "45847: Sprouting Vines": {
+  "rating": 2.934
+ },
+ "45848: Hunting Pack": {
+  "rating": 3.758
+ },
+ "45858: Karona's Zealot": {
+  "rating": 2.34
+ },
+ "45859: Wirewood Symbiote": {
+  "rating": 4.227
+ },
+ "45861: Putrid Raptor": {
+  "rating": 3.577
+ },
+ "45862: Vengeful Dead": {
+  "rating": 3.833
+ },
+ "45863: Chill Haunting": {
+  "rating": 1.683
+ },
+ "45864: Divergent Growth": {
+  "rating": 2.826
+ },
+ "45869: Faces of the Past": {
+  "rating": 3.464
+ },
+ "46418: Unspeakable Symbol": {
+  "rating": 3.203
+ },
+ "46423: Decree of Savagery": {
+  "rating": 4.128
+ },
+ "46424: Mind's Desire": {
+  "rating": 4.603
+ },
+ "46426: Dragonstorm": {
+  "rating": 4.357
+ },
+ "46427: Dragon Wings": {
+  "rating": 3.171
+ },
+ "46430: Decree of Silence": {
+  "rating": 3.843
+ },
+ "46464: Guilty Conscience": {
+  "rating": 4.053
+ },
+ "46465: Primitive Etchings": {
+  "rating": 4.015
+ },
+ "46466: Stabilizer": {
+  "rating": 1.886
+ },
+ "46509: Scornful Egotist": {
+  "rating": 3.696
+ },
+ "46558: Stifle": {
+  "rating": 4.579
+ },
+ "46614: Uncontrolled Infestation": {
+  "rating": 2.604
+ },
+ "46615: Dragonspeaker Shaman": {
+  "rating": 4.158
+ },
+ "46691: Titanic Bulvox": {
+  "rating": 2.577
+ },
+ "46705: Proteus Machine": {
+  "rating": 3.132
+ },
+ "47029: Consumptive Goo": {
+  "rating": 3.351
+ },
+ "47165: Dragon Fangs": {
+  "rating": 3.368
+ },
+ "47218: Mistform Warchief": {
+  "rating": 3.756
+ },
+ "47219: Break Asunder": {
+  "rating": 2.383
+ },
+ "47221: Wipe Clean": {
+  "rating": 3.273
+ },
+ "47222: Mercurial Kite": {
+  "rating": 2.5
+ },
+ "47223: Death's-Head Buzzard": {
+  "rating": 3.32
+ },
+ "47224: Bladewing's Thrall": {
+  "rating": 3.382
+ },
+ "47226: Carbonize": {
+  "rating": 3.686
+ },
+ "47228: Coast Watcher": {
+  "rating": 2.808
+ },
+ "47274: Grip of Chaos": {
+  "rating": 3.766
+ },
+ "47281: Ark of Blight": {
+  "rating": 1.929
+ },
+ "47461: Sulfuric Vortex": {
+  "rating": 4.012
+ },
+ "47586: Lethal Vapors": {
+  "rating": 4.221
+ },
+ "47590: Recuperate": {
+  "rating": 1.321
+ },
+ "47599: Brain Freeze": {
+  "rating": 4.562
+ }
+}

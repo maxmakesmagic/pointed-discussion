@@ -1,0 +1,749 @@
+{
+ "249666: Serpent's Gift": {
+  "rating": 1.522
+ },
+ "249667: Boundless Realms": {
+  "rating": 3.638
+ },
+ "249668: Tormented Soul": {
+  "rating": 3.877
+ },
+ "249672: Jace's Phantasm": {
+  "rating": 3.852
+ },
+ "249676: Augur of Bolas": {
+  "rating": 3.932
+ },
+ "249677: Primal Huntbeast": {
+  "rating": 3.333
+ },
+ "249680: Yeva, Nature's Herald": {
+  "rating": 4.01
+ },
+ "249681: Sentinel Spider": {
+  "rating": 3.831
+ },
+ "249682: Chandra's Fury": {
+  "rating": 3.205
+ },
+ "249684: Searing Spear": {
+  "rating": 3.282
+ },
+ "249685: Thragtusk": {
+  "rating": 3.964
+ },
+ "249687: Roaring Primadox": {
+  "rating": 3.707
+ },
+ "249689: Captain's Call": {
+  "rating": 3.041
+ },
+ "249691: Smelt": {
+  "rating": 4.375
+ },
+ "249694: Timberpack Wolf": {
+  "rating": 3.562
+ },
+ "249695: Ajani, Caller of the Pride": {
+  "rating": 3.716
+ },
+ "249696: Bond Beetle": {
+  "rating": 3.615
+ },
+ "249699: Mwonvuli Beast Tracker": {
+  "rating": 3.724
+ },
+ "249702: Spiked Baloth": {
+  "rating": 2.533
+ },
+ "249703: Elderscale Wurm": {
+  "rating": 4.041
+ },
+ "249705: Rummaging Goblin": {
+  "rating": 2.424
+ },
+ "249706: Mogg Flunkies": {
+  "rating": 3.731
+ },
+ "249710: Arctic Aven": {
+  "rating": 3.453
+ },
+ "249711: Fungal Sprouting": {
+  "rating": 3.977
+ },
+ "249712: Flinthoof Boar": {
+  "rating": 3.992
+ },
+ "249713: Staff of Nin": {
+  "rating": 3.875
+ },
+ "249714: Predatory Rampage": {
+  "rating": 3.048
+ },
+ "249715: Mindclaw Shaman": {
+  "rating": 3.819
+ },
+ "249716: Dragonskull Summit": {
+  "rating": 3.903
+ },
+ "249717: Drowned Catacomb": {
+  "rating": 3.811
+ },
+ "249718: Forest": {
+  "rating": 4.267
+ },
+ "249719: Forest": {
+  "rating": 4.312
+ },
+ "249720: Forest": {
+  "rating": 4.385
+ },
+ "249721: Forest": {
+  "rating": 3.7
+ },
+ "249722: Glacial Fortress": {
+  "rating": 4
+ },
+ "249723: Island": {
+  "rating": 4.694
+ },
+ "249724: Island": {
+  "rating": 4.545
+ },
+ "249725: Island": {
+  "rating": 4.19
+ },
+ "249726: Island": {
+  "rating": 4.5
+ },
+ "249727: Mountain": {
+  "rating": 3.923
+ },
+ "249728: Mountain": {
+  "rating": 4.045
+ },
+ "249729: Mountain": {
+  "rating": 4.433
+ },
+ "249730: Mountain": {
+  "rating": 4.033
+ },
+ "249731: Plains": {
+  "rating": 4.5
+ },
+ "249732: Plains": {
+  "rating": 3.92
+ },
+ "249733: Plains": {
+  "rating": 4.441
+ },
+ "249734: Plains": {
+  "rating": 4.5
+ },
+ "249735: Rootbound Crag": {
+  "rating": 3.858
+ },
+ "249736: Sunpetal Grove": {
+  "rating": 3.777
+ },
+ "249737: Swamp": {
+  "rating": 4.25
+ },
+ "249738: Swamp": {
+  "rating": 4.053
+ },
+ "249739: Swamp": {
+  "rating": 4.471
+ },
+ "249740: Swamp": {
+  "rating": 3.917
+ },
+ "249742: Gilded Lotus": {
+  "rating": 4.423
+ },
+ "249840: Arbor Elf": {
+  "rating": 3.97
+ },
+ "253669: Garruk, Primal Hunter": {
+  "rating": 3.765
+ },
+ "253670: Primordial Hydra": {
+  "rating": 4.227
+ },
+ "253672: Naturalize": {
+  "rating": 4.3
+ },
+ "253673: Fog": {
+  "rating": 4.176
+ },
+ "253675: Plummet": {
+  "rating": 3.634
+ },
+ "253678: Elvish Archdruid": {
+  "rating": 4.221
+ },
+ "253686: Rancor": {
+  "rating": 4.407
+ },
+ "253687: Garruk's Packleader": {
+  "rating": 3.746
+ },
+ "253690: Ring of Evos Isle": {
+  "rating": 3.689
+ },
+ "253693: Slumbering Dragon": {
+  "rating": 3.98
+ },
+ "253694: Disciple of Bolas": {
+  "rating": 3.833
+ },
+ "253695: Wild Guess": {
+  "rating": 3.48
+ },
+ "253696: Ring of Thune": {
+  "rating": 3.78
+ },
+ "253699: Craterize": {
+  "rating": 1.181
+ },
+ "253700: Thundermaw Hellkite": {
+  "rating": 4.103
+ },
+ "253701: Talrand, Sky Summoner": {
+  "rating": 4.173
+ },
+ "253703: Vile Rebirth": {
+  "rating": 3.743
+ },
+ "253704: Switcheroo": {
+  "rating": 3.897
+ },
+ "253710: Trading Post": {
+  "rating": 4.037
+ },
+ "253712: Krenko, Mob Boss": {
+  "rating": 4.113
+ },
+ "253715: Reckless Brute": {
+  "rating": 2.306
+ },
+ "253716: Crippling Blight": {
+  "rating": 2.709
+ },
+ "253719: Prized Elephant": {
+  "rating": 3.122
+ },
+ "253723: Mark of the Vampire": {
+  "rating": 2.886
+ },
+ "253728: Xathrid Gorgon": {
+  "rating": 3.803
+ },
+ "253729: Hellion Crucible": {
+  "rating": 3.071
+ },
+ "253730: Crusader of Odric": {
+  "rating": 3.924
+ },
+ "253735: Tricks of the Trade": {
+  "rating": 3.1
+ },
+ "253738: Public Execution": {
+  "rating": 2.529
+ },
+ "253739: Crimson Muckwader": {
+  "rating": 3.404
+ },
+ "254107: Jace, Memory Adept": {
+  "rating": 3.488
+ },
+ "254108: Sphinx of Uthuun": {
+  "rating": 3.72
+ },
+ "254109: Watercourser": {
+  "rating": 2.9
+ },
+ "254113: Harbor Serpent": {
+  "rating": 2.395
+ },
+ "254114: Negate": {
+  "rating": 4.457
+ },
+ "254117: Talrand's Invocation": {
+  "rating": 3.869
+ },
+ "254118: Divination": {
+  "rating": 2.992
+ },
+ "254119: Sleep": {
+  "rating": 3.912
+ },
+ "254121: Vedalken Entrancer": {
+  "rating": 1.895
+ },
+ "254130: Scroll Thief": {
+  "rating": 3.41
+ },
+ "259201: Dragon Hatchling": {
+  "rating": 3.475
+ },
+ "259202: Firewing Phoenix": {
+  "rating": 3.56
+ },
+ "259204: Volcanic Strength": {
+  "rating": 3.329
+ },
+ "259205: Chandra, the Firebrand": {
+  "rating": 4.211
+ },
+ "259211: Canyon Minotaur": {
+  "rating": 1.885
+ },
+ "259212: Fire Elemental": {
+  "rating": 3.034
+ },
+ "259213: Krenko's Command": {
+  "rating": 3.618
+ },
+ "259219: Flames of the Firebrand": {
+  "rating": 3.509
+ },
+ "259660: Harbor Bandit": {
+  "rating": 3.258
+ },
+ "259666: Faith's Reward": {
+  "rating": 3.977
+ },
+ "259670: Odric, Master Tactician": {
+  "rating": 4.012
+ },
+ "259673: Griffin Protector": {
+  "rating": 2.806
+ },
+ "259676: Veilborn Ghoul": {
+  "rating": 2.512
+ },
+ "259677: Murder": {
+  "rating": 3.684
+ },
+ "259679: Nefarox, Overlord of Grixis": {
+  "rating": 3.736
+ },
+ "259680: Cathedral of War": {
+  "rating": 3.839
+ },
+ "259689: Ring of Valkas": {
+  "rating": 3.72
+ },
+ "259692: Ring of Xathrid": {
+  "rating": 3.756
+ },
+ "259695: Liliana of the Dark Realms": {
+  "rating": 3.639
+ },
+ "259697: War Falcon": {
+  "rating": 3.685
+ },
+ "259698: Chronomaton": {
+  "rating": 3.667
+ },
+ "259699: Ring of Kalonia": {
+  "rating": 3.777
+ },
+ "259701: Disentomb": {
+  "rating": 2.819
+ },
+ "259705: Bloodhunter Bat": {
+  "rating": 2.84
+ },
+ "259706: Serra Avatar": {
+  "rating": 4.236
+ },
+ "259709: Divine Favor": {
+  "rating": 3.011
+ },
+ "259711: Oblivion Ring": {
+  "rating": 4.4
+ },
+ "259712: Pacifism": {
+  "rating": 4.091
+ },
+ "259714: Angel's Mercy": {
+  "rating": 1.355
+ },
+ "259715: Ajani's Sunstriker": {
+  "rating": 3.327
+ },
+ "259716: Captain of the Watch": {
+  "rating": 3.99
+ },
+ "259721: Battleflight Eagle": {
+  "rating": 1.784
+ },
+ "259723: Erase": {
+  "rating": 4.149
+ },
+ "259725: Sublime Archangel": {
+  "rating": 4.167
+ },
+ "260975: Dark Favor": {
+  "rating": 2.773
+ },
+ "260979: Duress": {
+  "rating": 4.43
+ },
+ "260980: Mind Rot": {
+  "rating": 3.269
+ },
+ "260981: Rise from the Grave": {
+  "rating": 3.744
+ },
+ "260982: Sign in Blood": {
+  "rating": 3.919
+ },
+ "260986: Giant Scorpion": {
+  "rating": 3.049
+ },
+ "260987: Walking Corpse": {
+  "rating": 3.138
+ },
+ "260988: Duty-Bound Dead": {
+  "rating": 3.905
+ },
+ "260989: Vampire Nighthawk": {
+  "rating": 4.174
+ },
+ "260991: Nicol Bolas, Planeswalker": {
+  "rating": 4.132
+ },
+ "260992: Liliana's Shade": {
+  "rating": 3.174
+ },
+ "265133: Sands of Delirium": {
+  "rating": 3.831
+ },
+ "265134: Mutilate": {
+  "rating": 4.154
+ },
+ "265712: Aven Squire": {
+  "rating": 3.12
+ },
+ "265714: Servant of Nefarox": {
+  "rating": 2.931
+ },
+ "265715: Unsummon": {
+  "rating": 4.164
+ },
+ "265717: Deadly Recluse": {
+  "rating": 3.884
+ },
+ "265718: Acidic Slime": {
+  "rating": 3.848
+ },
+ "265719: Arms Dealer": {
+  "rating": 3.993
+ },
+ "265720: Glorious Charge": {
+  "rating": 2.088
+ },
+ "265722: Archaeomancer": {
+  "rating": 3.692
+ },
+ "265723: Attended Knight": {
+  "rating": 3.704
+ },
+ "265727: Show of Valor": {
+  "rating": 2.536
+ },
+ "265728: Duskmantle Prowler": {
+  "rating": 3.1
+ },
+ "265731: Knight of Glory": {
+  "rating": 3.899
+ },
+ "265735: Knight of Infamy": {
+  "rating": 3.884
+ },
+ "265840: Yeva's Forcemage": {
+  "rating": 3
+ },
+ "266050: Goblin Arsonist": {
+  "rating": 3.831
+ },
+ "266132: Silvercoat Lion": {
+  "rating": 2.153
+ },
+ "266274: Clone": {
+  "rating": 4.218
+ },
+ "266487: Mind Sculpt": {
+  "rating": 3.582
+ },
+ "268530: Primal Clay": {
+  "rating": 3.545
+ },
+ "269666: Evolving Wilds": {
+  "rating": 3.606
+ },
+ "270314: Fog Bank": {
+  "rating": 4.165
+ },
+ "270376: Serra Angel": {
+  "rating": 4.26
+ },
+ "270378: Hydrosurge": {
+  "rating": 2.349
+ },
+ "270997: Void Stalker": {
+  "rating": 3.857
+ },
+ "271366: Prey Upon": {
+  "rating": 3.913
+ },
+ "271367: Divine Verdict": {
+  "rating": 2.946
+ },
+ "271370: Wall of Fire": {
+  "rating": 3.355
+ },
+ "271386: Phylactery Lich": {
+  "rating": 3.67
+ },
+ "275151: Vampire Nocturnus": {
+  "rating": 3.976
+ },
+ "275269: Planar Cleansing": {
+  "rating": 3.669
+ },
+ "275698: War Priest of Thune": {
+  "rating": 4.234
+ },
+ "275699: Ranger's Path": {
+  "rating": 2.882
+ },
+ "275705: Jayemdae Tome": {
+  "rating": 3.085
+ },
+ "275727: Gem of Becoming": {
+  "rating": 3.49
+ },
+ "276205: Magmaquake": {
+  "rating": 3.828
+ },
+ "276206: Healer of the Pride": {
+  "rating": 3.609
+ },
+ "276207: Cleaver Riot": {
+  "rating": 2.679
+ },
+ "276208: Downpour": {
+  "rating": 3.226
+ },
+ "276209: Essence Scatter": {
+  "rating": 3.219
+ },
+ "276212: Turn to Slag": {
+  "rating": 2.35
+ },
+ "276214: Volcanic Geyser": {
+  "rating": 3.964
+ },
+ "276223: Revive": {
+  "rating": 4.138
+ },
+ "276224: Safe Passage": {
+  "rating": 3.561
+ },
+ "276299: Zombie Goliath": {
+  "rating": 1.032
+ },
+ "276300: Essence Drain": {
+  "rating": 1.867
+ },
+ "276416: Welkin Tern": {
+  "rating": 2.766
+ },
+ "276474: Duskdale Wurm": {
+  "rating": 3.068
+ },
+ "276475: Courtly Provocateur": {
+  "rating": 3.272
+ },
+ "276606: Trumpet Blast": {
+  "rating": 3.088
+ },
+ "277824: Farseek": {
+  "rating": 3.958
+ },
+ "278070: Goblin Battle Jester": {
+  "rating": 2.359
+ },
+ "278072: Shimian Specter": {
+  "rating": 3.943
+ },
+ "278074: Bountiful Harvest": {
+  "rating": 1.193
+ },
+ "278075: Kitesail": {
+  "rating": 2.329
+ },
+ "278076: Wit's End": {
+  "rating": 1.906
+ },
+ "278193: Elvish Visionary": {
+  "rating": 3.873
+ },
+ "278194: Encrust": {
+  "rating": 3.648
+ },
+ "278195: Worldfire": {
+  "rating": 3.775
+ },
+ "278196: Diabolic Revelation": {
+  "rating": 3.75
+ },
+ "278197: Touch of the Eternal": {
+  "rating": 1.983
+ },
+ "278198: Stormtide Leviathan": {
+  "rating": 4.319
+ },
+ "278211: Merfolk of the Pearl Trident": {
+  "rating": 2.156
+ },
+ "279699: Kraken Hatchling": {
+  "rating": 3.43
+ },
+ "279700: Pillarfield Ox": {
+  "rating": 1.557
+ },
+ "279701: Guardian Lions": {
+  "rating": 1.844
+ },
+ "279702: Angelic Benediction": {
+  "rating": 2.991
+ },
+ "279707: Bladetusk Boar": {
+  "rating": 2.756
+ },
+ "279708: Hamletback Goliath": {
+  "rating": 3.623
+ },
+ "279709: Fervor": {
+  "rating": 4.169
+ },
+ "279711: Stuffy Doll": {
+  "rating": 3.983
+ },
+ "279712: Akroma's Memorial": {
+  "rating": 3.915
+ },
+ "279713: Tormod's Crypt": {
+  "rating": 4.345
+ },
+ "279715: Ravenous Rats": {
+  "rating": 4.094
+ },
+ "279717: Elixir of Immortality": {
+  "rating": 3.736
+ },
+ "279860: Wind Drake": {
+  "rating": 3.029
+ },
+ "279861: Guardians of Akrasa": {
+  "rating": 2.875
+ },
+ "279901: Master of the Pearl Trident": {
+  "rating": 4.3
+ },
+ "279986: Rain of Blades": {
+  "rating": 2.824
+ },
+ "279987: Rhox Faithmender": {
+  "rating": 3.944
+ },
+ "279988: Faerie Invaders": {
+  "rating": 2.962
+ },
+ "279989: Torch Fiend": {
+  "rating": 3.904
+ },
+ "279990: Phyrexian Hulk": {
+  "rating": 1.844
+ },
+ "279991: Blood Reckoning": {
+  "rating": 2.692
+ },
+ "279992: Vastwood Gorger": {
+  "rating": 2.402
+ },
+ "279993: Centaur Courser": {
+  "rating": 2.893
+ },
+ "280221: Kindled Fury": {
+  "rating": 2.286
+ },
+ "280222: Rewind": {
+  "rating": 4.248
+ },
+ "280223: Spelltwine": {
+  "rating": 3.734
+ },
+ "280224: Warclamp Mastiff": {
+  "rating": 2.943
+ },
+ "280232: Cower in Fear": {
+  "rating": 2.676
+ },
+ "280298: Bloodthrone Vampire": {
+  "rating": 2.963
+ },
+ "280320: Intrepid Hero": {
+  "rating": 4.21
+ },
+ "282537: Mark of Mutiny": {
+  "rating": 3.15
+ },
+ "288762: Serra Avenger": {
+  "rating": 4.247
+ },
+ "288764: Quirion Dryad": {
+  "rating": 4.335
+ },
+ "288876: Reliquary Tower": {
+  "rating": 3.475
+ },
+ "288877: Clock of Omens": {
+  "rating": 4.234
+ },
+ "288878: Battle of Wits": {
+  "rating": 3.21
+ },
+ "288934: Titanic Growth": {
+  "rating": 3.337
+ },
+ "288936: Furnace Whelp": {
+  "rating": 3.095
+ },
+ "288937: Omniscience": {
+  "rating": 3.927
+ },
+ "288992: Door to Nothingness": {
+  "rating": 3.924
+ },
+ "289098: Index": {
+  "rating": 3.258
+ },
+ "289156: Ground Seal": {
+  "rating": 4.277
+ },
+ "290288: Redirect": {
+  "rating": 4.043
+ },
+ "290289: Reverberate": {
+  "rating": 3.553
+ },
+ "292718: Silklash Spider": {
+  "rating": 3.957
+ }
+}

@@ -1,0 +1,1052 @@
+{
+ "5541: Goblin Cadets": {
+  "rating": 2.091
+ },
+ "5542: Falter": {
+  "rating": 3.092
+ },
+ "5543: Goblin Spelunkers": {
+  "rating": 3.093
+ },
+ "5544: Raze": {
+  "rating": 3.929
+ },
+ "5545: Shower of Sparks": {
+  "rating": 3.25
+ },
+ "5546: Crater Hellion": {
+  "rating": 4.317
+ },
+ "5547: Voltaic Key": {
+  "rating": 4.698
+ },
+ "5548: Temporal Aperture": {
+  "rating": 4.264
+ },
+ "5550: Mobile Fort": {
+  "rating": 3.422
+ },
+ "5551: Abundance": {
+  "rating": 4.274
+ },
+ "5552: Citanul Centaurs": {
+  "rating": 3.431
+ },
+ "5553: Sicken": {
+  "rating": 2.852
+ },
+ "5554: Unnerve": {
+  "rating": 3.597
+ },
+ "5555: Crazed Skirge": {
+  "rating": 2.606
+ },
+ "5556: Exhume": {
+  "rating": 4.556
+ },
+ "5557: Duress": {
+  "rating": 4.535
+ },
+ "5558: Reprocess": {
+  "rating": 3.621
+ },
+ "5562: Shivan Raptor": {
+  "rating": 3.671
+ },
+ "5563: Steam Blast": {
+  "rating": 3.6
+ },
+ "5564: Brand": {
+  "rating": 3.802
+ },
+ "5565: Viashino Sandswimmer": {
+  "rating": 2.348
+ },
+ "5566: Wildfire": {
+  "rating": 3.889
+ },
+ "5567: Cackling Fiend": {
+  "rating": 2.904
+ },
+ "5568: Fire Ants": {
+  "rating": 3.882
+ },
+ "5569: Scoria Wurm": {
+  "rating": 2.941
+ },
+ "5570: Ill-Gotten Gains": {
+  "rating": 4.444
+ },
+ "5572: Antagonism": {
+  "rating": 3.684
+ },
+ "5573: Skittering Skirge": {
+  "rating": 3.861
+ },
+ "5574: Urza's Armor": {
+  "rating": 3.3
+ },
+ "5575: Pendrell Drake": {
+  "rating": 3.044
+ },
+ "5576: Worship": {
+  "rating": 4.38
+ },
+ "5577: Bull Hippo": {
+  "rating": 3.566
+ },
+ "5578: Herald of Serra": {
+  "rating": 2.22
+ },
+ "5586: Okk": {
+  "rating": 2.815
+ },
+ "5588: Defensive Formation": {
+  "rating": 3.756
+ },
+ "5590: Viashino Weaponsmith": {
+  "rating": 2.75
+ },
+ "5591: Looming Shade": {
+  "rating": 3.819
+ },
+ "5594: Sneak Attack": {
+  "rating": 4.552
+ },
+ "5596: Attunement": {
+  "rating": 3.657
+ },
+ "5597: Bog Raiders": {
+  "rating": 2.947
+ },
+ "5599: Sunder": {
+  "rating": 4.272
+ },
+ "5602: Serra's Hymn": {
+  "rating": 2.097
+ },
+ "5603: Anaconda": {
+  "rating": 3.172
+ },
+ "5604: Fecundity": {
+  "rating": 4.322
+ },
+ "5605: Befoul": {
+  "rating": 4
+ },
+ "5606: Hollow Dogs": {
+  "rating": 2.5
+ },
+ "5608: Planar Void": {
+  "rating": 4.173
+ },
+ "5610: Phyrexian Processor": {
+  "rating": 4.368
+ },
+ "5612: Blasted Landscape": {
+  "rating": 3.602
+ },
+ "5613: Coral Merfolk": {
+  "rating": 2.167
+ },
+ "5614: Pendrell Flux": {
+  "rating": 4.122
+ },
+ "5615: Lilting Refrain": {
+  "rating": 3.583
+ },
+ "5617: Bereavement": {
+  "rating": 2.364
+ },
+ "5619: Pestilence": {
+  "rating": 4.481
+ },
+ "5620: Carrion Beetles": {
+  "rating": 3.468
+ },
+ "5622: Darkest Hour": {
+  "rating": 4.111
+ },
+ "5623: Blanchwood Armor": {
+  "rating": 4.116
+ },
+ "5625: Order of Yawgmoth": {
+  "rating": 4.038
+ },
+ "5626: Dark Ritual": {
+  "rating": 4.705
+ },
+ "5627: Sanguine Guard": {
+  "rating": 3.97
+ },
+ "5629: Yawgmoth's Will": {
+  "rating": 4.864
+ },
+ "5630: Disenchant": {
+  "rating": 4.444
+ },
+ "5632: Symbiosis": {
+  "rating": 3.717
+ },
+ "5633: Breach": {
+  "rating": 2.3
+ },
+ "5634: Disciple of Grace": {
+  "rating": 3.885
+ },
+ "5635: Voice of Grace": {
+  "rating": 3.257
+ },
+ "5636: Abyssal Horror": {
+  "rating": 2.152
+ },
+ "5637: Catastrophe": {
+  "rating": 4.221
+ },
+ "5638: Sulfuric Vapors": {
+  "rating": 3.5
+ },
+ "5650: Exhaustion": {
+  "rating": 4
+ },
+ "5651: Silent Attendant": {
+  "rating": 2.515
+ },
+ "5652: Phyrexian Ghoul": {
+  "rating": 4.113
+ },
+ "5653: Goblin Patrol": {
+  "rating": 3.424
+ },
+ "5654: Flesh Reaver": {
+  "rating": 3.092
+ },
+ "5655: Fertile Ground": {
+  "rating": 4.078
+ },
+ "5657: Viashino Runner": {
+  "rating": 3
+ },
+ "5658: Jagged Lightning": {
+  "rating": 3.482
+ },
+ "5659: Torch Song": {
+  "rating": 2.646
+ },
+ "5660: Shivan Hellkite": {
+  "rating": 4.115
+ },
+ "5661: Stern Proctor": {
+  "rating": 3.589
+ },
+ "5662: Power Taint": {
+  "rating": 3.485
+ },
+ "5664: Pouncing Jaguar": {
+  "rating": 4.088
+ },
+ "5665: Cradle Guard": {
+  "rating": 4.148
+ },
+ "5666: Lightning Dragon": {
+  "rating": 4.088
+ },
+ "5668: Crosswinds": {
+  "rating": 3.34
+ },
+ "5669: Songstitcher": {
+  "rating": 3.207
+ },
+ "5670: Rewind": {
+  "rating": 4.23
+ },
+ "5671: Peregrine Drake": {
+  "rating": 4.231
+ },
+ "5672: Disciple of Law": {
+  "rating": 3.486
+ },
+ "5673: Voice of Law": {
+  "rating": 3.518
+ },
+ "5674: Hibernation": {
+  "rating": 3.609
+ },
+ "5677: Stroke of Genius": {
+  "rating": 4.483
+ },
+ "5678: Intrepid Hero": {
+  "rating": 4.254
+ },
+ "5679: Vug Lizard": {
+  "rating": 2.85
+ },
+ "5681: Treetop Rangers": {
+  "rating": 3.58
+ },
+ "5683: Gorilla Warrior": {
+  "rating": 2.288
+ },
+ "5684: Path of Peace": {
+  "rating": 2.759
+ },
+ "5686: Argothian Enchantress": {
+  "rating": 4.579
+ },
+ "5687: Vernal Bloom": {
+  "rating": 4
+ },
+ "5688: Vebulid": {
+  "rating": 3.459
+ },
+ "5689: War Dance": {
+  "rating": 2.788
+ },
+ "5690: Vile Requiem": {
+  "rating": 3.864
+ },
+ "5691: Sanctum Guardian": {
+  "rating": 3.217
+ },
+ "5692: Clear": {
+  "rating": 3.452
+ },
+ "5695: Sanctum Custodian": {
+  "rating": 3.379
+ },
+ "5696: Yawgmoth's Edict": {
+  "rating": 3.096
+ },
+ "5697: Show and Tell": {
+  "rating": 4.593
+ },
+ "5700: Hopping Automaton": {
+  "rating": 2.306
+ },
+ "5701: Goblin Raider": {
+  "rating": 2.952
+ },
+ "5702: Humble": {
+  "rating": 4.384
+ },
+ "5706: Monk Idealist": {
+  "rating": 3.829
+ },
+ "5707: Serra Zealot": {
+  "rating": 3.325
+ },
+ "5708: Monk Realist": {
+  "rating": 3.707
+ },
+ "5710: Gaea's Bounty": {
+  "rating": 3.03
+ },
+ "5711: Back to Basics": {
+  "rating": 4.585
+ },
+ "5713: Serra Avatar": {
+  "rating": 4.277
+ },
+ "5714: Angelic Chorus": {
+  "rating": 3.955
+ },
+ "5716: Absolute Grace": {
+  "rating": 3.615
+ },
+ "5717: Lotus Blossom": {
+  "rating": 3.982
+ },
+ "5718: Cloak of Mists": {
+  "rating": 4.053
+ },
+ "5719: Drifting Djinn": {
+  "rating": 2.88
+ },
+ "5720: Gaea's Embrace": {
+  "rating": 4.15
+ },
+ "5721: Shiv's Embrace": {
+  "rating": 3.528
+ },
+ "5722: Acidic Soil": {
+  "rating": 3.338
+ },
+ "5723: Douse": {
+  "rating": 3.864
+ },
+ "5724: Citanul Hierophants": {
+  "rating": 4.326
+ },
+ "5727: Bedlam": {
+  "rating": 4.081
+ },
+ "5728: Turnabout": {
+  "rating": 4.518
+ },
+ "5729: Pegasus Charger": {
+  "rating": 3.176
+ },
+ "5730: Smokestack": {
+  "rating": 4.554
+ },
+ "5733: Arc Lightning": {
+  "rating": 3.863
+ },
+ "5734: Dromosaur": {
+  "rating": 2.558
+ },
+ "5735: Barrin's Codex": {
+  "rating": 2.948
+ },
+ "5736: Argothian Elder": {
+  "rating": 3.69
+ },
+ "5737: Blood Vassal": {
+  "rating": 3.817
+ },
+ "5738: Elvish Herder": {
+  "rating": 4.075
+ },
+ "5739: Viashino Outrider": {
+  "rating": 2.75
+ },
+ "5742: Crystal Chimes": {
+  "rating": 3.694
+ },
+ "5743: Shimmering Barrier": {
+  "rating": 3.016
+ },
+ "5745: Somnophore": {
+  "rating": 4.181
+ },
+ "5746: Oppression": {
+  "rating": 3.726
+ },
+ "5747: Blanchwood Treefolk": {
+  "rating": 2.806
+ },
+ "5748: Pacifism": {
+  "rating": 4.23
+ },
+ "5750: Sporogenesis": {
+  "rating": 3.629
+ },
+ "5751: Sleeper Agent": {
+  "rating": 3.658
+ },
+ "5752: Tainted Aether": {
+  "rating": 3.976
+ },
+ "5753: Fog Bank": {
+  "rating": 4.11
+ },
+ "5756: Lull": {
+  "rating": 4.015
+ },
+ "5757: Power Sink": {
+  "rating": 4.314
+ },
+ "5759: Thundering Giant": {
+  "rating": 3.071
+ },
+ "5760: Goblin War Buggy": {
+  "rating": 3.782
+ },
+ "5761: Rain of Salt": {
+  "rating": 2.879
+ },
+ "5762: Cave Tiger": {
+  "rating": 2.758
+ },
+ "5764: Arcane Laboratory": {
+  "rating": 4.36
+ },
+ "5766: Planar Birth": {
+  "rating": 4.13
+ },
+ "5768: Contamination": {
+  "rating": 4.595
+ },
+ "5769: Argothian Wurm": {
+  "rating": 3.89
+ },
+ "5771: Elite Archers": {
+  "rating": 2.562
+ },
+ "5772: Imaginary Pet": {
+  "rating": 3.271
+ },
+ "5773: Pariah": {
+  "rating": 4.28
+ },
+ "5774: Elvish Lyrist": {
+  "rating": 3.375
+ },
+ "5776: Seasoned Marshal": {
+  "rating": 3.297
+ },
+ "5780: Unworthy Dead": {
+  "rating": 3.634
+ },
+ "5781: Angelic Page": {
+  "rating": 3.106
+ },
+ "5782: Opal Titan": {
+  "rating": 4.267
+ },
+ "5783: Hidden Herd": {
+  "rating": 3.75
+ },
+ "5784: Opal Acrolith": {
+  "rating": 3.733
+ },
+ "5785: Hidden Ancients": {
+  "rating": 3.47
+ },
+ "5786: Hidden Predators": {
+  "rating": 3.75
+ },
+ "5787: Opal Archangel": {
+  "rating": 3.558
+ },
+ "5788: Veil of Birds": {
+  "rating": 2.783
+ },
+ "5789: Veiled Crocodile": {
+  "rating": 3.312
+ },
+ "5790: Hidden Stag": {
+  "rating": 3.845
+ },
+ "5791: Opal Gargoyle": {
+  "rating": 3.333
+ },
+ "5793: Veiled Sentry": {
+  "rating": 4.021
+ },
+ "5795: Opal Caryatid": {
+  "rating": 3.762
+ },
+ "5796: Hidden Guerrillas": {
+  "rating": 4.041
+ },
+ "5797: Veiled Apparition": {
+  "rating": 2.516
+ },
+ "5798: Hidden Spider": {
+  "rating": 4.03
+ },
+ "5803: Slippery Karst": {
+  "rating": 3.389
+ },
+ "5804: Smoldering Crater": {
+  "rating": 3.355
+ },
+ "5805: Drifting Meadow": {
+  "rating": 3.741
+ },
+ "5806: Fluctuator": {
+  "rating": 4.418
+ },
+ "5807: Remote Isle": {
+  "rating": 3.111
+ },
+ "5808: Polluted Mire": {
+  "rating": 3.542
+ },
+ "5809: Rescind": {
+  "rating": 3.081
+ },
+ "5810: Rune of Protection: Black": {
+  "rating": 3.2
+ },
+ "5811: Rune of Protection: Blue": {
+  "rating": 2.893
+ },
+ "5812: Rune of Protection: Green": {
+  "rating": 3.077
+ },
+ "5813: Rune of Protection: Red": {
+  "rating": 3.855
+ },
+ "5814: Rune of Protection: White": {
+  "rating": 3.521
+ },
+ "5815: Sandbar Merfolk": {
+  "rating": 2.823
+ },
+ "5816: Scrap": {
+  "rating": 2.862
+ },
+ "5817: Lay Waste": {
+  "rating": 3.125
+ },
+ "5818: Rejuvenate": {
+  "rating": 2.379
+ },
+ "5819: Expunge": {
+  "rating": 3.829
+ },
+ "5820: Hush": {
+  "rating": 3.45
+ },
+ "5823: Priest of Titania": {
+  "rating": 4.589
+ },
+ "5825: Zephid": {
+  "rating": 3.244
+ },
+ "5826: Retromancer": {
+  "rating": 3.081
+ },
+ "5829: Faith Healer": {
+  "rating": 3.532
+ },
+ "5831: Rain of Filth": {
+  "rating": 3.955
+ },
+ "5832: Launch": {
+  "rating": 3.766
+ },
+ "5833: Waylay": {
+  "rating": 3.99
+ },
+ "5834: Tolarian Winds": {
+  "rating": 4.342
+ },
+ "5835: Glorious Anthem": {
+  "rating": 4.125
+ },
+ "5836: Witch Engine": {
+  "rating": 3.321
+ },
+ "5837: Gilded Drake": {
+  "rating": 4.574
+ },
+ "5838: Titania's Chosen": {
+  "rating": 4.022
+ },
+ "5841: Telepathy": {
+  "rating": 4.04
+ },
+ "5848: Bravado": {
+  "rating": 3.464
+ },
+ "5849: Spined Fluke": {
+  "rating": 3.676
+ },
+ "5850: Winding Wurm": {
+  "rating": 2.784
+ },
+ "5851: Skirge Familiar": {
+  "rating": 3.671
+ },
+ "5852: Dark Hatchling": {
+  "rating": 3.519
+ },
+ "5853: Corrupt": {
+  "rating": 4.135
+ },
+ "5854: Disorder": {
+  "rating": 2.688
+ },
+ "5858: Carpet of Flowers": {
+  "rating": 3.716
+ },
+ "5860: Eastern Paladin": {
+  "rating": 3.726
+ },
+ "5861: Western Paladin": {
+  "rating": 4.09
+ },
+ "5862: Argothian Swine": {
+  "rating": 3.54
+ },
+ "5863: Morphling": {
+  "rating": 4.498
+ },
+ "5865: Acridian": {
+  "rating": 3.286
+ },
+ "5866: Treefolk Seedlings": {
+  "rating": 3.545
+ },
+ "5867: Albino Troll": {
+  "rating": 4.071
+ },
+ "7167: Spire Owl": {
+  "rating": 3.987
+ },
+ "7168: Windfall": {
+  "rating": 4.71
+ },
+ "7169: Grafted Skullcap": {
+  "rating": 3.597
+ },
+ "7247: Whetstone": {
+  "rating": 3.742
+ },
+ "7817: Curfew": {
+  "rating": 4.059
+ },
+ "8322: Plains": {
+  "rating": 4.5
+ },
+ "8323: Plains": {
+  "rating": 4.457
+ },
+ "8324: Plains": {
+  "rating": 4.633
+ },
+ "8325: Plains": {
+  "rating": 4.537
+ },
+ "8326: Island": {
+  "rating": 4.718
+ },
+ "8327: Island": {
+  "rating": 4.605
+ },
+ "8328: Island": {
+  "rating": 4.552
+ },
+ "8329: Island": {
+  "rating": 4.77
+ },
+ "8330: Swamp": {
+  "rating": 4.3
+ },
+ "8331: Swamp": {
+  "rating": 4.53
+ },
+ "8332: Swamp": {
+  "rating": 4.481
+ },
+ "8333: Swamp": {
+  "rating": 4.583
+ },
+ "8334: Mountain": {
+  "rating": 4.519
+ },
+ "8335: Mountain": {
+  "rating": 4.589
+ },
+ "8336: Mountain": {
+  "rating": 4.708
+ },
+ "8337: Mountain": {
+  "rating": 4.278
+ },
+ "8338: Forest": {
+  "rating": 4.483
+ },
+ "8339: Forest": {
+  "rating": 4.269
+ },
+ "8340: Forest": {
+  "rating": 4.583
+ },
+ "8341: Forest": {
+  "rating": 4.638
+ },
+ "8437: Absolute Law": {
+  "rating": 3.716
+ },
+ "8444: Serra's Liturgy": {
+  "rating": 2.864
+ },
+ "8445: Recantation": {
+  "rating": 2.346
+ },
+ "8446: Discordant Dirge": {
+  "rating": 2.045
+ },
+ "8447: Rumbling Crescendo": {
+  "rating": 3.26
+ },
+ "8448: Midsummer Revel": {
+  "rating": 3.383
+ },
+ "8784: Hermetic Study": {
+  "rating": 3.698
+ },
+ "8787: Zephid's Embrace": {
+  "rating": 3.962
+ },
+ "8801: Pit Trap": {
+  "rating": 3.473
+ },
+ "8802: No Rest for the Wicked": {
+  "rating": 3.706
+ },
+ "8803: Reclusive Wight": {
+  "rating": 1.188
+ },
+ "8804: Mana Leech": {
+  "rating": 2.5
+ },
+ "8805: Headlong Rush": {
+  "rating": 3.226
+ },
+ "8806: Guma": {
+  "rating": 3.103
+ },
+ "8808: Lifeline": {
+  "rating": 4.346
+ },
+ "8809: Noetic Scales": {
+  "rating": 4.449
+ },
+ "8810: Umbilicus": {
+  "rating": 3.667
+ },
+ "8811: Presence of the Master": {
+  "rating": 3.696
+ },
+ "8813: Healing Salve": {
+  "rating": 2.216
+ },
+ "8815: Copper Gnomes": {
+  "rating": 4.442
+ },
+ "8816: Parasitic Bond": {
+  "rating": 3.059
+ },
+ "8817: Lurking Evil": {
+  "rating": 3.43
+ },
+ "8818: Goblin Offensive": {
+  "rating": 3.35
+ },
+ "8819: Titania's Boon": {
+  "rating": 3.741
+ },
+ "8820: Endless Wurm": {
+  "rating": 4.25
+ },
+ "8823: Exploration": {
+  "rating": 4.6
+ },
+ "8824: Goblin Matron": {
+  "rating": 4.467
+ },
+ "8825: Enchantment Alteration": {
+  "rating": 3.743
+ },
+ "8826: Wild Dogs": {
+  "rating": 3.603
+ },
+ "8828: Thran Quarry": {
+  "rating": 4.326
+ },
+ "8834: Wirecat": {
+  "rating": 1.782
+ },
+ "8843: Persecute": {
+  "rating": 4.343
+ },
+ "8846: Endoskeleton": {
+  "rating": 2.595
+ },
+ "8849: Whirlwind": {
+  "rating": 3.851
+ },
+ "8858: Chimeric Staff": {
+  "rating": 3.611
+ },
+ "8862: Metrognome": {
+  "rating": 3.25
+ },
+ "8865: Phyrexian Colossus": {
+  "rating": 4.189
+ },
+ "8867: Fault Line": {
+  "rating": 3.932
+ },
+ "8868: Citanul Flute": {
+  "rating": 4.048
+ },
+ "8870: Dragon Blood": {
+  "rating": 3.207
+ },
+ "8871: Wall of Junk": {
+  "rating": 3.962
+ },
+ "8876: Worn Powerstone": {
+  "rating": 3.854
+ },
+ "8883: Tolarian Academy": {
+  "rating": 4.702
+ },
+ "8886: Bulwark": {
+  "rating": 2.589
+ },
+ "8890: Claws of Gix": {
+  "rating": 3.816
+ },
+ "8895: Thran Turbine": {
+  "rating": 4.312
+ },
+ "8899: Outmaneuver": {
+  "rating": 4.061
+ },
+ "8906: Veiled Serpent": {
+  "rating": 3.231
+ },
+ "8907: Wizard Mentor": {
+  "rating": 3.323
+ },
+ "8908: Venomous Fangs": {
+  "rating": 3.066
+ },
+ "9674: Serra's Sanctum": {
+  "rating": 4.454
+ },
+ "9678: Child of Gaea": {
+  "rating": 4.255
+ },
+ "9682: Serra's Embrace": {
+  "rating": 3.929
+ },
+ "9684: Vampiric Embrace": {
+  "rating": 3.788
+ },
+ "9700: Electryte": {
+  "rating": 2.929
+ },
+ "9702: Congregate": {
+  "rating": 3.936
+ },
+ "9704: Greener Pastures": {
+  "rating": 3.683
+ },
+ "9710: Hawkeater Moth": {
+  "rating": 2.486
+ },
+ "9713: Academy Researchers": {
+  "rating": 3.956
+ },
+ "9716: Redeem": {
+  "rating": 3.261
+ },
+ "9720: Ravenous Skirge": {
+  "rating": 2.75
+ },
+ "9722: Sandbar Serpent": {
+  "rating": 2.867
+ },
+ "9724: Priest of Gix": {
+  "rating": 4.457
+ },
+ "9846: Soul Sculptor": {
+  "rating": 3.814
+ },
+ "9847: Karn, Silver Golem": {
+  "rating": 4.561
+ },
+ "9849: Horseshoe Crab": {
+  "rating": 4.229
+ },
+ "9850: Fortitude": {
+  "rating": 1.936
+ },
+ "9851: Goblin Lackey": {
+  "rating": 4.602
+ },
+ "9852: Catalog": {
+  "rating": 3.419
+ },
+ "9856: Barrin, Master Wizard": {
+  "rating": 3.144
+ },
+ "9890: Brilliant Halo": {
+  "rating": 3.385
+ },
+ "10408: Retaliation": {
+  "rating": 3.04
+ },
+ "10409: Spreading Algae": {
+  "rating": 3.536
+ },
+ "10419: Remembrance": {
+  "rating": 3.99
+ },
+ "10420: Annul": {
+  "rating": 4.212
+ },
+ "10421: Energy Field": {
+  "rating": 4.528
+ },
+ "10422: Gaea's Cradle": {
+  "rating": 4.618
+ },
+ "10423: Time Spiral": {
+  "rating": 4.613
+ },
+ "10425: Fiery Mantle": {
+  "rating": 3.426
+ },
+ "10426: Confiscate": {
+  "rating": 4.26
+ },
+ "10427: Diabolic Servitude": {
+  "rating": 4.287
+ },
+ "10462: Lingering Mirage": {
+  "rating": 2.63
+ },
+ "10464: Heat Ray": {
+  "rating": 3.446
+ },
+ "10465: Reflexes": {
+  "rating": 2.172
+ },
+ "10466: Meltdown": {
+  "rating": 3.771
+ },
+ "10467: Greater Good": {
+  "rating": 4.257
+ },
+ "10482: Shivan Gorge": {
+  "rating": 3.576
+ },
+ "10649: Purging Scythe": {
+  "rating": 3.888
+ },
+ "10650: Mishra's Helix": {
+  "rating": 4.107
+ },
+ "10654: Gamble": {
+  "rating": 4.289
+ },
+ "10655: Victimize": {
+  "rating": 4.5
+ },
+ "10656: Despondency": {
+  "rating": 3.679
+ },
+ "10657: Scald": {
+  "rating": 3.473
+ },
+ "10658: Destructive Urge": {
+  "rating": 3.986
+ },
+ "10659: Cathodion": {
+  "rating": 4.174
+ },
+ "10677: Phyrexian Tower": {
+  "rating": 4.198
+ },
+ "10682: Great Whale": {
+  "rating": 4.488
+ },
+ "10694: Rune of Protection: Artifacts": {
+  "rating": 3.606
+ },
+ "10695: Disruptive Student": {
+  "rating": 3.833
+ },
+ "11698: Rune of Protection: Lands": {
+  "rating": 2.412
+ }
+}

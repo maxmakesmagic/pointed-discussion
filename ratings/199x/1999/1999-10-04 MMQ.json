@@ -1,0 +1,1052 @@
+{
+ "19535: Charm Peddler": {
+  "rating": 2.786
+ },
+ "19536: Devout Witness": {
+  "rating": 4.333
+ },
+ "19537: Thermal Glider": {
+  "rating": 3.22
+ },
+ "19538: Revered Elder": {
+  "rating": 2.117
+ },
+ "19539: Ramosian Sergeant": {
+  "rating": 4.244
+ },
+ "19540: Crossbow Infantry": {
+  "rating": 2.897
+ },
+ "19541: Alabaster Wall": {
+  "rating": 2.759
+ },
+ "19542: Fresh Volunteers": {
+  "rating": 2.839
+ },
+ "19543: Ramosian Lieutenant": {
+  "rating": 3.783
+ },
+ "19544: Nightwind Glider": {
+  "rating": 3.04
+ },
+ "19545: Task Force": {
+  "rating": 3.426
+ },
+ "19546: Inviolability": {
+  "rating": 4.075
+ },
+ "19547: Orim's Cure": {
+  "rating": 2.45
+ },
+ "19548: Disenchant": {
+  "rating": 4.438
+ },
+ "19549: Afterlife": {
+  "rating": 3.929
+ },
+ "19550: Soothing Balm": {
+  "rating": 2.472
+ },
+ "19551: Cho-Manno's Blessing": {
+  "rating": 3.882
+ },
+ "19552: Pious Warrior": {
+  "rating": 2.788
+ },
+ "19554: Moment of Silence": {
+  "rating": 3.694
+ },
+ "19555: Righteous Aura": {
+  "rating": 3.483
+ },
+ "19557: Waterfront Bouncer": {
+  "rating": 4.54
+ },
+ "19558: Balloon Peddler": {
+  "rating": 1.92
+ },
+ "19559: Darting Merfolk": {
+  "rating": 3.155
+ },
+ "19560: Timid Drake": {
+  "rating": 2.112
+ },
+ "19561: Stinging Barrier": {
+  "rating": 3.333
+ },
+ "19562: Port Inspector": {
+  "rating": 2.617
+ },
+ "19563: Cloud Sprite": {
+  "rating": 2.68
+ },
+ "19564: Saprazzan Raider": {
+  "rating": 1.054
+ },
+ "19565: Drake Hatchling": {
+  "rating": 2.731
+ },
+ "19566: Rishadan Cutpurse": {
+  "rating": 3.041
+ },
+ "19567: Blockade Runner": {
+  "rating": 2.216
+ },
+ "19568: Misstep": {
+  "rating": 3.344
+ },
+ "19569: Tidal Bore": {
+  "rating": 2.897
+ },
+ "19570: Counterspell": {
+  "rating": 4.515
+ },
+ "19571: Brainstorm": {
+  "rating": 4.68
+ },
+ "19573: Karn's Touch": {
+  "rating": 3.911
+ },
+ "19574: Buoyancy": {
+  "rating": 2.778
+ },
+ "19575: Customs Depot": {
+  "rating": 3.161
+ },
+ "19576: Diplomatic Immunity": {
+  "rating": 4.277
+ },
+ "19577: Dehydration": {
+  "rating": 1.97
+ },
+ "19578: Bog Witch": {
+  "rating": 3.854
+ },
+ "19580: Cateran Persuader": {
+  "rating": 3.431
+ },
+ "19581: Misshapen Fiend": {
+  "rating": 1.817
+ },
+ "19582: Cateran Brute": {
+  "rating": 2.983
+ },
+ "19583: Wall of Distortion": {
+  "rating": 2.632
+ },
+ "19584: Alley Grifters": {
+  "rating": 3.175
+ },
+ "19585: Highway Robber": {
+  "rating": 3.362
+ },
+ "19586: Rampart Crawler": {
+  "rating": 2.192
+ },
+ "19587: Deepwood Ghoul": {
+  "rating": 2.315
+ },
+ "19588: Skulking Fugitive": {
+  "rating": 2.692
+ },
+ "19589: Vendetta": {
+  "rating": 4.294
+ },
+ "19590: Insubordination": {
+  "rating": 2.76
+ },
+ "19591: Sever Soul": {
+  "rating": 3.3
+ },
+ "19592: Dark Ritual": {
+  "rating": 4.889
+ },
+ "19593: Soul Channeling": {
+  "rating": 2.65
+ },
+ "19594: Maggot Therapy": {
+  "rating": 3.071
+ },
+ "19595: Snuff Out": {
+  "rating": 4.465
+ },
+ "19596: Ghoul's Feast": {
+  "rating": 3.167
+ },
+ "19597: Specter's Wail": {
+  "rating": 2.375
+ },
+ "19598: Bog Smugglers": {
+  "rating": 2.604
+ },
+ "19602: Flailing Soldier": {
+  "rating": 4.02
+ },
+ "19603: Ceremonial Guard": {
+  "rating": 1.843
+ },
+ "19604: Kyren Glider": {
+  "rating": 1.817
+ },
+ "19605: Wild Jhovall": {
+  "rating": 2.056
+ },
+ "19606: Kyren Sniper": {
+  "rating": 2.365
+ },
+ "19607: Battle Rampart": {
+  "rating": 3.75
+ },
+ "19608: Cinder Elemental": {
+  "rating": 3.738
+ },
+ "19609: Shock Troops": {
+  "rating": 3.146
+ },
+ "19610: Cavern Crawler": {
+  "rating": 1.471
+ },
+ "19611: Sizzle": {
+  "rating": 3.524
+ },
+ "19612: Stone Rain": {
+  "rating": 4.029
+ },
+ "19613: Flaming Sword": {
+  "rating": 3.537
+ },
+ "19614: Tremor": {
+  "rating": 3.161
+ },
+ "19615: Thunderclap": {
+  "rating": 3.5
+ },
+ "19616: Crash": {
+  "rating": 3.954
+ },
+ "19617: Lunge": {
+  "rating": 3.284
+ },
+ "19618: Lightning Hounds": {
+  "rating": 3.16
+ },
+ "19619: War Cadence": {
+  "rating": 3.883
+ },
+ "19620: Cave Sense": {
+  "rating": 1.897
+ },
+ "19621: Deepwood Drummer": {
+  "rating": 2.862
+ },
+ "19622: Rushwood Herbalist": {
+  "rating": 2.208
+ },
+ "19623: Deepwood Wolverine": {
+  "rating": 3.554
+ },
+ "19624: Vine Trellis": {
+  "rating": 4.171
+ },
+ "19625: Venomous Dragonfly": {
+  "rating": 2.691
+ },
+ "19626: Snorting Gahr": {
+  "rating": 3.18
+ },
+ "19627: Rushwood Dryad": {
+  "rating": 3.121
+ },
+ "19628: Deadly Insect": {
+  "rating": 2.897
+ },
+ "19630: Horned Troll": {
+  "rating": 3.519
+ },
+ "19631: Silverglade Elemental": {
+  "rating": 3.946
+ },
+ "19632: Howling Wolf": {
+  "rating": 2.8
+ },
+ "19633: Land Grant": {
+  "rating": 4.46
+ },
+ "19634: Ancestral Mask": {
+  "rating": 4.254
+ },
+ "19635: Tiger Claws": {
+  "rating": 3.46
+ },
+ "19636: Squall": {
+  "rating": 2.79
+ },
+ "19637: Tranquility": {
+  "rating": 3.148
+ },
+ "19638: Desert Twister": {
+  "rating": 3.7
+ },
+ "19639: Ferocity": {
+  "rating": 3.848
+ },
+ "19640: Invigorate": {
+  "rating": 4.299
+ },
+ "19641: Revive": {
+  "rating": 4.17
+ },
+ "19642: Remote Farm": {
+  "rating": 3.574
+ },
+ "19643: Saprazzan Skerry": {
+  "rating": 3.933
+ },
+ "19644: Peat Bog": {
+  "rating": 3.712
+ },
+ "19645: Sandstone Needle": {
+  "rating": 4.182
+ },
+ "19646: Hickory Woodlot": {
+  "rating": 3.562
+ },
+ "19647: Cho-Arrim Alchemist": {
+  "rating": 4.086
+ },
+ "19648: Ramosian Sky Marshal": {
+  "rating": 3.463
+ },
+ "19650: Cho-Arrim Bruiser": {
+  "rating": 3.556
+ },
+ "19653: Reverent Mantra": {
+  "rating": 3.75
+ },
+ "19654: Jhovall Queen": {
+  "rating": 3.486
+ },
+ "19655: Security Detail": {
+  "rating": 0.917
+ },
+ "19656: Ivory Mask": {
+  "rating": 4.192
+ },
+ "19657: Spiritual Focus": {
+  "rating": 3.817
+ },
+ "19659: Wave of Reckoning": {
+  "rating": 3.844
+ },
+ "19661: Armistice": {
+  "rating": 1.483
+ },
+ "19663: Cornered Market": {
+  "rating": 4.15
+ },
+ "19664: Crackdown": {
+  "rating": 4.207
+ },
+ "19665: Common Cause": {
+  "rating": 1.538
+ },
+ "19666: Overtaker": {
+  "rating": 3.841
+ },
+ "19667: Aerial Caravan": {
+  "rating": 2.943
+ },
+ "19668: Sand Squid": {
+  "rating": 3.625
+ },
+ "19669: Saprazzan Bailiff": {
+  "rating": 2.64
+ },
+ "19670: Rishadan Brigand": {
+  "rating": 3.75
+ },
+ "19671: Saprazzan Breaker": {
+  "rating": 2.548
+ },
+ "19672: Saprazzan Heir": {
+  "rating": 3.628
+ },
+ "19673: Extravagant Spirit": {
+  "rating": 1.906
+ },
+ "19674: Tidal Kraken": {
+  "rating": 4.035
+ },
+ "19675: Trade Routes": {
+  "rating": 3.904
+ },
+ "19676: Statecraft": {
+  "rating": 3.71
+ },
+ "19677: Shoving Match": {
+  "rating": 3.837
+ },
+ "19679: Embargo": {
+  "rating": 3.87
+ },
+ "19681: Misdirection": {
+  "rating": 4.586
+ },
+ "19683: Cowardice": {
+  "rating": 3.759
+ },
+ "19685: Squeeze": {
+  "rating": 3.308
+ },
+ "19689: Strongarm Thug": {
+  "rating": 3
+ },
+ "19690: Cateran Enforcer": {
+  "rating": 4.14
+ },
+ "19691: Cateran Slaver": {
+  "rating": 3.53
+ },
+ "19692: Silent Assassin": {
+  "rating": 3.066
+ },
+ "19693: Nether Spirit": {
+  "rating": 4.25
+ },
+ "19695: Notorious Assassin": {
+  "rating": 3.081
+ },
+ "19697: Delraich": {
+  "rating": 4.259
+ },
+ "19698: Cateran Overlord": {
+  "rating": 3.553
+ },
+ "19699: Instigator": {
+  "rating": 2.455
+ },
+ "19700: Rouse": {
+  "rating": 2.872
+ },
+ "19702: Conspiracy": {
+  "rating": 3.829
+ },
+ "19703: Extortion": {
+  "rating": 2.929
+ },
+ "19704: Haunted Crossroads": {
+  "rating": 4.164
+ },
+ "19705: Unnatural Hunger": {
+  "rating": 3.411
+ },
+ "19706: Liability": {
+  "rating": 3.917
+ },
+ "19707: Midnight Ritual": {
+  "rating": 3.304
+ },
+ "19708: Hammer Mage": {
+  "rating": 3.486
+ },
+ "19710: Flailing Manticore": {
+  "rating": 3.186
+ },
+ "19711: Two-Headed Dragon": {
+  "rating": 4.213
+ },
+ "19712: Battle Squadron": {
+  "rating": 4.044
+ },
+ "19713: Crag Saurian": {
+  "rating": 2.145
+ },
+ "19714: Blood Hound": {
+  "rating": 2.581
+ },
+ "19715: Corrupt Official": {
+  "rating": 2.632
+ },
+ "19716: Squee, Goblin Nabob": {
+  "rating": 4.506
+ },
+ "19718: Territorial Dispute": {
+  "rating": 2.079
+ },
+ "19719: Robber Fly": {
+  "rating": 2.871
+ },
+ "19720: Tectonic Break": {
+  "rating": 3.852
+ },
+ "19721: Puppet's Verdict": {
+  "rating": 3.552
+ },
+ "19722: Thieves' Auction": {
+  "rating": 3.893
+ },
+ "19723: Brawl": {
+  "rating": 3.65
+ },
+ "19724: Pulverize": {
+  "rating": 4.5
+ },
+ "19725: Cave-In": {
+  "rating": 3.737
+ },
+ "19726: Blood Oath": {
+  "rating": 3.859
+ },
+ "19728: Silverglade Pathfinder": {
+  "rating": 3.773
+ },
+ "19730: Caller of the Hunt": {
+  "rating": 3.733
+ },
+ "19731: Lithophage": {
+  "rating": 3.354
+ },
+ "19733: Megatherium": {
+  "rating": 3.161
+ },
+ "19734: Erithizon": {
+  "rating": 2.138
+ },
+ "19735: Vine Dryad": {
+  "rating": 4.287
+ },
+ "19736: Vernal Equinox": {
+  "rating": 3.13
+ },
+ "19737: Food Chain": {
+  "rating": 4.377
+ },
+ "19738: Sacred Prey": {
+  "rating": 2.477
+ },
+ "19739: Collective Unconscious": {
+  "rating": 4.105
+ },
+ "19740: Foster": {
+  "rating": 3.618
+ },
+ "19741: Bifurcate": {
+  "rating": 4.174
+ },
+ "19742: Game Preserve": {
+  "rating": 3
+ },
+ "19744: Venomous Breath": {
+  "rating": 2.929
+ },
+ "19745: Briar Patch": {
+  "rating": 2.865
+ },
+ "19746: Crumbling Sanctuary": {
+  "rating": 3.43
+ },
+ "19747: Worry Beads": {
+  "rating": 2.583
+ },
+ "19748: Magistrate's Scepter": {
+  "rating": 4.202
+ },
+ "19749: Bargaining Table": {
+  "rating": 3.815
+ },
+ "19752: Crooked Scales": {
+  "rating": 2.891
+ },
+ "19753: General's Regalia": {
+  "rating": 3.191
+ },
+ "19754: Mercadian Lift": {
+  "rating": 2.538
+ },
+ "19755: Horn of Plenty": {
+  "rating": 2.518
+ },
+ "19756: Kyren Archive": {
+  "rating": 2.724
+ },
+ "19757: Rishadan Pawnshop": {
+  "rating": 3.167
+ },
+ "19758: Distorting Lens": {
+  "rating": 3.672
+ },
+ "19759: Kyren Toy": {
+  "rating": 3.207
+ },
+ "19761: Assembly Hall": {
+  "rating": 3.086
+ },
+ "19762: Tooth of Ramos": {
+  "rating": 3.196
+ },
+ "19763: Horn of Ramos": {
+  "rating": 3.393
+ },
+ "19764: Skull of Ramos": {
+  "rating": 2.778
+ },
+ "19765: Eye of Ramos": {
+  "rating": 3.481
+ },
+ "19766: Heart of Ramos": {
+  "rating": 3.28
+ },
+ "19767: Rishadan Port": {
+  "rating": 4.599
+ },
+ "19768: Henge of Ramos": {
+  "rating": 1.67
+ },
+ "19769: Tower of the Magistrate": {
+  "rating": 3.976
+ },
+ "19770: Henge Guardian": {
+  "rating": 2.823
+ },
+ "19772: Dust Bowl": {
+  "rating": 4.318
+ },
+ "19776: Wishmonger": {
+  "rating": 3.089
+ },
+ "19777: Charmed Griffin": {
+  "rating": 2.176
+ },
+ "19778: Ignoble Soldier": {
+  "rating": 0.903
+ },
+ "19779: Cho-Arrim Legate": {
+  "rating": 3.847
+ },
+ "19780: Steadfast Guard": {
+  "rating": 3.8
+ },
+ "19781: Ballista Squad": {
+  "rating": 4.034
+ },
+ "19782: Ramosian Captain": {
+  "rating": 3.95
+ },
+ "19784: Fountain Watch": {
+  "rating": 3.91
+ },
+ "19786: Noble Purpose": {
+  "rating": 4.059
+ },
+ "19787: Honor the Fallen": {
+  "rating": 3.645
+ },
+ "19789: Arrest": {
+  "rating": 3.975
+ },
+ "19793: Righteous Indignation": {
+  "rating": 1.804
+ },
+ "19794: Diplomatic Escort": {
+  "rating": 4.156
+ },
+ "19796: Sailmonger": {
+  "rating": 3.308
+ },
+ "19797: Indentured Djinn": {
+  "rating": 2.903
+ },
+ "19798: Chambered Nautilus": {
+  "rating": 3.483
+ },
+ "19799: Saprazzan Legate": {
+  "rating": 4.035
+ },
+ "19800: Chameleon Spirit": {
+  "rating": 3.7
+ },
+ "19802: Rishadan Airship": {
+  "rating": 3.312
+ },
+ "19803: Glowing Anemone": {
+  "rating": 2.984
+ },
+ "19805: Coastal Piracy": {
+  "rating": 4.125
+ },
+ "19806: Energy Flux": {
+  "rating": 4.198
+ },
+ "19807: Soothsaying": {
+  "rating": 4.303
+ },
+ "19809: War Tax": {
+  "rating": 4.097
+ },
+ "19810: Rishadan Footpad": {
+  "rating": 3.033
+ },
+ "19811: Thwart": {
+  "rating": 3.857
+ },
+ "19812: False Demise": {
+  "rating": 4.177
+ },
+ "19814: High Seas": {
+  "rating": 3.02
+ },
+ "19815: Cackling Witch": {
+  "rating": 3.018
+ },
+ "19816: Scandalmonger": {
+  "rating": 2.75
+ },
+ "19817: Enslaved Horror": {
+  "rating": 1.893
+ },
+ "19818: Molting Harpy": {
+  "rating": 2.092
+ },
+ "19819: Cateran Kidnappers": {
+  "rating": 3.397
+ },
+ "19820: Deathgazer": {
+  "rating": 2.981
+ },
+ "19821: Deepwood Legate": {
+  "rating": 3.784
+ },
+ "19822: Quagmire Lamprey": {
+  "rating": 1.75
+ },
+ "19823: Thrashing Wumpus": {
+  "rating": 4.196
+ },
+ "19824: Primeval Shambler": {
+  "rating": 3.371
+ },
+ "19825: Larceny": {
+  "rating": 3.842
+ },
+ "19826: Forced March": {
+  "rating": 3.934
+ },
+ "19827: Pretender's Claim": {
+  "rating": 2.854
+ },
+ "19828: Rain of Tears": {
+  "rating": 4.05
+ },
+ "19829: Unmask": {
+  "rating": 4.417
+ },
+ "19831: Black Market": {
+  "rating": 4.174
+ },
+ "19832: Cateran Summons": {
+  "rating": 3.788
+ },
+ "19833: Intimidation": {
+  "rating": 3.576
+ },
+ "19834: Putrefaction": {
+  "rating": 2.391
+ },
+ "19835: Seismic Mage": {
+  "rating": 3.694
+ },
+ "19836: Kris Mage": {
+  "rating": 2.95
+ },
+ "19837: Warmonger": {
+  "rating": 3.423
+ },
+ "19838: Hired Giant": {
+  "rating": 2.278
+ },
+ "19839: Flailing Ogre": {
+  "rating": 2.672
+ },
+ "19840: Rock Badger": {
+  "rating": 2.52
+ },
+ "19841: Kyren Legate": {
+  "rating": 3.69
+ },
+ "19842: Gerrard's Irregulars": {
+  "rating": 2.984
+ },
+ "19844: Ogre Taskmaster": {
+  "rating": 2.361
+ },
+ "19845: Lava Runner": {
+  "rating": 4.14
+ },
+ "19846: Kyren Negotiations": {
+  "rating": 3.917
+ },
+ "19847: Close Quarters": {
+  "rating": 4.019
+ },
+ "19848: Furious Assault": {
+  "rating": 3.064
+ },
+ "19849: Sustenance": {
+  "rating": 1.944
+ },
+ "19850: Mercadia's Downfall": {
+  "rating": 2.395
+ },
+ "19851: Warpath": {
+  "rating": 2.591
+ },
+ "19852: Word of Blasting": {
+  "rating": 2.231
+ },
+ "19853: Volcanic Wind": {
+  "rating": 4.048
+ },
+ "19854: Magistrate's Veto": {
+  "rating": 3.879
+ },
+ "19855: Dawnstrider": {
+  "rating": 4.105
+ },
+ "19856: Squallmonger": {
+  "rating": 3.467
+ },
+ "19857: Hunted Wumpus": {
+  "rating": 3.266
+ },
+ "19859: Boa Constrictor": {
+  "rating": 2.647
+ },
+ "19860: Lumbering Satyr": {
+  "rating": 2.221
+ },
+ "19861: Arms Dealer": {
+  "rating": 4.05
+ },
+ "19862: Saber Ants": {
+  "rating": 3.924
+ },
+ "19863: Groundskeeper": {
+  "rating": 3.517
+ },
+ "19864: Rushwood Legate": {
+  "rating": 4.067
+ },
+ "19865: Caustic Wasps": {
+  "rating": 3.231
+ },
+ "19866: Deepwood Tantiv": {
+  "rating": 2.129
+ },
+ "19867: Ley Line": {
+  "rating": 2.161
+ },
+ "19868: Stamina": {
+  "rating": 2.769
+ },
+ "19869: Rushwood Elemental": {
+  "rating": 4.142
+ },
+ "19870: Spidersilk Armor": {
+  "rating": 4.141
+ },
+ "19871: Spontaneous Generation": {
+  "rating": 3.875
+ },
+ "19873: Clear the Land": {
+  "rating": 3.75
+ },
+ "19875: Natural Affinity": {
+  "rating": 3.9
+ },
+ "19876: Snake Pit": {
+  "rating": 3.942
+ },
+ "19877: Toymaker": {
+  "rating": 3.224
+ },
+ "19878: Monkey Cage": {
+  "rating": 4.015
+ },
+ "19880: Crenellated Wall": {
+  "rating": 3.586
+ },
+ "19881: Puffer Extract": {
+  "rating": 2.674
+ },
+ "19882: Iron Lance": {
+  "rating": 1.69
+ },
+ "19883: Barbed Wire": {
+  "rating": 2.472
+ },
+ "19884: Jeweled Torque": {
+  "rating": 2.63
+ },
+ "19885: Credit Voucher": {
+  "rating": 3.12
+ },
+ "19886: Panacea": {
+  "rating": 1.7
+ },
+ "19888: Power Matrix": {
+  "rating": 4.214
+ },
+ "19890: High Market": {
+  "rating": 3.836
+ },
+ "19891: Saprazzan Cove": {
+  "rating": 3.661
+ },
+ "19892: Subterranean Hangar": {
+  "rating": 3.905
+ },
+ "19893: Fountain of Cho": {
+  "rating": 3.26
+ },
+ "19894: Mercadian Bazaar": {
+  "rating": 3.133
+ },
+ "19895: Rushwood Grove": {
+  "rating": 3.444
+ },
+ "20172: Jhovall Rider": {
+  "rating": 2.3
+ },
+ "20173: Story Circle": {
+  "rating": 4.193
+ },
+ "20404: Gush": {
+  "rating": 4.796
+ },
+ "20409: Ramosian Rally": {
+  "rating": 3.15
+ },
+ "20410: Muzzle": {
+  "rating": 3.268
+ },
+ "20411: Cho-Manno, Revolutionary": {
+  "rating": 4.045
+ },
+ "20412: Rappelling Scouts": {
+  "rating": 3.174
+ },
+ "20454: Hoodwink": {
+  "rating": 3.475
+ },
+ "20456: Charisma": {
+  "rating": 4.214
+ },
+ "20786: Uphill Battle": {
+  "rating": 3.58
+ },
+ "20788: Pangosaur": {
+  "rating": 2.441
+ },
+ "20844: Mercadian Atlas": {
+  "rating": 4.065
+ },
+ "20847: Giant Caterpillar": {
+  "rating": 2.744
+ },
+ "20848: Ramosian Commander": {
+  "rating": 3.159
+ },
+ "20880: Plains": {
+  "rating": 4.742
+ },
+ "20881: Plains": {
+  "rating": 4.593
+ },
+ "20882: Plains": {
+  "rating": 4.625
+ },
+ "20883: Plains": {
+  "rating": 4.38
+ },
+ "20884: Island": {
+  "rating": 4.396
+ },
+ "20885: Island": {
+  "rating": 4.257
+ },
+ "20886: Island": {
+  "rating": 4.219
+ },
+ "20887: Island": {
+  "rating": 4.606
+ },
+ "20888: Swamp": {
+  "rating": 4.25
+ },
+ "20889: Swamp": {
+  "rating": 4.417
+ },
+ "20890: Swamp": {
+  "rating": 4.6
+ },
+ "20891: Swamp": {
+  "rating": 4.536
+ },
+ "20892: Mountain": {
+  "rating": 4.635
+ },
+ "20893: Mountain": {
+  "rating": 4.056
+ },
+ "20894: Mountain": {
+  "rating": 4.357
+ },
+ "20895: Mountain": {
+  "rating": 4.633
+ },
+ "20896: Forest": {
+  "rating": 4.333
+ },
+ "20897: Forest": {
+  "rating": 4.449
+ },
+ "20898: Forest": {
+  "rating": 4.58
+ },
+ "20899: Forest": {
+  "rating": 4.274
+ },
+ "21300: Bribery": {
+  "rating": 4.482
+ },
+ "21306: Undertaker": {
+  "rating": 3.905
+ },
+ "21332: Blaster Mage": {
+  "rating": 2.547
+ },
+ "21773: Saprazzan Outrigger": {
+  "rating": 2.263
+ },
+ "22053: Lure": {
+  "rating": 3.846
+ },
+ "22288: Trap Runner": {
+  "rating": 3.891
+ },
+ "22895: Deepwood Elder": {
+  "rating": 2.966
+ },
+ "136513: Last Breath": {
+  "rating": 2.649
+ },
+ "136514: Moonlit Wake": {
+  "rating": 3.017
+ },
+ "136515: Renounce": {
+  "rating": 3.241
+ },
+ "136516: Tonic Peddler": {
+  "rating": 2.261
+ }
+}

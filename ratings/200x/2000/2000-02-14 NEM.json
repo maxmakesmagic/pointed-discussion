@@ -1,0 +1,431 @@
+{
+ "19579: Plague Witch": {
+  "rating": 2.636
+ },
+ "21251: Defiant Falcon": {
+  "rating": 4.152
+ },
+ "21255: Lawbringer": {
+  "rating": 2.629
+ },
+ "21256: Lightbringer": {
+  "rating": 3.238
+ },
+ "21257: Lashknife": {
+  "rating": 2.185
+ },
+ "21258: Angelic Favor": {
+  "rating": 4.107
+ },
+ "21259: Seal of Cleansing": {
+  "rating": 4.309
+ },
+ "21260: Fanatical Devotion": {
+  "rating": 3.217
+ },
+ "21262: Noble Stand": {
+  "rating": 3.019
+ },
+ "21263: Avenger en-Dal": {
+  "rating": 3.328
+ },
+ "21264: Chieftain en-Dal": {
+  "rating": 3.621
+ },
+ "21265: Voice of Truth": {
+  "rating": 3.233
+ },
+ "21266: Defiant Vanguard": {
+  "rating": 4.019
+ },
+ "21268: Topple": {
+  "rating": 3.654
+ },
+ "21270: Sivvi's Ruse": {
+  "rating": 3.466
+ },
+ "21271: Lin Sivvi, Defiant Hero": {
+  "rating": 4.158
+ },
+ "21273: Blinding Angel": {
+  "rating": 4.3
+ },
+ "21277: Spiritual Asylum": {
+  "rating": 3.436
+ },
+ "21278: Trickster Mage": {
+  "rating": 3.429
+ },
+ "21279: Wandering Eye": {
+  "rating": 3.204
+ },
+ "21280: Cloudskate": {
+  "rating": 3.184
+ },
+ "21281: Jolting Merfolk": {
+  "rating": 2.944
+ },
+ "21282: Sneaky Homunculus": {
+  "rating": 2.591
+ },
+ "21283: Sliptide Serpent": {
+  "rating": 2.633
+ },
+ "21284: Daze": {
+  "rating": 4.674
+ },
+ "21285: Accumulated Knowledge": {
+  "rating": 4.56
+ },
+ "21286: Infiltrate": {
+  "rating": 3.216
+ },
+ "21287: Seal of Removal": {
+  "rating": 4.167
+ },
+ "21290: Mossdog": {
+  "rating": 2.429
+ },
+ "21296: Submerge": {
+  "rating": 4.263
+ },
+ "21297: Seahunter": {
+  "rating": 4.053
+ },
+ "21298: Stronghold Biologist": {
+  "rating": 3.776
+ },
+ "21302: Pale Moon": {
+  "rating": 1.382
+ },
+ "21303: Dominate": {
+  "rating": 3.598
+ },
+ "21304: Rising Waters": {
+  "rating": 4.12
+ },
+ "21307: Rathi Intimidator": {
+  "rating": 3.364
+ },
+ "21308: Belbe's Percher": {
+  "rating": 2.611
+ },
+ "21309: Spiteful Bully": {
+  "rating": 2.561
+ },
+ "21310: Spineless Thug": {
+  "rating": 2.548
+ },
+ "21311: Rathi Fiend": {
+  "rating": 3.348
+ },
+ "21313: Mind Swords": {
+  "rating": 3.727
+ },
+ "21315: Parallax Dementia": {
+  "rating": 3.409
+ },
+ "21316: Seal of Doom": {
+  "rating": 4.059
+ },
+ "21317: Vicious Hunger": {
+  "rating": 3.586
+ },
+ "21318: Divining Witch": {
+  "rating": 2.824
+ },
+ "21319: Carrion Wall": {
+  "rating": 2.667
+ },
+ "21320: Battlefield Percher": {
+  "rating": 1.533
+ },
+ "21322: Dark Triumph": {
+  "rating": 4.1
+ },
+ "21324: Massacre": {
+  "rating": 4.438
+ },
+ "21328: Volrath the Fallen": {
+  "rating": 4.125
+ },
+ "21329: Murderous Betrayal": {
+  "rating": 1.804
+ },
+ "21330: Death Pit Offering": {
+  "rating": 3.467
+ },
+ "21331: Mind Slash": {
+  "rating": 3.803
+ },
+ "21333: Laccolith Grunt": {
+  "rating": 3.182
+ },
+ "21334: Flowstone Crusher": {
+  "rating": 2.56
+ },
+ "21335: Laccolith Whelp": {
+  "rating": 4
+ },
+ "21336: Flowstone Wall": {
+  "rating": 2.589
+ },
+ "21338: Downhill Charge": {
+  "rating": 3.843
+ },
+ "21339: Laccolith Rig": {
+  "rating": 3.574
+ },
+ "21340: Seal of Fire": {
+  "rating": 4.118
+ },
+ "21341: Flowstone Strike": {
+  "rating": 2.021
+ },
+ "21343: Arc Mage": {
+  "rating": 2.743
+ },
+ "21344: Laccolith Warrior": {
+  "rating": 3.742
+ },
+ "21345: Mogg Alarm": {
+  "rating": 3.013
+ },
+ "21347: Rupture": {
+  "rating": 3.92
+ },
+ "21348: Flowstone Surge": {
+  "rating": 3.472
+ },
+ "21349: Mogg Salvage": {
+  "rating": 3.981
+ },
+ "21350: Moggcatcher": {
+  "rating": 4.036
+ },
+ "21351: Flowstone Overseer": {
+  "rating": 4.186
+ },
+ "21353: Shrieking Mogg": {
+  "rating": 3.557
+ },
+ "21355: Flowstone Slide": {
+  "rating": 2.862
+ },
+ "21356: Mana Cache": {
+  "rating": 2.234
+ },
+ "21357: Stronghold Gambit": {
+  "rating": 3.75
+ },
+ "21359: Stampede Driver": {
+  "rating": 3.733
+ },
+ "21360: Skyshroud Ridgeback": {
+  "rating": 3.944
+ },
+ "21362: Skyshroud Sentinel": {
+  "rating": 3.31
+ },
+ "21363: Blastoderm": {
+  "rating": 4.287
+ },
+ "21364: Coiling Woodworm": {
+  "rating": 3.041
+ },
+ "21365: Treetop Bracers": {
+  "rating": 3.18
+ },
+ "21366: Seal of Strength": {
+  "rating": 4.14
+ },
+ "21368: Fog Patch": {
+  "rating": 3.712
+ },
+ "21370: Harvest Mage": {
+  "rating": 1.904
+ },
+ "21372: Skyshroud Cutter": {
+  "rating": 2.915
+ },
+ "21373: Nesting Wurm": {
+  "rating": 3.446
+ },
+ "21374: Woodripper": {
+  "rating": 3.731
+ },
+ "21375: Pack Hunt": {
+  "rating": 4.051
+ },
+ "21376: Wild Mammoth": {
+  "rating": 2.879
+ },
+ "21377: Animate Land": {
+  "rating": 3.975
+ },
+ "21378: Refreshing Rain": {
+  "rating": 3.29
+ },
+ "21379: Skyshroud Poacher": {
+  "rating": 4.127
+ },
+ "21381: Saproling Burst": {
+  "rating": 4.343
+ },
+ "21385: Saproling Cluster": {
+  "rating": 2.771
+ },
+ "21386: Rejuvenation Chamber": {
+  "rating": 1.672
+ },
+ "21388: Rusting Golem": {
+  "rating": 2.679
+ },
+ "21390: Belbe's Armor": {
+  "rating": 3.75
+ },
+ "21391: Flowstone Armor": {
+  "rating": 1.823
+ },
+ "21392: Eye of Yawgmoth": {
+  "rating": 3.014
+ },
+ "21394: Terrain Generator": {
+  "rating": 3.833
+ },
+ "21395: Complex Automaton": {
+  "rating": 2.061
+ },
+ "21396: Rackling": {
+  "rating": 3.365
+ },
+ "21397: Viseling": {
+  "rating": 3.357
+ },
+ "21398: Flowstone Thopter": {
+  "rating": 1.961
+ },
+ "21399: Tangle Wire": {
+  "rating": 4.443
+ },
+ "21400: Predator, Flagship": {
+  "rating": 3.913
+ },
+ "21401: Belbe's Portal": {
+  "rating": 4.027
+ },
+ "21402: Rath's Edge": {
+  "rating": 2.59
+ },
+ "21403: Kor Haven": {
+  "rating": 4.089
+ },
+ "22026: Defender en-Vec": {
+  "rating": 2.54
+ },
+ "22027: Netter en-Dal": {
+  "rating": 2.395
+ },
+ "22028: Parallax Wave": {
+  "rating": 4.123
+ },
+ "22029: Phyrexian Prowler": {
+  "rating": 2.387
+ },
+ "22030: Oracle's Attendants": {
+  "rating": 2.875
+ },
+ "22031: Parallax Nexus": {
+  "rating": 4
+ },
+ "22032: Off Balance": {
+  "rating": 1.611
+ },
+ "22033: Stronghold Machinist": {
+  "rating": 3.985
+ },
+ "22035: Parallax Tide": {
+  "rating": 4.043
+ },
+ "22060: Bola Warrior": {
+  "rating": 2.1
+ },
+ "22061: Overlaid Terrain": {
+  "rating": 2.792
+ },
+ "22284: Flint Golem": {
+  "rating": 3.103
+ },
+ "22289: Aether Barrier": {
+  "rating": 3.833
+ },
+ "22290: Flame Rift": {
+  "rating": 4.15
+ },
+ "22292: Rootwater Commando": {
+  "rating": 2.741
+ },
+ "22293: Oraxid": {
+  "rating": 2.97
+ },
+ "22296: Ancient Hydra": {
+  "rating": 3.219
+ },
+ "22297: Laccolith Titan": {
+  "rating": 3.529
+ },
+ "22299: Mogg Toady": {
+  "rating": 1.86
+ },
+ "22301: Parallax Inhibitor": {
+  "rating": 2.548
+ },
+ "22302: Sivvi's Valor": {
+  "rating": 2.889
+ },
+ "22316: Reverent Silence": {
+  "rating": 4.046
+ },
+ "22318: Kill Switch": {
+  "rating": 4.34
+ },
+ "22320: Silkenfist Fighter": {
+  "rating": 3.104
+ },
+ "22338: Silkenfist Order": {
+  "rating": 2.75
+ },
+ "22374: Stronghold Discipline": {
+  "rating": 3.065
+ },
+ "22377: Air Bladder": {
+  "rating": 1.432
+ },
+ "22379: Phyrexian Driver": {
+  "rating": 2.688
+ },
+ "22880: Stronghold Zeppelin": {
+  "rating": 2.844
+ },
+ "22881: Ensnare": {
+  "rating": 4
+ },
+ "22889: Rootwater Thief": {
+  "rating": 4.396
+ },
+ "22890: Rathi Assassin": {
+  "rating": 3.359
+ },
+ "22891: Skyshroud Claim": {
+  "rating": 4.123
+ },
+ "22892: Skyshroud Behemoth": {
+  "rating": 2.007
+ },
+ "22897: Ascendant Evincar": {
+  "rating": 3.977
+ },
+ "24687: Rhox": {
+  "rating": 4.109
+ }
+}

@@ -1,0 +1,437 @@
+{
+ "8829: Hollow Specter": {
+  "rating": 3.667
+ },
+ "29717: Cephalid Pathmage": {
+  "rating": 2.75
+ },
+ "30659: Covert Operative": {
+  "rating": 2.694
+ },
+ "34263: Feral Throwback": {
+  "rating": 3.986
+ },
+ "35166: Krosan Cloudscraper": {
+  "rating": 3.723
+ },
+ "35249: Deathmark Prelate": {
+  "rating": 3.344
+ },
+ "35299: Wirewood Channeler": {
+  "rating": 3.881
+ },
+ "35335: Keeneye Aven": {
+  "rating": 1.925
+ },
+ "37909: Branchsnap Lorian": {
+  "rating": 3.567
+ },
+ "39566: Ridgetop Raptor": {
+  "rating": 2.516
+ },
+ "39603: Liege of the Axe": {
+  "rating": 2.625
+ },
+ "39653: Kilnmouth Dragon": {
+  "rating": 4
+ },
+ "39707: Defiant Elf": {
+  "rating": 3.276
+ },
+ "39733: Riptide Director": {
+  "rating": 3.85
+ },
+ "39736: Rockshard Elemental": {
+  "rating": 3.911
+ },
+ "39738: Brood Sliver": {
+  "rating": 3.954
+ },
+ "39850: Wall of Deceit": {
+  "rating": 3.372
+ },
+ "39888: Goblin Goon": {
+  "rating": 3.607
+ },
+ "39914: Riptide Mangler": {
+  "rating": 3.981
+ },
+ "40545: Phage the Untouchable": {
+  "rating": 4.121
+ },
+ "42016: Blade Sliver": {
+  "rating": 3.586
+ },
+ "42017: Plated Sliver": {
+  "rating": 3.939
+ },
+ "42025: Essence Sliver": {
+  "rating": 3.919
+ },
+ "42026: Synapse Sliver": {
+  "rating": 3.947
+ },
+ "42028: Frenetic Raptor": {
+  "rating": 1.887
+ },
+ "42029: Quick Sliver": {
+  "rating": 3.759
+ },
+ "42033: Crypt Sliver": {
+  "rating": 3.939
+ },
+ "42037: Mistform Sliver": {
+  "rating": 2.514
+ },
+ "42038: Toxin Sliver": {
+  "rating": 3.94
+ },
+ "42039: Needleshot Gourna": {
+  "rating": 1.68
+ },
+ "42041: Magma Sliver": {
+  "rating": 3.972
+ },
+ "42049: Akroma, Angel of Wrath": {
+  "rating": 4.557
+ },
+ "42050: Scion of Darkness": {
+  "rating": 4.13
+ },
+ "42053: Daru Mender": {
+  "rating": 2.212
+ },
+ "42054: Willbender": {
+  "rating": 3.949
+ },
+ "42055: Skinthinner": {
+  "rating": 2.259
+ },
+ "42056: Skirk Marauder": {
+  "rating": 3.02
+ },
+ "42057: Patron of the Wild": {
+  "rating": 2.205
+ },
+ "42058: Wingbeat Warrior": {
+  "rating": 2.706
+ },
+ "42059: Echo Tracer": {
+  "rating": 3.185
+ },
+ "42060: Aphetto Exterminator": {
+  "rating": 3
+ },
+ "42064: Gempalm Sorcerer": {
+  "rating": 1.9
+ },
+ "42065: Gempalm Polluter": {
+  "rating": 3.959
+ },
+ "42066: Gempalm Incinerator": {
+  "rating": 4.19
+ },
+ "42067: Gempalm Strider": {
+  "rating": 3.321
+ },
+ "42068: Master of the Veil": {
+  "rating": 3.119
+ },
+ "42069: Voidmage Apprentice": {
+  "rating": 3.189
+ },
+ "42073: Glowrider": {
+  "rating": 4.147
+ },
+ "42077: Dark Supplicant": {
+  "rating": 3.375
+ },
+ "42078: Shifting Sliver": {
+  "rating": 3.989
+ },
+ "42082: Skirk Outrider": {
+  "rating": 2.304
+ },
+ "42083: Elvish Soultiller": {
+  "rating": 3.814
+ },
+ "42156: Weaver of Lies": {
+  "rating": 3.409
+ },
+ "42160: Fugitive Wizard": {
+  "rating": 1.958
+ },
+ "42165: Mistform Wakecaster": {
+  "rating": 1.82
+ },
+ "42170: Tribal Forcemage": {
+  "rating": 3.894
+ },
+ "42171: Earthblighter": {
+  "rating": 3.071
+ },
+ "42172: Crookclaw Elder": {
+  "rating": 3.019
+ },
+ "42178: Ghastly Remains": {
+  "rating": 3
+ },
+ "42187: Caller of the Claw": {
+  "rating": 3.955
+ },
+ "42249: Hundroog": {
+  "rating": 1.333
+ },
+ "42265: Stoic Champion": {
+  "rating": 3.645
+ },
+ "42270: Zombie Brute": {
+  "rating": 3.442
+ },
+ "42271: Celestial Gatekeeper": {
+  "rating": 3.709
+ },
+ "42272: Primal Whisperer": {
+  "rating": 2.5
+ },
+ "42274: Goblin Dynamo": {
+  "rating": 2.25
+ },
+ "42277: Clickslither": {
+  "rating": 3.933
+ },
+ "42278: Daru Stinger": {
+  "rating": 3.162
+ },
+ "42437: Primoc Escapee": {
+  "rating": 2.053
+ },
+ "42440: Macetail Hystrodon": {
+  "rating": 2.696
+ },
+ "43497: Aven Redeemer": {
+  "rating": 2.685
+ },
+ "43523: Flamewave Invoker": {
+  "rating": 3.211
+ },
+ "43534: Stonewood Invoker": {
+  "rating": 3.25
+ },
+ "43607: Seedborn Muse": {
+  "rating": 4
+ },
+ "43714: Smokespew Invoker": {
+  "rating": 2.145
+ },
+ "43721: Mistform Seaswift": {
+  "rating": 2.54
+ },
+ "43723: Glowering Rogon": {
+  "rating": 2.056
+ },
+ "43724: Embalmed Brawler": {
+  "rating": 2.191
+ },
+ "43791: Gempalm Avenger": {
+  "rating": 2.875
+ },
+ "43792: Starlight Invoker": {
+  "rating": 2.645
+ },
+ "43794: Wirewood Hivemaster": {
+  "rating": 3.868
+ },
+ "44204: Glintwing Invoker": {
+  "rating": 1.196
+ },
+ "44205: Chromeshell Crab": {
+  "rating": 3.729
+ },
+ "44206: Blood Celebrant": {
+  "rating": 2.333
+ },
+ "44207: Sootfeather Flock": {
+  "rating": 1.66
+ },
+ "44209: Bloodstoke Howler": {
+  "rating": 1.685
+ },
+ "44210: Nantuko Vigilante": {
+  "rating": 3.667
+ },
+ "44212: White Knight": {
+  "rating": 4.089
+ },
+ "44271: Root Sliver": {
+  "rating": 3.653
+ },
+ "44274: Warped Researcher": {
+  "rating": 2.5
+ },
+ "44276: Noxious Ghoul": {
+  "rating": 3.932
+ },
+ "44277: Spectral Sliver": {
+  "rating": 3.276
+ },
+ "44279: Corpse Harvester": {
+  "rating": 3.917
+ },
+ "44282: Shaleskin Plower": {
+  "rating": 1.82
+ },
+ "44286: Goblin Firebug": {
+  "rating": 0.926
+ },
+ "44294: Goblin Turncoat": {
+  "rating": 2.625
+ },
+ "44296: Ward Sliver": {
+  "rating": 3.984
+ },
+ "44299: Havoc Demon": {
+  "rating": 3.895
+ },
+ "44300: Dermoplasm": {
+  "rating": 3.9
+ },
+ "44306: Skirk Alarmist": {
+  "rating": 3.275
+ },
+ "44316: Dripping Dead": {
+  "rating": 1.104
+ },
+ "44317: Goblin Clearcutter": {
+  "rating": 3.241
+ },
+ "44323: Planar Guide": {
+  "rating": 4.064
+ },
+ "44324: Wall of Hope": {
+  "rating": 3.663
+ },
+ "44325: Aven Envoy": {
+  "rating": 2.2
+ },
+ "44327: Vexing Beetle": {
+  "rating": 2.929
+ },
+ "44328: Sunstrike Legionnaire": {
+  "rating": 2.984
+ },
+ "44329: Defender of the Order": {
+  "rating": 2.738
+ },
+ "44334: Berserk Murlodont": {
+  "rating": 2.625
+ },
+ "44405: Unstable Hulk": {
+  "rating": 2.556
+ },
+ "44411: Infernal Caretaker": {
+  "rating": 3.568
+ },
+ "44492: Drinker of Sorrow": {
+  "rating": 2.905
+ },
+ "44493: Bane of the Living": {
+  "rating": 4
+ },
+ "44496: Beacon of Destiny": {
+  "rating": 3.788
+ },
+ "44500: Enormous Baloth": {
+  "rating": 3.036
+ },
+ "44501: Merchant of Secrets": {
+  "rating": 2.025
+ },
+ "44504: Daru Sanctifier": {
+  "rating": 1.94
+ },
+ "44623: Imperial Hellkite": {
+  "rating": 3.656
+ },
+ "44626: Keeper of the Nine Gales": {
+  "rating": 3.632
+ },
+ "44656: Goblin Assassin": {
+  "rating": 3.364
+ },
+ "44747: Akroma's Devoted": {
+  "rating": 3.844
+ },
+ "44772: Hunter Sliver": {
+  "rating": 3.917
+ },
+ "44837: Windborn Muse": {
+  "rating": 3.943
+ },
+ "44840: Dreamborn Muse": {
+  "rating": 3.784
+ },
+ "44841: Graveborn Muse": {
+  "rating": 3.809
+ },
+ "44842: Lavaborn Muse": {
+  "rating": 3.74
+ },
+ "45121: Timberwatch Elf": {
+  "rating": 3.921
+ },
+ "45122: Whipgrass Entangler": {
+  "rating": 3.708
+ },
+ "45123: Goblin Lookout": {
+  "rating": 3.845
+ },
+ "45124: Totem Speaker": {
+  "rating": 2.068
+ },
+ "45125: Goblin Grappler": {
+  "rating": 3.625
+ },
+ "45126: Swooping Talon": {
+  "rating": 2.688
+ },
+ "45127: Crested Craghorn": {
+  "rating": 3.161
+ },
+ "45130: Warbreak Trumpeter": {
+  "rating": 3.061
+ },
+ "45131: Lowland Tracker": {
+  "rating": 2.542
+ },
+ "45132: Deftblade Elite": {
+  "rating": 3.981
+ },
+ "45133: Brontotherium": {
+  "rating": 3.793
+ },
+ "45134: Krosan Vorine": {
+  "rating": 3.883
+ },
+ "45150: Vile Deacon": {
+  "rating": 3.968
+ },
+ "45838: Aven Warhawk": {
+  "rating": 2.593
+ },
+ "45839: Cloudreach Cavalry": {
+  "rating": 3.32
+ },
+ "45840: Mistform Ultimus": {
+  "rating": 3.541
+ },
+ "45849: Canopy Crawler": {
+  "rating": 3.574
+ },
+ "46457: Skirk Drill Sergeant": {
+  "rating": 3.229
+ },
+ "46510: Withered Wretch": {
+  "rating": 4.365
+ }
+}

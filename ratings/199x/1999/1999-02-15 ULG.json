@@ -1,0 +1,431 @@
+{
+ "5571: Yavimaya Wurm": {
+  "rating": 3.554
+ },
+ "5675: Wing Snare": {
+  "rating": 3.065
+ },
+ "5682: Granite Grip": {
+  "rating": 3.262
+ },
+ "5703: Rank and File": {
+  "rating": 2.904
+ },
+ "5704: Mother of Runes": {
+  "rating": 4.583
+ },
+ "5709: Knighthood": {
+  "rating": 4.026
+ },
+ "8786: Ostracize": {
+  "rating": 4.091
+ },
+ "8814: Opal Avenger": {
+  "rating": 3.423
+ },
+ "8822: Might of Oaks": {
+  "rating": 4.406
+ },
+ "8830: Scrapheap": {
+  "rating": 2.864
+ },
+ "8831: Quicksilver Amulet": {
+  "rating": 4.242
+ },
+ "8832: Angel's Trumpet": {
+  "rating": 3.875
+ },
+ "8841: Memory Jar": {
+  "rating": 4.725
+ },
+ "8852: Thran Lens": {
+  "rating": 3.703
+ },
+ "8896: Jhoira's Toolbox": {
+  "rating": 3.893
+ },
+ "8897: Defense Grid": {
+  "rating": 4.448
+ },
+ "8903: Rivalry": {
+  "rating": 3.48
+ },
+ "9689: Molten Hydra": {
+  "rating": 3.807
+ },
+ "9691: Sick and Tired": {
+  "rating": 2.865
+ },
+ "9694: Swat": {
+  "rating": 3.048
+ },
+ "9699: Fog of Gnats": {
+  "rating": 4.292
+ },
+ "9705: Iron Maiden": {
+  "rating": 3.714
+ },
+ "9706: Wheel of Torture": {
+  "rating": 3.612
+ },
+ "9709: Peace and Quiet": {
+  "rating": 2.968
+ },
+ "9712: Martyr's Cause": {
+  "rating": 3.719
+ },
+ "9723: Treefolk Mystic": {
+  "rating": 2.862
+ },
+ "9840: Tethered Skirge": {
+  "rating": 2.078
+ },
+ "11588: Cloud of Faeries": {
+  "rating": 4.553
+ },
+ "12349: Delusions of Mediocrity": {
+  "rating": 3.742
+ },
+ "12352: Opal Champion": {
+  "rating": 3.42
+ },
+ "12353: Defender of Law": {
+  "rating": 3.355
+ },
+ "12354: Angelic Curator": {
+  "rating": 3.033
+ },
+ "12355: Tragic Poet": {
+  "rating": 3.574
+ },
+ "12356: Expendable Troops": {
+  "rating": 3.069
+ },
+ "12358: Iron Will": {
+  "rating": 2.442
+ },
+ "12359: Cessation": {
+  "rating": 3.362
+ },
+ "12360: Radiant's Judgment": {
+  "rating": 3.618
+ },
+ "12364: Radiant's Dragoons": {
+  "rating": 3.3
+ },
+ "12365: Planar Collapse": {
+  "rating": 3.986
+ },
+ "12366: Blessed Reversal": {
+  "rating": 3.886
+ },
+ "12367: Purify": {
+  "rating": 3.853
+ },
+ "12368: Radiant, Archangel": {
+  "rating": 4.139
+ },
+ "12369: Thornwind Faeries": {
+  "rating": 3.988
+ },
+ "12370: Weatherseed Faeries": {
+  "rating": 3.586
+ },
+ "12371: Vigilant Drake": {
+  "rating": 2.689
+ },
+ "12372: Bouncing Beebles": {
+  "rating": 3.756
+ },
+ "12374: Snap": {
+  "rating": 4.56
+ },
+ "12375: Frantic Search": {
+  "rating": 4.594
+ },
+ "12376: Miscalculation": {
+  "rating": 4.081
+ },
+ "12378: Intervene": {
+  "rating": 3.842
+ },
+ "12380: Walking Sponge": {
+  "rating": 3.905
+ },
+ "12381: Raven Familiar": {
+  "rating": 3.141
+ },
+ "12382: King Crab": {
+  "rating": 3.719
+ },
+ "12383: Tinker": {
+  "rating": 4.95
+ },
+ "12384: Slow Motion": {
+  "rating": 3.989
+ },
+ "12385: Rebuild": {
+  "rating": 3.973
+ },
+ "12386: Lurking Skirge": {
+  "rating": 3.853
+ },
+ "12387: Anthroplasm": {
+  "rating": 3.88
+ },
+ "12388: Levitation": {
+  "rating": 3.486
+ },
+ "12389: Fleeting Image": {
+  "rating": 3.271
+ },
+ "12390: Archivist": {
+  "rating": 3.87
+ },
+ "12391: Second Chance": {
+  "rating": 4.278
+ },
+ "12392: Phyrexian Broodlings": {
+  "rating": 3.482
+ },
+ "12393: Plague Beetle": {
+  "rating": 2.75
+ },
+ "12397: Sleeper's Guile": {
+  "rating": 3.6
+ },
+ "12398: Unearth": {
+  "rating": 4.583
+ },
+ "12400: Bone Shredder": {
+  "rating": 3.987
+ },
+ "12403: Treacherous Link": {
+  "rating": 3.843
+ },
+ "12404: Eviscerator": {
+  "rating": 3.033
+ },
+ "12406: Brink of Madness": {
+  "rating": 3.812
+ },
+ "12407: Subversion": {
+  "rating": 3.722
+ },
+ "12408: No Mercy": {
+  "rating": 4.589
+ },
+ "12410: Viashino Sandscout": {
+  "rating": 3.63
+ },
+ "12411: Defender of Chaos": {
+  "rating": 4.065
+ },
+ "12412: Pygmy Pyrosaur": {
+  "rating": 2.913
+ },
+ "12414: About Face": {
+  "rating": 3.398
+ },
+ "12415: Parch": {
+  "rating": 2.818
+ },
+ "12416: Sluggishness": {
+  "rating": 2.685
+ },
+ "12418: Avalanche Riders": {
+  "rating": 4.068
+ },
+ "12419: Viashino Cutthroat": {
+  "rating": 3.803
+ },
+ "12422: Rack and Ruin": {
+  "rating": 4.011
+ },
+ "12423: Shivan Phoenix": {
+  "rating": 3.647
+ },
+ "12424: Viashino Heretic": {
+  "rating": 4.443
+ },
+ "12426: Impending Disaster": {
+  "rating": 4.037
+ },
+ "12427: Multani's Acolyte": {
+  "rating": 3.697
+ },
+ "12428: Simian Grunts": {
+  "rating": 3.784
+ },
+ "12429: Yavimaya Scion": {
+  "rating": 3.08
+ },
+ "12430: Weatherseed Elf": {
+  "rating": 2.588
+ },
+ "12432: Crop Rotation": {
+  "rating": 4.586
+ },
+ "12433: Rancor": {
+  "rating": 4.511
+ },
+ "12435: Darkwatch Elves": {
+  "rating": 3.389
+ },
+ "12436: Lone Wolf": {
+  "rating": 3.848
+ },
+ "12437: Harmonic Convergence": {
+  "rating": 3.5
+ },
+ "12438: Weatherseed Treefolk": {
+  "rating": 4.399
+ },
+ "12440: Multani, Maro-Sorcerer": {
+  "rating": 4.147
+ },
+ "12441: Hidden Gibbons": {
+  "rating": 4.398
+ },
+ "12442: Defense of the Heart": {
+  "rating": 4.572
+ },
+ "12458: Deranged Hermit": {
+  "rating": 4.42
+ },
+ "12462: Bloated Toad": {
+  "rating": 3.111
+ },
+ "12475: Ghitu Slinger": {
+  "rating": 3.5
+ },
+ "12490: Multani's Presence": {
+  "rating": 3.73
+ },
+ "12494: Forbidding Watchtower": {
+  "rating": 3.909
+ },
+ "12495: Faerie Conclave": {
+  "rating": 4.295
+ },
+ "12496: Spawning Pool": {
+  "rating": 4.134
+ },
+ "12497: Ghitu Encampment": {
+  "rating": 4.095
+ },
+ "12498: Treetop Village": {
+  "rating": 4.352
+ },
+ "12501: Ring of Gix": {
+  "rating": 3.689
+ },
+ "12503: Damping Engine": {
+  "rating": 3.75
+ },
+ "12504: Beast of Burden": {
+  "rating": 3.878
+ },
+ "12505: Crawlspace": {
+  "rating": 4.245
+ },
+ "12580: Palinchron": {
+  "rating": 4.44
+ },
+ "12614: Phyrexian Denouncer": {
+  "rating": 2.569
+ },
+ "12625: Thran War Machine": {
+  "rating": 2.352
+ },
+ "12626: Grim Monolith": {
+  "rating": 4.576
+ },
+ "12633: Urza's Blueprints": {
+  "rating": 2.823
+ },
+ "12643: Goblin Medics": {
+  "rating": 3.35
+ },
+ "12646: Thran Weaponry": {
+  "rating": 2.907
+ },
+ "12647: Ticking Gnomes": {
+  "rating": 2.656
+ },
+ "12656: Yavimaya Granger": {
+  "rating": 3.774
+ },
+ "12668: Pyromancy": {
+  "rating": 3.839
+ },
+ "12672: Repopulate": {
+  "rating": 4.174
+ },
+ "12696: Phyrexian Defiler": {
+  "rating": 3.591
+ },
+ "12697: Phyrexian Debaser": {
+  "rating": 3.109
+ },
+ "12813: Devout Harpist": {
+  "rating": 3.305
+ },
+ "12814: Sustainer of the Realm": {
+  "rating": 3.16
+ },
+ "12815: Ghitu Fire-Eater": {
+  "rating": 3.413
+ },
+ "12822: Opportunity": {
+  "rating": 4.026
+ },
+ "12940: Phyrexian Plaguelord": {
+  "rating": 4.178
+ },
+ "12941: Erase": {
+  "rating": 4.243
+ },
+ "12942: Hope and Glory": {
+  "rating": 3.25
+ },
+ "12943: Aura Flux": {
+  "rating": 3.946
+ },
+ "12944: Engineered Plague": {
+  "rating": 4.293
+ },
+ "12945: Phyrexian Reclamation": {
+  "rating": 4.196
+ },
+ "12946: Giant Cockroach": {
+  "rating": 2.615
+ },
+ "12947: Lava Axe": {
+  "rating": 3.309
+ },
+ "12948: Viashino Bey": {
+  "rating": 2.621
+ },
+ "12949: Silk Net": {
+  "rating": 2.188
+ },
+ "12950: Gang of Elk": {
+  "rating": 3.517
+ },
+ "12955: Karmic Guide": {
+  "rating": 4.352
+ },
+ "13001: Goblin Welder": {
+  "rating": 4.586
+ },
+ "13806: Burst of Energy": {
+  "rating": 2.151
+ },
+ "13810: Ghitu War Cry": {
+  "rating": 3.724
+ },
+ "13812: Last-Ditch Effort": {
+  "rating": 3.957
+ }
+}

@@ -1,0 +1,542 @@
+{
+ "141942: Heartlash Cinder": {
+  "rating": 2.939
+ },
+ "142010: Inundate": {
+  "rating": 3.33
+ },
+ "142015: Marshdrinker Giant": {
+  "rating": 2.729
+ },
+ "142054: Soul Snuffers": {
+  "rating": 3.296
+ },
+ "146006: Archon of Justice": {
+  "rating": 3.944
+ },
+ "146010: Doomgape": {
+  "rating": 4.225
+ },
+ "147373: Regal Force": {
+  "rating": 4.291
+ },
+ "147413: Hatchet Bully": {
+  "rating": 2.675
+ },
+ "147437: Lingering Tormentor": {
+  "rating": 2.181
+ },
+ "150975: Duergar Assailant": {
+  "rating": 2.514
+ },
+ "150977: Odious Trow": {
+  "rating": 3.02
+ },
+ "150986: Nip Gwyllion": {
+  "rating": 3.922
+ },
+ "150992: Helix Pinnacle": {
+  "rating": 3.636
+ },
+ "150995: Divinity of Pride": {
+  "rating": 4.268
+ },
+ "150999: Slippery Bogle": {
+  "rating": 4.05
+ },
+ "151059: Loyal Gyrfalcon": {
+  "rating": 1.973
+ },
+ "151060: Cauldron Haze": {
+  "rating": 3.602
+ },
+ "151067: Cinder Pyromancer": {
+  "rating": 2.974
+ },
+ "151068: Riverfall Mimic": {
+  "rating": 3.434
+ },
+ "151079: Drain the Well": {
+  "rating": 2.565
+ },
+ "151083: Unmake": {
+  "rating": 4.232
+ },
+ "151088: Merrow Levitator": {
+  "rating": 2.641
+ },
+ "151089: Flickerwisp": {
+  "rating": 3.843
+ },
+ "151090: Hobgoblin Dragoon": {
+  "rating": 2.259
+ },
+ "151095: Nettle Sentinel": {
+  "rating": 4.505
+ },
+ "151096: Tilling Treefolk": {
+  "rating": 2.94
+ },
+ "151097: Wickerbough Elder": {
+  "rating": 4.112
+ },
+ "151098: Bloodied Ghost": {
+  "rating": 2.696
+ },
+ "151099: Nightsky Mimic": {
+  "rating": 3.722
+ },
+ "151106: Duergar Mine-Captain": {
+  "rating": 2.798
+ },
+ "151108: Invert the Skies": {
+  "rating": 3.229
+ },
+ "151113: Phosphorescent Feast": {
+  "rating": 2.019
+ },
+ "151114: Rise of the Hobgoblins": {
+  "rating": 3.944
+ },
+ "151118: Favor of the Overbeing": {
+  "rating": 3.602
+ },
+ "151120: Stalker Hag": {
+  "rating": 3.568
+ },
+ "151124: Stream Hopper": {
+  "rating": 2.708
+ },
+ "151132: Mindwrack Liege": {
+  "rating": 3.862
+ },
+ "151135: Worm Harvest": {
+  "rating": 4.008
+ },
+ "151137: Ashling, the Extinguisher": {
+  "rating": 4.033
+ },
+ "151139: Light from Within": {
+  "rating": 4.061
+ },
+ "151142: Talara's Bane": {
+  "rating": 2.542
+ },
+ "151143: Wistful Selkie": {
+  "rating": 3.421
+ },
+ "151147: Shorecrasher Mimic": {
+  "rating": 3.571
+ },
+ "151149: Fire at Will": {
+  "rating": 2.373
+ },
+ "151150: Soul Reap": {
+  "rating": 3.694
+ },
+ "151151: Overbeing of Myth": {
+  "rating": 4.043
+ },
+ "151153: Gift of the Deity": {
+  "rating": 3.321
+ },
+ "151154: Dominus of Fealty": {
+  "rating": 4.179
+ },
+ "151155: Edge of the Divinity": {
+  "rating": 4.06
+ },
+ "151158: Merrow Bonegnawer": {
+  "rating": 2.542
+ },
+ "151164: Duskdale Wurm": {
+  "rating": 2.991
+ },
+ "151165: Battlegate Mimic": {
+  "rating": 3.074
+ },
+ "151169: Spirit of the Hearth": {
+  "rating": 3.827
+ },
+ "152015: Scourge of the Nobilis": {
+  "rating": 4.068
+ },
+ "152032: Noggle Ransacker": {
+  "rating": 3
+ },
+ "152033: Canker Abomination": {
+  "rating": 3.283
+ },
+ "152034: Puncture Blast": {
+  "rating": 3.456
+ },
+ "152044: Spitemare": {
+  "rating": 4.094
+ },
+ "152046: Gilder Bairn": {
+  "rating": 4.348
+ },
+ "152049: Impelled Giant": {
+  "rating": 3.013
+ },
+ "152080: Necroskitter": {
+  "rating": 4.162
+ },
+ "152086: Quillspike": {
+  "rating": 4.295
+ },
+ "152087: Fable of Wolf and Owl": {
+  "rating": 3.922
+ },
+ "152089: Harvest Gwyllion": {
+  "rating": 2.564
+ },
+ "152091: Murkfiend Liege": {
+  "rating": 4.108
+ },
+ "152092: Clout of the Dominus": {
+  "rating": 4.091
+ },
+ "152096: Kithkin Spellduster": {
+  "rating": 2.244
+ },
+ "152106: Mirror Sheen": {
+  "rating": 3.217
+ },
+ "152140: Trapjaw Kelpie": {
+  "rating": 2.056
+ },
+ "152155: Hateflayer": {
+  "rating": 3.946
+ },
+ "153032: Springjack Shepherd": {
+  "rating": 3.708
+ },
+ "153036: Dream Fracture": {
+  "rating": 3.508
+ },
+ "153037: Stillmoon Cavalier": {
+  "rating": 4.298
+ },
+ "153039: Double Cleave": {
+  "rating": 3.629
+ },
+ "153049: Stigma Lasher": {
+  "rating": 4.317
+ },
+ "153056: Groundling Pouncer": {
+  "rating": 2.479
+ },
+ "153058: Nucklavee": {
+  "rating": 3.627
+ },
+ "153419: Cache Raiders": {
+  "rating": 2.327
+ },
+ "153420: Suture Spirit": {
+  "rating": 2.979
+ },
+ "153422: Indigo Faerie": {
+  "rating": 2.256
+ },
+ "153425: Twilight Mire": {
+  "rating": 4.375
+ },
+ "153426: Hotheaded Giant": {
+  "rating": 2.688
+ },
+ "153427: Aerie Ouphes": {
+  "rating": 2.779
+ },
+ "153428: Grazing Kelpie": {
+  "rating": 2.321
+ },
+ "153430: Talonrend": {
+  "rating": 1.387
+ },
+ "153431: Primalcrux": {
+  "rating": 4.346
+ },
+ "153432: Flame Jab": {
+  "rating": 3.284
+ },
+ "153433: Cascade Bluffs": {
+  "rating": 4.404
+ },
+ "153434: Rugged Prairie": {
+  "rating": 4.389
+ },
+ "153435: Recumbent Bliss": {
+  "rating": 3.389
+ },
+ "153436: Twinblade Slasher": {
+  "rating": 3.985
+ },
+ "153437: Duergar Cave-Guard": {
+  "rating": 2.477
+ },
+ "153438: Savage Conception": {
+  "rating": 2.212
+ },
+ "153439: Glamerdye": {
+  "rating": 2.98
+ },
+ "153441: Monstrify": {
+  "rating": 2.107
+ },
+ "153442: Razorfin Abolisher": {
+  "rating": 2.959
+ },
+ "153444: Voracious Hatchling": {
+  "rating": 3.805
+ },
+ "153446: Fetid Heath": {
+  "rating": 4.384
+ },
+ "153447: Syphon Life": {
+  "rating": 3.083
+ },
+ "153448: Noxious Hatchling": {
+  "rating": 3.524
+ },
+ "153469: Cenn's Enlistment": {
+  "rating": 2.795
+ },
+ "153471: Cold-Eyed Selkie": {
+  "rating": 4.199
+ },
+ "153473: Outrage Shaman": {
+  "rating": 2.65
+ },
+ "153474: Needle Specter": {
+  "rating": 3.617
+ },
+ "153475: Oona's Grace": {
+  "rating": 2.863
+ },
+ "153476: Wilderness Hypnotist": {
+  "rating": 1.021
+ },
+ "153477: Sturdy Hatchling": {
+  "rating": 3.214
+ },
+ "153478: Belligerent Hatchling": {
+  "rating": 3.44
+ },
+ "153480: Ballynock Trapper": {
+  "rating": 3.268
+ },
+ "153481: Flooded Grove": {
+  "rating": 4.397
+ },
+ "153486: Shrewd Hatchling": {
+  "rating": 3.383
+ },
+ "153487: Raven's Crime": {
+  "rating": 4.2
+ },
+ "153488: Deity of Scars": {
+  "rating": 4.081
+ },
+ "154258: Nobilis of War": {
+  "rating": 3.712
+ },
+ "154261: Spitting Image": {
+  "rating": 3.675
+ },
+ "154263: Inside Out": {
+  "rating": 3.317
+ },
+ "154346: Kithkin Zealot": {
+  "rating": 2.22
+ },
+ "154348: Swirling Spriggan": {
+  "rating": 2.712
+ },
+ "154350: Banishing Knack": {
+  "rating": 3.426
+ },
+ "157199: Endure": {
+  "rating": 1.86
+ },
+ "157200: Fiery Bombardment": {
+  "rating": 2.024
+ },
+ "157201: Hearthfire Hobgoblin": {
+  "rating": 3.66
+ },
+ "157202: Unwilling Recruit": {
+  "rating": 3.481
+ },
+ "157204: Sanity Grinding": {
+  "rating": 3.517
+ },
+ "157206: Creakwood Ghoul": {
+  "rating": 2.284
+ },
+ "157207: Dream Thief": {
+  "rating": 2.256
+ },
+ "157210: Patrol Signaler": {
+  "rating": 2.915
+ },
+ "157211: Smoldering Butcher": {
+  "rating": 3.167
+ },
+ "157285: Crag Puca": {
+  "rating": 3.011
+ },
+ "157286: Noggle Bandit": {
+  "rating": 3.672
+ },
+ "157288: Deathbringer Liege": {
+  "rating": 4.195
+ },
+ "157291: Restless Apparition": {
+  "rating": 3.638
+ },
+ "157393: Cankerous Thirst": {
+  "rating": 3.1
+ },
+ "157394: Hallowed Burial": {
+  "rating": 4.069
+ },
+ "157395: Talara's Battalion": {
+  "rating": 4.16
+ },
+ "157397: Pyrrhic Revival": {
+  "rating": 3.638
+ },
+ "157399: Umbra Stalker": {
+  "rating": 3.343
+ },
+ "157400: Call the Skybreaker": {
+  "rating": 3.136
+ },
+ "157401: Snakeform": {
+  "rating": 4.287
+ },
+ "157403: Moonhold": {
+  "rating": 3.333
+ },
+ "157405: Wake Thrasher": {
+  "rating": 4.491
+ },
+ "157406: Creakwood Liege": {
+  "rating": 4.205
+ },
+ "157407: Batwing Brume": {
+  "rating": 3.711
+ },
+ "157411: Thunderblust": {
+  "rating": 3.973
+ },
+ "157412: Idle Thoughts": {
+  "rating": 2.6
+ },
+ "157414: Nightmare Incursion": {
+  "rating": 3.432
+ },
+ "157415: Beckon Apparition": {
+  "rating": 4.102
+ },
+ "157416: Unnerving Assault": {
+  "rating": 1.914
+ },
+ "157419: Desecrator Hag": {
+  "rating": 2.544
+ },
+ "157420: Crackleburr": {
+  "rating": 3.901
+ },
+ "157971: Leering Emblem": {
+  "rating": 3.119
+ },
+ "157972: Ward of Bones": {
+  "rating": 3.575
+ },
+ "157973: Sapling of Colfenor": {
+  "rating": 3.836
+ },
+ "157974: Altar Golem": {
+  "rating": 2.694
+ },
+ "157975: Endless Horizons": {
+  "rating": 3.947
+ },
+ "157976: Springjack Pasture": {
+  "rating": 3.912
+ },
+ "157977: Glen Elendra Archmage": {
+  "rating": 4.508
+ },
+ "157978: Evershrike": {
+  "rating": 3.938
+ },
+ "157979: Scarecrone": {
+  "rating": 4.488
+ },
+ "157980: Hag Hedge-Mage": {
+  "rating": 3.479
+ },
+ "158103: Crumbling Ashes": {
+  "rating": 3.31
+ },
+ "158104: Balefire Liege": {
+  "rating": 4.074
+ },
+ "158106: Figure of Destiny": {
+  "rating": 4.486
+ },
+ "158107: Waves of Aggression": {
+  "rating": 3.833
+ },
+ "158108: Rekindled Flame": {
+  "rating": 3.698
+ },
+ "158293: Antler Skulkin": {
+  "rating": 2.111
+ },
+ "158294: Hoof Skulkin": {
+  "rating": 1.755
+ },
+ "158295: Jawbone Skulkin": {
+  "rating": 2.026
+ },
+ "158296: Fang Skulkin": {
+  "rating": 2.759
+ },
+ "158297: Shell Skulkin": {
+  "rating": 2.406
+ },
+ "158599: Woodlurker Mimic": {
+  "rating": 3.377
+ },
+ "158899: Noggle Bridgebreaker": {
+  "rating": 2.224
+ },
+ "158900: Soot Imp": {
+  "rating": 3.4
+ },
+ "158901: Bloom Tender": {
+  "rating": 4.411
+ },
+ "158902: Rendclaw Trow": {
+  "rating": 3.286
+ },
+ "158903: Chaotic Backlash": {
+  "rating": 2.667
+ },
+ "159066: Noggle Hedge-Mage": {
+  "rating": 3.293
+ },
+ "159067: Selkie Hedge-Mage": {
+  "rating": 3.079
+ },
+ "159068: Duergar Hedge-Mage": {
+  "rating": 3.806
+ },
+ "159069: Gwyllion Hedge-Mage": {
+  "rating": 3.353
+ }
+}

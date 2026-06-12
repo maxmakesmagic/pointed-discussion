@@ -1,0 +1,905 @@
+{
+ "139395: Burrenton Forge-Tender": {
+  "rating": 3.706
+ },
+ "139396: Plover Knights": {
+  "rating": 2.243
+ },
+ "139397: Goldmeadow Harrier": {
+  "rating": 4.158
+ },
+ "139399: Kithkin Harbinger": {
+  "rating": 3.066
+ },
+ "139400: Wellgabber Apothecary": {
+  "rating": 2
+ },
+ "139401: Lys Alana Huntmaster": {
+  "rating": 3.809
+ },
+ "139403: Kinsbaile Balloonist": {
+  "rating": 2.736
+ },
+ "139404: Lammastide Weave": {
+  "rating": 2.294
+ },
+ "139406: Judge of Currents": {
+  "rating": 3.453
+ },
+ "139407: Harpoon Sniper": {
+  "rating": 3.064
+ },
+ "139410: Bog-Strider Ash": {
+  "rating": 1.878
+ },
+ "139411: Shields of Velis Vel": {
+  "rating": 2.887
+ },
+ "139414: Oblivion Ring": {
+  "rating": 4.344
+ },
+ "139419: Inkfathom Divers": {
+  "rating": 2.45
+ },
+ "139420: Merrow Harbinger": {
+  "rating": 3.194
+ },
+ "139424: Streambed Aquitects": {
+  "rating": 3.238
+ },
+ "139426: Sentinels of Glen Elendra": {
+  "rating": 2.817
+ },
+ "139427: Faerie Harbinger": {
+  "rating": 3.128
+ },
+ "139428: Pestermite": {
+  "rating": 4.109
+ },
+ "139429: Spellstutter Sprite": {
+  "rating": 4.465
+ },
+ "139431: Ethereal Whiskergill": {
+  "rating": 2.288
+ },
+ "139435: Faerie Trickery": {
+  "rating": 3.842
+ },
+ "139436: Glimmerdust Nap": {
+  "rating": 2
+ },
+ "139440: Footbottom Feast": {
+  "rating": 3.52
+ },
+ "139441: Boggart Harbinger": {
+  "rating": 3.138
+ },
+ "139445: Boggart Shenanigans": {
+  "rating": 3.306
+ },
+ "139446: Nath's Buffoon": {
+  "rating": 2
+ },
+ "139447: Ghostly Changeling": {
+  "rating": 2.684
+ },
+ "139449: Eyeblight's Ending": {
+  "rating": 4.031
+ },
+ "139450: Warren-Scourge Elf": {
+  "rating": 1.947
+ },
+ "139451: Nectar Faerie": {
+  "rating": 3.114
+ },
+ "139452: Thieving Sprite": {
+  "rating": 2.929
+ },
+ "139453: Dreamspoiler Witches": {
+  "rating": 2.712
+ },
+ "139454: Black Poplar Shaman": {
+  "rating": 2.153
+ },
+ "139456: Nightshade Stinger": {
+  "rating": 2.896
+ },
+ "139458: Peppersmoke": {
+  "rating": 3.484
+ },
+ "139461: Flamekin Brawler": {
+  "rating": 2.94
+ },
+ "139462: Inner-Flame Igniter": {
+  "rating": 2.985
+ },
+ "139463: Flamekin Harbinger": {
+  "rating": 3.947
+ },
+ "139465: Smokebraider": {
+  "rating": 4.021
+ },
+ "139466: Ceaseless Searblades": {
+  "rating": 2.946
+ },
+ "139467: Soulbright Flamekin": {
+  "rating": 3.833
+ },
+ "139468: Heat Shimmer": {
+  "rating": 3
+ },
+ "139469: Quill-Slinger Boggart": {
+  "rating": 2.294
+ },
+ "139470: Tar Pitcher": {
+  "rating": 2.97
+ },
+ "139471: Caterwauling Boggart": {
+  "rating": 3
+ },
+ "139474: Giant Harbinger": {
+  "rating": 2.853
+ },
+ "139476: Tarfire": {
+  "rating": 4.279
+ },
+ "139477: Giant's Ire": {
+  "rating": 2.648
+ },
+ "139480: Blades of Velis Vel": {
+  "rating": 2.759
+ },
+ "139483: Moonglove Winnower": {
+  "rating": 2.727
+ },
+ "139485: Elvish Harbinger": {
+  "rating": 3.688
+ },
+ "139487: Leaf Gilder": {
+  "rating": 2.553
+ },
+ "139489: Spring Cleaning": {
+  "rating": 3.179
+ },
+ "139492: Cloudcrown Oak": {
+  "rating": 3.075
+ },
+ "139494: Oakgnarl Warrior": {
+  "rating": 3.069
+ },
+ "139495: Treefolk Harbinger": {
+  "rating": 4.115
+ },
+ "139497: Kithkin Mourncaller": {
+  "rating": 2.97
+ },
+ "139498: Kithkin Daggerdare": {
+  "rating": 2.441
+ },
+ "139499: Rootgrapple": {
+  "rating": 3.304
+ },
+ "139502: Fertile Ground": {
+  "rating": 3.946
+ },
+ "139505: Thousand-Year Elixir": {
+  "rating": 4.361
+ },
+ "139506: Moonglove Extract": {
+  "rating": 2.587
+ },
+ "139508: Runed Stalactite": {
+  "rating": 3.26
+ },
+ "139509: Springleaf Drum": {
+  "rating": 3.608
+ },
+ "139510: Wanderer's Twig": {
+  "rating": 2.795
+ },
+ "139511: Soaring Hope": {
+  "rating": 1.475
+ },
+ "139512: Ponder": {
+  "rating": 4.538
+ },
+ "139513: Howltooth Hollow": {
+  "rating": 2.5
+ },
+ "139514: Spinerock Knoll": {
+  "rating": 3.755
+ },
+ "139515: Mosswort Bridge": {
+  "rating": 3.91
+ },
+ "139663: Merrow Commerce": {
+  "rating": 3.953
+ },
+ "139664: Cloudgoat Ranger": {
+  "rating": 3.954
+ },
+ "139665: Guardian of Cloverdell": {
+  "rating": 2.2
+ },
+ "139666: Galepowder Mage": {
+  "rating": 3.558
+ },
+ "139667: Sunrise Sovereign": {
+  "rating": 4.075
+ },
+ "139668: Scattering Stroke": {
+  "rating": 3.122
+ },
+ "139669: Veteran of the Depths": {
+  "rating": 3.088
+ },
+ "139670: Makeshift Mannequin": {
+  "rating": 3.857
+ },
+ "139674: Scarred Vinebreeder": {
+  "rating": 2.033
+ },
+ "139676: Elvish Promenade": {
+  "rating": 3.781
+ },
+ "139678: Wings of Velis Vel": {
+  "rating": 3.188
+ },
+ "139679: Rebellion of the Flamekin": {
+  "rating": 3.206
+ },
+ "139682: Silvergill Adept": {
+  "rating": 4.264
+ },
+ "139683: Imperious Perfect": {
+  "rating": 4.257
+ },
+ "139685: Faerie Tauntings": {
+  "rating": 2.892
+ },
+ "139686: Ingot Chewer": {
+  "rating": 4.167
+ },
+ "139687: Protective Bubble": {
+  "rating": 3.36
+ },
+ "139688: Consuming Bonfire": {
+  "rating": 1.42
+ },
+ "139690: Timber Protector": {
+  "rating": 4.112
+ },
+ "139691: Hearthcage Giant": {
+  "rating": 3.081
+ },
+ "139692: Ego Erasure": {
+  "rating": 2.762
+ },
+ "139693: Neck Snap": {
+  "rating": 2.267
+ },
+ "139696: Benthicore": {
+  "rating": 3.095
+ },
+ "139698: Goldmeadow Stalwart": {
+  "rating": 3.984
+ },
+ "139702: Merrow Reejerey": {
+  "rating": 4.452
+ },
+ "139703: Lignify": {
+  "rating": 3.67
+ },
+ "139705: Marsh Flitter": {
+  "rating": 3.049
+ },
+ "139708: Mad Auntie": {
+  "rating": 4.093
+ },
+ "139709: Boggart Loggers": {
+  "rating": 2.276
+ },
+ "139710: Squeaking Pie Sneak": {
+  "rating": 3.241
+ },
+ "139715: Knight of Meadowgrain": {
+  "rating": 4.164
+ },
+ "139716: Wizened Cenn": {
+  "rating": 3.793
+ },
+ "139721: Immaculate Magistrate": {
+  "rating": 4.111
+ },
+ "139723: Hunter of Eyeblights": {
+  "rating": 3.024
+ },
+ "139726: Jagged-Scar Archers": {
+  "rating": 4.05
+ },
+ "139727: Deathrender": {
+  "rating": 4.216
+ },
+ "139728: Flamekin Spitfire": {
+  "rating": 1.948
+ },
+ "139730: Incandescent Soulstoke": {
+  "rating": 4.233
+ },
+ "139736: Wren's Run Vanquisher": {
+  "rating": 4.144
+ },
+ "139738: Thundercloud Shaman": {
+  "rating": 3.512
+ },
+ "139740: Herbal Poultice": {
+  "rating": 2.15
+ },
+ "139741: Scion of Oona": {
+  "rating": 4.407
+ },
+ "139742: Mudbutton Torchrunner": {
+  "rating": 3.396
+ },
+ "140164: Hostility": {
+  "rating": 3.691
+ },
+ "140165: Sower of Temptation": {
+  "rating": 4.449
+ },
+ "140166: Thorn of Amethyst": {
+  "rating": 4.372
+ },
+ "140168: Dread": {
+  "rating": 4.246
+ },
+ "140171: Cairn Wanderer": {
+  "rating": 4.078
+ },
+ "140172: Sygg, River Guide": {
+  "rating": 3.918
+ },
+ "140176: Chandra Nalaar": {
+  "rating": 4.101
+ },
+ "140177: Wanderwine Prophets": {
+  "rating": 3.841
+ },
+ "140183: Lowland Oaf": {
+  "rating": 2.621
+ },
+ "140184: Masked Admirers": {
+  "rating": 3.606
+ },
+ "140188: Gaddock Teeg": {
+  "rating": 4.477
+ },
+ "140189: Arbiter of Knollridge": {
+  "rating": 3.054
+ },
+ "140190: Guile": {
+  "rating": 4.069
+ },
+ "140193: Militia's Pride": {
+  "rating": 3.948
+ },
+ "140194: Wren's Run Packmaster": {
+  "rating": 4.214
+ },
+ "140200: Shapesharer": {
+  "rating": 3.64
+ },
+ "140201: Doran, the Siege Tower": {
+  "rating": 4.197
+ },
+ "140205: Garruk Wildspeaker": {
+  "rating": 4.06
+ },
+ "140206: Dolmen Gate": {
+  "rating": 4.087
+ },
+ "140209: Colfenor's Urn": {
+  "rating": 3.081
+ },
+ "140212: Liliana Vess": {
+  "rating": 4.136
+ },
+ "140214: Purity": {
+  "rating": 4.011
+ },
+ "140216: Rings of Brighthearth": {
+  "rating": 4.355
+ },
+ "140217: Brion Stoutarm": {
+  "rating": 4.22
+ },
+ "140219: Horde of Notions": {
+  "rating": 4.034
+ },
+ "140222: Jace Beleren": {
+  "rating": 3.812
+ },
+ "140226: Wort, Boggart Auntie": {
+  "rating": 4.067
+ },
+ "140227: Vigor": {
+  "rating": 4.263
+ },
+ "140229: Wydwen, the Biting Gale": {
+  "rating": 3.415
+ },
+ "140230: Boggart Mob": {
+  "rating": 3.798
+ },
+ "140232: Thoughtweft Trio": {
+  "rating": 4.059
+ },
+ "140233: Ajani Goldmane": {
+  "rating": 3.801
+ },
+ "140239: Nova Chaser": {
+  "rating": 4.106
+ },
+ "140338: Fire-Belly Changeling": {
+  "rating": 2.518
+ },
+ "140339: Amoeboid Changeling": {
+  "rating": 3.396
+ },
+ "140343: Flamekin Bladewhirl": {
+  "rating": 2.933
+ },
+ "140345: Changeling Titan": {
+  "rating": 3.71
+ },
+ "141802: Shimmering Grotto": {
+  "rating": 2.885
+ },
+ "141804: Elvish Eulogist": {
+  "rating": 2.162
+ },
+ "141814: Profane Command": {
+  "rating": 4.128
+ },
+ "141817: Austere Command": {
+  "rating": 4.033
+ },
+ "141818: Mirror Entity": {
+  "rating": 4.356
+ },
+ "141819: Cryptic Command": {
+  "rating": 4.326
+ },
+ "141822: Ashling the Pilgrim": {
+  "rating": 4.019
+ },
+ "141824: Primal Command": {
+  "rating": 3.98
+ },
+ "141825: Mistbind Clique": {
+  "rating": 4.039
+ },
+ "141828: Surgespanner": {
+  "rating": 3.65
+ },
+ "141829: Brigid, Hero of Kinsbaile": {
+  "rating": 4.025
+ },
+ "141830: Incendiary Command": {
+  "rating": 3.515
+ },
+ "141851: Dauntless Dourbark": {
+  "rating": 4.223
+ },
+ "141853: Silvergill Douser": {
+  "rating": 3.52
+ },
+ "141857: Battlewand Oak": {
+  "rating": 3.378
+ },
+ "141879: Vivid Grove": {
+  "rating": 3.566
+ },
+ "141880: Vivid Marsh": {
+  "rating": 3.4
+ },
+ "141881: Vivid Creek": {
+  "rating": 3.512
+ },
+ "141882: Vivid Crag": {
+  "rating": 3.698
+ },
+ "141883: Vivid Meadow": {
+  "rating": 3.442
+ },
+ "142352: Deeptread Merrow": {
+  "rating": 2.233
+ },
+ "142354: Aquitect's Will": {
+  "rating": 3.611
+ },
+ "142355: Hornet Harasser": {
+  "rating": 2.625
+ },
+ "142356: Goldmeadow Dodger": {
+  "rating": 2.671
+ },
+ "142357: Zephyr Net": {
+  "rating": 2.211
+ },
+ "142358: Stonybrook Angler": {
+  "rating": 2.885
+ },
+ "142359: Boggart Birth Rite": {
+  "rating": 3.067
+ },
+ "142360: Cenn's Heir": {
+  "rating": 3.373
+ },
+ "142361: Facevaulter": {
+  "rating": 3.034
+ },
+ "142362: Tideshaper Mystic": {
+  "rating": 3.133
+ },
+ "142363: Goatnapper": {
+  "rating": 4.127
+ },
+ "142365: Briarhorn": {
+  "rating": 3.564
+ },
+ "143015: Thorntooth Witch": {
+  "rating": 2.878
+ },
+ "143016: Springjack Knight": {
+  "rating": 2.803
+ },
+ "143018: Kinsbaile Skirmisher": {
+  "rating": 3.146
+ },
+ "143021: Lys Alana Scarblade": {
+  "rating": 3.131
+ },
+ "143370: Nath of the Gilt-Leaf": {
+  "rating": 4.009
+ },
+ "143372: Fistful of Force": {
+  "rating": 2.457
+ },
+ "143375: Twinning Glass": {
+  "rating": 2.539
+ },
+ "143376: Lace with Moonglove": {
+  "rating": 3.316
+ },
+ "143380: Crib Swap": {
+  "rating": 4.065
+ },
+ "143381: Hurly-Burly": {
+  "rating": 3.402
+ },
+ "143383: Lairwatch Giant": {
+  "rating": 3.088
+ },
+ "143384: Crush Underfoot": {
+  "rating": 2.586
+ },
+ "143388: Nameless Inversion": {
+  "rating": 4.265
+ },
+ "143607: Stinkdrinker Daredevil": {
+  "rating": 3.657
+ },
+ "143609: Knucklebone Witch": {
+  "rating": 3.708
+ },
+ "143611: Hunt Down": {
+  "rating": 2.108
+ },
+ "143617: Forest": {
+  "rating": 4.63
+ },
+ "143618: Forest": {
+  "rating": 4.68
+ },
+ "143619: Island": {
+  "rating": 4
+ },
+ "143620: Plains": {
+  "rating": 4.625
+ },
+ "143621: Plains": {
+  "rating": 4.065
+ },
+ "143622: Plains": {
+  "rating": 4.484
+ },
+ "143623: Mountain": {
+  "rating": 4.696
+ },
+ "143624: Island": {
+  "rating": 4.741
+ },
+ "143625: Forest": {
+  "rating": 4.27
+ },
+ "143626: Mountain": {
+  "rating": 4.381
+ },
+ "143627: Mountain": {
+  "rating": 4.138
+ },
+ "143628: Island": {
+  "rating": 4.673
+ },
+ "143629: Swamp": {
+  "rating": 4.446
+ },
+ "143630: Plains": {
+  "rating": 3.934
+ },
+ "143631: Mountain": {
+  "rating": 4.75
+ },
+ "143632: Island": {
+  "rating": 4.667
+ },
+ "143633: Forest": {
+  "rating": 4.5
+ },
+ "143634: Swamp": {
+  "rating": 4.436
+ },
+ "143635: Swamp": {
+  "rating": 4.203
+ },
+ "143636: Swamp": {
+  "rating": 4.682
+ },
+ "143682: Hamletback Goliath": {
+  "rating": 3.866
+ },
+ "143683: Favor of the Mighty": {
+  "rating": 3.098
+ },
+ "143684: Summon the School": {
+  "rating": 3.638
+ },
+ "143728: Eyes of the Wisent": {
+  "rating": 4.164
+ },
+ "143730: Hoofprints of the Stag": {
+  "rating": 4.088
+ },
+ "143731: Nettlevine Blight": {
+  "rating": 3.785
+ },
+ "143732: Epic Proportions": {
+  "rating": 3.686
+ },
+ "145798: Windbrisk Heights": {
+  "rating": 3.753
+ },
+ "145799: Surge of Thoughtweft": {
+  "rating": 3.085
+ },
+ "145800: Mournwhelk": {
+  "rating": 2.176
+ },
+ "145801: Dawnfluke": {
+  "rating": 2.625
+ },
+ "145802: Ringskipper": {
+  "rating": 2.726
+ },
+ "145803: Fallowsage": {
+  "rating": 3.636
+ },
+ "145804: Changeling Berserker": {
+  "rating": 3.591
+ },
+ "145807: Turtleshell Changeling": {
+  "rating": 2.545
+ },
+ "145808: Heal the Scars": {
+  "rating": 1.875
+ },
+ "145809: Skeletal Changeling": {
+  "rating": 2.797
+ },
+ "145811: Mulldrifter": {
+  "rating": 4.263
+ },
+ "145812: Gilt-Leaf Seer": {
+  "rating": 3.295
+ },
+ "145813: Avian Changeling": {
+  "rating": 3
+ },
+ "145814: Paperfin Rascal": {
+  "rating": 2.075
+ },
+ "145815: Pollen Lullaby": {
+  "rating": 3.086
+ },
+ "145816: Woodland Changeling": {
+  "rating": 3.273
+ },
+ "145817: Aethersnipe": {
+  "rating": 3.538
+ },
+ "145964: Faultgrinder": {
+  "rating": 1.971
+ },
+ "145966: Bog Hoodlums": {
+  "rating": 0.814
+ },
+ "145967: Warren Pilferers": {
+  "rating": 2.703
+ },
+ "145968: Changeling Hero": {
+  "rating": 3.011
+ },
+ "145969: Thoughtseize": {
+  "rating": 4.565
+ },
+ "145970: Sentry Oak": {
+  "rating": 1.967
+ },
+ "145971: Hillcomber Giant": {
+  "rating": 2.931
+ },
+ "145973: Battle Mastery": {
+  "rating": 3.054
+ },
+ "145974: Wispmare": {
+  "rating": 4.102
+ },
+ "145975: Whirlpool Whelm": {
+  "rating": 3.024
+ },
+ "145976: Axegrinder Giant": {
+  "rating": 1.852
+ },
+ "145979: Drowner of Secrets": {
+  "rating": 3.847
+ },
+ "145981: Glarewielder": {
+  "rating": 2.456
+ },
+ "145984: Gilt-Leaf Ambush": {
+  "rating": 3.571
+ },
+ "145986: Kithkin Healer": {
+  "rating": 2.179
+ },
+ "145987: Lash Out": {
+  "rating": 3.605
+ },
+ "145988: Oaken Brawler": {
+  "rating": 2.278
+ },
+ "145989: Broken Ambitions": {
+  "rating": 3.538
+ },
+ "145990: Nath's Elite": {
+  "rating": 2.9
+ },
+ "145991: Weed Strangle": {
+  "rating": 2.52
+ },
+ "145992: Adder-Staff Boggart": {
+  "rating": 2.872
+ },
+ "146160: Hoarder's Greed": {
+  "rating": 2.705
+ },
+ "146161: Needle Drop": {
+  "rating": 3.117
+ },
+ "146162: Glen Elendra Pranksters": {
+  "rating": 2.638
+ },
+ "146165: Seedguide Ash": {
+  "rating": 3.58
+ },
+ "146166: Forced Fruition": {
+  "rating": 4.127
+ },
+ "146167: Prowess of the Fair": {
+  "rating": 3.568
+ },
+ "146168: Boggart Forager": {
+  "rating": 2.054
+ },
+ "146169: Elvish Branchbender": {
+  "rating": 3.453
+ },
+ "146170: Fathom Trawl": {
+  "rating": 3.188
+ },
+ "146171: Final Revels": {
+  "rating": 2.609
+ },
+ "146172: Captivating Glance": {
+  "rating": 2.579
+ },
+ "146173: Cloudthresher": {
+  "rating": 4.112
+ },
+ "146175: Shriekmaw": {
+  "rating": 4.261
+ },
+ "146178: Shelldock Isle": {
+  "rating": 3.436
+ },
+ "146179: Elvish Handservant": {
+  "rating": 2.364
+ },
+ "146443: Exiled Boggart": {
+  "rating": 2.256
+ },
+ "146444: Kithkin Greatheart": {
+  "rating": 3.066
+ },
+ "146445: Spiderwig Boggart": {
+  "rating": 2.208
+ },
+ "146446: Boggart Sprite-Chaser": {
+  "rating": 2.439
+ },
+ "146447: Fodder Launch": {
+  "rating": 3.875
+ },
+ "146580: Triclopean Sight": {
+  "rating": 3.071
+ },
+ "146581: Colfenor's Plans": {
+  "rating": 1.838
+ },
+ "146582: Oona's Prowler": {
+  "rating": 4.11
+ },
+ "146583: Entangling Trap": {
+  "rating": 2.068
+ },
+ "146584: Familiar's Ruse": {
+  "rating": 3.791
+ },
+ "146594: Woodland Guidance": {
+  "rating": 2.963
+ },
+ "146595: Ashling's Prerogative": {
+  "rating": 3.518
+ },
+ "146597: Blind-Spot Giant": {
+  "rating": 3.08
+ },
+ "146599: Inner-Flame Acolyte": {
+  "rating": 3.576
+ },
+ "146600: Wild Ricochet": {
+  "rating": 3.779
+ },
+ "146601: Sylvan Echoes": {
+  "rating": 2.109
+ },
+ "146777: Incremental Growth": {
+  "rating": 3.397
+ },
+ "153454: Ancient Amphitheater": {
+  "rating": 3.628
+ },
+ "153455: Gilt-Leaf Palace": {
+  "rating": 4.071
+ },
+ "153456: Wanderwine Hub": {
+  "rating": 3.988
+ },
+ "153457: Auntie's Hovel": {
+  "rating": 3.913
+ },
+ "153458: Secluded Glen": {
+  "rating": 4.096
+ }
+}

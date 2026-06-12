@@ -1,0 +1,359 @@
+{
+ "1708: Barl's Cage": {
+  "rating": 3.012
+ },
+ "1709: Bone Flute": {
+  "rating": 2
+ },
+ "1710: Book of Rass": {
+  "rating": 2.195
+ },
+ "1711: Coal Golem": {
+  "rating": 1.852
+ },
+ "1712: Dark Sphere": {
+  "rating": 3.386
+ },
+ "1713: Diabolic Machine": {
+  "rating": 1.556
+ },
+ "1714: Fellwar Stone": {
+  "rating": 3.773
+ },
+ "1715: Fountain of Youth": {
+  "rating": 2.244
+ },
+ "1716: Living Armor": {
+  "rating": 3.054
+ },
+ "1717: Necropolis": {
+  "rating": 3.081
+ },
+ "1718: Reflecting Mirror": {
+  "rating": 2.742
+ },
+ "1719: Runesword": {
+  "rating": 1.296
+ },
+ "1720: Scarecrow": {
+  "rating": 2.397
+ },
+ "1721: Skull of Orm": {
+  "rating": 2.736
+ },
+ "1722: Standing Stones": {
+  "rating": 1.483
+ },
+ "1723: Stone Calendar": {
+  "rating": 3.429
+ },
+ "1724: Tormod's Crypt": {
+  "rating": 4.343
+ },
+ "1725: Tower of Coireall": {
+  "rating": 1.625
+ },
+ "1726: Wand of Ith": {
+  "rating": 3.722
+ },
+ "1727: War Barge": {
+  "rating": 2.453
+ },
+ "1728: Ashes to Ashes": {
+  "rating": 4.127
+ },
+ "1729: Banshee": {
+  "rating": 2.672
+ },
+ "1730: Bog Imp": {
+  "rating": 2.238
+ },
+ "1731: Bog Rats": {
+  "rating": 2.108
+ },
+ "1732: Curse Artifact": {
+  "rating": 2.658
+ },
+ "1733: Eater of the Dead": {
+  "rating": 3.417
+ },
+ "1734: Frankenstein's Monster": {
+  "rating": 3.87
+ },
+ "1735: Grave Robbers": {
+  "rating": 2.206
+ },
+ "1736: Inquisition": {
+  "rating": 2.603
+ },
+ "1737: Marsh Gas": {
+  "rating": 2.157
+ },
+ "1738: Murk Dwellers": {
+  "rating": 2.069
+ },
+ "1739: Nameless Race": {
+  "rating": 2.827
+ },
+ "1740: Rag Man": {
+  "rating": 2.861
+ },
+ "1741: Season of the Witch": {
+  "rating": 3.053
+ },
+ "1742: The Fallen": {
+  "rating": 3.203
+ },
+ "1743: Uncle Istvan": {
+  "rating": 4.216
+ },
+ "1744: Word of Binding": {
+  "rating": 3.375
+ },
+ "1745: Worms of the Earth": {
+  "rating": 3.117
+ },
+ "1746: Amnesia": {
+  "rating": 4.048
+ },
+ "1747: Apprentice Wizard": {
+  "rating": 3.5
+ },
+ "1748: Dance of Many": {
+  "rating": 3.958
+ },
+ "1749: Deep Water": {
+  "rating": 1.808
+ },
+ "1750: Drowned": {
+  "rating": 2.938
+ },
+ "1751: Electric Eel": {
+  "rating": 2.652
+ },
+ "1752: Erosion": {
+  "rating": 1.6
+ },
+ "1753: Flood": {
+  "rating": 3.841
+ },
+ "1754: Ghost Ship": {
+  "rating": 3.772
+ },
+ "1755: Giant Shark": {
+  "rating": 2.208
+ },
+ "1756: Leviathan": {
+  "rating": 2.54
+ },
+ "1757: Mana Vortex": {
+  "rating": 3.295
+ },
+ "1758: Merfolk Assassin": {
+  "rating": 2.812
+ },
+ "1759: Mind Bomb": {
+  "rating": 3.58
+ },
+ "1760: Psychic Allergy": {
+  "rating": 2.972
+ },
+ "1761: Riptide": {
+  "rating": 2.207
+ },
+ "1762: Sunken City": {
+  "rating": 3.663
+ },
+ "1763: Tangle Kelp": {
+  "rating": 3
+ },
+ "1764: Water Wurm": {
+  "rating": 2.027
+ },
+ "1765: Carnivorous Plant": {
+  "rating": 2.725
+ },
+ "1766: Elves of Deep Shadow": {
+  "rating": 4.127
+ },
+ "1767: Gaea's Touch": {
+  "rating": 4.288
+ },
+ "1768: Hidden Path": {
+  "rating": 1.297
+ },
+ "1769: Land Leeches": {
+  "rating": 2.838
+ },
+ "1770: Lurker": {
+  "rating": 2.985
+ },
+ "1771: Marsh Viper": {
+  "rating": 3.203
+ },
+ "1772: Niall Silvain": {
+  "rating": 1.206
+ },
+ "1773: People of the Woods": {
+  "rating": 3.311
+ },
+ "1774: Savaen Elves": {
+  "rating": 2.476
+ },
+ "1775: Scarwood Bandits": {
+  "rating": 3.371
+ },
+ "1776: Scarwood Hag": {
+  "rating": 1.551
+ },
+ "1777: Scavenger Folk": {
+  "rating": 3.35
+ },
+ "1778: Spitting Slug": {
+  "rating": 3.114
+ },
+ "1779: Tracker": {
+  "rating": 3.895
+ },
+ "1780: Venom": {
+  "rating": 3.188
+ },
+ "1781: Whippoorwill": {
+  "rating": 3.519
+ },
+ "1782: Wormwood Treefolk": {
+  "rating": 2.698
+ },
+ "1783: Ball Lightning": {
+  "rating": 4.321
+ },
+ "1784: Blood Moon": {
+  "rating": 4.526
+ },
+ "1785: Brothers of Fire": {
+  "rating": 2.074
+ },
+ "1786: Cave People": {
+  "rating": 2.724
+ },
+ "1787: Eternal Flame": {
+  "rating": 2.736
+ },
+ "1788: Fire Drake": {
+  "rating": 1.83
+ },
+ "1789: Fissure": {
+  "rating": 3.74
+ },
+ "1790: Goblin Caves": {
+  "rating": 3.578
+ },
+ "1791: Goblin Digging Team": {
+  "rating": 2.333
+ },
+ "1792: Goblin Hero": {
+  "rating": 2.167
+ },
+ "1793: Goblin Rock Sled": {
+  "rating": 1.351
+ },
+ "1794: Goblin Shrine": {
+  "rating": 2.95
+ },
+ "1795: Goblin Wizard": {
+  "rating": 3.721
+ },
+ "1796: Goblins of the Flarg": {
+  "rating": 2.275
+ },
+ "1797: Inferno": {
+  "rating": 3.939
+ },
+ "1798: Mana Clash": {
+  "rating": 3.528
+ },
+ "1799: Orc General": {
+  "rating": 2.81
+ },
+ "1800: Sisters of the Flame": {
+  "rating": 2.871
+ },
+ "1801: Angry Mob": {
+  "rating": 3.023
+ },
+ "1802: Blood of the Martyr": {
+  "rating": 1.875
+ },
+ "1803: Brainwash": {
+  "rating": 2.326
+ },
+ "1804: Cleansing": {
+  "rating": 3.837
+ },
+ "1805: Dust to Dust": {
+  "rating": 4.136
+ },
+ "1806: Exorcist": {
+  "rating": 3.705
+ },
+ "1807: Fasting": {
+  "rating": 0.949
+ },
+ "1808: Festival": {
+  "rating": 3.678
+ },
+ "1809: Fire and Brimstone": {
+  "rating": 1.765
+ },
+ "1810: Holy Light": {
+  "rating": 3.057
+ },
+ "1811: Knights of Thorn": {
+  "rating": 2.738
+ },
+ "1812: Martyr's Cry": {
+  "rating": 3.05
+ },
+ "1813: Miracle Worker": {
+  "rating": 2.847
+ },
+ "1814: Morale": {
+  "rating": 2.081
+ },
+ "1815: Pikemen": {
+  "rating": 2.766
+ },
+ "1816: Preacher": {
+  "rating": 4.345
+ },
+ "1817: Squire": {
+  "rating": 1.802
+ },
+ "1818: Tivadar's Crusade": {
+  "rating": 3.819
+ },
+ "1819: Witch Hunter": {
+  "rating": 3.58
+ },
+ "1820: Dark Heart of the Wood": {
+  "rating": 3.148
+ },
+ "1821: Marsh Goblins": {
+  "rating": 1.36
+ },
+ "1822: Scarwood Goblins": {
+  "rating": 2.06
+ },
+ "1823: City of Shadows": {
+  "rating": 3.958
+ },
+ "1824: Maze of Ith": {
+  "rating": 4.597
+ },
+ "1825: Safe Haven": {
+  "rating": 3.807
+ },
+ "1826: Sorrow's Path": {
+  "rating": 0.957
+ }
+}

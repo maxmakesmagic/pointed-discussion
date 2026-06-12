@@ -1,0 +1,809 @@
+{
+ "386463: Abomination of Gudul": {
+  "rating": 2.286
+ },
+ "386464: Abzan Ascendancy": {
+  "rating": 4.167
+ },
+ "386465: Abzan Banner": {
+  "rating": 2.25
+ },
+ "386466: Abzan Battle Priest": {
+  "rating": 3.5
+ },
+ "386467: Abzan Charm": {
+  "rating": 4.1
+ },
+ "386468: Abzan Falconer": {
+  "rating": 3.643
+ },
+ "386469: Abzan Guide": {
+  "rating": 3
+ },
+ "386470: Act of Treason": {
+  "rating": 3.25
+ },
+ "386471: Ainok Bond-Kin": {
+  "rating": 3.643
+ },
+ "386472: Ainok Tracker": {
+  "rating": 2
+ },
+ "386473: Alabaster Kirin": {
+  "rating": 3
+ },
+ "386474: Alpine Grizzly": {
+  "rating": 3.083
+ },
+ "386475: Altar of the Brood": {
+  "rating": 2.1
+ },
+ "386476: Anafenza, the Foremost": {
+  "rating": 4.1
+ },
+ "386477: Ankle Shanker": {
+  "rating": 3.857
+ },
+ "386478: Arc Lightning": {
+  "rating": 4.2
+ },
+ "386479: Archers' Parapet": {
+  "rating": 2.6
+ },
+ "386480: Armament Corps": {
+  "rating": 3.375
+ },
+ "386481: Arrow Storm": {
+  "rating": 2.75
+ },
+ "386482: Ashcloud Phoenix": {
+  "rating": 3.5
+ },
+ "386483: Avalanche Tusker": {
+  "rating": 3.6
+ },
+ "386484: Awaken the Bear": {
+  "rating": 3.25
+ },
+ "386485: Barrage of Boulders": {
+  "rating": 2.125
+ },
+ "386486: Bear's Companion": {
+  "rating": 3.833
+ },
+ "386487: Become Immense": {
+  "rating": 3.1
+ },
+ "386488: Bellowing Saddlebrute": {
+  "rating": 3.5
+ },
+ "386489: Bitter Revelation": {
+  "rating": 2.7
+ },
+ "386490: Blinding Spray": {
+  "rating": 1.2
+ },
+ "386491: Bloodfell Caves": {
+  "rating": 3.125
+ },
+ "386492: Bloodfire Expert": {
+  "rating": 2.75
+ },
+ "386493: Bloodfire Mentor": {
+  "rating": 2.2
+ },
+ "386494: Bloodsoaked Champion": {
+  "rating": 4.417
+ },
+ "386495: Bloodstained Mire": {
+  "rating": 4.333
+ },
+ "386496: Blossoming Sands": {
+  "rating": 3.2
+ },
+ "386497: Brave the Sands": {
+  "rating": 3.375
+ },
+ "386498: Briber's Purse": {
+  "rating": 2.125
+ },
+ "386499: Bring Low": {
+  "rating": 1.4
+ },
+ "386500: Burn Away": {
+  "rating": 3.25
+ },
+ "386501: Butcher of the Horde": {
+  "rating": 4.3
+ },
+ "386502: Cancel": {
+  "rating": 2.7
+ },
+ "386503: Canyon Lurkers": {
+  "rating": 1.875
+ },
+ "386504: Chief of the Edge": {
+  "rating": 3.625
+ },
+ "386505: Chief of the Scale": {
+  "rating": 3.5
+ },
+ "386506: Clever Impersonator": {
+  "rating": 4.583
+ },
+ "386507: Crackling Doom": {
+  "rating": 4.4
+ },
+ "386508: Cranial Archive": {
+  "rating": 2.4
+ },
+ "386509: Crater's Claws": {
+  "rating": 4
+ },
+ "386510: Crippling Chill": {
+  "rating": 3.125
+ },
+ "386511: Dazzling Ramparts": {
+  "rating": 2
+ },
+ "386512: Dead Drop": {
+  "rating": 1.7
+ },
+ "386513: Death Frenzy": {
+  "rating": 3.25
+ },
+ "386514: Debilitating Injury": {
+  "rating": 2.875
+ },
+ "386515: Defiant Strike": {
+  "rating": 1.75
+ },
+ "386516: Deflecting Palm": {
+  "rating": 4.125
+ },
+ "386517: Despise": {
+  "rating": 3.75
+ },
+ "386518: Dig Through Time": {
+  "rating": 2.875
+ },
+ "386519: Disdainful Stroke": {
+  "rating": 3.2
+ },
+ "386520: Dismal Backwater": {
+  "rating": 3.25
+ },
+ "386521: Disowned Ancestor": {
+  "rating": 3.3
+ },
+ "386522: Dragon Grip": {
+  "rating": 3.667
+ },
+ "386523: Dragon Throne of Tarkir": {
+  "rating": 3
+ },
+ "386524: Dragon's Eye Savants": {
+  "rating": 3
+ },
+ "386525: Dragonscale Boon": {
+  "rating": 3
+ },
+ "386526: Dragon-Style Twins": {
+  "rating": 3.833
+ },
+ "386527: Duneblast": {
+  "rating": 3.833
+ },
+ "386528: Dutiful Return": {
+  "rating": 2.5
+ },
+ "386529: Efreet Weaponmaster": {
+  "rating": 3
+ },
+ "386530: Embodiment of Spring": {
+  "rating": 2.75
+ },
+ "386531: Empty the Pits": {
+  "rating": 4
+ },
+ "386532: End Hostilities": {
+  "rating": 3.667
+ },
+ "386533: Erase": {
+  "rating": 3.5
+ },
+ "386534: Feat of Resistance": {
+  "rating": 4
+ },
+ "386535: Feed the Clan": {
+  "rating": 2.5
+ },
+ "386536: Firehoof Cavalry": {
+  "rating": 2
+ },
+ "386537: Flooded Strand": {
+  "rating": 4.6
+ },
+ "386538: Flying Crane Technique": {
+  "rating": 4
+ },
+ "386539: Force Away": {
+  "rating": 3.167
+ },
+ "386540: Forest": {
+  "rating": 4.25
+ },
+ "386541: Forest": {
+  "rating": 3.5
+ },
+ "386542: Forest": {
+  "rating": 3.5
+ },
+ "386543: Forest": {
+  "rating": 3.5
+ },
+ "386544: Frontier Bivouac": {
+  "rating": 3.833
+ },
+ "386545: Ghostfire Blade": {
+  "rating": 3.667
+ },
+ "386546: Glacial Stalker": {
+  "rating": 2.5
+ },
+ "386547: Goblinslide": {
+  "rating": 2.667
+ },
+ "386548: Grim Haruspex": {
+  "rating": 4.333
+ },
+ "386549: Gurmag Swiftwing": {
+  "rating": 4
+ },
+ "386550: Hardened Scales": {
+  "rating": 4
+ },
+ "386551: Heart-Piercer Bow": {
+  "rating": 2.5
+ },
+ "386552: Heir of the Wilds": {
+  "rating": 3.625
+ },
+ "386553: Herald of Anafenza": {
+  "rating": 4.167
+ },
+ "386554: High Sentinels of Arashin": {
+  "rating": 3.833
+ },
+ "386555: Highland Game": {
+  "rating": 2.5
+ },
+ "386556: Highspire Mantis": {
+  "rating": 3.25
+ },
+ "386557: Hooded Hydra": {
+  "rating": 4.375
+ },
+ "386558: Hooting Mandrills": {
+  "rating": 4
+ },
+ "386559: Horde Ambusher": {
+  "rating": 3.25
+ },
+ "386560: Hordeling Outburst": {
+  "rating": 3
+ },
+ "386561: Howl of the Horde": {
+  "rating": 3.375
+ },
+ "386562: Icefeather Aven": {
+  "rating": 4.375
+ },
+ "386563: Icy Blast": {
+  "rating": 3.667
+ },
+ "386564: Incremental Growth": {
+  "rating": 3.333
+ },
+ "386565: Island": {
+  "rating": 3.5
+ },
+ "386566: Island": {
+  "rating": 3.5
+ },
+ "386567: Island": {
+  "rating": 3.5
+ },
+ "386568: Island": {
+  "rating": 3.5
+ },
+ "386569: Ivorytusk Fortress": {
+  "rating": 4.167
+ },
+ "386570: Jeering Instigator": {
+  "rating": 3.75
+ },
+ "386571: Jeskai Ascendancy": {
+  "rating": 3.667
+ },
+ "386572: Jeskai Banner": {
+  "rating": 2.667
+ },
+ "386573: Jeskai Charm": {
+  "rating": 3.833
+ },
+ "386574: Jeskai Elder": {
+  "rating": 3.167
+ },
+ "386575: Jeskai Student": {
+  "rating": 2.667
+ },
+ "386576: Jeskai Windscout": {
+  "rating": 3.167
+ },
+ "386577: Jungle Hollow": {
+  "rating": 3.25
+ },
+ "386578: Kheru Bloodsucker": {
+  "rating": 3
+ },
+ "386579: Kheru Dreadmaw": {
+  "rating": 2.5
+ },
+ "386580: Kheru Lich Lord": {
+  "rating": 3.5
+ },
+ "386581: Kheru Spellsnatcher": {
+  "rating": 4.125
+ },
+ "386582: Kill Shot": {
+  "rating": 2.833
+ },
+ "386583: Kin-Tree Invocation": {
+  "rating": 3.5
+ },
+ "386584: Kin-Tree Warden": {
+  "rating": 2
+ },
+ "386585: Krumar Bond-Kin": {
+  "rating": 2.25
+ },
+ "386586: Leaping Master": {
+  "rating": 2
+ },
+ "386587: Lens of Clarity": {
+  "rating": 2
+ },
+ "386588: Longshot Squad": {
+  "rating": 3.25
+ },
+ "386589: Mantis Rider": {
+  "rating": 4.5
+ },
+ "386590: Mardu Ascendancy": {
+  "rating": 3.5
+ },
+ "386591: Mardu Banner": {
+  "rating": 2
+ },
+ "386592: Mardu Blazebringer": {
+  "rating": 1.5
+ },
+ "386593: Mardu Charm": {
+  "rating": 4
+ },
+ "386594: Mardu Hateblade": {
+  "rating": 2.75
+ },
+ "386595: Mardu Heart-Piercer": {
+  "rating": 3.75
+ },
+ "386596: Mardu Hordechief": {
+  "rating": 3.25
+ },
+ "386597: Mardu Roughrider": {
+  "rating": 3.25
+ },
+ "386598: Mardu Skullhunter": {
+  "rating": 3.25
+ },
+ "386599: Mardu Warshrieker": {
+  "rating": 3.25
+ },
+ "386600: Master of Pearls": {
+  "rating": 4
+ },
+ "386601: Master the Way": {
+  "rating": 3.5
+ },
+ "386602: Meandering Towershell": {
+  "rating": 3
+ },
+ "386603: Mer-Ek Nightblade": {
+  "rating": 3.75
+ },
+ "386604: Mindswipe": {
+  "rating": 3.5
+ },
+ "386605: Mistfire Weaver": {
+  "rating": 3.5
+ },
+ "386606: Molting Snakeskin": {
+  "rating": 2
+ },
+ "386607: Monastery Flock": {
+  "rating": 1.75
+ },
+ "386608: Monastery Swiftspear": {
+  "rating": 4.25
+ },
+ "386609: Mountain": {
+  "rating": 3.5
+ },
+ "386610: Mountain": {
+  "rating": 3.5
+ },
+ "386611: Mountain": {
+  "rating": 3.5
+ },
+ "386612: Mountain": {
+  "rating": 3.5
+ },
+ "386613: Murderous Cut": {
+  "rating": 3.9
+ },
+ "386614: Mystic Monastery": {
+  "rating": 3.75
+ },
+ "386615: Mystic of the Hidden Way": {
+  "rating": 3.5
+ },
+ "386616: Narset, Enlightened Master": {
+  "rating": 3.5
+ },
+ "386617: Naturalize": {
+  "rating": 4
+ },
+ "386618: Necropolis Fiend": {
+  "rating": 3
+ },
+ "386619: Nomad Outpost": {
+  "rating": 3.75
+ },
+ "386620: Opulent Palace": {
+  "rating": 3.75
+ },
+ "386621: Pearl Lake Ancient": {
+  "rating": 4
+ },
+ "386622: Pine Walker": {
+  "rating": 3.25
+ },
+ "386623: Plains": {
+  "rating": 3.5
+ },
+ "386624: Plains": {
+  "rating": 3.5
+ },
+ "386625: Plains": {
+  "rating": 3.5
+ },
+ "386626: Plains": {
+  "rating": 3.5
+ },
+ "386627: Polluted Delta": {
+  "rating": 4.6
+ },
+ "386628: Ponyback Brigade": {
+  "rating": 3
+ },
+ "386629: Quiet Contemplation": {
+  "rating": 2.75
+ },
+ "386630: Raiders' Spoils": {
+  "rating": 3
+ },
+ "386631: Rakshasa Deathdealer": {
+  "rating": 4
+ },
+ "386632: Rakshasa Vizier": {
+  "rating": 3.25
+ },
+ "386633: Rakshasa's Secret": {
+  "rating": 2.5
+ },
+ "386634: Rattleclaw Mystic": {
+  "rating": 3.833
+ },
+ "386635: Retribution of the Ancients": {
+  "rating": 3.5
+ },
+ "386636: Ride Down": {
+  "rating": 3.25
+ },
+ "386637: Rite of the Serpent": {
+  "rating": 2.25
+ },
+ "386638: Riverwheel Aerialists": {
+  "rating": 3.25
+ },
+ "386639: Roar of Challenge": {
+  "rating": 2.833
+ },
+ "386640: Rotting Mastodon": {
+  "rating": 2.5
+ },
+ "386641: Rugged Highlands": {
+  "rating": 3.333
+ },
+ "386642: Rush of Battle": {
+  "rating": 2.5
+ },
+ "386643: Ruthless Ripper": {
+  "rating": 3.5
+ },
+ "386644: Sage of the Inward Eye": {
+  "rating": 3.75
+ },
+ "386645: Sage-Eye Harrier": {
+  "rating": 2
+ },
+ "386646: Sagu Archer": {
+  "rating": 2.5
+ },
+ "386647: Sagu Mauler": {
+  "rating": 4.5
+ },
+ "386648: Salt Road Patrol": {
+  "rating": 2.5
+ },
+ "386649: Sandsteppe Citadel": {
+  "rating": 3.75
+ },
+ "386650: Sarkhan, the Dragonspeaker": {
+  "rating": 4.786
+ },
+ "386651: Savage Knuckleblade": {
+  "rating": 4.167
+ },
+ "386652: Savage Punch": {
+  "rating": 3
+ },
+ "386653: Scaldkin": {
+  "rating": 2
+ },
+ "386654: Scion of Glaciers": {
+  "rating": 3
+ },
+ "386655: Scoured Barrens": {
+  "rating": 3.333
+ },
+ "386656: Scout the Borders": {
+  "rating": 2.75
+ },
+ "386657: Secret Plans": {
+  "rating": 3
+ },
+ "386658: See the Unwritten": {
+  "rating": 3.25
+ },
+ "386659: Seek the Horizon": {
+  "rating": 2.5
+ },
+ "386660: Seeker of the Way": {
+  "rating": 3.75
+ },
+ "386661: Set Adrift": {
+  "rating": 2.167
+ },
+ "386662: Shambling Attendants": {
+  "rating": 2.5
+ },
+ "386663: Shatter": {
+  "rating": 2.5
+ },
+ "386664: Sidisi, Brood Tyrant": {
+  "rating": 3.375
+ },
+ "386665: Sidisi's Pet": {
+  "rating": 2.25
+ },
+ "386666: Siege Rhino": {
+  "rating": 4.125
+ },
+ "386667: Siegecraft": {
+  "rating": 0.75
+ },
+ "386668: Singing Bell Strike": {
+  "rating": 2.833
+ },
+ "386669: Smite the Monstrous": {
+  "rating": 2.75
+ },
+ "386670: Smoke Teller": {
+  "rating": 3
+ },
+ "386671: Snowhorn Rider": {
+  "rating": 2.75
+ },
+ "386672: Sorin, Solemn Visitor": {
+  "rating": 3.75
+ },
+ "386673: Stubborn Denial": {
+  "rating": 2.75
+ },
+ "386674: Sultai Ascendancy": {
+  "rating": 3
+ },
+ "386675: Sultai Banner": {
+  "rating": 2.5
+ },
+ "386676: Sultai Charm": {
+  "rating": 4.167
+ },
+ "386677: Sultai Flayer": {
+  "rating": 3.75
+ },
+ "386678: Sultai Scavenger": {
+  "rating": 3.667
+ },
+ "386679: Sultai Soothsayer": {
+  "rating": 3.833
+ },
+ "386680: Summit Prowler": {
+  "rating": 2.25
+ },
+ "386681: Surrak Dragonclaw": {
+  "rating": 4.375
+ },
+ "386682: Suspension Field": {
+  "rating": 3.75
+ },
+ "386683: Swamp": {
+  "rating": 3.5
+ },
+ "386684: Swamp": {
+  "rating": 3.5
+ },
+ "386685: Swamp": {
+  "rating": 3.5
+ },
+ "386686: Swamp": {
+  "rating": 3.5
+ },
+ "386687: Swarm of Bloodflies": {
+  "rating": 3
+ },
+ "386688: Swift Kick": {
+  "rating": 1.75
+ },
+ "386689: Swiftwater Cliffs": {
+  "rating": 3.333
+ },
+ "386690: Taigam's Scheming": {
+  "rating": 2.25
+ },
+ "386691: Take Up Arms": {
+  "rating": 2.75
+ },
+ "386692: Temur Ascendancy": {
+  "rating": 3.75
+ },
+ "386693: Temur Banner": {
+  "rating": 2.5
+ },
+ "386694: Temur Charger": {
+  "rating": 2.5
+ },
+ "386695: Temur Charm": {
+  "rating": 3.5
+ },
+ "386696: Thornwood Falls": {
+  "rating": 3.333
+ },
+ "386697: Thousand Winds": {
+  "rating": 3.75
+ },
+ "386698: Throttle": {
+  "rating": 2.25
+ },
+ "386699: Timely Hordemate": {
+  "rating": 3.5
+ },
+ "386700: Tomb of the Spirit Dragon": {
+  "rating": 3.667
+ },
+ "386701: Tormenting Voice": {
+  "rating": 3.5
+ },
+ "386702: Trail of Mystery": {
+  "rating": 2.5
+ },
+ "386703: Tranquil Cove": {
+  "rating": 3
+ },
+ "386704: Trap Essence": {
+  "rating": 3.5
+ },
+ "386705: Treasure Cruise": {
+  "rating": 3.333
+ },
+ "386706: Trumpet Blast": {
+  "rating": 2.75
+ },
+ "386707: Tusked Colossodon": {
+  "rating": 2.5
+ },
+ "386708: Tuskguard Captain": {
+  "rating": 3.25
+ },
+ "386709: Ugin's Nexus": {
+  "rating": 3.5
+ },
+ "386710: Unyielding Krumar": {
+  "rating": 2.75
+ },
+ "386711: Utter End": {
+  "rating": 4.167
+ },
+ "386712: Valley Dasher": {
+  "rating": 2.75
+ },
+ "386713: Venerable Lammasu": {
+  "rating": 3
+ },
+ "386714: Villainous Wealth": {
+  "rating": 4
+ },
+ "386715: War Behemoth": {
+  "rating": 2.5
+ },
+ "386716: Warden of the Eye": {
+  "rating": 3.25
+ },
+ "386717: War-Name Aspirant": {
+  "rating": 3.5
+ },
+ "386718: Watcher of the Roost": {
+  "rating": 2.75
+ },
+ "386719: Waterwhirl": {
+  "rating": 2.75
+ },
+ "386720: Weave Fate": {
+  "rating": 2.5
+ },
+ "386721: Wetland Sambar": {
+  "rating": 1.75
+ },
+ "386722: Whirlwind Adept": {
+  "rating": 2.5
+ },
+ "386723: Wind-Scarred Crag": {
+  "rating": 3
+ },
+ "386724: Windstorm": {
+  "rating": 3.25
+ },
+ "386725: Windswept Heath": {
+  "rating": 4.3
+ },
+ "386726: Wingmate Roc": {
+  "rating": 4.167
+ },
+ "386727: Winterflame": {
+  "rating": 2.75
+ },
+ "386728: Witness of the Ages": {
+  "rating": 2.75
+ },
+ "386729: Wooded Foothills": {
+  "rating": 4.2
+ },
+ "386730: Woolly Loxodon": {
+  "rating": 3
+ },
+ "386731: Zurgo Helmsmasher": {
+  "rating": 3.75
+ }
+}

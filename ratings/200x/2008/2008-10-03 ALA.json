@@ -1,0 +1,749 @@
+{
+ "137900: Jund Charm": {
+  "rating": 3.775
+ },
+ "137905: Naya Charm": {
+  "rating": 3.712
+ },
+ "137913: Esper Charm": {
+  "rating": 3.836
+ },
+ "137927: Grixis Charm": {
+  "rating": 3.656
+ },
+ "137931: Bant Charm": {
+  "rating": 3.775
+ },
+ "174787: Mosstodon": {
+  "rating": 3.087
+ },
+ "174789: Cradle of Vitality": {
+  "rating": 3.315
+ },
+ "174796: Minion Reflector": {
+  "rating": 2.966
+ },
+ "174800: Courier's Capsule": {
+  "rating": 3.94
+ },
+ "174805: Gustrider Exuberant": {
+  "rating": 2.021
+ },
+ "174806: Incurable Ogre": {
+  "rating": 2.056
+ },
+ "174808: Soul's Might": {
+  "rating": 3.037
+ },
+ "174813: Soul's Grace": {
+  "rating": 2.468
+ },
+ "174814: Cloudheath Drake": {
+  "rating": 1.962
+ },
+ "174816: Glaze Fiend": {
+  "rating": 3.088
+ },
+ "174817: Banewasp Affliction": {
+  "rating": 2.264
+ },
+ "174818: Lich's Mirror": {
+  "rating": 3.29
+ },
+ "174821: Bloodthorn Taunter": {
+  "rating": 2.777
+ },
+ "174822: Godtoucher": {
+  "rating": 2.402
+ },
+ "174823: Ranger of Eos": {
+  "rating": 4.081
+ },
+ "174824: Relic of Progenitus": {
+  "rating": 4.554
+ },
+ "174826: Angelic Benediction": {
+  "rating": 2.634
+ },
+ "174828: Sacellum Godspeaker": {
+  "rating": 2.611
+ },
+ "174830: Dispeller's Capsule": {
+  "rating": 3.442
+ },
+ "174831: Onyx Goblet": {
+  "rating": 2.475
+ },
+ "174833: Protomatter Powder": {
+  "rating": 2.633
+ },
+ "174835: Dregscape Zombie": {
+  "rating": 2.824
+ },
+ "174837: Kathari Screecher": {
+  "rating": 2.845
+ },
+ "174838: Sedraxis Specter": {
+  "rating": 4.117
+ },
+ "174839: Titanic Ultimatum": {
+  "rating": 3.874
+ },
+ "174842: Bant Panorama": {
+  "rating": 2.873
+ },
+ "174845: Scourge Devil": {
+  "rating": 2.557
+ },
+ "174847: Archdemon of Unx": {
+  "rating": 2.966
+ },
+ "174848: Dreg Reaver": {
+  "rating": 1.389
+ },
+ "174852: Ajani Vengeant": {
+  "rating": 4.035
+ },
+ "174853: Scourglass": {
+  "rating": 3.986
+ },
+ "174859: Elspeth, Knight-Errant": {
+  "rating": 4.287
+ },
+ "174863: Sprouting Thrinax": {
+  "rating": 4.027
+ },
+ "174867: Sigil of Distinction": {
+  "rating": 3.024
+ },
+ "174868: Grixis Battlemage": {
+  "rating": 2.964
+ },
+ "174869: Qasali Ambusher": {
+  "rating": 3.746
+ },
+ "174870: Thunder-Thrash Elder": {
+  "rating": 3.468
+ },
+ "174871: Fleshbag Marauder": {
+  "rating": 4.006
+ },
+ "174872: Esper Battlemage": {
+  "rating": 3.051
+ },
+ "174873: Hissing Iguanar": {
+  "rating": 3.092
+ },
+ "174876: Kresh the Bloodbraided": {
+  "rating": 3.554
+ },
+ "174877: Savage Lands": {
+  "rating": 3.693
+ },
+ "174881: Sharding Sphinx": {
+  "rating": 3.709
+ },
+ "174882: Kederekt Leviathan": {
+  "rating": 3.289
+ },
+ "174886: Ooze Garden": {
+  "rating": 2.971
+ },
+ "174887: Obelisk of Grixis": {
+  "rating": 2.744
+ },
+ "174888: Filigree Sages": {
+  "rating": 2.991
+ },
+ "174889: Volcanic Submersion": {
+  "rating": 1.735
+ },
+ "174890: Naturalize": {
+  "rating": 4.259
+ },
+ "174892: Obelisk of Jund": {
+  "rating": 2.682
+ },
+ "174893: Blister Beetle": {
+  "rating": 2.282
+ },
+ "174895: Executioner's Capsule": {
+  "rating": 4.054
+ },
+ "174900: Salvage Titan": {
+  "rating": 4.202
+ },
+ "174901: Resounding Roar": {
+  "rating": 2
+ },
+ "174903: Druid of the Anima": {
+  "rating": 3.02
+ },
+ "174906: Obelisk of Esper": {
+  "rating": 2.989
+ },
+ "174909: Oblivion Ring": {
+  "rating": 4.33
+ },
+ "174912: Tezzeret the Seeker": {
+  "rating": 4.5
+ },
+ "174915: Ad Nauseam": {
+  "rating": 4.146
+ },
+ "174916: Spearbreaker Behemoth": {
+  "rating": 3.464
+ },
+ "174917: Blightning": {
+  "rating": 4.313
+ },
+ "174922: Vithian Stinger": {
+  "rating": 3.139
+ },
+ "174924: Tower Gargoyle": {
+  "rating": 3.268
+ },
+ "174925: Sanctum Gargoyle": {
+  "rating": 3.38
+ },
+ "174927: Forest": {
+  "rating": 4.552
+ },
+ "174928: Forest": {
+  "rating": 4.595
+ },
+ "174929: Forest": {
+  "rating": 4.5
+ },
+ "174930: Forest": {
+  "rating": 4.333
+ },
+ "174931: Ethersworn Canonist": {
+  "rating": 4.483
+ },
+ "174935: Cylian Elf": {
+  "rating": 2.129
+ },
+ "174936: Dragon Fodder": {
+  "rating": 3.456
+ },
+ "174938: Goblin Mountaineer": {
+  "rating": 2.524
+ },
+ "174939: Goblin Assault": {
+  "rating": 2.976
+ },
+ "174941: Savage Hunger": {
+  "rating": 1.351
+ },
+ "174943: Drumhunter": {
+  "rating": 3.068
+ },
+ "174944: Naya Battlemage": {
+  "rating": 3.111
+ },
+ "174948: Rafiq of the Many": {
+  "rating": 4.086
+ },
+ "174950: Seaside Citadel": {
+  "rating": 3.696
+ },
+ "174951: Soul's Fire": {
+  "rating": 4.055
+ },
+ "174952: Bull Cerodon": {
+  "rating": 3.339
+ },
+ "174955: Waveskimmer Aven": {
+  "rating": 2.042
+ },
+ "174956: Sighted-Caste Sorcerer": {
+  "rating": 2.7
+ },
+ "174957: Rhox War Monk": {
+  "rating": 4.016
+ },
+ "174958: Sigiled Paladin": {
+  "rating": 3.722
+ },
+ "174959: Rhox Charger": {
+  "rating": 3.006
+ },
+ "174960: Court Archers": {
+  "rating": 2.512
+ },
+ "174963: Akrasan Squire": {
+  "rating": 3.646
+ },
+ "174967: Bone Splinters": {
+  "rating": 3.094
+ },
+ "174968: Predator Dragon": {
+  "rating": 3.948
+ },
+ "174973: Feral Hydra": {
+  "rating": 3.339
+ },
+ "174975: Mycoloth": {
+  "rating": 4.159
+ },
+ "174976: Kiss of the Amesha": {
+  "rating": 3.021
+ },
+ "174977: Island": {
+  "rating": 4.722
+ },
+ "174978: Island": {
+  "rating": 4.638
+ },
+ "174979: Island": {
+  "rating": 4.229
+ },
+ "174980: Island": {
+  "rating": 4.612
+ },
+ "174983: Sarkhan Vol": {
+  "rating": 4
+ },
+ "174985: Resounding Silence": {
+  "rating": 2.452
+ },
+ "174986: Algae Gharial": {
+  "rating": 3.019
+ },
+ "174987: Scavenger Drake": {
+  "rating": 2.897
+ },
+ "174988: Rockslide Elemental": {
+  "rating": 2.887
+ },
+ "174989: Wild Nacatl": {
+  "rating": 4.264
+ },
+ "174994: Cavern Thoctar": {
+  "rating": 2.033
+ },
+ "174999: Topan Ascetic": {
+  "rating": 2.684
+ },
+ "175000: Angelsong": {
+  "rating": 2.942
+ },
+ "175004: Vein Drinker": {
+  "rating": 3.313
+ },
+ "175006: Manaplasm": {
+  "rating": 3.419
+ },
+ "175009: Steelclad Serpent": {
+  "rating": 1.461
+ },
+ "175010: Swerve": {
+  "rating": 4.067
+ },
+ "175011: Gather Specimens": {
+  "rating": 3.069
+ },
+ "175012: Puppet Conjurer": {
+  "rating": 2.934
+ },
+ "175014: Windwright Mage": {
+  "rating": 2.971
+ },
+ "175015: Tidehollow Strix": {
+  "rating": 3.815
+ },
+ "175017: Mountain": {
+  "rating": 4.683
+ },
+ "175018: Mountain": {
+  "rating": 4.289
+ },
+ "175019: Mountain": {
+  "rating": 4.841
+ },
+ "175020: Mountain": {
+  "rating": 4.726
+ },
+ "175023: Necrogenesis": {
+  "rating": 3.122
+ },
+ "175024: Rockcaster Platoon": {
+  "rating": 2.56
+ },
+ "175029: Plains": {
+  "rating": 4.726
+ },
+ "175030: Plains": {
+  "rating": 4.258
+ },
+ "175031: Plains": {
+  "rating": 4.618
+ },
+ "175032: Plains": {
+  "rating": 4.776
+ },
+ "175033: Keeper of Progenitus": {
+  "rating": 3.095
+ },
+ "175036: Gift of the Gargantuan": {
+  "rating": 3.014
+ },
+ "175038: Spell Snip": {
+  "rating": 1.2
+ },
+ "175039: Invincible Hymn": {
+  "rating": 2.988
+ },
+ "175042: Coma Veil": {
+  "rating": 0.925
+ },
+ "175043: Resounding Thunder": {
+  "rating": 2.373
+ },
+ "175047: Knight of the Skyward Eye": {
+  "rating": 3.016
+ },
+ "175048: Vicious Shadows": {
+  "rating": 2.68
+ },
+ "175049: Exuberant Firestoker": {
+  "rating": 3.022
+ },
+ "175050: Jund Battlemage": {
+  "rating": 3.007
+ },
+ "175052: Agony Warp": {
+  "rating": 3.728
+ },
+ "175053: Call to Heel": {
+  "rating": 2.856
+ },
+ "175054: Tidehollow Sculler": {
+  "rating": 4.461
+ },
+ "175057: Hellkite Overlord": {
+  "rating": 4.484
+ },
+ "175058: Mayael the Anima": {
+  "rating": 3.423
+ },
+ "175060: Jungle Shrine": {
+  "rating": 3.806
+ },
+ "175061: Obelisk of Naya": {
+  "rating": 2.385
+ },
+ "175062: Woolly Thoctar": {
+  "rating": 4.172
+ },
+ "175064: Thorn-Thrash Viashino": {
+  "rating": 2.602
+ },
+ "175070: Skeletonize": {
+  "rating": 2.731
+ },
+ "175072: Caldera Hellion": {
+  "rating": 3.446
+ },
+ "175073: Deathgreeter": {
+  "rating": 2.912
+ },
+ "175078: Yoked Plowbeast": {
+  "rating": 2.032
+ },
+ "175079: Cruel Ultimatum": {
+  "rating": 4.116
+ },
+ "175085: Dawnray Archer": {
+  "rating": 2.074
+ },
+ "175088: Swamp": {
+  "rating": 4.462
+ },
+ "175089: Swamp": {
+  "rating": 4.129
+ },
+ "175090: Swamp": {
+  "rating": 4.858
+ },
+ "175091: Swamp": {
+  "rating": 4.476
+ },
+ "175097: Viashino Skeleton": {
+  "rating": 0.831
+ },
+ "175098: Resounding Wave": {
+  "rating": 2.612
+ },
+ "175100: Blood Cultist": {
+  "rating": 2.984
+ },
+ "175101: Tar Fiend": {
+  "rating": 3.053
+ },
+ "175102: Obelisk of Bant": {
+  "rating": 2.622
+ },
+ "175103: Guardians of Akrasa": {
+  "rating": 2.722
+ },
+ "175104: Empyrial Archangel": {
+  "rating": 4.014
+ },
+ "175105: Godsire": {
+  "rating": 4.015
+ },
+ "175106: Prince of Thralls": {
+  "rating": 3.741
+ },
+ "175107: Sphinx Sovereign": {
+  "rating": 3.026
+ },
+ "175108: Memory Erosion": {
+  "rating": 3.307
+ },
+ "175111: Sedris, the Traitor King": {
+  "rating": 3.579
+ },
+ "175112: Crumbling Necropolis": {
+  "rating": 3.63
+ },
+ "175113: Metallurgeon": {
+  "rating": 2.895
+ },
+ "175114: Master of Etherium": {
+  "rating": 4.484
+ },
+ "175115: Where Ancients Tread": {
+  "rating": 3.027
+ },
+ "175117: Bloodpyre Elemental": {
+  "rating": 2.032
+ },
+ "175119: Skeletal Kathari": {
+  "rating": 1.787
+ },
+ "175121: Deft Duelist": {
+  "rating": 3.856
+ },
+ "175122: Sunseed Nurturer": {
+  "rating": 2.133
+ },
+ "175123: Bant Battlemage": {
+  "rating": 3
+ },
+ "175124: Elvish Visionary": {
+  "rating": 3.825
+ },
+ "175125: Immortal Coil": {
+  "rating": 2.966
+ },
+ "175127: Sharuum the Hegemon": {
+  "rating": 4.013
+ },
+ "175128: Arcane Sanctum": {
+  "rating": 3.971
+ },
+ "175134: Steward of Valeron": {
+  "rating": 3.926
+ },
+ "175135: Violent Ultimatum": {
+  "rating": 3.379
+ },
+ "175138: Etherium Astrolabe": {
+  "rating": 2.6
+ },
+ "175141: Angel's Herald": {
+  "rating": 1.771
+ },
+ "175142: Clarion Ultimatum": {
+  "rating": 3.005
+ },
+ "175143: Brilliant Ultimatum": {
+  "rating": 2.92
+ },
+ "175144: Viscera Dragger": {
+  "rating": 3.519
+ },
+ "175147: Vectis Silencers": {
+  "rating": 1.437
+ },
+ "175239: Dragon's Herald": {
+  "rating": 2.61
+ },
+ "175242: Sphinx's Herald": {
+  "rating": 1.712
+ },
+ "175243: Demon's Herald": {
+  "rating": 1.848
+ },
+ "175245: Magma Spray": {
+  "rating": 3.048
+ },
+ "175249: Marble Chalice": {
+  "rating": 2.05
+ },
+ "175252: Outrider of Jhess": {
+  "rating": 1.855
+ },
+ "175253: Rakeclaw Gargantuan": {
+  "rating": 3.011
+ },
+ "175257: Ridge Rannet": {
+  "rating": 1.991
+ },
+ "175262: Jungle Weaver": {
+  "rating": 2.728
+ },
+ "175263: Behemoth's Herald": {
+  "rating": 1.717
+ },
+ "175385: Mindlock Orb": {
+  "rating": 4.238
+ },
+ "175390: Shore Snapper": {
+  "rating": 1.957
+ },
+ "175392: Jhessian Infiltrator": {
+  "rating": 3.752
+ },
+ "175394: Battlegrace Angel": {
+  "rating": 3.898
+ },
+ "175396: Stoic Angel": {
+  "rating": 3.954
+ },
+ "176428: Jhessian Lookout": {
+  "rating": 1.581
+ },
+ "176429: Cunning Lethemancer": {
+  "rating": 2.914
+ },
+ "176430: Death Baron": {
+  "rating": 3.863
+ },
+ "176433: Cathartic Adept": {
+  "rating": 2.825
+ },
+ "176435: Etherium Sculptor": {
+  "rating": 4.467
+ },
+ "176436: Skullmulcher": {
+  "rating": 3.153
+ },
+ "176438: Sangrite Surge": {
+  "rating": 2.222
+ },
+ "176441: Lush Growth": {
+  "rating": 2.826
+ },
+ "176443: Carrion Thrash": {
+  "rating": 2.233
+ },
+ "176444: Resounding Scream": {
+  "rating": 1.106
+ },
+ "176446: Lightning Talons": {
+  "rating": 2.647
+ },
+ "176447: Fire-Field Ogre": {
+  "rating": 3.049
+ },
+ "176448: Corpse Connoisseur": {
+  "rating": 2.99
+ },
+ "176450: Punish Ignorance": {
+  "rating": 3.201
+ },
+ "176452: Undead Leotau": {
+  "rating": 1.55
+ },
+ "176455: Hell's Thunder": {
+  "rating": 3.627
+ },
+ "176456: Fatestitcher": {
+  "rating": 4.243
+ },
+ "177473: Shadowfeed": {
+  "rating": 2.864
+ },
+ "177476: Flameblast Dragon": {
+  "rating": 3.976
+ },
+ "177596: Goblin Deathraiders": {
+  "rating": 3.15
+ },
+ "177597: Sigil Blessing": {
+  "rating": 3.19
+ },
+ "177598: Hindering Light": {
+  "rating": 3.715
+ },
+ "177600: Rip-Clan Crasher": {
+  "rating": 2.981
+ },
+ "177601: Thoughtcutter Agent": {
+  "rating": 2.01
+ },
+ "177602: Branching Bolt": {
+  "rating": 3.381
+ },
+ "178091: Covenant of Minds": {
+  "rating": 2.375
+ },
+ "178092: Cancel": {
+  "rating": 2.856
+ },
+ "178094: Knight of the White Orchid": {
+  "rating": 3.772
+ },
+ "178096: Welkin Guide": {
+  "rating": 1.773
+ },
+ "178097: Mighty Emergence": {
+  "rating": 3.03
+ },
+ "178101: Broodmate Dragon": {
+  "rating": 4.07
+ },
+ "179421: Knight-Captain of Eos": {
+  "rating": 3.095
+ },
+ "179422: Realm Razer": {
+  "rating": 3.566
+ },
+ "179423: Naya Panorama": {
+  "rating": 2.8
+ },
+ "179424: Infest": {
+  "rating": 4.026
+ },
+ "179425: Jund Panorama": {
+  "rating": 2.844
+ },
+ "179426: Crucible of Fire": {
+  "rating": 3.058
+ },
+ "179428: Skill Borrower": {
+  "rating": 3.861
+ },
+ "179430: Kederekt Creeper": {
+  "rating": 3.128
+ },
+ "179431: Esper Panorama": {
+  "rating": 2.938
+ },
+ "179432: Tortoise Formation": {
+  "rating": 1.348
+ },
+ "179433: Grixis Panorama": {
+  "rating": 2.877
+ },
+ "180144: Excommunicate": {
+  "rating": 2.861
+ },
+ "185774: Quietus Spike": {
+  "rating": 3.977
+ }
+}

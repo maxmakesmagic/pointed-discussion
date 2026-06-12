@@ -1,0 +1,362 @@
+{
+ "106625: Sacred Mesa": {
+  "rating": 4.075
+ },
+ "106628: Valor": {
+  "rating": 3.889
+ },
+ "106631: Dandân": {
+  "rating": 2.984
+ },
+ "106636: Disintegrate": {
+  "rating": 4.357
+ },
+ "106637: Stormscape Familiar": {
+  "rating": 4.358
+ },
+ "106638: Sengir Autocrat": {
+  "rating": 3.763
+ },
+ "106639: Celestial Dawn": {
+  "rating": 3.83
+ },
+ "106642: Lord of Atlantis": {
+  "rating": 4.462
+ },
+ "106644: Soul Collector": {
+  "rating": 4.035
+ },
+ "106645: Akroma, Angel of Wrath": {
+  "rating": 4.481
+ },
+ "106646: Orgg": {
+  "rating": 3.371
+ },
+ "106647: Essence Sliver": {
+  "rating": 4.28
+ },
+ "106650: Scragnoth": {
+  "rating": 3.769
+ },
+ "106651: Whispers of the Muse": {
+  "rating": 3.486
+ },
+ "106656: Swamp Mosquito": {
+  "rating": 3.605
+ },
+ "106662: Wall of Roots": {
+  "rating": 4.019
+ },
+ "106664: Kobold Taskmaster": {
+  "rating": 2.824
+ },
+ "106665: Auratog": {
+  "rating": 3.553
+ },
+ "107275: Safe Haven": {
+  "rating": 3.5
+ },
+ "107278: Evil Eye of Orms-by-Gore": {
+  "rating": 3.069
+ },
+ "107280: Goblin Snowman": {
+  "rating": 4.103
+ },
+ "107282: Hunting Moa": {
+  "rating": 3.714
+ },
+ "107283: Icatian Javelineers": {
+  "rating": 4.369
+ },
+ "107288: Dauthi Slayer": {
+  "rating": 4.187
+ },
+ "107291: Flying Men": {
+  "rating": 3.949
+ },
+ "107294: Ghost Ship": {
+  "rating": 3.831
+ },
+ "107296: Hail Storm": {
+  "rating": 3.221
+ },
+ "107299: Browbeat": {
+  "rating": 3.478
+ },
+ "107302: Disenchant": {
+  "rating": 4.434
+ },
+ "108786: Jolrael, Empress of Beasts": {
+  "rating": 4.022
+ },
+ "108787: Teferi's Moat": {
+  "rating": 4.041
+ },
+ "108789: Gaea's Blessing": {
+  "rating": 4.469
+ },
+ "108791: Undertaker": {
+  "rating": 4.023
+ },
+ "108794: Witch Hunter": {
+  "rating": 3.675
+ },
+ "108801: Consecrate Land": {
+  "rating": 2.943
+ },
+ "108803: Defiant Vanguard": {
+  "rating": 3.462
+ },
+ "108805: Uncle Istvan": {
+  "rating": 4.306
+ },
+ "108806: Uthden Troll": {
+  "rating": 3.975
+ },
+ "108810: Dragon Whelp": {
+  "rating": 3.791
+ },
+ "108811: Voidmage Prodigy": {
+  "rating": 3.973
+ },
+ "108812: Psionic Blast": {
+  "rating": 4.265
+ },
+ "108813: Wildfire Emissary": {
+  "rating": 4.033
+ },
+ "108816: Giant Oyster": {
+  "rating": 3.657
+ },
+ "108818: Bad Moon": {
+  "rating": 4.253
+ },
+ "108821: Merfolk Assassin": {
+  "rating": 3.024
+ },
+ "108825: Thallid": {
+  "rating": 4.008
+ },
+ "108827: Unstable Mutation": {
+  "rating": 4.217
+ },
+ "108828: Mystic Enforcer": {
+  "rating": 4.258
+ },
+ "108833: Orcish Librarian": {
+  "rating": 3.65
+ },
+ "108835: Avalanche Riders": {
+  "rating": 4.211
+ },
+ "108840: Faceless Butcher": {
+  "rating": 4.14
+ },
+ "108842: Enduring Renewal": {
+  "rating": 4.325
+ },
+ "108843: Dragonstorm": {
+  "rating": 4.344
+ },
+ "108848: Twisted Abomination": {
+  "rating": 4
+ },
+ "108849: Moorish Cavalry": {
+  "rating": 3.244
+ },
+ "108855: Spitting Slug": {
+  "rating": 3.31
+ },
+ "108856: Soltari Priest": {
+  "rating": 4.329
+ },
+ "108861: Willbender": {
+  "rating": 4.31
+ },
+ "108862: Pandemonium": {
+  "rating": 4.339
+ },
+ "108863: Ovinomancer": {
+  "rating": 3.067
+ },
+ "108864: Shadow Guildmage": {
+  "rating": 4.195
+ },
+ "108868: Zhalfirin Commander": {
+  "rating": 3.29
+ },
+ "108869: Undead Warchief": {
+  "rating": 4.197
+ },
+ "108871: Merieke Ri Berit": {
+  "rating": 3.992
+ },
+ "108877: Fire Whip": {
+  "rating": 4.208
+ },
+ "108879: Honorable Passage": {
+  "rating": 3.25
+ },
+ "108880: Fiery Temper": {
+  "rating": 4.083
+ },
+ "108883: Suq'Ata Lancer": {
+  "rating": 3.909
+ },
+ "108885: Resurrection": {
+  "rating": 4.063
+ },
+ "108886: Avoid Fate": {
+  "rating": 4.236
+ },
+ "108890: Withered Wretch": {
+  "rating": 4.459
+ },
+ "108893: Fiery Justice": {
+  "rating": 3.387
+ },
+ "108895: Funeral Charm": {
+  "rating": 4.284
+ },
+ "108906: Prodigal Sorcerer": {
+  "rating": 4.103
+ },
+ "108908: Squire": {
+  "rating": 1.608
+ },
+ "108912: Cockatrice": {
+  "rating": 3.78
+ },
+ "108914: Conspiracy": {
+  "rating": 4.241
+ },
+ "108916: Tribal Flames": {
+  "rating": 3.833
+ },
+ "108917: Desolation Giant": {
+  "rating": 3.703
+ },
+ "108919: Darkness": {
+  "rating": 4.323
+ },
+ "108920: Leviathan": {
+  "rating": 2.314
+ },
+ "108922: Eron the Relentless": {
+  "rating": 3.64
+ },
+ "108923: Stupor": {
+  "rating": 4.267
+ },
+ "108924: Spike Feeder": {
+  "rating": 3.5
+ },
+ "108925: Pirate Ship": {
+  "rating": 2.87
+ },
+ "108929: Avatar of Woe": {
+  "rating": 4.276
+ },
+ "108933: Mindless Automaton": {
+  "rating": 3.691
+ },
+ "108935: Sindbad": {
+  "rating": 3.05
+ },
+ "109672: Call of the Herd": {
+  "rating": 4.045
+ },
+ "109674: Stormbind": {
+  "rating": 3.776
+ },
+ "109677: Void": {
+  "rating": 4.327
+ },
+ "109679: Spined Sliver": {
+  "rating": 3.797
+ },
+ "109683: Whirling Dervish": {
+  "rating": 4.028
+ },
+ "109684: Krosan Cloudscraper": {
+  "rating": 3.965
+ },
+ "109688: Verdeloth the Ancient": {
+  "rating": 3.989
+ },
+ "109690: Claws of Gix": {
+  "rating": 3.93
+ },
+ "109693: Mystic Snake": {
+  "rating": 4.375
+ },
+ "109694: Feldon's Cane": {
+  "rating": 4.189
+ },
+ "109708: Grinning Totem": {
+  "rating": 4.107
+ },
+ "109713: Desert": {
+  "rating": 3.938
+ },
+ "109716: Tormod's Crypt": {
+  "rating": 4.306
+ },
+ "109718: Coalition Victory": {
+  "rating": 4.08
+ },
+ "109723: Sol'kanar the Swamp King": {
+  "rating": 4.03
+ },
+ "109724: Mirari": {
+  "rating": 4.029
+ },
+ "109725: The Rack": {
+  "rating": 4.368
+ },
+ "109730: Serrated Arrows": {
+  "rating": 4.162
+ },
+ "109736: Dodecapod": {
+  "rating": 3.543
+ },
+ "109739: Arena": {
+  "rating": 3.69
+ },
+ "109744: Gaea's Liege": {
+  "rating": 3.442
+ },
+ "109745: Thornscape Battlemage": {
+  "rating": 4.057
+ },
+ "109746: Lightning Angel": {
+  "rating": 4.342
+ },
+ "109748: Craw Giant": {
+  "rating": 3.593
+ },
+ "109754: Nicol Bolas": {
+  "rating": 4.136
+ },
+ "109755: Pendelhaven": {
+  "rating": 4.362
+ },
+ "109757: War Barge": {
+  "rating": 2.944
+ },
+ "109759: Vhati il-Dal": {
+  "rating": 4.033
+ },
+ "109761: Gemstone Mine": {
+  "rating": 4.573
+ },
+ "109764: Jasmine Boreal": {
+  "rating": 1.795
+ },
+ "111062: Mistform Ultimus": {
+  "rating": 3.391
+ },
+ "126333: Shadowmage Infiltrator": {
+  "rating": 4.357
+ }
+}

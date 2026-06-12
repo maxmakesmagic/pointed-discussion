@@ -1,0 +1,497 @@
+{
+ "50234: Burning-Eye Zubera": {
+  "rating": 3.064
+ },
+ "50430: Rushing-Tide Zubera": {
+  "rating": 3.034
+ },
+ "73988: Dreamcatcher": {
+  "rating": 2.197
+ },
+ "73991: Matsu-Tribe Birdstalker": {
+  "rating": 1.865
+ },
+ "73996: Ghost-Lit Warder": {
+  "rating": 2.76
+ },
+ "74002: Inner-Chamber Guard": {
+  "rating": 3.156
+ },
+ "74003: Deathknell Kami": {
+  "rating": 1.892
+ },
+ "74015: Godo's Irregulars": {
+  "rating": 3.43
+ },
+ "74016: Kagemaro, First to Suffer": {
+  "rating": 3.733
+ },
+ "74017: Shinen of Life's Roar": {
+  "rating": 3.745
+ },
+ "74018: Promised Kannushi": {
+  "rating": 3.531
+ },
+ "74046: Kitsune Bonesetter": {
+  "rating": 1.333
+ },
+ "74047: Jiwari, the Earth Aflame": {
+  "rating": 3.355
+ },
+ "74048: Oni of Wild Places": {
+  "rating": 3.045
+ },
+ "74049: Inner Calm, Outer Strength": {
+  "rating": 2.587
+ },
+ "74050: Araba Mothrider": {
+  "rating": 2.911
+ },
+ "74054: Kiyomaro, First to Stand": {
+  "rating": 3.718
+ },
+ "74055: Kaho, Minamo Historian": {
+  "rating": 3.927
+ },
+ "74056: Seek the Horizon": {
+  "rating": 3.316
+ },
+ "74062: Haru-Onna": {
+  "rating": 2.891
+ },
+ "74063: Hand of Cruelty": {
+  "rating": 3.933
+ },
+ "74065: Kuro's Taken": {
+  "rating": 3.115
+ },
+ "74068: Ghost-Lit Nourisher": {
+  "rating": 2.241
+ },
+ "74082: Ghost-Lit Redeemer": {
+  "rating": 3.688
+ },
+ "74088: Shinen of Flight's Wings": {
+  "rating": 1.806
+ },
+ "74119: Descendant of Masumaro": {
+  "rating": 3.038
+ },
+ "74130: Wine of Blood and Iron": {
+  "rating": 2.872
+ },
+ "74132: Cowed by Wisdom": {
+  "rating": 2.946
+ },
+ "74133: Sokenzan Renegade": {
+  "rating": 1.88
+ },
+ "74137: Hail of Arrows": {
+  "rating": 3.278
+ },
+ "74144: Evermind": {
+  "rating": 2.984
+ },
+ "74146: O-Naginata": {
+  "rating": 3.925
+ },
+ "74148: Akuta, Born of Ash": {
+  "rating": 3.661
+ },
+ "74157: Kiku's Shadow": {
+  "rating": 3.902
+ },
+ "74158: Manriki-Gusari": {
+  "rating": 3.833
+ },
+ "74163: Briarknit Kami": {
+  "rating": 3.044
+ },
+ "74166: Fiddlehead Kami": {
+  "rating": 1.179
+ },
+ "74168: Seed the Land": {
+  "rating": 2.541
+ },
+ "74170: Soramaro, First to Dream": {
+  "rating": 3.522
+ },
+ "74173: Hand of Honor": {
+  "rating": 3.918
+ },
+ "74174: Soratami Cloud Chariot": {
+  "rating": 2.887
+ },
+ "74179: Path of Anger's Flame": {
+  "rating": 3.203
+ },
+ "74184: Masumaro, First to Live": {
+  "rating": 3.227
+ },
+ "74186: Charge Across the Araba": {
+  "rating": 3.552
+ },
+ "74187: Adamaro, First to Desire": {
+  "rating": 3.116
+ },
+ "74189: Rending Vines": {
+  "rating": 2.303
+ },
+ "74190: Kataki, War's Wage": {
+  "rating": 4.236
+ },
+ "74191: Shifting Borders": {
+  "rating": 2.148
+ },
+ "74195: Kashi-Tribe Elite": {
+  "rating": 3.786
+ },
+ "74196: Okina Nightwatch": {
+  "rating": 2.036
+ },
+ "74198: Moonbow Illusionist": {
+  "rating": 1.472
+ },
+ "74199: Ronin Cavekeeper": {
+  "rating": 2.156
+ },
+ "74201: Barrel Down Sokenzan": {
+  "rating": 2.774
+ },
+ "74202: Death of a Thousand Stings": {
+  "rating": 1.432
+ },
+ "74204: Elder Pine of Jukai": {
+  "rating": 3.295
+ },
+ "74206: Oboro, Palace in the Clouds": {
+  "rating": 4.211
+ },
+ "74207: Pithing Needle": {
+  "rating": 4.242
+ },
+ "74208: Aether Shockwave": {
+  "rating": 2.645
+ },
+ "74210: Sakura-Tribe Scout": {
+  "rating": 3.919
+ },
+ "74211: Oboro Envoy": {
+  "rating": 1.793
+ },
+ "74213: Kitsune Loreweaver": {
+  "rating": 2.571
+ },
+ "74216: Presence of the Wise": {
+  "rating": 2.065
+ },
+ "74217: Kami of the Tended Garden": {
+  "rating": 2.25
+ },
+ "74361: Shinen of Stars' Light": {
+  "rating": 1.972
+ },
+ "74372: Spiritual Visit": {
+  "rating": 3.894
+ },
+ "74373: Eiganjo Free-Riders": {
+  "rating": 2.605
+ },
+ "74374: Thoughts of Ruin": {
+  "rating": 2.629
+ },
+ "74377: Infernal Kirin": {
+  "rating": 3.75
+ },
+ "74388: Mikokoro, Center of the Sea": {
+  "rating": 3.873
+ },
+ "74393: Akki Drillmaster": {
+  "rating": 2.819
+ },
+ "74394: Locust Miser": {
+  "rating": 3.162
+ },
+ "74396: Razorjaw Oni": {
+  "rating": 2.757
+ },
+ "74398: Sokenzan Spellblade": {
+  "rating": 2.865
+ },
+ "74399: Exile into Darkness": {
+  "rating": 2.379
+ },
+ "74400: Footsteps of the Goryo": {
+  "rating": 2.633
+ },
+ "74401: Ghost-Lit Stalker": {
+  "rating": 2.7
+ },
+ "74407: Stampeding Serow": {
+  "rating": 3.632
+ },
+ "74411: Rally the Horde": {
+  "rating": 2.985
+ },
+ "74423: Oppressive Will": {
+  "rating": 2.079
+ },
+ "74471: Sekki, Seasons' Guide": {
+  "rating": 3.896
+ },
+ "74492: Tomb of Urami": {
+  "rating": 1.6
+ },
+ "74503: Spiraling Embers": {
+  "rating": 3.085
+ },
+ "74509: Sakashima the Impostor": {
+  "rating": 4.039
+ },
+ "74560: Kagemaro's Clutch": {
+  "rating": 1.839
+ },
+ "74604: Reki, the History of Kamigawa": {
+  "rating": 3.083
+ },
+ "74618: Iname as One": {
+  "rating": 2.549
+ },
+ "75340: Pain's Reward": {
+  "rating": 3.697
+ },
+ "78585: Bounteous Kirin": {
+  "rating": 3.211
+ },
+ "79164: Akki Underling": {
+  "rating": 2.244
+ },
+ "79860: Iizuka the Ruthless": {
+  "rating": 3.291
+ },
+ "80412: Twincast": {
+  "rating": 3.851
+ },
+ "80530: Kitsune Dawnblade": {
+  "rating": 1.743
+ },
+ "84359: Michiko Konda, Truth Seeker": {
+  "rating": 3.899
+ },
+ "84364: Kami of the Crescent Moon": {
+  "rating": 3.917
+ },
+ "84370: Ayumi, the Last Visitor": {
+  "rating": 3.678
+ },
+ "84371: Reverence": {
+  "rating": 3.659
+ },
+ "84373: Feral Lightning": {
+  "rating": 2.781
+ },
+ "84376: Promise of Bunrei": {
+  "rating": 3.945
+ },
+ "84380: Celestial Kirin": {
+  "rating": 3.859
+ },
+ "84639: Nikko-Onna": {
+  "rating": 3.556
+ },
+ "84643: Moonwing Moth": {
+  "rating": 2.154
+ },
+ "84648: Descendant of Soramaro": {
+  "rating": 3.288
+ },
+ "84703: Deathmask Nezumi": {
+  "rating": 2.457
+ },
+ "84704: Kiri-Onna": {
+  "rating": 1.688
+ },
+ "84705: Kemuri-Onna": {
+  "rating": 2.2
+ },
+ "84709: Blood Clock": {
+  "rating": 3.041
+ },
+ "84711: Inner Fire": {
+  "rating": 2.338
+ },
+ "84712: Yuki-Onna": {
+  "rating": 2.871
+ },
+ "84716: Homura, Human Ascendant": {
+  "rating": 3.904
+ },
+ "84717: Sink into Takenuma": {
+  "rating": 1.708
+ },
+ "87329: Curtain of Light": {
+  "rating": 3.234
+ },
+ "87330: Murmurs from Beyond": {
+  "rating": 2.776
+ },
+ "87331: Molting Skin": {
+  "rating": 3.214
+ },
+ "87332: Dosan's Oldest Chant": {
+  "rating": 2.111
+ },
+ "87333: Arashi, the Sky Asunder": {
+  "rating": 3.931
+ },
+ "87334: Ashes of the Fallen": {
+  "rating": 2.847
+ },
+ "87335: Kami of Empty Graves": {
+  "rating": 1.557
+ },
+ "87336: Freed from the Real": {
+  "rating": 3.984
+ },
+ "87337: Death Denied": {
+  "rating": 3.818
+ },
+ "87339: Shinen of Fury's Fire": {
+  "rating": 1.625
+ },
+ "87341: Ghost-Lit Raider": {
+  "rating": 3.567
+ },
+ "87342: Torii Watchward": {
+  "rating": 2.129
+ },
+ "87593: Eternal Dominion": {
+  "rating": 3.918
+ },
+ "87594: Endless Swarm": {
+  "rating": 3.417
+ },
+ "87595: Sasaya, Orochi Ascendant": {
+  "rating": 3.274
+ },
+ "87596: Kuon, Ogre Ascendant": {
+  "rating": 3.103
+ },
+ "87598: Enduring Ideal": {
+  "rating": 3.8
+ },
+ "87599: Erayo, Soratami Ascendant": {
+  "rating": 4.211
+ },
+ "87600: Rune-Tail, Kitsune Ascendant": {
+  "rating": 3.929
+ },
+ "87601: Neverending Torment": {
+  "rating": 3.589
+ },
+ "87602: Undying Flames": {
+  "rating": 3.42
+ },
+ "88784: Oboro Breezecaller": {
+  "rating": 2.207
+ },
+ "88785: Pure Intentions": {
+  "rating": 2.697
+ },
+ "88786: Cut the Earthly Bond": {
+  "rating": 1.557
+ },
+ "88787: Raving Oni-Slave": {
+  "rating": 2.312
+ },
+ "88789: Ideas Unbound": {
+  "rating": 4
+ },
+ "88791: Minamo Scrollkeeper": {
+  "rating": 2.957
+ },
+ "88793: Skyfire Kirin": {
+  "rating": 3.465
+ },
+ "88794: Gnat Miser": {
+  "rating": 3.617
+ },
+ "88796: Ivory Crane Netsuke": {
+  "rating": 2.25
+ },
+ "88797: Skull Collector": {
+  "rating": 3.234
+ },
+ "88799: Ebony Owl Netsuke": {
+  "rating": 3.159
+ },
+ "88802: Maga, Traitor to Mortals": {
+  "rating": 3.402
+ },
+ "88803: Choice of Damnations": {
+  "rating": 4.027
+ },
+ "88804: Trusted Advisor": {
+  "rating": 3.661
+ },
+ "88807: Miren, the Moaning Well": {
+  "rating": 3.718
+ },
+ "88808: Sunder from Within": {
+  "rating": 2.774
+ },
+ "88810: Captive Flame": {
+  "rating": 3.857
+ },
+ "88811: Scroll of Origins": {
+  "rating": 2.326
+ },
+ "88812: Shinen of Fear's Chill": {
+  "rating": 0.982
+ },
+ "88813: Into the Fray": {
+  "rating": 2.081
+ },
+ "88815: Nightsoil Kami": {
+  "rating": 2.481
+ },
+ "88816: Dense Canopy": {
+  "rating": 3.317
+ },
+ "88817: One with Nothing": {
+  "rating": 2.862
+ },
+ "88818: Hidetsugu's Second Rite": {
+  "rating": 3.946
+ },
+ "88821: Measure of Wickedness": {
+  "rating": 3.852
+ },
+ "88823: Shape Stealer": {
+  "rating": 3.808
+ },
+ "89397: Plow Through Reito": {
+  "rating": 2.277
+ },
+ "89398: Secretkeeper": {
+  "rating": 2.78
+ },
+ "89399: Cloudhoof Kirin": {
+  "rating": 3.807
+ },
+ "89400: Descendant of Kiyomaro": {
+  "rating": 3.4
+ },
+ "89401: Gaze of Adamaro": {
+  "rating": 2.686
+ },
+ "89402: Glitterfang": {
+  "rating": 3.75
+ },
+ "89403: Overwhelming Intellect": {
+  "rating": 2.723
+ },
+ "89406: Meishin, the Mind Cage": {
+  "rating": 3.033
+ }
+}

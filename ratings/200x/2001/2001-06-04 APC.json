@@ -1,0 +1,431 @@
+{
+ "19117: Flowstone Charger": {
+  "rating": 2.969
+ },
+ "19132: Yavimaya's Embrace": {
+  "rating": 3.14
+ },
+ "19135: Vindicate": {
+  "rating": 4.582
+ },
+ "19163: Consume Strength": {
+  "rating": 4.227
+ },
+ "21253: Angelfire Crusader": {
+  "rating": 1.975
+ },
+ "23056: Wild Research": {
+  "rating": 3.839
+ },
+ "23198: Powerstone Minefield": {
+  "rating": 4.225
+ },
+ "23246: Caves of Koilos": {
+  "rating": 4.41
+ },
+ "23247: Battlefield Forge": {
+  "rating": 4.196
+ },
+ "23248: Llanowar Wastes": {
+  "rating": 4.312
+ },
+ "23249: Yavimaya Coast": {
+  "rating": 4.353
+ },
+ "23250: Shivan Reef": {
+  "rating": 4.292
+ },
+ "25816: Overgrown Estate": {
+  "rating": 3.317
+ },
+ "25825: Martyrs' Tomb": {
+  "rating": 1.378
+ },
+ "25828: Captain's Maneuver": {
+  "rating": 3.756
+ },
+ "25832: Temporal Spring": {
+  "rating": 4.037
+ },
+ "25833: Death Mutation": {
+  "rating": 2.683
+ },
+ "25852: Dega Disciple": {
+  "rating": 3.75
+ },
+ "25853: Ceta Disciple": {
+  "rating": 3.191
+ },
+ "25854: Necra Disciple": {
+  "rating": 2.622
+ },
+ "25855: Raka Disciple": {
+  "rating": 2.983
+ },
+ "25856: Ana Disciple": {
+  "rating": 3.258
+ },
+ "25859: Planar Despair": {
+  "rating": 3.069
+ },
+ "25910: Haunted Angel": {
+  "rating": 2.194
+ },
+ "25947: Degavolver": {
+  "rating": 3.75
+ },
+ "25948: Cetavolver": {
+  "rating": 3.62
+ },
+ "25949: Necravolver": {
+  "rating": 4.196
+ },
+ "25950: Rakavolver": {
+  "rating": 4.192
+ },
+ "25951: Anavolver": {
+  "rating": 3.973
+ },
+ "25953: Pernicious Deed": {
+  "rating": 4.503
+ },
+ "25956: Penumbra Kavu": {
+  "rating": 3.75
+ },
+ "25969: Index": {
+  "rating": 3.162
+ },
+ "25971: Savage Gorilla": {
+  "rating": 2.436
+ },
+ "26259: Desolation Angel": {
+  "rating": 4.281
+ },
+ "26261: Evasive Action": {
+  "rating": 3.224
+ },
+ "26264: Emblazoned Golem": {
+  "rating": 2.766
+ },
+ "26371: Coalition Honor Guard": {
+  "rating": 4.028
+ },
+ "26373: Quicksilver Dagger": {
+  "rating": 4.404
+ },
+ "26421: Mystic Snake": {
+  "rating": 4.346
+ },
+ "26424: Legacy Weapon": {
+  "rating": 4.156
+ },
+ "26447: Illuminate": {
+  "rating": 3.181
+ },
+ "26451: Ice Cave": {
+  "rating": 3.487
+ },
+ "26663: Spectral Lynx": {
+  "rating": 4.147
+ },
+ "26672: Dwarven Patrol": {
+  "rating": 2.735
+ },
+ "26673: Jaded Response": {
+  "rating": 2.766
+ },
+ "26691: Night // Day": {
+  "rating": 3.5
+ },
+ "26699: Phyrexian Gargantua": {
+  "rating": 3.702
+ },
+ "26717: Urborg Elf": {
+  "rating": 3.984
+ },
+ "26720: Tranquil Path": {
+  "rating": 3.08
+ },
+ "26733: Dodecapod": {
+  "rating": 3.628
+ },
+ "26734: Dragon Arch": {
+  "rating": 4.425
+ },
+ "26743: Fungal Shambler": {
+  "rating": 4.155
+ },
+ "26756: Razorfin Hunter": {
+  "rating": 4.446
+ },
+ "26757: Gaea's Skyfolk": {
+  "rating": 4.227
+ },
+ "26758: Putrid Warrior": {
+  "rating": 3.308
+ },
+ "26759: Llanowar Dead": {
+  "rating": 3.789
+ },
+ "26760: Goblin Legionnaire": {
+  "rating": 4.153
+ },
+ "26776: Unnatural Selection": {
+  "rating": 3.809
+ },
+ "26783: Standard Bearer": {
+  "rating": 4.01
+ },
+ "26785: Squee's Embrace": {
+  "rating": 4.226
+ },
+ "26788: Manacles of Decay": {
+  "rating": 3.323
+ },
+ "26791: Coalition Flag": {
+  "rating": 4.088
+ },
+ "26793: Gerrard Capashen": {
+  "rating": 3.703
+ },
+ "26795: Living Airship": {
+  "rating": 2.588
+ },
+ "26797: Jilt": {
+  "rating": 4.112
+ },
+ "26800: Mournful Zombie": {
+  "rating": 2.081
+ },
+ "26801: Zombie Boa": {
+  "rating": 2.565
+ },
+ "26802: Urborg Uprising": {
+  "rating": 3.192
+ },
+ "26805: Tundra Kavu": {
+  "rating": 3.129
+ },
+ "26806: Bloodfire Dwarf": {
+  "rating": 3.782
+ },
+ "26809: Kavu Glider": {
+  "rating": 1.703
+ },
+ "26810: Dwarven Landslide": {
+  "rating": 2.057
+ },
+ "26815: Penumbra Bobcat": {
+  "rating": 3.596
+ },
+ "26816: Lay of the Land": {
+  "rating": 3.378
+ },
+ "26822: Soul Link": {
+  "rating": 4.226
+ },
+ "26830: Ana Sanctuary": {
+  "rating": 3.643
+ },
+ "26831: Squee's Revenge": {
+  "rating": 2.934
+ },
+ "26848: Dead Ringers": {
+  "rating": 2.615
+ },
+ "26849: Minotaur Tactician": {
+  "rating": 1.387
+ },
+ "26854: Helionaut": {
+  "rating": 2.75
+ },
+ "26855: Vodalian Mystic": {
+  "rating": 2.1
+ },
+ "27136: Necra Sanctuary": {
+  "rating": 3.474
+ },
+ "27137: Divine Light": {
+  "rating": 2.744
+ },
+ "27153: Bog Gnarr": {
+  "rating": 2.424
+ },
+ "27154: Glade Gnarr": {
+  "rating": 2.688
+ },
+ "27156: Tahngarth's Glare": {
+  "rating": 2.038
+ },
+ "27158: Reef Shaman": {
+  "rating": 4.049
+ },
+ "27160: Symbiotic Deployment": {
+  "rating": 3.691
+ },
+ "27162: Life // Death": {
+  "rating": 4.48
+ },
+ "27164: Illusion // Reality": {
+  "rating": 2.63
+ },
+ "27166: Fire // Ice": {
+  "rating": 4.556
+ },
+ "27167: Order // Chaos": {
+  "rating": 4.328
+ },
+ "27169: Guided Passage": {
+  "rating": 4.326
+ },
+ "27171: Mind Extraction": {
+  "rating": 2.867
+ },
+ "27173: Ceta Sanctuary": {
+  "rating": 3.5
+ },
+ "27178: Dega Sanctuary": {
+  "rating": 3.707
+ },
+ "27179: Raka Sanctuary": {
+  "rating": 3.446
+ },
+ "27187: Prophetic Bolt": {
+  "rating": 4.181
+ },
+ "27188: Quagmire Druid": {
+  "rating": 3.425
+ },
+ "27231: Last Stand": {
+  "rating": 4.311
+ },
+ "27583: Suffocating Blast": {
+  "rating": 4.231
+ },
+ "27591: Last Caress": {
+  "rating": 2.439
+ },
+ "27602: False Dawn": {
+  "rating": 3.375
+ },
+ "27650: Lightning Angel": {
+  "rating": 4.353
+ },
+ "27657: Enlistment Officer": {
+  "rating": 4.261
+ },
+ "27659: Tidal Courier": {
+  "rating": 2.788
+ },
+ "27660: Phyrexian Rager": {
+  "rating": 3.854
+ },
+ "27662: Grave Defiler": {
+  "rating": 4.026
+ },
+ "27663: Phyrexian Arena": {
+  "rating": 4.415
+ },
+ "27664: Goblin Ringleader": {
+  "rating": 4.276
+ },
+ "27666: Sylvan Messenger": {
+  "rating": 3.71
+ },
+ "27669: Penumbra Wurm": {
+  "rating": 4.404
+ },
+ "27670: Whirlpool Rider": {
+  "rating": 3.518
+ },
+ "27671: Whirlpool Drake": {
+  "rating": 3.574
+ },
+ "27672: Whirlpool Warrior": {
+  "rating": 4.085
+ },
+ "27674: Shield of Duty and Reason": {
+  "rating": 3.015
+ },
+ "27760: Kavu Mauler": {
+  "rating": 3.727
+ },
+ "27761: Brass Herald": {
+  "rating": 3.576
+ },
+ "28007: Strength of Night": {
+  "rating": 3.586
+ },
+ "28008: Minotaur Illusionist": {
+  "rating": 3.184
+ },
+ "28009: Spiritmonger": {
+  "rating": 4.443
+ },
+ "28011: Fervent Charge": {
+  "rating": 4
+ },
+ "28668: Gaea's Balance": {
+  "rating": 3.244
+ },
+ "28669: Aether Mutation": {
+  "rating": 3.959
+ },
+ "28670: Cromat": {
+  "rating": 4.118
+ },
+ "28749: Suppress": {
+  "rating": 3.5
+ },
+ "28750: Kavu Howler": {
+  "rating": 3.186
+ },
+ "28751: Orim's Thunder": {
+  "rating": 4.062
+ },
+ "28753: Shimmering Mirage": {
+  "rating": 2.962
+ },
+ "28754: Coastal Drake": {
+  "rating": 2.5
+ },
+ "28805: Foul Presence": {
+  "rating": 3.038
+ },
+ "28806: Bloodfire Kavu": {
+  "rating": 3.577
+ },
+ "28807: Bloodfire Colossus": {
+  "rating": 3.733
+ },
+ "28810: Diversionary Tactics": {
+  "rating": 2.964
+ },
+ "29303: Bloodfire Infusion": {
+  "rating": 3.865
+ },
+ "29304: Jungle Barrier": {
+  "rating": 3.694
+ },
+ "29414: Desolation Giant": {
+  "rating": 4.047
+ },
+ "29415: Death Grasp": {
+  "rating": 4.239
+ },
+ "29416: Gerrard's Verdict": {
+  "rating": 4.399
+ },
+ "29417: Goblin Trenches": {
+  "rating": 4.319
+ },
+ "29450: Ebony Treefolk": {
+  "rating": 3.856
+ },
+ "29605: Smash": {
+  "rating": 3.641
+ },
+ "29677: Mask of Intolerance": {
+  "rating": 3.741
+ }
+}

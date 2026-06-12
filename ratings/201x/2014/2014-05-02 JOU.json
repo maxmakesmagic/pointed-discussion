@@ -1,0 +1,497 @@
+{
+ "380364: Aegis of the Gods": {
+  "rating": 4.4
+ },
+ "380365: Aerial Formation": {
+  "rating": 2.583
+ },
+ "380366: Agent of Erebos": {
+  "rating": 3.204
+ },
+ "380367: Ajani, Mentor of Heroes": {
+  "rating": 3.5
+ },
+ "380368: Ajani's Presence": {
+  "rating": 3.603
+ },
+ "380369: Akroan Line Breaker": {
+  "rating": 2.261
+ },
+ "380370: Akroan Mastiff": {
+  "rating": 2.55
+ },
+ "380371: Armament of Nyx": {
+  "rating": 2.929
+ },
+ "380372: Armory of Iroas": {
+  "rating": 2.87
+ },
+ "380373: Aspect of Gorgon": {
+  "rating": 2.879
+ },
+ "380374: Athreos, God of Passage": {
+  "rating": 3.743
+ },
+ "380375: Banishing Light": {
+  "rating": 3.829
+ },
+ "380376: Bassara Tower Archer": {
+  "rating": 3.443
+ },
+ "380377: Battlefield Thaumaturge": {
+  "rating": 3.776
+ },
+ "380378: Bearer of the Heavens": {
+  "rating": 3.636
+ },
+ "380379: Bladetusk Boar": {
+  "rating": 3.08
+ },
+ "380380: Blinding Flare": {
+  "rating": 2.977
+ },
+ "380381: Bloodcrazed Hoplite": {
+  "rating": 3.571
+ },
+ "380382: Brain Maggot": {
+  "rating": 3.841
+ },
+ "380383: Cast into Darkness": {
+  "rating": 1.95
+ },
+ "380384: Chariot of Victory": {
+  "rating": 3.515
+ },
+ "380385: Cloaked Siren": {
+  "rating": 3.365
+ },
+ "380386: Colossal Heroics": {
+  "rating": 2.868
+ },
+ "380387: Consign to Dust": {
+  "rating": 2.875
+ },
+ "380388: Countermand": {
+  "rating": 2.143
+ },
+ "380389: Cruel Feeding": {
+  "rating": 2.475
+ },
+ "380390: Crystalline Nautilus": {
+  "rating": 3.519
+ },
+ "380391: Cyclops of Eternal Fury": {
+  "rating": 2.833
+ },
+ "380392: Dakra Mystic": {
+  "rating": 3.802
+ },
+ "380393: Daring Thief": {
+  "rating": 3.778
+ },
+ "380394: Dawnbringer Charioteers": {
+  "rating": 3.763
+ },
+ "380395: Deicide": {
+  "rating": 3.278
+ },
+ "380396: Desecration Plague": {
+  "rating": 2.676
+ },
+ "380397: Deserter's Quarters": {
+  "rating": 1.417
+ },
+ "380398: Desperate Stand": {
+  "rating": 2.692
+ },
+ "380399: Dictate of Erebos": {
+  "rating": 3.787
+ },
+ "380400: Dictate of Heliod": {
+  "rating": 3.8
+ },
+ "380401: Dictate of Karametra": {
+  "rating": 3.667
+ },
+ "380402: Dictate of Kruphix": {
+  "rating": 3.788
+ },
+ "380403: Dictate of the Twin Gods": {
+  "rating": 3.531
+ },
+ "380404: Disciple of Deceit": {
+  "rating": 4.203
+ },
+ "380405: Doomwake Giant": {
+  "rating": 3.986
+ },
+ "380406: Dreadbringer Lampads": {
+  "rating": 3.119
+ },
+ "380407: Eagle of the Watch": {
+  "rating": 2.525
+ },
+ "380408: Eidolon of Blossoms": {
+  "rating": 3.905
+ },
+ "380409: Eidolon of Rhetoric": {
+  "rating": 4.071
+ },
+ "380410: Eidolon of the Great Revel": {
+  "rating": 4.205
+ },
+ "380411: Extinguish All Hope": {
+  "rating": 3.603
+ },
+ "380412: Feast of Dreams": {
+  "rating": 3.283
+ },
+ "380413: Felhide Petrifier": {
+  "rating": 3.861
+ },
+ "380414: Flamespeaker's Will": {
+  "rating": 2.425
+ },
+ "380415: Fleetfeather Cockatrice": {
+  "rating": 3.8
+ },
+ "380416: Flurry of Horns": {
+  "rating": 3.72
+ },
+ "380417: Font of Fertility": {
+  "rating": 3.538
+ },
+ "380418: Font of Fortunes": {
+  "rating": 3.674
+ },
+ "380419: Font of Ire": {
+  "rating": 1.889
+ },
+ "380420: Font of Return": {
+  "rating": 3.089
+ },
+ "380421: Font of Vigor": {
+  "rating": 1.339
+ },
+ "380422: Forgeborn Oreads": {
+  "rating": 3.625
+ },
+ "380423: Gluttonous Cyclops": {
+  "rating": 2.205
+ },
+ "380424: Gnarled Scarhide": {
+  "rating": 3.72
+ },
+ "380425: Godhunter Octopus": {
+  "rating": 1.841
+ },
+ "380426: Godsend": {
+  "rating": 3.903
+ },
+ "380427: Golden Hind": {
+  "rating": 3.389
+ },
+ "380428: Goldenhide Ox": {
+  "rating": 2.722
+ },
+ "380429: Gold-Forged Sentinel": {
+  "rating": 2.1
+ },
+ "380430: Grim Guardian": {
+  "rating": 3.661
+ },
+ "380431: Hall of Triumph": {
+  "rating": 3.778
+ },
+ "380432: Harness by Force": {
+  "rating": 3.704
+ },
+ "380433: Harvestguard Alseids": {
+  "rating": 3.087
+ },
+ "380434: Heroes' Bane": {
+  "rating": 3.75
+ },
+ "380435: Hour of Need": {
+  "rating": 3.764
+ },
+ "380436: Hubris": {
+  "rating": 3.173
+ },
+ "380437: Humbler of Mortals": {
+  "rating": 3.143
+ },
+ "380438: Hydra Broodmaster": {
+  "rating": 3.818
+ },
+ "380439: Hypnotic Siren": {
+  "rating": 3.704
+ },
+ "380440: Interpret the Signs": {
+  "rating": 2.857
+ },
+ "380441: Iroas, God of Victory": {
+  "rating": 3.758
+ },
+ "380442: Keranos, God of Storms": {
+  "rating": 3.733
+ },
+ "380443: King Macar, the Gold-Cursed": {
+  "rating": 3.783
+ },
+ "380444: Kiora's Dismissal": {
+  "rating": 3.238
+ },
+ "380445: Knowledge and Power": {
+  "rating": 2.615
+ },
+ "380446: Kruphix, God of Horizons": {
+  "rating": 3.678
+ },
+ "380447: Kruphix's Insight": {
+  "rating": 3.5
+ },
+ "380448: Lagonna-Band Trailblazer": {
+  "rating": 3.823
+ },
+ "380449: Launch the Fleet": {
+  "rating": 3.756
+ },
+ "380450: Leonin Iconoclast": {
+  "rating": 3.02
+ },
+ "380451: Lightning Diadem": {
+  "rating": 1.129
+ },
+ "380452: Magma Spray": {
+  "rating": 3.4
+ },
+ "380453: Mana Confluence": {
+  "rating": 4.553
+ },
+ "380454: Market Festival": {
+  "rating": 3.352
+ },
+ "380455: Master of the Feast": {
+  "rating": 3.798
+ },
+ "380456: Mogis's Warhound": {
+  "rating": 3.261
+ },
+ "380457: Mortal Obstinacy": {
+  "rating": 3
+ },
+ "380458: Nature's Panoply": {
+  "rating": 2.04
+ },
+ "380459: Nessian Game Warden": {
+  "rating": 3.883
+ },
+ "380460: Nightmarish End": {
+  "rating": 2.5
+ },
+ "380461: Nyx Infusion": {
+  "rating": 2.971
+ },
+ "380462: Nyx Weaver": {
+  "rating": 3.716
+ },
+ "380463: Nyx-Fleece Ram": {
+  "rating": 3.785
+ },
+ "380464: Oakheart Dryads": {
+  "rating": 3.02
+ },
+ "380465: Oppressive Rays": {
+  "rating": 3.778
+ },
+ "380466: Oreskos Swiftclaw": {
+  "rating": 3.229
+ },
+ "380467: Pensive Minotaur": {
+  "rating": 2.827
+ },
+ "380468: Phalanx Formation": {
+  "rating": 3.312
+ },
+ "380469: Pharika, God of Affliction": {
+  "rating": 3.373
+ },
+ "380470: Pharika's Chosen": {
+  "rating": 3.765
+ },
+ "380471: Pheres-Band Thunderhoof": {
+  "rating": 3.175
+ },
+ "380472: Pheres-Band Warchief": {
+  "rating": 3.724
+ },
+ "380473: Pin to the Earth": {
+  "rating": 2.5
+ },
+ "380474: Polymorphous Rush": {
+  "rating": 3.64
+ },
+ "380475: Prophetic Flamespeaker": {
+  "rating": 4.262
+ },
+ "380476: Pull from the Deep": {
+  "rating": 3.087
+ },
+ "380477: Quarry Colossus": {
+  "rating": 3.615
+ },
+ "380478: Ravenous Leucrocota": {
+  "rating": 2.87
+ },
+ "380479: Renowned Weaver": {
+  "rating": 3.375
+ },
+ "380480: Reprisal": {
+  "rating": 3.905
+ },
+ "380481: Returned Reveler": {
+  "rating": 2.816
+ },
+ "380482: Revel of the Fallen God": {
+  "rating": 3.045
+ },
+ "380483: Reviving Melody": {
+  "rating": 3.658
+ },
+ "380484: Riddle of Lightning": {
+  "rating": 3.528
+ },
+ "380485: Riptide Chimera": {
+  "rating": 3.75
+ },
+ "380486: Rise of Eagles": {
+  "rating": 2.738
+ },
+ "380487: Ritual of the Returned": {
+  "rating": 3.522
+ },
+ "380488: Rollick of Abandon": {
+  "rating": 3.045
+ },
+ "380489: Rotted Hulk": {
+  "rating": 1.891
+ },
+ "380490: Rouse the Mob": {
+  "rating": 3.021
+ },
+ "380491: Sage of Hours": {
+  "rating": 3.689
+ },
+ "380492: Satyr Grovedancer": {
+  "rating": 3.06
+ },
+ "380493: Satyr Hoplite": {
+  "rating": 3.2
+ },
+ "380494: Scourge of Fleets": {
+  "rating": 3.845
+ },
+ "380495: Setessan Tactics": {
+  "rating": 3.757
+ },
+ "380496: Sightless Brawler": {
+  "rating": 3.105
+ },
+ "380497: Sigiled Skink": {
+  "rating": 3.222
+ },
+ "380498: Sigiled Starfish": {
+  "rating": 3.823
+ },
+ "380499: Silence the Believers": {
+  "rating": 3.878
+ },
+ "380500: Skybind": {
+  "rating": 2.773
+ },
+ "380501: Skyspear Cavalry": {
+  "rating": 3.405
+ },
+ "380502: Solidarity of Heroes": {
+  "rating": 3.662
+ },
+ "380503: Spawn of Thraxes": {
+  "rating": 3.364
+ },
+ "380504: Spirespine": {
+  "rating": 2.36
+ },
+ "380505: Spite of Mogis": {
+  "rating": 3.577
+ },
+ "380506: Spiteful Blow": {
+  "rating": 2.885
+ },
+ "380507: Squelching Leeches": {
+  "rating": 3.673
+ },
+ "380508: Starfall": {
+  "rating": 1.667
+ },
+ "380509: Stonewise Fortifier": {
+  "rating": 2.596
+ },
+ "380510: Stormchaser Chimera": {
+  "rating": 3.5
+ },
+ "380511: Strength from the Fallen": {
+  "rating": 3
+ },
+ "380512: Supply-Line Cranes": {
+  "rating": 3.238
+ },
+ "380513: Swarmborn Giant": {
+  "rating": 3.333
+ },
+ "380514: Temple of Epiphany": {
+  "rating": 3.75
+ },
+ "380515: Temple of Malady": {
+  "rating": 3.839
+ },
+ "380516: Tethmos High Priest": {
+  "rating": 3.743
+ },
+ "380517: Thassa's Devourer": {
+  "rating": 2.25
+ },
+ "380518: Thassa's Ire": {
+  "rating": 2.326
+ },
+ "380519: Thoughtrender Lamia": {
+  "rating": 3.167
+ },
+ "380520: Tormented Thoughts": {
+  "rating": 2.558
+ },
+ "380521: Triton Cavalry": {
+  "rating": 3.619
+ },
+ "380522: Triton Shorestalker": {
+  "rating": 3.85
+ },
+ "380523: Twinflame": {
+  "rating": 3.233
+ },
+ "380524: Underworld Coinsmith": {
+  "rating": 3.677
+ },
+ "380525: War-Wing Siren": {
+  "rating": 3.648
+ },
+ "380526: Whitewater Naiads": {
+  "rating": 3.643
+ },
+ "380527: Wildfire Cerberus": {
+  "rating": 3
+ },
+ "380528: Worst Fears": {
+  "rating": 3.133
+ }
+}

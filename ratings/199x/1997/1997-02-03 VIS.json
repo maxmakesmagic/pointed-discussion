@@ -1,0 +1,503 @@
+{
+ "3589: Anvil of Bogardan": {
+  "rating": 3.938
+ },
+ "3590: Brass-Talon Chimera": {
+  "rating": 3.471
+ },
+ "3591: Diamond Kaleidoscope": {
+  "rating": 2.968
+ },
+ "3592: Dragon Mask": {
+  "rating": 3.056
+ },
+ "3593: Helm of Awakening": {
+  "rating": 4.411
+ },
+ "3594: Iron-Heart Chimera": {
+  "rating": 3.391
+ },
+ "3595: Juju Bubble": {
+  "rating": 0.914
+ },
+ "3596: Lead-Belly Chimera": {
+  "rating": 3.406
+ },
+ "3597: Magma Mine": {
+  "rating": 3.058
+ },
+ "3598: Matopi Golem": {
+  "rating": 1.667
+ },
+ "3599: Phyrexian Marauder": {
+  "rating": 1.5
+ },
+ "3600: Phyrexian Walker": {
+  "rating": 4.398
+ },
+ "3601: Sands of Time": {
+  "rating": 4.182
+ },
+ "3602: Sisay's Ring": {
+  "rating": 3.08
+ },
+ "3603: Snake Basket": {
+  "rating": 3.894
+ },
+ "3604: Teferi's Puzzle Box": {
+  "rating": 4.029
+ },
+ "3605: Tin-Wing Chimera": {
+  "rating": 3.346
+ },
+ "3606: Triangle of War": {
+  "rating": 3.111
+ },
+ "3607: Wand of Denial": {
+  "rating": 3.61
+ },
+ "3608: Aku Djinn": {
+  "rating": 3.273
+ },
+ "3609: Blanket of Night": {
+  "rating": 3.695
+ },
+ "3610: Brood of Cockroaches": {
+  "rating": 3.119
+ },
+ "3611: Coercion": {
+  "rating": 3.489
+ },
+ "3612: Crypt Rats": {
+  "rating": 4.238
+ },
+ "3613: Dark Privilege": {
+  "rating": 2.581
+ },
+ "3614: Death Watch": {
+  "rating": 3.511
+ },
+ "3615: Desolation": {
+  "rating": 3.583
+ },
+ "3616: Fallen Askari": {
+  "rating": 3.682
+ },
+ "3617: Forbidden Ritual": {
+  "rating": 3.397
+ },
+ "3618: Funeral Charm": {
+  "rating": 4.302
+ },
+ "3619: Infernal Harvest": {
+  "rating": 2.958
+ },
+ "3620: Kaervek's Spite": {
+  "rating": 3.114
+ },
+ "3621: Necromancy": {
+  "rating": 4.556
+ },
+ "3622: Necrosavant": {
+  "rating": 3.405
+ },
+ "3623: Nekrataal": {
+  "rating": 4.384
+ },
+ "3624: Pillar Tombs of Aku": {
+  "rating": 3.419
+ },
+ "3625: Python": {
+  "rating": 2.514
+ },
+ "3626: Suq'Ata Assassin": {
+  "rating": 3.051
+ },
+ "3627: Tar Pit Warrior": {
+  "rating": 3.568
+ },
+ "3628: Urborg Mindsucker": {
+  "rating": 3.25
+ },
+ "3629: Vampiric Tutor": {
+  "rating": 4.752
+ },
+ "3630: Vampirism": {
+  "rating": 3.075
+ },
+ "3631: Wake of Vultures": {
+  "rating": 3.54
+ },
+ "3632: Wicked Reward": {
+  "rating": 3.035
+ },
+ "3633: Betrayal": {
+  "rating": 3.861
+ },
+ "3634: Breezekeeper": {
+  "rating": 3.109
+ },
+ "3635: Chronatog": {
+  "rating": 3.89
+ },
+ "3636: Cloud Elemental": {
+  "rating": 3.25
+ },
+ "3637: Desertion": {
+  "rating": 4.31
+ },
+ "3638: Dream Tides": {
+  "rating": 3.952
+ },
+ "3639: Flooded Shoreline": {
+  "rating": 3.091
+ },
+ "3640: Foreshadow": {
+  "rating": 3.351
+ },
+ "3641: Impulse": {
+  "rating": 4.673
+ },
+ "3642: Inspiration": {
+  "rating": 3.264
+ },
+ "3643: Knight of the Mists": {
+  "rating": 3.482
+ },
+ "3644: Man-o'-War": {
+  "rating": 4.333
+ },
+ "3645: Mystic Veil": {
+  "rating": 3.485
+ },
+ "3646: Ovinomancer": {
+  "rating": 3.014
+ },
+ "3647: Prosperity": {
+  "rating": 3.869
+ },
+ "3648: Rainbow Efreet": {
+  "rating": 3.872
+ },
+ "3649: Shimmering Efreet": {
+  "rating": 4.065
+ },
+ "3650: Shrieking Drake": {
+  "rating": 3.735
+ },
+ "3651: Teferi's Realm": {
+  "rating": 3.912
+ },
+ "3652: Three Wishes": {
+  "rating": 3.529
+ },
+ "3653: Time and Tide": {
+  "rating": 2.722
+ },
+ "3654: Undo": {
+  "rating": 3.694
+ },
+ "3655: Vanishing": {
+  "rating": 3.333
+ },
+ "3656: Vision Charm": {
+  "rating": 4.466
+ },
+ "3657: Waterspout Djinn": {
+  "rating": 3.26
+ },
+ "3658: Bull Elephant": {
+  "rating": 1.868
+ },
+ "3659: City of Solitude": {
+  "rating": 4.435
+ },
+ "3660: Creeping Mold": {
+  "rating": 3.919
+ },
+ "3661: Elephant Grass": {
+  "rating": 4.048
+ },
+ "3662: Elven Cache": {
+  "rating": 2.648
+ },
+ "3663: Emerald Charm": {
+  "rating": 4.39
+ },
+ "3664: Feral Instinct": {
+  "rating": 2.114
+ },
+ "3665: Giant Caterpillar": {
+  "rating": 3.585
+ },
+ "3666: Katabatic Winds": {
+  "rating": 3.788
+ },
+ "3667: King Cheetah": {
+  "rating": 3.314
+ },
+ "3668: Kyscu Drake": {
+  "rating": 2.576
+ },
+ "3669: Lichenthrope": {
+  "rating": 2.543
+ },
+ "3670: Mortal Wound": {
+  "rating": 3.062
+ },
+ "3671: Natural Order": {
+  "rating": 4.325
+ },
+ "3672: Panther Warriors": {
+  "rating": 3.324
+ },
+ "3673: Quirion Druid": {
+  "rating": 3.161
+ },
+ "3674: Quirion Ranger": {
+  "rating": 4.507
+ },
+ "3675: River Boa": {
+  "rating": 4.427
+ },
+ "3676: Rowen": {
+  "rating": 3.672
+ },
+ "3677: Spider Climb": {
+  "rating": 3.578
+ },
+ "3678: Stampeding Wildebeests": {
+  "rating": 3.909
+ },
+ "3679: Summer Bloom": {
+  "rating": 4.023
+ },
+ "3680: Uktabi Orangutan": {
+  "rating": 4.102
+ },
+ "3681: Warthog": {
+  "rating": 3.917
+ },
+ "3682: Wind Shear": {
+  "rating": 3.243
+ },
+ "3683: Bogardan Phoenix": {
+  "rating": 3.806
+ },
+ "3684: Dwarven Vigilantes": {
+  "rating": 3.529
+ },
+ "3685: Elkin Lair": {
+  "rating": 3.179
+ },
+ "3686: Fireblast": {
+  "rating": 4.466
+ },
+ "3687: Goblin Recruiter": {
+  "rating": 4.621
+ },
+ "3688: Goblin Swine-Rider": {
+  "rating": 3.172
+ },
+ "3689: Hearth Charm": {
+  "rating": 4.214
+ },
+ "3690: Heat Wave": {
+  "rating": 3.278
+ },
+ "3691: Hulking Cyclops": {
+  "rating": 2.931
+ },
+ "3692: Keeper of Kookus": {
+  "rating": 3.128
+ },
+ "3693: Kookus": {
+  "rating": 3.185
+ },
+ "3694: Lightning Cloud": {
+  "rating": 3.065
+ },
+ "3695: Mob Mentality": {
+  "rating": 3.243
+ },
+ "3696: Ogre Enforcer": {
+  "rating": 3.562
+ },
+ "3697: Raging Gorilla": {
+  "rating": 2.333
+ },
+ "3698: Relentless Assault": {
+  "rating": 4
+ },
+ "3699: Rock Slide": {
+  "rating": 3.556
+ },
+ "3700: Solfatara": {
+  "rating": 3.153
+ },
+ "3701: Song of Blood": {
+  "rating": 2.756
+ },
+ "3702: Spitting Drake": {
+  "rating": 2.077
+ },
+ "3703: Suq'Ata Lancer": {
+  "rating": 3.944
+ },
+ "3704: Talruum Champion": {
+  "rating": 3.367
+ },
+ "3705: Talruum Piper": {
+  "rating": 3.403
+ },
+ "3706: Tremor": {
+  "rating": 3.306
+ },
+ "3707: Viashino Sandstalker": {
+  "rating": 3.739
+ },
+ "3708: Archangel": {
+  "rating": 3.096
+ },
+ "3709: Daraja Griffin": {
+  "rating": 3.258
+ },
+ "3710: Equipoise": {
+  "rating": 4.155
+ },
+ "3711: Eye of Singularity": {
+  "rating": 4.186
+ },
+ "3712: Freewind Falcon": {
+  "rating": 3.077
+ },
+ "3713: Gossamer Chains": {
+  "rating": 3.987
+ },
+ "3714: Honorable Passage": {
+  "rating": 3.368
+ },
+ "3715: Hope Charm": {
+  "rating": 3.07
+ },
+ "3716: Infantry Veteran": {
+  "rating": 2.948
+ },
+ "3717: Jamuraan Lion": {
+  "rating": 3.048
+ },
+ "3718: Knight of Valor": {
+  "rating": 3.662
+ },
+ "3719: Longbow Archer": {
+  "rating": 4.381
+ },
+ "3720: Miraculous Recovery": {
+  "rating": 4.104
+ },
+ "3721: Parapet": {
+  "rating": 2.919
+ },
+ "3722: Peace Talks": {
+  "rating": 3.944
+ },
+ "3723: Relic Ward": {
+  "rating": 3.115
+ },
+ "3724: Remedy": {
+  "rating": 3.183
+ },
+ "3725: Resistance Fighter": {
+  "rating": 3.318
+ },
+ "3726: Retribution of the Meek": {
+  "rating": 4.271
+ },
+ "3727: Righteous Aura": {
+  "rating": 3.611
+ },
+ "3728: Sun Clasp": {
+  "rating": 2.773
+ },
+ "3729: Teferi's Honor Guard": {
+  "rating": 3.406
+ },
+ "3730: Tithe": {
+  "rating": 4.476
+ },
+ "3731: Warrior's Honor": {
+  "rating": 1.984
+ },
+ "3732: Zhalfirin Crusader": {
+  "rating": 3.922
+ },
+ "3733: Army Ants": {
+  "rating": 4.197
+ },
+ "3734: Breathstealer's Crypt": {
+  "rating": 3.387
+ },
+ "3735: Corrosion": {
+  "rating": 3.833
+ },
+ "3736: Femeref Enchantress": {
+  "rating": 4.078
+ },
+ "3737: Firestorm Hellkite": {
+  "rating": 3.038
+ },
+ "3738: Guiding Spirit": {
+  "rating": 3.781
+ },
+ "3739: Mundungu": {
+  "rating": 4.221
+ },
+ "3740: Pygmy Hippo": {
+  "rating": 4.125
+ },
+ "3741: Righteous War": {
+  "rating": 3.602
+ },
+ "3742: Scalebane's Elite": {
+  "rating": 3.042
+ },
+ "3743: Simoon": {
+  "rating": 3.59
+ },
+ "3744: Squandered Resources": {
+  "rating": 4.276
+ },
+ "3745: Suleiman's Legacy": {
+  "rating": 3.819
+ },
+ "3746: Tempest Drake": {
+  "rating": 3.609
+ },
+ "3747: Viashivan Dragon": {
+  "rating": 3.842
+ },
+ "3748: Coral Atoll": {
+  "rating": 3.236
+ },
+ "3749: Dormant Volcano": {
+  "rating": 2.912
+ },
+ "3750: Everglades": {
+  "rating": 3.212
+ },
+ "3751: Griffin Canyon": {
+  "rating": 3.622
+ },
+ "3752: Jungle Basin": {
+  "rating": 2.875
+ },
+ "3753: Karoo": {
+  "rating": 3.219
+ },
+ "3754: Quicksand": {
+  "rating": 3.939
+ },
+ "3755: Undiscovered Paradise": {
+  "rating": 4.568
+ }
+}

@@ -1,0 +1,467 @@
+{
+ "213723: Horrifying Revelation": {
+  "rating": 2.961
+ },
+ "213724: Phyrexian Crusader": {
+  "rating": 3.96
+ },
+ "213725: Mortarpod": {
+  "rating": 3.99
+ },
+ "213726: Steel Sabotage": {
+  "rating": 4.241
+ },
+ "213728: Viridian Emissary": {
+  "rating": 3.726
+ },
+ "213730: Titan Forge": {
+  "rating": 3.485
+ },
+ "213731: Inkmoth Nexus": {
+  "rating": 4.348
+ },
+ "213732: Fangren Marauder": {
+  "rating": 3.331
+ },
+ "213734: Myr Sire": {
+  "rating": 3.441
+ },
+ "213735: Vivisection": {
+  "rating": 2.655
+ },
+ "213736: Fuel for the Cause": {
+  "rating": 3.356
+ },
+ "213737: Ichor Wellspring": {
+  "rating": 3.837
+ },
+ "213738: Silverskin Armor": {
+  "rating": 2.808
+ },
+ "213739: Lead the Stampede": {
+  "rating": 3.578
+ },
+ "213740: Magnetic Mine": {
+  "rating": 2.298
+ },
+ "213742: Piston Sledge": {
+  "rating": 3.44
+ },
+ "213743: Phyrexian Digester": {
+  "rating": 2.115
+ },
+ "213744: Pistus Strike": {
+  "rating": 2.66
+ },
+ "213746: Rusted Slasher": {
+  "rating": 2.115
+ },
+ "213748: Septic Rats": {
+  "rating": 3.125
+ },
+ "213749: Darksteel Plate": {
+  "rating": 3.85
+ },
+ "213750: Vedalken Infuser": {
+  "rating": 3.017
+ },
+ "213751: Scourge Servant": {
+  "rating": 2.263
+ },
+ "213752: Plaguemaw Beast": {
+  "rating": 3.007
+ },
+ "213753: Treasure Mage": {
+  "rating": 3.594
+ },
+ "213754: Neurok Commando": {
+  "rating": 3.133
+ },
+ "213755: Quilled Slagwurm": {
+  "rating": 2.427
+ },
+ "213756: Concussive Bolt": {
+  "rating": 2.944
+ },
+ "213757: Myr Turbine": {
+  "rating": 3.524
+ },
+ "213758: Tine Shrike": {
+  "rating": 2.699
+ },
+ "213759: Flesh-Eater Imp": {
+  "rating": 3.446
+ },
+ "213760: Divine Offering": {
+  "rating": 3.722
+ },
+ "213761: Loxodon Partisan": {
+  "rating": 2.579
+ },
+ "213762: Quicksilver Geyser": {
+  "rating": 2.625
+ },
+ "213763: Gnathosaur": {
+  "rating": 2
+ },
+ "213764: Training Drone": {
+  "rating": 2.653
+ },
+ "213765: Distant Memories": {
+  "rating": 2.448
+ },
+ "213766: Koth's Courier": {
+  "rating": 2.971
+ },
+ "213767: Rally the Forces": {
+  "rating": 2.846
+ },
+ "213768: Gust-Skimmer": {
+  "rating": 2.155
+ },
+ "213770: Leonin Skyhunter": {
+  "rating": 3.635
+ },
+ "213771: Burn the Impure": {
+  "rating": 3.279
+ },
+ "213772: Viridian Corrupter": {
+  "rating": 3.979
+ },
+ "213773: Signal Pest": {
+  "rating": 3.966
+ },
+ "213774: Rot Wolf": {
+  "rating": 3.605
+ },
+ "213775: Contested War Zone": {
+  "rating": 3.654
+ },
+ "213776: Sphere of the Suns": {
+  "rating": 3.575
+ },
+ "213777: Virulent Wound": {
+  "rating": 3.297
+ },
+ "213778: Unnatural Predation": {
+  "rating": 2.965
+ },
+ "213779: Mirran Spy": {
+  "rating": 2.962
+ },
+ "213780: Serum Raker": {
+  "rating": 2.109
+ },
+ "213781: Peace Strider": {
+  "rating": 2.556
+ },
+ "213782: Goblin Wardriver": {
+  "rating": 3.848
+ },
+ "213783: Glissa's Courier": {
+  "rating": 2.554
+ },
+ "213784: Viridian Claw": {
+  "rating": 3.478
+ },
+ "213785: Plague Myr": {
+  "rating": 3.61
+ },
+ "213786: Shriekhorn": {
+  "rating": 2.896
+ },
+ "213787: Kuldotha Ringleader": {
+  "rating": 2.844
+ },
+ "213788: Into the Core": {
+  "rating": 3.463
+ },
+ "213789: Caustic Hound": {
+  "rating": 1.951
+ },
+ "213790: Strandwalker": {
+  "rating": 2.873
+ },
+ "213791: Frantic Salvage": {
+  "rating": 2.932
+ },
+ "213792: Banishment Decree": {
+  "rating": 1.953
+ },
+ "213793: Blisterstick Shaman": {
+  "rating": 2.686
+ },
+ "213794: Ardent Recruit": {
+  "rating": 3.408
+ },
+ "213795: Ogre Resister": {
+  "rating": 2.648
+ },
+ "213796: Melira's Keepers": {
+  "rating": 3.147
+ },
+ "213797: Phyresis": {
+  "rating": 3.341
+ },
+ "213798: Gore Vassal": {
+  "rating": 2.854
+ },
+ "213799: Go for the Throat": {
+  "rating": 4.577
+ },
+ "213800: Brass Squire": {
+  "rating": 3.658
+ },
+ "213801: Spire Serpent": {
+  "rating": 2.929
+ },
+ "213802: Mirran Crusader": {
+  "rating": 4.054
+ },
+ "213804: Phyrexian Rager": {
+  "rating": 3.884
+ },
+ "213805: Copper Carapace": {
+  "rating": 2.234
+ },
+ "213806: Crush": {
+  "rating": 3.336
+ },
+ "213807: Hexplate Golem": {
+  "rating": 2.039
+ },
+ "213808: Choking Fumes": {
+  "rating": 3.295
+ },
+ "213810: Kuldotha Flamefiend": {
+  "rating": 2.992
+ },
+ "213812: Metallic Mastery": {
+  "rating": 2.762
+ },
+ "213814: Priests of Norn": {
+  "rating": 3.572
+ },
+ "213815: Razorfield Rhino": {
+  "rating": 2.037
+ },
+ "213816: Nested Ghoul": {
+  "rating": 3.179
+ },
+ "213817: Flensermite": {
+  "rating": 3.023
+ },
+ "213818: Accorder Paladin": {
+  "rating": 3.876
+ },
+ "213819: Mirran Mettle": {
+  "rating": 3.081
+ },
+ "213820: Blightwidow": {
+  "rating": 3.43
+ },
+ "213821: Turn the Tide": {
+  "rating": 2.541
+ },
+ "213822: Core Prowler": {
+  "rating": 3.192
+ },
+ "214028: Hero of Oxid Ridge": {
+  "rating": 3.868
+ },
+ "214029: Creeping Corrosion": {
+  "rating": 3.654
+ },
+ "214030: Victory's Herald": {
+  "rating": 3.741
+ },
+ "214031: Forest": {
+  "rating": 4.463
+ },
+ "214032: Dross Ripper": {
+  "rating": 2.254
+ },
+ "214034: Praetor's Counsel": {
+  "rating": 3.795
+ },
+ "214035: Knowledge Pool": {
+  "rating": 3.587
+ },
+ "214036: Oculus": {
+  "rating": 2.771
+ },
+ "214037: Cryptoplasm": {
+  "rating": 3.735
+ },
+ "214038: Phyrexian Juggernaut": {
+  "rating": 3.47
+ },
+ "214039: Thopter Assembly": {
+  "rating": 3.804
+ },
+ "214040: Bonehoard": {
+  "rating": 3.812
+ },
+ "214041: Tangle Hulk": {
+  "rating": 2.38
+ },
+ "214042: Shimmer Myr": {
+  "rating": 3.718
+ },
+ "214043: Corrupted Conscience": {
+  "rating": 3.73
+ },
+ "214044: Massacre Wurm": {
+  "rating": 4.152
+ },
+ "214045: Mountain": {
+  "rating": 4.5
+ },
+ "214047: Psychosis Crawler": {
+  "rating": 3.792
+ },
+ "214048: Phyrexian Rebirth": {
+  "rating": 3.773
+ },
+ "214049: Bladed Sentinel": {
+  "rating": 2.037
+ },
+ "214050: Thrun, the Last Troll": {
+  "rating": 4.174
+ },
+ "214052: Hellkite Igniter": {
+  "rating": 3.439
+ },
+ "214053: Galvanoth": {
+  "rating": 3.64
+ },
+ "214054: Slagstorm": {
+  "rating": 3.957
+ },
+ "214055: Decimator Web": {
+  "rating": 3.316
+ },
+ "214056: Kemba's Legion": {
+  "rating": 2.06
+ },
+ "214057: Plains": {
+  "rating": 4.25
+ },
+ "214059: Lumengrid Gargoyle": {
+  "rating": 2.016
+ },
+ "214060: Phyrexian Hydra": {
+  "rating": 3.615
+ },
+ "214061: Black Sun's Zenith": {
+  "rating": 3.933
+ },
+ "214062: Sangromancer": {
+  "rating": 3.831
+ },
+ "214063: Consecrated Sphinx": {
+  "rating": 4.054
+ },
+ "214064: Hero of Bladehold": {
+  "rating": 4.27
+ },
+ "214065: Tezzeret, Agent of Bolas": {
+  "rating": 3.999
+ },
+ "214066: Mountain": {
+  "rating": 3.672
+ },
+ "214067: Myr Welder": {
+  "rating": 3.507
+ },
+ "214068: Mirrorworks": {
+  "rating": 3.634
+ },
+ "214069: Spin Engine": {
+  "rating": 2.78
+ },
+ "214070: Sword of Feast and Famine": {
+  "rating": 4.054
+ },
+ "214071: Mitotic Manipulation": {
+  "rating": 3.44
+ },
+ "214072: Glissa, the Traitor": {
+  "rating": 4.328
+ },
+ "214073: Gruesome Encore": {
+  "rating": 3.363
+ },
+ "214074: Phyrexian Vatmother": {
+  "rating": 3.672
+ },
+ "214075: Forest": {
+  "rating": 3.113
+ },
+ "214076: Spine of Ish Sah": {
+  "rating": 3.746
+ },
+ "220365: Island": {
+  "rating": 3.341
+ },
+ "220366: Plains": {
+  "rating": 2.839
+ },
+ "220367: Swamp": {
+  "rating": 4.22
+ },
+ "220368: Swamp": {
+  "rating": 3.031
+ },
+ "220369: Island": {
+  "rating": 4.688
+ },
+ "220589: Phyrexian Revoker": {
+  "rating": 4.254
+ },
+ "221554: Master's Call": {
+  "rating": 3.511
+ },
+ "221555: White Sun's Zenith": {
+  "rating": 3.602
+ },
+ "221556: Blue Sun's Zenith": {
+  "rating": 3.438
+ },
+ "221557: Spread the Sickness": {
+  "rating": 3.083
+ },
+ "221558: Red Sun's Zenith": {
+  "rating": 3.717
+ },
+ "221559: Green Sun's Zenith": {
+  "rating": 4.616
+ },
+ "221560: Flayer Husk": {
+  "rating": 3.585
+ },
+ "221561: Pierce Strider": {
+  "rating": 3.462
+ },
+ "221562: Skinwing": {
+  "rating": 2.446
+ },
+ "221563: Blightsteel Colossus": {
+  "rating": 4.118
+ },
+ "222859: Spiraling Duelist": {
+  "rating": 2.316
+ },
+ "222860: Leonin Relic-Warder": {
+  "rating": 4.309
+ },
+ "222861: Vedalken Anatomist": {
+  "rating": 3.349
+ },
+ "222862: Tangle Mantis": {
+  "rating": 3.008
+ },
+ "222863: Morbid Plunder": {
+  "rating": 3.007
+ }
+}

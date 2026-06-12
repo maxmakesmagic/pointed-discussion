@@ -1,0 +1,431 @@
+{
+ "5559: Phyrexian Negator": {
+  "rating": 4.244
+ },
+ "12148: Treachery": {
+  "rating": 4.54
+ },
+ "12612: Aether Sting": {
+  "rating": 3.589
+ },
+ "12628: Plow Under": {
+  "rating": 4.373
+ },
+ "13087: Masticore": {
+  "rating": 4.39
+ },
+ "13821: Landslide": {
+  "rating": 3.865
+ },
+ "14442: Apprentice Necromancer": {
+  "rating": 4.085
+ },
+ "14485: Serra Advocate": {
+  "rating": 3.611
+ },
+ "15120: Wall of Glare": {
+  "rating": 4.127
+ },
+ "15121: Field Surgeon": {
+  "rating": 3.129
+ },
+ "15123: Reliquary Monk": {
+  "rating": 3.886
+ },
+ "15124: Jasmine Seer": {
+  "rating": 2.2
+ },
+ "15125: Capashen Knight": {
+  "rating": 2.885
+ },
+ "15127: Flicker": {
+  "rating": 3.943
+ },
+ "15129: Mask of Law and Grace": {
+  "rating": 3.343
+ },
+ "15131: Voice of Reason": {
+  "rating": 3.352
+ },
+ "15132: Voice of Duty": {
+  "rating": 3.429
+ },
+ "15134: Scour": {
+  "rating": 3.641
+ },
+ "15135: Archery Training": {
+  "rating": 3.922
+ },
+ "15138: Academy Rector": {
+  "rating": 4.567
+ },
+ "15142: Opalescence": {
+  "rating": 4.283
+ },
+ "15143: Replenish": {
+  "rating": 4.576
+ },
+ "15145: Fledgling Osprey": {
+  "rating": 2.389
+ },
+ "15146: Blizzard Elemental": {
+  "rating": 3.236
+ },
+ "15147: Kingfisher": {
+  "rating": 3.03
+ },
+ "15148: Brine Seer": {
+  "rating": 3.719
+ },
+ "15149: Telepathic Spies": {
+  "rating": 2.32
+ },
+ "15151: Disappear": {
+  "rating": 2.87
+ },
+ "15154: Rescue": {
+  "rating": 3.959
+ },
+ "15156: Thieving Magpie": {
+  "rating": 4.057
+ },
+ "15157: Metathran Elite": {
+  "rating": 3.556
+ },
+ "15158: Mental Discipline": {
+  "rating": 2.933
+ },
+ "15160: Quash": {
+  "rating": 3.855
+ },
+ "15161: Private Research": {
+  "rating": 3.957
+ },
+ "15162: Opposition": {
+  "rating": 4.278
+ },
+ "15163: Iridescent Drake": {
+  "rating": 3.536
+ },
+ "15164: Rayne, Academy Chancellor": {
+  "rating": 4.057
+ },
+ "15168: Donate": {
+  "rating": 4.567
+ },
+ "15169: Disease Carriers": {
+  "rating": 3.017
+ },
+ "15170: Squirming Mass": {
+  "rating": 2.258
+ },
+ "15172: Ravenous Rats": {
+  "rating": 4.193
+ },
+ "15173: Nightshade Seer": {
+  "rating": 3.518
+ },
+ "15175: Encroach": {
+  "rating": 3.766
+ },
+ "15177: Rapid Decay": {
+  "rating": 3.217
+ },
+ "15179: Bubbling Muck": {
+  "rating": 4.414
+ },
+ "15180: Plague Dogs": {
+  "rating": 3.443
+ },
+ "15183: Dying Wail": {
+  "rating": 2.9
+ },
+ "15184: Festering Wound": {
+  "rating": 3.481
+ },
+ "15186: Eradicate": {
+  "rating": 4.25
+ },
+ "15189: Body Snatcher": {
+  "rating": 4.534
+ },
+ "15191: Attrition": {
+  "rating": 4.211
+ },
+ "15193: Yawgmoth's Bargain": {
+  "rating": 4.61
+ },
+ "15194: Keldon Vandals": {
+  "rating": 3.943
+ },
+ "15195: Colos Yearling": {
+  "rating": 2.882
+ },
+ "15196: Hulking Ogre": {
+  "rating": 2.625
+ },
+ "15197: Goblin Gardener": {
+  "rating": 3.297
+ },
+ "15198: Wild Colos": {
+  "rating": 2.97
+ },
+ "15199: Cinder Seer": {
+  "rating": 3.54
+ },
+ "15200: Trumpet Blast": {
+  "rating": 3.589
+ },
+ "15201: Flame Jet": {
+  "rating": 3.015
+ },
+ "15202: Goblin Masons": {
+  "rating": 2.645
+ },
+ "15203: Mark of Fury": {
+  "rating": 3.682
+ },
+ "15204: Reckless Abandon": {
+  "rating": 4.214
+ },
+ "15206: Keldon Champion": {
+  "rating": 3.931
+ },
+ "15208: Splinter": {
+  "rating": 3.983
+ },
+ "15211: Incendiary": {
+  "rating": 3.212
+ },
+ "15212: Goblin Marshal": {
+  "rating": 3.109
+ },
+ "15214: Bloodshot Cyclops": {
+  "rating": 3.943
+ },
+ "15216: Repercussion": {
+  "rating": 4.294
+ },
+ "15217: Impatience": {
+  "rating": 3.283
+ },
+ "15218: Wake of Destruction": {
+  "rating": 4.325
+ },
+ "15219: Hunting Moa": {
+  "rating": 3.912
+ },
+ "15220: Heart Warden": {
+  "rating": 4.107
+ },
+ "15221: Taunting Elf": {
+  "rating": 4.295
+ },
+ "15222: Marker Beetles": {
+  "rating": 3.742
+ },
+ "15223: Goliath Beetle": {
+  "rating": 3.054
+ },
+ "15224: Ivy Seer": {
+  "rating": 1.706
+ },
+ "15225: Yavimaya Elder": {
+  "rating": 4.368
+ },
+ "15228: Multani's Decree": {
+  "rating": 3.983
+ },
+ "15230: Gamekeeper": {
+  "rating": 4.167
+ },
+ "15234: Pattern of Rebirth": {
+  "rating": 4.305
+ },
+ "15235: Momentum": {
+  "rating": 2.819
+ },
+ "15236: Yavimaya Enchantress": {
+  "rating": 4.217
+ },
+ "15237: Rofellos, Llanowar Emissary": {
+  "rating": 4.509
+ },
+ "15240: Thorn Elemental": {
+  "rating": 4.266
+ },
+ "15241: Elvish Piper": {
+  "rating": 4.262
+ },
+ "15245: Brass Secretary": {
+  "rating": 2.649
+ },
+ "15246: Metalworker": {
+  "rating": 4.593
+ },
+ "15247: Mantis Engine": {
+  "rating": 2.235
+ },
+ "15248: Thran Dynamo": {
+  "rating": 4.341
+ },
+ "15249: Braidwood Cup": {
+  "rating": 2.842
+ },
+ "15250: Fodder Cannon": {
+  "rating": 3.795
+ },
+ "15251: Braidwood Sextant": {
+  "rating": 2.667
+ },
+ "15252: Caltrops": {
+  "rating": 4.197
+ },
+ "15254: Thran Golem": {
+  "rating": 4.076
+ },
+ "15255: Extruder": {
+  "rating": 3.19
+ },
+ "15256: Junk Diver": {
+  "rating": 4.078
+ },
+ "15257: Urza's Incubator": {
+  "rating": 4.29
+ },
+ "15259: Powder Keg": {
+  "rating": 4.411
+ },
+ "15260: Storage Matrix": {
+  "rating": 4.081
+ },
+ "15261: Aura Thief": {
+  "rating": 4.085
+ },
+ "15262: Scrying Glass": {
+  "rating": 2
+ },
+ "15263: Scent of Jasmine": {
+  "rating": 2.712
+ },
+ "15264: Scent of Cinder": {
+  "rating": 3.766
+ },
+ "15265: Scent of Nightshade": {
+  "rating": 2.956
+ },
+ "15266: Scent of Brine": {
+  "rating": 3.1
+ },
+ "15267: Scent of Ivy": {
+  "rating": 2.952
+ },
+ "15762: Capashen Templar": {
+  "rating": 2.708
+ },
+ "15763: Fend Off": {
+  "rating": 3.096
+ },
+ "15764: Solidarity": {
+  "rating": 2.786
+ },
+ "15765: False Prophet": {
+  "rating": 4.338
+ },
+ "15767: Soul Feast": {
+  "rating": 3.622
+ },
+ "15768: Chime of Night": {
+  "rating": 3.016
+ },
+ "15769: Tethered Griffin": {
+  "rating": 3.84
+ },
+ "15770: Covetous Dragon": {
+  "rating": 4.259
+ },
+ "15771: Goblin Festival": {
+  "rating": 3.217
+ },
+ "15772: Yavimaya Hollow": {
+  "rating": 4.307
+ },
+ "15773: Emperor Crocodile": {
+  "rating": 3.892
+ },
+ "15783: Bubbling Beebles": {
+  "rating": 3.453
+ },
+ "15784: Sigil of Sleep": {
+  "rating": 4.338
+ },
+ "15786: Slinking Skirge": {
+  "rating": 2.444
+ },
+ "15787: Skittering Horror": {
+  "rating": 3.766
+ },
+ "15819: Magnify": {
+  "rating": 2.758
+ },
+ "15873: Sanctimony": {
+  "rating": 3.034
+ },
+ "15874: Master Healer": {
+  "rating": 3.283
+ },
+ "15875: Temporal Adept": {
+  "rating": 3.837
+ },
+ "15876: Goblin Berserker": {
+  "rating": 2.882
+ },
+ "15877: Rofellos's Gift": {
+  "rating": 3.047
+ },
+ "15878: Compost": {
+  "rating": 4.415
+ },
+ "16424: Ancient Silverback": {
+  "rating": 3.824
+ },
+ "18287: Tormented Angel": {
+  "rating": 2.35
+ },
+ "19095: Capashen Standard": {
+  "rating": 2.667
+ },
+ "19096: Metathran Soldier": {
+  "rating": 3.647
+ },
+ "19097: Illuminated Wings": {
+  "rating": 2.433
+ },
+ "19098: Fatigue": {
+  "rating": 2.915
+ },
+ "19109: Elvish Lookout": {
+  "rating": 2.742
+ },
+ "19111: Thran Foundry": {
+  "rating": 3.707
+ },
+ "19113: Phyrexian Monitor": {
+  "rating": 2.929
+ },
+ "19114: Twisted Experiment": {
+  "rating": 3.333
+ },
+ "19115: Carnival of Souls": {
+  "rating": 3.034
+ },
+ "19116: Lurking Jackals": {
+  "rating": 3.62
+ },
+ "19239: Plated Spider": {
+  "rating": 3.052
+ },
+ "19534: Sowing Salt": {
+  "rating": 4.161
+ }
+}

@@ -1,0 +1,1049 @@
+{
+ "10816: Prosperity": {
+  "rating": 4.012
+ },
+ "11117: Hurricane": {
+  "rating": 3.857
+ },
+ "11158: Ashnod's Altar": {
+  "rating": 4.119
+ },
+ "11180: Bog Rats": {
+  "rating": 2.141
+ },
+ "11183: Bottle of Suleiman": {
+  "rating": 3.013
+ },
+ "11212: Conquer": {
+  "rating": 2.537
+ },
+ "11233: Derelor": {
+  "rating": 2
+ },
+ "11240: Disrupting Scepter": {
+  "rating": 3
+ },
+ "11242: Divine Transformation": {
+  "rating": 2.453
+ },
+ "11295: Tranquil Grove": {
+  "rating": 4.25
+ },
+ "11298: Gaseous Form": {
+  "rating": 3.574
+ },
+ "11303: Giant Strength": {
+  "rating": 2.906
+ },
+ "11305: Glasses of Urza": {
+  "rating": 3.367
+ },
+ "11319: Hecatomb": {
+  "rating": 3.95
+ },
+ "11336: Icatian Town": {
+  "rating": 3.043
+ },
+ "11340: Inferno": {
+  "rating": 4.261
+ },
+ "11355: Jade Monolith": {
+  "rating": 3.289
+ },
+ "11364: Juxtapose": {
+  "rating": 3.867
+ },
+ "11371: Kjeldoran Royal Guard": {
+  "rating": 3.268
+ },
+ "11385: Living Lands": {
+  "rating": 3.403
+ },
+ "11399: Memory Lapse": {
+  "rating": 4.359
+ },
+ "11400: Merfolk of the Pearl Trident": {
+  "rating": 2.023
+ },
+ "11423: Orcish Artillery": {
+  "rating": 2.987
+ },
+ "11429: Order of the Sacred Torch": {
+  "rating": 3.68
+ },
+ "11438: Pestilence": {
+  "rating": 4.426
+ },
+ "11453: Pradesh Gypsies": {
+  "rating": 1.5
+ },
+ "11454: Primal Clay": {
+  "rating": 3.412
+ },
+ "11467: Recall": {
+  "rating": 4.129
+ },
+ "11472: Reverse Damage": {
+  "rating": 3.597
+ },
+ "11476: Sabretooth Tiger": {
+  "rating": 2.741
+ },
+ "11489: Sengir Autocrat": {
+  "rating": 3.653
+ },
+ "11497: Shatterstorm": {
+  "rating": 4.118
+ },
+ "11502: Sibilant Spirit": {
+  "rating": 2.537
+ },
+ "11503: Skull Catapult": {
+  "rating": 2.643
+ },
+ "11506: Rag Man": {
+  "rating": 2.81
+ },
+ "11510: Spirit Link": {
+  "rating": 4.125
+ },
+ "11518: Stromgald Cabal": {
+  "rating": 3.696
+ },
+ "11530: The Hive": {
+  "rating": 1.716
+ },
+ "11543: Tundra Wolves": {
+  "rating": 3.513
+ },
+ "11558: Verduran Enchantress": {
+  "rating": 3.984
+ },
+ "12966: Rampant Growth": {
+  "rating": 3.939
+ },
+ "12974: Viashino Warrior": {
+  "rating": 2.611
+ },
+ "14454: Venerable Monk": {
+  "rating": 2.824
+ },
+ "14455: Circle of Protection: White": {
+  "rating": 2.569
+ },
+ "14456: Circle of Protection: Blue": {
+  "rating": 1.923
+ },
+ "14457: Circle of Protection: Black": {
+  "rating": 2.562
+ },
+ "14458: Circle of Protection: Red": {
+  "rating": 3.309
+ },
+ "14459: Circle of Protection: Green": {
+  "rating": 2.406
+ },
+ "14460: Pacifism": {
+  "rating": 4.25
+ },
+ "14463: Disenchant": {
+  "rating": 4.422
+ },
+ "14464: Remedy": {
+  "rating": 2.722
+ },
+ "14465: Warrior's Honor": {
+  "rating": 1.417
+ },
+ "14467: Samite Healer": {
+  "rating": 2.647
+ },
+ "14469: Armored Pegasus": {
+  "rating": 2.661
+ },
+ "14471: Standing Troops": {
+  "rating": 2.717
+ },
+ "14472: D'Avenant Archer": {
+  "rating": 2.722
+ },
+ "14473: Regal Unicorn": {
+  "rating": 2.333
+ },
+ "14474: Ekundu Griffin": {
+  "rating": 2.839
+ },
+ "14475: Longbow Archer": {
+  "rating": 4.233
+ },
+ "14476: Serra's Blessing": {
+  "rating": 4.455
+ },
+ "14478: Castle": {
+  "rating": 3.012
+ },
+ "14481: Light of Day": {
+  "rating": 4.106
+ },
+ "14482: Warmth": {
+  "rating": 3.45
+ },
+ "14483: Kismet": {
+  "rating": 4.056
+ },
+ "14486: Heavy Ballista": {
+  "rating": 3.148
+ },
+ "14487: Wall of Swords": {
+  "rating": 3.106
+ },
+ "14489: Ardent Militia": {
+  "rating": 2.609
+ },
+ "14490: Staunch Defenders": {
+  "rating": 3.12
+ },
+ "14493: Archangel": {
+  "rating": 3.033
+ },
+ "14494: Sunweb": {
+  "rating": 3.239
+ },
+ "14498: Wrath of God": {
+  "rating": 4.28
+ },
+ "14500: Armageddon": {
+  "rating": 4.463
+ },
+ "14503: Crusade": {
+  "rating": 3.867
+ },
+ "14507: Inspiration": {
+  "rating": 3.088
+ },
+ "14511: Counterspell": {
+  "rating": 4.6
+ },
+ "14512: Remove Soul": {
+  "rating": 3.974
+ },
+ "14513: Boomerang": {
+  "rating": 4.167
+ },
+ "14514: Unsummon": {
+  "rating": 4.071
+ },
+ "14515: Flight": {
+  "rating": 2.618
+ },
+ "14520: Sage Owl": {
+  "rating": 4.031
+ },
+ "14521: Wind Drake": {
+  "rating": 2.912
+ },
+ "14523: Prodigal Sorcerer": {
+  "rating": 3.814
+ },
+ "14524: Horned Turtle": {
+  "rating": 2.5
+ },
+ "14525: Sea Monster": {
+  "rating": 2.083
+ },
+ "14526: Abduction": {
+  "rating": 3.511
+ },
+ "14535: Glacial Wall": {
+  "rating": 3.161
+ },
+ "14536: Wall of Air": {
+  "rating": 3.371
+ },
+ "14538: Segovian Leviathan": {
+  "rating": 2.344
+ },
+ "14540: Phantom Warrior": {
+  "rating": 3.882
+ },
+ "14547: Forget": {
+  "rating": 3.216
+ },
+ "14550: Ancestral Memories": {
+  "rating": 3.44
+ },
+ "14551: Lord of Atlantis": {
+  "rating": 3.917
+ },
+ "14552: Daring Apprentice": {
+  "rating": 3.569
+ },
+ "14560: Fear": {
+  "rating": 2.736
+ },
+ "14561: Coercion": {
+  "rating": 3.318
+ },
+ "14562: Howl from Beyond": {
+  "rating": 3.229
+ },
+ "14563: Raise Dead": {
+  "rating": 3.453
+ },
+ "14564: Painful Memories": {
+  "rating": 3
+ },
+ "14569: Drudge Skeletons": {
+  "rating": 3.709
+ },
+ "14572: Razortooth Rats": {
+  "rating": 2.619
+ },
+ "14575: Gravedigger": {
+  "rating": 3.956
+ },
+ "14577: Strands of Night": {
+  "rating": 3.515
+ },
+ "14578: Hidden Horror": {
+  "rating": 3.769
+ },
+ "14580: Dread of Night": {
+  "rating": 4.058
+ },
+ "14581: Perish": {
+  "rating": 4.464
+ },
+ "14584: Mind Warp": {
+  "rating": 1.868
+ },
+ "14585: Leshrac's Rite": {
+  "rating": 2.232
+ },
+ "14586: Agonizing Memories": {
+  "rating": 3.625
+ },
+ "14589: Bog Wraith": {
+  "rating": 3.103
+ },
+ "14593: Evil Eye of Orms-by-Gore": {
+  "rating": 2.946
+ },
+ "14599: Zombie Master": {
+  "rating": 4.44
+ },
+ "14604: Infernal Contract": {
+  "rating": 3.372
+ },
+ "14609: Shock": {
+  "rating": 3.705
+ },
+ "14610: Lightning Blast": {
+  "rating": 2.853
+ },
+ "14611: Pyrotechnics": {
+  "rating": 3.375
+ },
+ "14612: Spitting Earth": {
+  "rating": 3.243
+ },
+ "14613: Tremor": {
+  "rating": 3.083
+ },
+ "14614: Shatter": {
+  "rating": 3.426
+ },
+ "14615: Stone Rain": {
+  "rating": 3.882
+ },
+ "14616: Firebreathing": {
+  "rating": 2.172
+ },
+ "14617: Raging Goblin": {
+  "rating": 3.721
+ },
+ "14618: Goblin Digging Team": {
+  "rating": 2.42
+ },
+ "14624: Talruum Minotaur": {
+  "rating": 2.897
+ },
+ "14626: Flame Spirit": {
+  "rating": 2.222
+ },
+ "14628: Blaze": {
+  "rating": 2.985
+ },
+ "14630: Boil": {
+  "rating": 4.356
+ },
+ "14632: Volcanic Geyser": {
+  "rating": 4.163
+ },
+ "14635: Orcish Oriflamme": {
+  "rating": 2.688
+ },
+ "14639: Wall of Fire": {
+  "rating": 2.838
+ },
+ "14644: Hulking Cyclops": {
+  "rating": 2.317
+ },
+ "14648: Fervor": {
+  "rating": 4.266
+ },
+ "14650: Relentless Assault": {
+  "rating": 4.069
+ },
+ "14651: Earthquake": {
+  "rating": 4.275
+ },
+ "14653: Jokulhaups": {
+  "rating": 4.521
+ },
+ "14654: Manabarbs": {
+  "rating": 3.5
+ },
+ "14655: Final Fortune": {
+  "rating": 4.231
+ },
+ "14657: Goblin King": {
+  "rating": 4.17
+ },
+ "14660: Volcanic Dragon": {
+  "rating": 3.534
+ },
+ "14663: Wild Growth": {
+  "rating": 4.226
+ },
+ "14667: Vitalize": {
+  "rating": 4.476
+ },
+ "14668: Llanowar Elves": {
+  "rating": 4.281
+ },
+ "14670: Shanodin Dryads": {
+  "rating": 2.875
+ },
+ "14671: Grizzly Bears": {
+  "rating": 3.511
+ },
+ "14675: Trained Armodon": {
+  "rating": 2.803
+ },
+ "14676: Giant Spider": {
+  "rating": 3.433
+ },
+ "14677: Stalking Tiger": {
+  "rating": 3.029
+ },
+ "14681: Redwood Treefolk": {
+  "rating": 2.446
+ },
+ "14682: Fog": {
+  "rating": 4.05
+ },
+ "14683: Giant Growth": {
+  "rating": 4.383
+ },
+ "14684: Regeneration": {
+  "rating": 2.889
+ },
+ "14685: Tranquility": {
+  "rating": 3.031
+ },
+ "14686: Elven Cache": {
+  "rating": 2.978
+ },
+ "14687: Stream of Life": {
+  "rating": 2.449
+ },
+ "14690: Uktabi Orangutan": {
+  "rating": 4.16
+ },
+ "14691: Familiar Ground": {
+  "rating": 3.75
+ },
+ "14695: Untamed Wilds": {
+  "rating": 2.85
+ },
+ "14696: Summer Bloom": {
+  "rating": 3.758
+ },
+ "14697: Lure": {
+  "rating": 3.485
+ },
+ "14698: Femeref Archers": {
+  "rating": 3.6
+ },
+ "14699: Fyndhorn Elder": {
+  "rating": 3.513
+ },
+ "14700: Radjan Spirit": {
+  "rating": 2.848
+ },
+ "14705: Elven Riders": {
+  "rating": 3
+ },
+ "14711: Rowen": {
+  "rating": 3.981
+ },
+ "14714: Early Harvest": {
+  "rating": 3.552
+ },
+ "14715: Nature's Resurgence": {
+  "rating": 3.571
+ },
+ "14716: Elvish Archers": {
+  "rating": 3.69
+ },
+ "14717: Elder Druid": {
+  "rating": 2.075
+ },
+ "14718: Maro": {
+  "rating": 3.758
+ },
+ "14719: Birds of Paradise": {
+  "rating": 4.36
+ },
+ "14720: Wyluli Wolf": {
+  "rating": 3.132
+ },
+ "14721: Uktabi Wildcats": {
+  "rating": 3.74
+ },
+ "14722: Ruins of Trokair": {
+  "rating": 3.21
+ },
+ "14723: Svyelunite Temple": {
+  "rating": 3.2
+ },
+ "14724: Ebon Stronghold": {
+  "rating": 3.342
+ },
+ "14725: Dwarven Ruins": {
+  "rating": 3.214
+ },
+ "14726: Havenwood Battleground": {
+  "rating": 3.328
+ },
+ "14727: Adarkar Wastes": {
+  "rating": 4.2
+ },
+ "14728: Underground River": {
+  "rating": 4.057
+ },
+ "14729: Sulfurous Springs": {
+  "rating": 4.388
+ },
+ "14730: Karplusan Forest": {
+  "rating": 4.412
+ },
+ "14731: Brushland": {
+  "rating": 4.403
+ },
+ "14732: City of Brass": {
+  "rating": 4.574
+ },
+ "14733: Plains": {
+  "rating": 4.559
+ },
+ "14734: Plains": {
+  "rating": 4
+ },
+ "14735: Plains": {
+  "rating": 4.143
+ },
+ "14736: Plains": {
+  "rating": 4.278
+ },
+ "14737: Island": {
+  "rating": 4.413
+ },
+ "14738: Island": {
+  "rating": 4.591
+ },
+ "14739: Island": {
+  "rating": 4.464
+ },
+ "14740: Island": {
+  "rating": 4.554
+ },
+ "14741: Swamp": {
+  "rating": 4.727
+ },
+ "14742: Swamp": {
+  "rating": 4.471
+ },
+ "14743: Swamp": {
+  "rating": 4.682
+ },
+ "14744: Swamp": {
+  "rating": 4.185
+ },
+ "14745: Mountain": {
+  "rating": 4.7
+ },
+ "14746: Mountain": {
+  "rating": 4.64
+ },
+ "14747: Mountain": {
+  "rating": 4.775
+ },
+ "14748: Mountain": {
+  "rating": 4.722
+ },
+ "14749: Forest": {
+  "rating": 4.357
+ },
+ "14750: Forest": {
+  "rating": 4.389
+ },
+ "14751: Forest": {
+  "rating": 4.355
+ },
+ "14752: Forest": {
+  "rating": 4.173
+ },
+ "14755: Pillage": {
+  "rating": 4.394
+ },
+ "14758: Crystal Rod": {
+  "rating": 1.581
+ },
+ "14759: Ivory Cup": {
+  "rating": 1.269
+ },
+ "14760: Throne of Bone": {
+  "rating": 1.683
+ },
+ "14761: Iron Star": {
+  "rating": 1.513
+ },
+ "14763: Wooden Sphere": {
+  "rating": 1.625
+ },
+ "14765: Fountain of Youth": {
+  "rating": 2.045
+ },
+ "14767: Ornithopter": {
+  "rating": 4.07
+ },
+ "14768: Rod of Ruin": {
+  "rating": 1.511
+ },
+ "14769: Soul Net": {
+  "rating": 2.379
+ },
+ "14770: Aladdin's Ring": {
+  "rating": 1.306
+ },
+ "14771: Ankh of Mishra": {
+  "rating": 3.743
+ },
+ "14773: Dancing Scimitar": {
+  "rating": 3.211
+ },
+ "14774: Dingus Egg": {
+  "rating": 3.311
+ },
+ "14776: Flying Carpet": {
+  "rating": 2.273
+ },
+ "14777: Howling Mine": {
+  "rating": 4.286
+ },
+ "14778: Jalum Tome": {
+  "rating": 2.741
+ },
+ "14780: Jayemdae Tome": {
+  "rating": 3.202
+ },
+ "14781: Meekstone": {
+  "rating": 4.357
+ },
+ "14782: Millstone": {
+  "rating": 3.284
+ },
+ "14784: Pentagram of the Ages": {
+  "rating": 2.844
+ },
+ "15350: Exile": {
+  "rating": 4.292
+ },
+ "15352: Reprisal": {
+  "rating": 4.154
+ },
+ "15354: Celestial Dawn": {
+  "rating": 3.798
+ },
+ "15355: Enlightened Tutor": {
+  "rating": 4.57
+ },
+ "15356: Ethereal Champion": {
+  "rating": 2.095
+ },
+ "15357: Unyaro Griffin": {
+  "rating": 2.797
+ },
+ "15358: Daraja Griffin": {
+  "rating": 3.347
+ },
+ "15359: Infantry Veteran": {
+  "rating": 2.903
+ },
+ "15360: Serenity": {
+  "rating": 4.519
+ },
+ "15361: Tariff": {
+  "rating": 3.766
+ },
+ "15362: Resistance Fighter": {
+  "rating": 3.154
+ },
+ "15363: Diminishing Returns": {
+  "rating": 4.122
+ },
+ "15364: Library of Lat-Nam": {
+  "rating": 3.118
+ },
+ "15365: Dream Cache": {
+  "rating": 3.514
+ },
+ "15366: Harmattan Efreet": {
+  "rating": 2.21
+ },
+ "15367: Mystical Tutor": {
+  "rating": 4.826
+ },
+ "15368: Psychic Transfer": {
+  "rating": 1.862
+ },
+ "15370: Desertion": {
+  "rating": 4.308
+ },
+ "15371: Air Elemental": {
+  "rating": 3.385
+ },
+ "15372: Zur's Weirding": {
+  "rating": 3.776
+ },
+ "15375: Relearn": {
+  "rating": 3.769
+ },
+ "15376: Insight": {
+  "rating": 3.297
+ },
+ "15377: Spell Blast": {
+  "rating": 2.134
+ },
+ "15379: Greed": {
+  "rating": 4.422
+ },
+ "15380: Syphon Soul": {
+  "rating": 3
+ },
+ "15381: Abyssal Specter": {
+  "rating": 3.458
+ },
+ "15382: Dry Spell": {
+  "rating": 3.234
+ },
+ "15383: Abyssal Hunter": {
+  "rating": 2.958
+ },
+ "15384: Ashen Powder": {
+  "rating": 4.125
+ },
+ "15385: Blighted Shaman": {
+  "rating": 2.783
+ },
+ "15386: Enfeeblement": {
+  "rating": 2.47
+ },
+ "15387: Feral Shadow": {
+  "rating": 2.518
+ },
+ "15388: Forbidden Crypt": {
+  "rating": 3.179
+ },
+ "15389: Gravebane Zombie": {
+  "rating": 2.783
+ },
+ "15390: Necrosavant": {
+  "rating": 3.581
+ },
+ "15392: Python": {
+  "rating": 2.828
+ },
+ "15393: Vampiric Tutor": {
+  "rating": 4.616
+ },
+ "15394: Nightmare": {
+  "rating": 3.956
+ },
+ "15397: Doomsday": {
+  "rating": 4.549
+ },
+ "15398: Mischievous Poltergeist": {
+  "rating": 2.907
+ },
+ "15399: Blight": {
+  "rating": 3.463
+ },
+ "15400: Blood Pet": {
+  "rating": 3.757
+ },
+ "15401: Obsianus Golem": {
+  "rating": 2.578
+ },
+ "15402: Storm Cauldron": {
+  "rating": 3.574
+ },
+ "15403: Amber Prison": {
+  "rating": 3.464
+ },
+ "15404: Cursed Totem": {
+  "rating": 4.307
+ },
+ "15405: Fire Diamond": {
+  "rating": 2.812
+ },
+ "15406: Grinning Totem": {
+  "rating": 3.914
+ },
+ "15407: Lead Golem": {
+  "rating": 1.477
+ },
+ "15408: Patagia Golem": {
+  "rating": 2.411
+ },
+ "15409: Snake Basket": {
+  "rating": 3.91
+ },
+ "15410: Teferi's Puzzle Box": {
+  "rating": 4.29
+ },
+ "15411: Wand of Denial": {
+  "rating": 3.022
+ },
+ "15412: Dragon Engine": {
+  "rating": 2.367
+ },
+ "15413: Crystal Vein": {
+  "rating": 3.395
+ },
+ "15415: Goblin Hero": {
+  "rating": 1.712
+ },
+ "15417: Goblin Recruiter": {
+  "rating": 4.569
+ },
+ "15418: Spitting Drake": {
+  "rating": 2.117
+ },
+ "15419: Fire Elemental": {
+  "rating": 3.216
+ },
+ "15420: Hammer of Bogardan": {
+  "rating": 3.762
+ },
+ "15421: Goblin Warrens": {
+  "rating": 4.236
+ },
+ "15423: Balduvian Horde": {
+  "rating": 3.757
+ },
+ "15424: Crimson Hellkite": {
+  "rating": 3.868
+ },
+ "15425: Reckless Embermage": {
+  "rating": 2.632
+ },
+ "15427: Gorilla Chieftain": {
+  "rating": 3.054
+ },
+ "15428: Creeping Mold": {
+  "rating": 3.784
+ },
+ "15429: Worldly Tutor": {
+  "rating": 4.514
+ },
+ "15431: Dense Foliage": {
+  "rating": 4.216
+ },
+ "15433: Call of the Wild": {
+  "rating": 4.058
+ },
+ "15434: Waiting in the Weeds": {
+  "rating": 4.1
+ },
+ "15435: Mystic Compass": {
+  "rating": 3.393
+ },
+ "15436: Phyrexian Vault": {
+  "rating": 2.862
+ },
+ "15437: Dragon Mask": {
+  "rating": 2.539
+ },
+ "15439: Mana Prism": {
+  "rating": 1.956
+ },
+ "15440: Charcoal Diamond": {
+  "rating": 2.843
+ },
+ "15441: Marble Diamond": {
+  "rating": 2.554
+ },
+ "15442: Moss Diamond": {
+  "rating": 2.519
+ },
+ "15443: Sky Diamond": {
+  "rating": 3.145
+ },
+ "15444: Chill": {
+  "rating": 4.18
+ },
+ "15445: Polymorph": {
+  "rating": 4.184
+ },
+ "15446: Pearl Dragon": {
+  "rating": 2.768
+ },
+ "15447: Aether Flash": {
+  "rating": 4.034
+ },
+ "16425: Healing Salve": {
+  "rating": 2.338
+ },
+ "16426: Hero's Resolve": {
+  "rating": 3.219
+ },
+ "16427: Mesa Falcon": {
+  "rating": 2.387
+ },
+ "16428: Animate Wall": {
+  "rating": 2.612
+ },
+ "16429: Tidal Surge": {
+  "rating": 2.717
+ },
+ "16430: Psychic Venom": {
+  "rating": 3.55
+ },
+ "16431: Phantasmal Terrain": {
+  "rating": 2.839
+ },
+ "16432: Vodalian Soldiers": {
+  "rating": 1.75
+ },
+ "16433: Fog Elemental": {
+  "rating": 2.94
+ },
+ "16434: Browse": {
+  "rating": 3.897
+ },
+ "16435: Power Sink": {
+  "rating": 4.105
+ },
+ "16436: Soldevi Sage": {
+  "rating": 2.2
+ },
+ "16437: Wind Spirit": {
+  "rating": 3
+ },
+ "16438: Deflection": {
+  "rating": 3.569
+ },
+ "16439: Mana Short": {
+  "rating": 4.07
+ },
+ "16440: Flash": {
+  "rating": 4.59
+ },
+ "16441: Anaba Shaman": {
+  "rating": 1.72
+ },
+ "16442: Mountain Goat": {
+  "rating": 3.776
+ },
+ "16443: Goblin Elite Infantry": {
+  "rating": 1.908
+ },
+ "16444: Anaba Bodyguard": {
+  "rating": 2.257
+ },
+ "16445: Balduvian Barbarians": {
+  "rating": 2.781
+ },
+ "16446: Flashfires": {
+  "rating": 3.571
+ },
+ "16447: Vertigo": {
+  "rating": 2.362
+ },
+ "16448: Burrowing": {
+  "rating": 1.634
+ },
+ "16449: Illicit Auction": {
+  "rating": 3.49
+ },
+ "16450: Cat Warriors": {
+  "rating": 2.55
+ },
+ "16451: Fyndhorn Brownie": {
+  "rating": 1.764
+ },
+ "16452: Scaled Wurm": {
+  "rating": 2.647
+ },
+ "16453: Panther Warriors": {
+  "rating": 3.15
+ },
+ "16454: Fallow Earth": {
+  "rating": 3.609
+ },
+ "16455: Thicket Basilisk": {
+  "rating": 3.5
+ },
+ "16456: Unseen Walker": {
+  "rating": 2.828
+ },
+ "16457: River Boa": {
+  "rating": 4.238
+ },
+ "16458: Warthog": {
+  "rating": 3.565
+ },
+ "16622: Fit of Rage": {
+  "rating": 2.95
+ },
+ "16623: Fatal Blow": {
+  "rating": 3.75
+ },
+ "16624: Terror": {
+  "rating": 4.195
+ },
+ "16625: Feast of the Unicorn": {
+  "rating": 3.082
+ },
+ "16626: Bog Imp": {
+  "rating": 2.741
+ },
+ "16627: Scathe Zombies": {
+  "rating": 2.186
+ },
+ "16628: Stupor": {
+  "rating": 4.153
+ },
+ "16629: Fallen Angel": {
+  "rating": 3.914
+ },
+ "20178: Lost Soul": {
+  "rating": 2.016
+ },
+ "20179: Kjeldoran Dead": {
+  "rating": 3.812
+ }
+}

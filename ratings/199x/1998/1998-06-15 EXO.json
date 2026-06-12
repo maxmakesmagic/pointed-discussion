@@ -1,0 +1,431 @@
+{
+ "5133: Pit Spawn": {
+  "rating": 4.383
+ },
+ "5139: Dominating Licid": {
+  "rating": 4.44
+ },
+ "5146: Ertai, Wizard Adept": {
+  "rating": 4.195
+ },
+ "5157: Forbid": {
+  "rating": 4.425
+ },
+ "5159: Fugue": {
+  "rating": 2.922
+ },
+ "5171: Mindless Automaton": {
+  "rating": 3.375
+ },
+ "5176: Null Brooch": {
+  "rating": 4.022
+ },
+ "5184: Fighting Chance": {
+  "rating": 2.809
+ },
+ "5189: Mirozel": {
+  "rating": 2.339
+ },
+ "5199: Paladin en-Vec": {
+  "rating": 4.198
+ },
+ "5200: Plaguebearer": {
+  "rating": 4.444
+ },
+ "5201: Plated Rootwalla": {
+  "rating": 2.4
+ },
+ "5207: Ravenous Baboons": {
+  "rating": 4
+ },
+ "5221: Shattering Pulse": {
+  "rating": 4.066
+ },
+ "5227: Skyshaper": {
+  "rating": 3.053
+ },
+ "5229: Skyshroud Elite": {
+  "rating": 4.141
+ },
+ "5231: Skyshroud War Beast": {
+  "rating": 3.681
+ },
+ "5254: Theft of Dreams": {
+  "rating": 3.344
+ },
+ "5273: Wayward Soul": {
+  "rating": 3
+ },
+ "6030: Shield Mate": {
+  "rating": 3.088
+ },
+ "6031: Soltari Visionary": {
+  "rating": 4.368
+ },
+ "6032: Standing Troops": {
+  "rating": 2.694
+ },
+ "6033: Soul Warden": {
+  "rating": 4.352
+ },
+ "6034: Welkin Hawk": {
+  "rating": 3.542
+ },
+ "6035: Charging Paladin": {
+  "rating": 2.767
+ },
+ "6036: Allay": {
+  "rating": 2.986
+ },
+ "6037: Reaping the Rewards": {
+  "rating": 2.143
+ },
+ "6038: Shackles": {
+  "rating": 3.679
+ },
+ "6039: Peace of Mind": {
+  "rating": 3
+ },
+ "6040: Angelic Blessing": {
+  "rating": 2.589
+ },
+ "6041: Keeper of the Light": {
+  "rating": 3.32
+ },
+ "6042: Treasure Hunter": {
+  "rating": 3.68
+ },
+ "6043: Zealots en-Dal": {
+  "rating": 2.462
+ },
+ "6044: Pegasus Stampede": {
+  "rating": 2.851
+ },
+ "6045: Kor Chant": {
+  "rating": 3.562
+ },
+ "6046: Reconnaissance": {
+  "rating": 4.476
+ },
+ "6047: Penance": {
+  "rating": 2.286
+ },
+ "6048: Oath of Lieges": {
+  "rating": 3.403
+ },
+ "6049: Limited Resources": {
+  "rating": 4.275
+ },
+ "6050: Cataclysm": {
+  "rating": 4.387
+ },
+ "6051: Convalescence": {
+  "rating": 1.78
+ },
+ "6052: Wall of Nets": {
+  "rating": 4.24
+ },
+ "6053: Exalted Dragon": {
+  "rating": 1.923
+ },
+ "6054: School of Piranha": {
+  "rating": 1.872
+ },
+ "6055: Rootwater Mystic": {
+  "rating": 2.538
+ },
+ "6056: Merfolk Looter": {
+  "rating": 3.915
+ },
+ "6057: Whiptongue Frog": {
+  "rating": 1.809
+ },
+ "6058: Thalakos Scout": {
+  "rating": 3.455
+ },
+ "6059: Robe of Mirrors": {
+  "rating": 3.423
+ },
+ "6060: Curiosity": {
+  "rating": 4.193
+ },
+ "6061: Fade Away": {
+  "rating": 4.195
+ },
+ "6062: Cunning": {
+  "rating": 2.095
+ },
+ "6064: Keeper of the Mind": {
+  "rating": 3.886
+ },
+ "6065: Killer Whale": {
+  "rating": 3.485
+ },
+ "6067: Scrivener": {
+  "rating": 3.059
+ },
+ "6068: Thalakos Drifters": {
+  "rating": 3.265
+ },
+ "6070: Treasure Trove": {
+  "rating": 3.056
+ },
+ "6071: Aether Tide": {
+  "rating": 1.549
+ },
+ "6072: Oath of Scholars": {
+  "rating": 3.542
+ },
+ "6073: Ephemeron": {
+  "rating": 3.427
+ },
+ "6075: Equilibrium": {
+  "rating": 4.458
+ },
+ "6076: Mind Over Matter": {
+  "rating": 4.505
+ },
+ "6078: Mana Breach": {
+  "rating": 3.571
+ },
+ "6079: Carnophage": {
+  "rating": 4.348
+ },
+ "6080: Cat Burglar": {
+  "rating": 3.057
+ },
+ "6081: Dauthi Jackal": {
+  "rating": 3.833
+ },
+ "6082: Thrull Surgeon": {
+  "rating": 3.224
+ },
+ "6083: Grollub": {
+  "rating": 1.64
+ },
+ "6084: Vampire Hounds": {
+  "rating": 4.134
+ },
+ "6085: Culling the Weak": {
+  "rating": 4.5
+ },
+ "6086: Scare Tactics": {
+  "rating": 3.118
+ },
+ "6087: Death's Duet": {
+  "rating": 3.541
+ },
+ "6088: Nausea": {
+  "rating": 3.182
+ },
+ "6089: Cursed Flesh": {
+  "rating": 2.323
+ },
+ "6090: Keeper of the Dead": {
+  "rating": 4.236
+ },
+ "6091: Dauthi Cutthroat": {
+  "rating": 3.371
+ },
+ "6092: Spike Cannibal": {
+  "rating": 4.184
+ },
+ "6093: Mind Maggots": {
+  "rating": 3.425
+ },
+ "6094: Dauthi Warlord": {
+  "rating": 4.053
+ },
+ "6095: Necrologia": {
+  "rating": 3.703
+ },
+ "6097: Slaughter": {
+  "rating": 3.593
+ },
+ "6098: Oath of Ghouls": {
+  "rating": 3.886
+ },
+ "6099: Entropic Specter": {
+  "rating": 1.706
+ },
+ "6100: Volrath's Dungeon": {
+  "rating": 3.167
+ },
+ "6103: Recurring Nightmare": {
+  "rating": 4.51
+ },
+ "6104: Hatred": {
+  "rating": 4.5
+ },
+ "6105: Cinder Crawler": {
+  "rating": 2.667
+ },
+ "6106: Raging Goblin": {
+  "rating": 3.868
+ },
+ "6107: Furnace Brood": {
+  "rating": 2.944
+ },
+ "6108: Reckless Ogre": {
+  "rating": 3.25
+ },
+ "6109: Maniacal Rage": {
+  "rating": 2.517
+ },
+ "6110: Anarchist": {
+  "rating": 3.053
+ },
+ "6111: Mage il-Vec": {
+  "rating": 1.478
+ },
+ "6112: Sonic Burst": {
+  "rating": 2.671
+ },
+ "6113: Paroxysm": {
+  "rating": 1.757
+ },
+ "6114: Dizzying Gaze": {
+  "rating": 2.672
+ },
+ "6115: Onslaught": {
+  "rating": 3.935
+ },
+ "6116: Keeper of the Flame": {
+  "rating": 3.138
+ },
+ "6117: Scalding Salamander": {
+  "rating": 3.922
+ },
+ "6118: Mogg Assassin": {
+  "rating": 3.036
+ },
+ "6120: Flowstone Flood": {
+  "rating": 2.386
+ },
+ "6121: Spellshock": {
+  "rating": 3.932
+ },
+ "6123: Price of Progress": {
+  "rating": 4.575
+ },
+ "6124: Oath of Mages": {
+  "rating": 2.625
+ },
+ "6126: Pandemonium": {
+  "rating": 4.217
+ },
+ "6127: Ogre Shaman": {
+  "rating": 2.922
+ },
+ "6128: Monstrous Hound": {
+  "rating": 2.128
+ },
+ "6129: Sabertooth Wyvern": {
+  "rating": 2.237
+ },
+ "6130: Seismic Assault": {
+  "rating": 4.162
+ },
+ "6131: Pygmy Troll": {
+  "rating": 3.694
+ },
+ "6133: Elvish Berserker": {
+  "rating": 3.386
+ },
+ "6134: Rabid Wolverines": {
+  "rating": 3.244
+ },
+ "6135: Wood Elves": {
+  "rating": 4.172
+ },
+ "6136: Rootwater Alligator": {
+  "rating": 2.571
+ },
+ "6137: Avenging Druid": {
+  "rating": 3.231
+ },
+ "6138: Jackalope Herd": {
+  "rating": 2.415
+ },
+ "6139: Reclaim": {
+  "rating": 3.706
+ },
+ "6140: Resuscitate": {
+  "rating": 2.562
+ },
+ "6141: Predatory Hunger": {
+  "rating": 3.8
+ },
+ "6142: Keeper of the Beasts": {
+  "rating": 3.621
+ },
+ "6143: Spike Rogue": {
+  "rating": 3.203
+ },
+ "6144: Cartographer": {
+  "rating": 3.393
+ },
+ "6145: Crashing Boars": {
+  "rating": 3.768
+ },
+ "6146: Elven Palisade": {
+  "rating": 2.088
+ },
+ "6147: Bequeathal": {
+  "rating": 4.034
+ },
+ "6149: Song of Serenity": {
+  "rating": 3.64
+ },
+ "6150: Survival of the Fittest": {
+  "rating": 4.589
+ },
+ "6151: Oath of Druids": {
+  "rating": 4.596
+ },
+ "6152: Spike Weaver": {
+  "rating": 3.953
+ },
+ "6154: Manabond": {
+  "rating": 4.427
+ },
+ "6155: Mirri, Cat Warrior": {
+  "rating": 4.211
+ },
+ "6156: Workhorse": {
+  "rating": 2.476
+ },
+ "6158: Spellbook": {
+  "rating": 3.818
+ },
+ "6159: Transmogrifying Licid": {
+  "rating": 3.197
+ },
+ "6160: Sphere of Resistance": {
+  "rating": 4.604
+ },
+ "6162: Coat of Arms": {
+  "rating": 4.302
+ },
+ "6163: Erratic Portal": {
+  "rating": 4.212
+ },
+ "6164: Thopter Squadron": {
+  "rating": 3.443
+ },
+ "6165: Medicine Bag": {
+  "rating": 2.043
+ },
+ "6167: Memory Crystal": {
+  "rating": 4.053
+ },
+ "6168: City of Traitors": {
+  "rating": 4.505
+ },
+ "6169: High Ground": {
+  "rating": 4.047
+ },
+ "9842: Spike Hatcher": {
+  "rating": 3.29
+ }
+}

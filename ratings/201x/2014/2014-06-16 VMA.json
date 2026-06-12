@@ -1,0 +1,674 @@
+{
+ "382835: Academy Elite": {
+  "rating": 1.75
+ },
+ "382836: Addle": {
+  "rating": 0.5
+ },
+ "382837: Aether Mutation": {
+  "rating": 3.5
+ },
+ "382838: Afterlife": {
+  "rating": 3.375
+ },
+ "382839: Aftershock": {
+  "rating": 3
+ },
+ "382840: Akroma's Blessing": {
+  "rating": 3.5
+ },
+ "382841: Ancestral Recall": {
+  "rating": 4
+ },
+ "382842: Ancient Tomb": {
+  "rating": 4.333
+ },
+ "382843: Animate Dead": {
+  "rating": 4.5
+ },
+ "382844: Ankh of Mishra": {
+  "rating": 4
+ },
+ "382845: Aquamoeba": {
+  "rating": 3.5
+ },
+ "382846: Armadillo Cloak": {
+  "rating": 4.25
+ },
+ "382847: Armageddon": {
+  "rating": 4.5
+ },
+ "382849: Arrogant Wurm": {
+  "rating": 4
+ },
+ "382850: Astral Slide": {
+  "rating": 4
+ },
+ "382851: Bad River": {
+  "rating": 3
+ },
+ "382852: Badlands": {
+  "rating": 4.5
+ },
+ "382853: Balance": {
+  "rating": 4.75
+ },
+ "382854: Baleful Force": {
+  "rating": 4
+ },
+ "382855: Baleful Strix": {
+  "rating": 4.333
+ },
+ "382856: Barren Moor": {
+  "rating": 3.5
+ },
+ "382857: Basandra, Battle Seraph": {
+  "rating": 4
+ },
+ "382858: Basking Rootwalla": {
+  "rating": 4.357
+ },
+ "382859: Battle Screech": {
+  "rating": 3.5
+ },
+ "382860: Bayou": {
+  "rating": 4.5
+ },
+ "382861: Bazaar of Baghdad": {
+  "rating": 4
+ },
+ "382862: Beetleback Chief": {
+  "rating": 3.5
+ },
+ "382863: Benalish Trapper": {
+  "rating": 3.5
+ },
+ "382864: Benevolent Bodyguard": {
+  "rating": 3
+ },
+ "382865: Berserk": {
+  "rating": 3.75
+ },
+ "382866: Black Lotus": {
+  "rating": 4.357
+ },
+ "382867: Blastoderm": {
+  "rating": 4
+ },
+ "382868: Blazing Specter": {
+  "rating": 4.5
+ },
+ "382869: Brago, King Eternal": {
+  "rating": 4
+ },
+ "382870: Brain Freeze": {
+  "rating": 4
+ },
+ "382871: Brainstorm": {
+  "rating": 4
+ },
+ "382872: Breath of Life": {
+  "rating": 3.5
+ },
+ "382877: Cabal Ritual": {
+  "rating": 4.5
+ },
+ "382878: Caldera Lake": {
+  "rating": 0.5
+ },
+ "382879: Carnophage": {
+  "rating": 4
+ },
+ "382880: Chain Lightning": {
+  "rating": 4
+ },
+ "382881: Chainer's Edict": {
+  "rating": 4
+ },
+ "382882: Channel": {
+  "rating": 3.75
+ },
+ "382883: Chaos Warp": {
+  "rating": 4
+ },
+ "382885: Chimeric Idol": {
+  "rating": 3.5
+ },
+ "382886: Choking Sands": {
+  "rating": 4
+ },
+ "382888: Circular Logic": {
+  "rating": 4
+ },
+ "382891: Clickslither": {
+  "rating": 4
+ },
+ "382892: Cloud Djinn": {
+  "rating": 2.5
+ },
+ "382894: Coercive Portal": {
+  "rating": 4
+ },
+ "382895: Control Magic": {
+  "rating": 4.5
+ },
+ "382896: Council's Judgment": {
+  "rating": 4.5
+ },
+ "382897: Counterspell": {
+  "rating": 4.5
+ },
+ "382899: Crescendo of War": {
+  "rating": 3.5
+ },
+ "382900: Crovax the Cursed": {
+  "rating": 3.5
+ },
+ "382901: Cruel Bargain": {
+  "rating": 4.5
+ },
+ "382902: Cursed Scroll": {
+  "rating": 4.5
+ },
+ "382903: Dack Fayden": {
+  "rating": 4
+ },
+ "382904: Dack's Duplicate": {
+  "rating": 4
+ },
+ "382905: Dark Hatchling": {
+  "rating": 4
+ },
+ "382906: Dark Ritual": {
+  "rating": 4.75
+ },
+ "382907: Dauthi Mercenary": {
+  "rating": 4
+ },
+ "382908: Death Grasp": {
+  "rating": 4
+ },
+ "382909: Death's-Head Buzzard": {
+  "rating": 4
+ },
+ "382910: Deathreap Ritual": {
+  "rating": 3.5
+ },
+ "382912: Deep Analysis": {
+  "rating": 4
+ },
+ "382913: Deftblade Elite": {
+  "rating": 3.25
+ },
+ "382916: Desert Twister": {
+  "rating": 4
+ },
+ "382917: Devout Witness": {
+  "rating": 4.5
+ },
+ "382919: Dreampod Druid": {
+  "rating": 4
+ },
+ "382920: Edric, Spymaster of Trest": {
+  "rating": 4.5
+ },
+ "382921: Elephant Guide": {
+  "rating": 4.5
+ },
+ "382923: Empyrial Armor": {
+  "rating": 3.5
+ },
+ "382926: Eternal Dragon": {
+  "rating": 4
+ },
+ "382927: Eureka": {
+  "rating": 4.5
+ },
+ "382928: Exile": {
+  "rating": 3.5
+ },
+ "382929: Expunge": {
+  "rating": 4
+ },
+ "382930: Fact or Fiction": {
+  "rating": 4.5
+ },
+ "382931: Fallen Askari": {
+  "rating": 3.5
+ },
+ "382932: Falter": {
+  "rating": 3
+ },
+ "382934: Fastbond": {
+  "rating": 4.875
+ },
+ "382936: Fires of Yavimaya": {
+  "rating": 4
+ },
+ "382937: Flametongue Kavu": {
+  "rating": 4.5
+ },
+ "382939: Flood Plain": {
+  "rating": 3
+ },
+ "382942: Flusterstorm": {
+  "rating": 4.5
+ },
+ "382943: Force of Will": {
+  "rating": 4.1
+ },
+ "382944: Forgotten Cave": {
+  "rating": 2
+ },
+ "382945: Frantic Search": {
+  "rating": 4.5
+ },
+ "382946: Future Sight": {
+  "rating": 4.5
+ },
+ "382947: Fyndhorn Elves": {
+  "rating": 4
+ },
+ "382949: Gamble": {
+  "rating": 4
+ },
+ "382950: Genesis": {
+  "rating": 4
+ },
+ "382955: Gilded Light": {
+  "rating": 3.5
+ },
+ "382957: Goblin General": {
+  "rating": 3.5
+ },
+ "382959: Goblin Lackey": {
+  "rating": 4.5
+ },
+ "382960: Goblin Matron": {
+  "rating": 4.5
+ },
+ "382962: Goblin Piledriver": {
+  "rating": 4
+ },
+ "382968: Grasslands": {
+  "rating": 2.5
+ },
+ "382969: Grenzo, Dungeon Warden": {
+  "rating": 4
+ },
+ "382971: Gush": {
+  "rating": 4.5
+ },
+ "382973: Hermit Druid": {
+  "rating": 4.333
+ },
+ "382974: High Tide": {
+  "rating": 4.5
+ },
+ "382976: Hymn to Tourach": {
+  "rating": 4.5
+ },
+ "382977: Ichorid": {
+  "rating": 4.5
+ },
+ "382978: Ivory Tower": {
+  "rating": 4
+ },
+ "382979: Jace, the Mind Sculptor": {
+  "rating": 3.444
+ },
+ "382980: Jareth, Leonine Titan": {
+  "rating": 3.25
+ },
+ "382981: Jungle Wurm": {
+  "rating": 1.5
+ },
+ "382982: Kaervek's Torch": {
+  "rating": 4
+ },
+ "382983: Karmic Guide": {
+  "rating": 4.5
+ },
+ "382984: Karn, Silver Golem": {
+  "rating": 4.5
+ },
+ "382987: Kezzerdrix": {
+  "rating": 2.875
+ },
+ "382989: Kindle": {
+  "rating": 3.5
+ },
+ "382990: Kjeldoran Outpost": {
+  "rating": 4
+ },
+ "382992: Krosan Tusker": {
+  "rating": 4
+ },
+ "382995: Lake of the Dead": {
+  "rating": 4
+ },
+ "382996: Laquatus's Champion": {
+  "rating": 4.5
+ },
+ "382997: Library of Alexandria": {
+  "rating": 4.5
+ },
+ "382999: Lightning Rift": {
+  "rating": 4.5
+ },
+ "383000: Lion's Eye Diamond": {
+  "rating": 4.25
+ },
+ "383001: Living Death": {
+  "rating": 4.5
+ },
+ "383002: Lonely Sandbar": {
+  "rating": 2.75
+ },
+ "383004: Magister of Worth": {
+  "rating": 4
+ },
+ "383005: Mana Crypt": {
+  "rating": 4.125
+ },
+ "383006: Mana Drain": {
+  "rating": 3.75
+ },
+ "383008: Mana Vault": {
+  "rating": 4.5
+ },
+ "383009: Man-o'-War": {
+  "rating": 4.5
+ },
+ "383010: Marchesa, the Black Rose": {
+  "rating": 3.5
+ },
+ "383011: Masticore": {
+  "rating": 4
+ },
+ "383012: Memory Jar": {
+  "rating": 4.5
+ },
+ "383013: Mesmeric Fiend": {
+  "rating": 4
+ },
+ "383014: Mind's Desire": {
+  "rating": 4.5
+ },
+ "383015: Mishra's Workshop": {
+  "rating": 4.833
+ },
+ "383017: Morphling": {
+  "rating": 4.5
+ },
+ "383019: Mox Emerald": {
+  "rating": 4.875
+ },
+ "383020: Mox Jet": {
+  "rating": 4.1
+ },
+ "383021: Mox Pearl": {
+  "rating": 4.875
+ },
+ "383022: Mox Ruby": {
+  "rating": 4.875
+ },
+ "383024: Muzzio, Visionary Architect": {
+  "rating": 4.5
+ },
+ "383026: Nature's Lore": {
+  "rating": 4
+ },
+ "383027: Nature's Ruin": {
+  "rating": 4
+ },
+ "383028: Necropotence": {
+  "rating": 4.833
+ },
+ "383029: Nevinyrral's Disk": {
+  "rating": 4.5
+ },
+ "383030: Nightscape Familiar": {
+  "rating": 4
+ },
+ "383033: Nostalgic Dreams": {
+  "rating": 4
+ },
+ "383034: Null Rod": {
+  "rating": 4.5
+ },
+ "383035: Oath of Druids": {
+  "rating": 4.5
+ },
+ "383036: Obsessive Search": {
+  "rating": 3.5
+ },
+ "383038: Orcish Lumberjack": {
+  "rating": 4.5
+ },
+ "383040: Palinchron": {
+  "rating": 4.5
+ },
+ "383041: Parallax Wave": {
+  "rating": 4
+ },
+ "383042: Paralyze": {
+  "rating": 4
+ },
+ "383043: Penumbra Wurm": {
+  "rating": 3.333
+ },
+ "383045: Phyrexian Defiler": {
+  "rating": 3.5
+ },
+ "383047: Pillaging Horde": {
+  "rating": 2
+ },
+ "383049: Plateau": {
+  "rating": 4.5
+ },
+ "383050: Plea for Power": {
+  "rating": 4
+ },
+ "383051: Power Sink": {
+  "rating": 4
+ },
+ "383052: Predator, Flagship": {
+  "rating": 4
+ },
+ "383054: Prophetic Bolt": {
+  "rating": 4.5
+ },
+ "383055: Provoke": {
+  "rating": 3.5
+ },
+ "383056: Psychatog": {
+  "rating": 4.167
+ },
+ "383057: Putrid Imp": {
+  "rating": 4
+ },
+ "383059: Radiant's Judgment": {
+  "rating": 3.5
+ },
+ "383060: Realm Seekers": {
+  "rating": 3.5
+ },
+ "383061: Reanimate": {
+  "rating": 4.667
+ },
+ "383063: Recurring Nightmare": {
+  "rating": 4.5
+ },
+ "383064: Regrowth": {
+  "rating": 4.5
+ },
+ "383065: Reign of the Pit": {
+  "rating": 4
+ },
+ "383066: Renewed Faith": {
+  "rating": 2
+ },
+ "383067: Repel": {
+  "rating": 2
+ },
+ "383068: Rescind": {
+  "rating": 4
+ },
+ "383069: Reviving Vapors": {
+  "rating": 3.5
+ },
+ "383070: Ring of Gix": {
+  "rating": 3.5
+ },
+ "383071: Rites of Initiation": {
+  "rating": 3
+ },
+ "383072: Roar of the Wurm": {
+  "rating": 4
+ },
+ "383074: Rofellos, Llanowar Emissary": {
+  "rating": 4.5
+ },
+ "383075: Rorix Bladewing": {
+  "rating": 4
+ },
+ "383078: Sarcomancy": {
+  "rating": 4.5
+ },
+ "383079: Savannah": {
+  "rating": 4.5
+ },
+ "383081: Scourge of the Throne": {
+  "rating": 4
+ },
+ "383083: Scrubland": {
+  "rating": 4.5
+ },
+ "383085: Seal of Cleansing": {
+  "rating": 4
+ },
+ "383087: Selvala, Explorer Returned": {
+  "rating": 4
+ },
+ "383088: Serendib Efreet": {
+  "rating": 4
+ },
+ "383089: Shelter": {
+  "rating": 4
+ },
+ "383092: Silvos, Rogue Elemental": {
+  "rating": 4.5
+ },
+ "383095: Skirk Drill Sergeant": {
+  "rating": 3.5
+ },
+ "383097: Skullclamp": {
+  "rating": 4.5
+ },
+ "383100: Smokestack": {
+  "rating": 4.5
+ },
+ "383101: Sol Ring": {
+  "rating": 4.875
+ },
+ "383102: Solar Blast": {
+  "rating": 2.5
+ },
+ "383105: Spark Spray": {
+  "rating": 2.5
+ },
+ "383106: Sphere of Resistance": {
+  "rating": 4.5
+ },
+ "383110: Spiritmonger": {
+  "rating": 4.5
+ },
+ "383111: Starstorm": {
+  "rating": 4
+ },
+ "383113: Strip Mine": {
+  "rating": 4.5
+ },
+ "383114: Stroke of Genius": {
+  "rating": 4.5
+ },
+ "383115: Su-Chi": {
+  "rating": 4
+ },
+ "383118: Survival of the Fittest": {
+  "rating": 4.5
+ },
+ "383119: Swords to Plowshares": {
+  "rating": 4.5
+ },
+ "383120: Sylvan Library": {
+  "rating": 4.5
+ },
+ "383121: Symbiotic Wurm": {
+  "rating": 3.625
+ },
+ "383122: Taiga": {
+  "rating": 4.5
+ },
+ "383123: Tangle": {
+  "rating": 4
+ },
+ "383125: Tendrils of Agony": {
+  "rating": 4.5
+ },
+ "383128: Thawing Glaciers": {
+  "rating": 4
+ },
+ "383130: Time Vault": {
+  "rating": 4.833
+ },
+ "383132: Timetwister": {
+  "rating": 4.667
+ },
+ "383137: Tribute to the Wild": {
+  "rating": 3
+ },
+ "383138: Tropical Island": {
+  "rating": 4.5
+ },
+ "383139: Tundra": {
+  "rating": 4.5
+ },
+ "383140: Turnabout": {
+  "rating": 4.5
+ },
+ "383141: Tyrant's Choice": {
+  "rating": 3.5
+ },
+ "383142: Underground Sea": {
+  "rating": 4.5
+ },
+ "383143: Upheaval": {
+  "rating": 4
+ },
+ "383146: Visara the Dreadful": {
+  "rating": 4
+ },
+ "383147: Volcanic Island": {
+  "rating": 4
+ },
+ "383150: Waterfront Bouncer": {
+  "rating": 4.5
+ },
+ "383151: Wheel of Fortune": {
+  "rating": 4.5
+ },
+ "383154: Worldgorger Dragon": {
+  "rating": 4.5
+ },
+ "383155: Yavimaya Elder": {
+  "rating": 4
+ },
+ "383156: Yavimaya Hollow": {
+  "rating": 4.5
+ },
+ "383157: Yawgmoth's Bargain": {
+  "rating": 3.2
+ }
+}

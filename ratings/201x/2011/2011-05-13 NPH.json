@@ -1,0 +1,527 @@
+{
+ "194070: Surge Node": {
+  "rating": 3.28
+ },
+ "194171: Glissa's Scorn": {
+  "rating": 3.301
+ },
+ "194208: Apostle's Blessing": {
+  "rating": 3.546
+ },
+ "194216: Parasitic Implant": {
+  "rating": 3.043
+ },
+ "194274: Melira, Sylvok Outcast": {
+  "rating": 4.018
+ },
+ "194275: Myr Superion": {
+  "rating": 3.811
+ },
+ "194318: Shrine of Piercing Vision": {
+  "rating": 2.679
+ },
+ "194383: Whipflare": {
+  "rating": 3.715
+ },
+ "202641: Arm with Aether": {
+  "rating": 2.87
+ },
+ "206347: Shrine of Loyal Legions": {
+  "rating": 3.672
+ },
+ "214344: Alloy Myr": {
+  "rating": 3.651
+ },
+ "214345: Caged Sun": {
+  "rating": 3.715
+ },
+ "214346: Glistening Oil": {
+  "rating": 3.051
+ },
+ "214347: Psychic Surgery": {
+  "rating": 3.036
+ },
+ "214349: Jin-Gitaxias, Core Augur": {
+  "rating": 4.205
+ },
+ "214350: Karn Liberated": {
+  "rating": 3.883
+ },
+ "214352: Elesh Norn, Grand Cenobite": {
+  "rating": 4.451
+ },
+ "214353: Auriok Survivors": {
+  "rating": 2.89
+ },
+ "214357: Sickleslicer": {
+  "rating": 2.729
+ },
+ "214359: Lashwrithe": {
+  "rating": 3.791
+ },
+ "214360: Chancellor of the Spires": {
+  "rating": 3.644
+ },
+ "214362: Life's Finale": {
+  "rating": 3.75
+ },
+ "214364: Exclusion Ritual": {
+  "rating": 2.978
+ },
+ "214365: Deceiver Exarch": {
+  "rating": 3.74
+ },
+ "214367: Necropouncer": {
+  "rating": 2.566
+ },
+ "214368: Sword of War and Peace": {
+  "rating": 3.818
+ },
+ "214374: Reaper of Sheoldred": {
+  "rating": 3.395
+ },
+ "214375: Phyrexian Metamorph": {
+  "rating": 4.525
+ },
+ "214376: Geth's Verdict": {
+  "rating": 3.815
+ },
+ "214378: Urabrask the Hidden": {
+  "rating": 4.042
+ },
+ "214379: Phyrexian Hulk": {
+  "rating": 2.288
+ },
+ "214380: Kiln Walker": {
+  "rating": 2.473
+ },
+ "214381: Volt Charge": {
+  "rating": 3.753
+ },
+ "214382: Sheoldred, Whispering One": {
+  "rating": 3.917
+ },
+ "214383: Blighted Agent": {
+  "rating": 3.785
+ },
+ "214384: Phyrexian Ingester": {
+  "rating": 3.685
+ },
+ "214385: Rage Extractor": {
+  "rating": 3.572
+ },
+ "214386: Phyrexian Obliterator": {
+  "rating": 4.354
+ },
+ "214388: Viridian Harvest": {
+  "rating": 1.777
+ },
+ "214389: Grim Affliction": {
+  "rating": 3.283
+ },
+ "214390: Viridian Betrayers": {
+  "rating": 2.545
+ },
+ "217979: Furnace Scamp": {
+  "rating": 3.531
+ },
+ "217980: Shrine of Limitless Power": {
+  "rating": 2.087
+ },
+ "217981: Suture Priest": {
+  "rating": 3.788
+ },
+ "217982: Shrine of Boundless Growth": {
+  "rating": 2.992
+ },
+ "217984: Vault Skirge": {
+  "rating": 3.825
+ },
+ "217987: Defensive Stance": {
+  "rating": 0.904
+ },
+ "217988: Impaler Shrike": {
+  "rating": 3.104
+ },
+ "217990: Spined Thopter": {
+  "rating": 3
+ },
+ "217992: Spellskite": {
+  "rating": 4.252
+ },
+ "217994: Shriek Raptor": {
+  "rating": 2.67
+ },
+ "217995: Mycosynth Fiend": {
+  "rating": 2.613
+ },
+ "217996: Etched Monstrosity": {
+  "rating": 3.66
+ },
+ "217998: Brutalizer Exarch": {
+  "rating": 3.04
+ },
+ "217999: Blind Zealot": {
+  "rating": 3.56
+ },
+ "218001: Argent Mutation": {
+  "rating": 1.765
+ },
+ "218002: Vorinclex, Voice of Hunger": {
+  "rating": 3.821
+ },
+ "218004: Geosurge": {
+  "rating": 3.708
+ },
+ "218006: Birthing Pod": {
+  "rating": 3.801
+ },
+ "218008: Hex Parasite": {
+  "rating": 4.327
+ },
+ "218010: Slag Fiend": {
+  "rating": 3.689
+ },
+ "218013: Loxodon Convert": {
+  "rating": 2.015
+ },
+ "218015: Phyrexia's Core": {
+  "rating": 2.982
+ },
+ "218016: Psychic Barrier": {
+  "rating": 3.476
+ },
+ "218017: Vapor Snag": {
+  "rating": 3.768
+ },
+ "218018: Shrine of Burning Rage": {
+  "rating": 3.742
+ },
+ "218019: Scrapyard Salvo": {
+  "rating": 2.635
+ },
+ "218020: Chancellor of the Dross": {
+  "rating": 3.627
+ },
+ "218021: Chancellor of the Forge": {
+  "rating": 3.477
+ },
+ "218022: Razor Swine": {
+  "rating": 3.539
+ },
+ "218023: Entomber Exarch": {
+  "rating": 3.473
+ },
+ "218024: Cathedral Membrane": {
+  "rating": 3.505
+ },
+ "218028: Leeching Bite": {
+  "rating": 2.82
+ },
+ "218037: Priest of Urabrask": {
+  "rating": 3.712
+ },
+ "218038: Vulshok Refugee": {
+  "rating": 3.25
+ },
+ "218039: Mycosynth Wellspring": {
+  "rating": 3.468
+ },
+ "218040: Numbing Dose": {
+  "rating": 2.538
+ },
+ "218043: Porcelain Legionnaire": {
+  "rating": 4.459
+ },
+ "218044: Triumph of the Hordes": {
+  "rating": 3.66
+ },
+ "218045: Whispering Specter": {
+  "rating": 3.071
+ },
+ "218050: Praetor's Grasp": {
+  "rating": 3.75
+ },
+ "218051: Fresh Meat": {
+  "rating": 3.731
+ },
+ "218053: Lost Leonin": {
+  "rating": 3.14
+ },
+ "218055: Bludgeon Brawl": {
+  "rating": 3.191
+ },
+ "218057: Isolation Cell": {
+  "rating": 3.062
+ },
+ "218058: Phyrexian Unlife": {
+  "rating": 3.668
+ },
+ "218061: Caress of Phyrexia": {
+  "rating": 3.103
+ },
+ "218062: Chancellor of the Tangle": {
+  "rating": 3.403
+ },
+ "218066: Ichor Explosion": {
+  "rating": 1.97
+ },
+ "218067: Darksteel Relic": {
+  "rating": 3.302
+ },
+ "218068: Gremlin Mine": {
+  "rating": 2.881
+ },
+ "218070: Inquisitor Exarch": {
+  "rating": 3.495
+ },
+ "218072: Dispatch": {
+  "rating": 3.812
+ },
+ "218073: Evil Presence": {
+  "rating": 2.87
+ },
+ "218075: Chained Throatseeker": {
+  "rating": 3.18
+ },
+ "218077: Thundering Tanadon": {
+  "rating": 3.344
+ },
+ "218078: Remember the Fallen": {
+  "rating": 3.363
+ },
+ "218079: Unwinding Clock": {
+  "rating": 3.734
+ },
+ "218081: Artillerize": {
+  "rating": 2.8
+ },
+ "218082: Tormentor Exarch": {
+  "rating": 3.037
+ },
+ "218083: Chancellor of the Annex": {
+  "rating": 3.576
+ },
+ "218085: Mindculling": {
+  "rating": 2.724
+ },
+ "218086: Phyrexian Swarmlord": {
+  "rating": 3.676
+ },
+ "221533: Beast Within": {
+  "rating": 4.395
+ },
+ "227504: Puresteel Paladin": {
+  "rating": 4.138
+ },
+ "227505: Island": {
+  "rating": 4.297
+ },
+ "227507: Mountain": {
+  "rating": 3.337
+ },
+ "227508: Jor Kadeen, the Prevailer": {
+  "rating": 3.781
+ },
+ "227513: Hovermyr": {
+  "rating": 3.739
+ },
+ "227518: Plains": {
+  "rating": 4.196
+ },
+ "227519: Swamp": {
+  "rating": 3.121
+ },
+ "227521: Swamp": {
+  "rating": 4.318
+ },
+ "227528: Ruthless Invasion": {
+  "rating": 2.954
+ },
+ "227530: Island": {
+  "rating": 3.678
+ },
+ "227537: Fallen Ferromancer": {
+  "rating": 3.099
+ },
+ "227544: Xenograft": {
+  "rating": 3.038
+ },
+ "227547: Tezzeret's Gambit": {
+  "rating": 3.782
+ },
+ "227549: Victorious Destruction": {
+  "rating": 1.882
+ },
+ "227552: Plains": {
+  "rating": 4.115
+ },
+ "230064: Mountain": {
+  "rating": 4.185
+ },
+ "230065: Slash Panther": {
+  "rating": 3.908
+ },
+ "230066: Mental Misstep": {
+  "rating": 4.441
+ },
+ "230067: Noxious Revival": {
+  "rating": 4.368
+ },
+ "230068: Spinebiter": {
+  "rating": 3.331
+ },
+ "230070: Conversion Chamber": {
+  "rating": 2.95
+ },
+ "230071: Forest": {
+  "rating": 4.156
+ },
+ "230072: Marrow Shards": {
+  "rating": 3.412
+ },
+ "230074: Gut Shot": {
+  "rating": 3.901
+ },
+ "230075: Corrosive Gale": {
+  "rating": 3.014
+ },
+ "230076: Act of Aggression": {
+  "rating": 3.567
+ },
+ "230078: War Report": {
+  "rating": 3.106
+ },
+ "230079: Pith Driller": {
+  "rating": 3.021
+ },
+ "230081: Forest": {
+  "rating": 3.688
+ },
+ "230082: Dismember": {
+  "rating": 4.447
+ },
+ "230083: Forced Worship": {
+  "rating": 2.936
+ },
+ "233037: Wing Splicer": {
+  "rating": 3.653
+ },
+ "233038: Sensor Splicer": {
+  "rating": 2.625
+ },
+ "233040: Maul Splicer": {
+  "rating": 2.993
+ },
+ "233041: Surgical Extraction": {
+  "rating": 4.363
+ },
+ "233042: Omen Machine": {
+  "rating": 3.082
+ },
+ "233043: Despise": {
+  "rating": 3.776
+ },
+ "233045: Blinding Souleater": {
+  "rating": 2.831
+ },
+ "233047: Viral Drake": {
+  "rating": 3.729
+ },
+ "233048: Soul Conduit": {
+  "rating": 3.408
+ },
+ "233050: Norn's Annex": {
+  "rating": 3.814
+ },
+ "233051: Moltensteel Dragon": {
+  "rating": 4.268
+ },
+ "233052: Glistener Elf": {
+  "rating": 3.784
+ },
+ "233053: Spire Monitor": {
+  "rating": 2.885
+ },
+ "233054: Postmortem Lunge": {
+  "rating": 3.243
+ },
+ "233055: Batterskull": {
+  "rating": 4.234
+ },
+ "233056: Gitaxian Probe": {
+  "rating": 4.348
+ },
+ "233058: Immolating Souleater": {
+  "rating": 4.051
+ },
+ "233059: Shattered Angel": {
+  "rating": 3.112
+ },
+ "233060: Enslave": {
+  "rating": 3.596
+ },
+ "233062: Master Splicer": {
+  "rating": 3.356
+ },
+ "233063: Greenhilt Trainee": {
+  "rating": 2.804
+ },
+ "233064: Rotted Hystrix": {
+  "rating": 2.018
+ },
+ "233065: Death-Hood Cobra": {
+  "rating": 3.021
+ },
+ "233066: Insatiable Souleater": {
+  "rating": 2.01
+ },
+ "233067: Invader Parasite": {
+  "rating": 3.331
+ },
+ "233068: Blade Splicer": {
+  "rating": 3.802
+ },
+ "233069: Torpor Orb": {
+  "rating": 4.323
+ },
+ "233070: Mutagenic Growth": {
+  "rating": 3.789
+ },
+ "233072: Mortis Dogs": {
+  "rating": 3.559
+ },
+ "233073: Trespassing Souleater": {
+  "rating": 2.915
+ },
+ "233074: Pristine Talisman": {
+  "rating": 3.335
+ },
+ "233077: Due Respect": {
+  "rating": 3.058
+ },
+ "233078: Mindcrank": {
+  "rating": 3.513
+ },
+ "233079: Vital Splicer": {
+  "rating": 3.218
+ },
+ "233080: Corrupted Resolve": {
+  "rating": 3.742
+ },
+ "233081: Toxic Nim": {
+  "rating": 2.915
+ },
+ "233082: Ogre Menial": {
+  "rating": 3.048
+ },
+ "233084: Dementia Bat": {
+  "rating": 1.697
+ },
+ "233085: Pestilent Souleater": {
+  "rating": 2.02
+ },
+ "233086: Flameborn Viron": {
+  "rating": 2.117
+ }
+}

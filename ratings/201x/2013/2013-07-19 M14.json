@@ -1,0 +1,749 @@
+{
+ "370577: Duress": {
+  "rating": 4.487
+ },
+ "370578: Silence": {
+  "rating": 4.25
+ },
+ "370579: Into the Wilds": {
+  "rating": 3.598
+ },
+ "370580: Ring of Three Wishes": {
+  "rating": 3.648
+ },
+ "370581: Accorder's Shield": {
+  "rating": 3.375
+ },
+ "370582: Deadly Recluse": {
+  "rating": 3.571
+ },
+ "370583: Mountain": {
+  "rating": 3.346
+ },
+ "370584: Scourge of Valkas": {
+  "rating": 3.652
+ },
+ "370585: Cyclops Tyrant": {
+  "rating": 1.441
+ },
+ "370586: Staff of the Death Magus": {
+  "rating": 1.962
+ },
+ "370587: Soulmender": {
+  "rating": 2.635
+ },
+ "370588: Mountain": {
+  "rating": 3.611
+ },
+ "370589: Striking Sliver": {
+  "rating": 3.341
+ },
+ "370590: Galerider Sliver": {
+  "rating": 3.566
+ },
+ "370591: Mountain": {
+  "rating": 3.816
+ },
+ "370592: Staff of the Wild Magus": {
+  "rating": 1.944
+ },
+ "370593: Blur Sliver": {
+  "rating": 3.211
+ },
+ "370594: Haunted Plate Mail": {
+  "rating": 3.659
+ },
+ "370595: Lava Axe": {
+  "rating": 2.406
+ },
+ "370596: Dark Prophecy": {
+  "rating": 3.59
+ },
+ "370597: Steelform Sliver": {
+  "rating": 1.906
+ },
+ "370598: Forest": {
+  "rating": 4.042
+ },
+ "370599: Manaweft Sliver": {
+  "rating": 3.662
+ },
+ "370600: Young Pyromancer": {
+  "rating": 4.406
+ },
+ "370601: Plummet": {
+  "rating": 3.417
+ },
+ "370602: Serra Angel": {
+  "rating": 4.207
+ },
+ "370603: Guardian of the Ages": {
+  "rating": 2.75
+ },
+ "370604: Molten Birth": {
+  "rating": 3.611
+ },
+ "370605: Sporemound": {
+  "rating": 3.541
+ },
+ "370606: Tenacious Dead": {
+  "rating": 3.578
+ },
+ "370607: Thunder Strike": {
+  "rating": 3.06
+ },
+ "370608: Island": {
+  "rating": 3.75
+ },
+ "370609: Doom Blade": {
+  "rating": 4.363
+ },
+ "370610: Goblin Shortcutter": {
+  "rating": 3.444
+ },
+ "370611: Island": {
+  "rating": 3.733
+ },
+ "370612: Angelic Accord": {
+  "rating": 3.6
+ },
+ "370613: Awaken the Ancient": {
+  "rating": 3.658
+ },
+ "370614: Volcanic Geyser": {
+  "rating": 4.045
+ },
+ "370615: Plains": {
+  "rating": 3.542
+ },
+ "370616: Divination": {
+  "rating": 3
+ },
+ "370617: Seacoast Drake": {
+  "rating": 3.67
+ },
+ "370618: Act of Treason": {
+  "rating": 3.618
+ },
+ "370619: Xathrid Necromancer": {
+  "rating": 3.662
+ },
+ "370620: Seraph of the Sword": {
+  "rating": 3.6
+ },
+ "370621: Demolish": {
+  "rating": 2.694
+ },
+ "370622: Clone": {
+  "rating": 4.122
+ },
+ "370623: Ratchet Bomb": {
+  "rating": 4.425
+ },
+ "370624: Banisher Priest": {
+  "rating": 3.623
+ },
+ "370625: Staff of the Flame Magus": {
+  "rating": 1.853
+ },
+ "370626: Groundshaker Sliver": {
+  "rating": 2.129
+ },
+ "370627: Archangel of Thune": {
+  "rating": 3.97
+ },
+ "370628: Windstorm": {
+  "rating": 3.4
+ },
+ "370629: Scavenging Ooze": {
+  "rating": 4.552
+ },
+ "370630: Corrupt": {
+  "rating": 3.915
+ },
+ "370631: Shimmering Grotto": {
+  "rating": 3.069
+ },
+ "370632: Armored Cancrix": {
+  "rating": 1.287
+ },
+ "370633: Fog": {
+  "rating": 3.917
+ },
+ "370634: Artificer's Hex": {
+  "rating": 3.096
+ },
+ "370635: Staff of the Sun Magus": {
+  "rating": 2.048
+ },
+ "370636: Rise of the Dark Realms": {
+  "rating": 3.625
+ },
+ "370637: Chandra, Pyromaster": {
+  "rating": 3.659
+ },
+ "370638: Jace's Mindseeker": {
+  "rating": 3.561
+ },
+ "370639: Battle Sliver": {
+  "rating": 2.49
+ },
+ "370640: Vial of Poison": {
+  "rating": 2.985
+ },
+ "370641: Time Ebb": {
+  "rating": 4.064
+ },
+ "370642: Bramblecrush": {
+  "rating": 3.646
+ },
+ "370643: Sliver Construct": {
+  "rating": 1.648
+ },
+ "370644: Quicken": {
+  "rating": 4.148
+ },
+ "370645: Spell Blast": {
+  "rating": 2.319
+ },
+ "370646: Trading Post": {
+  "rating": 3.75
+ },
+ "370647: Island": {
+  "rating": 3.722
+ },
+ "370648: Marauding Maulhorn": {
+  "rating": 3.143
+ },
+ "370649: Pitchburn Devils": {
+  "rating": 2.804
+ },
+ "370650: Phantom Warrior": {
+  "rating": 3.767
+ },
+ "370651: Scroll Thief": {
+  "rating": 3.34
+ },
+ "370652: Liturgy of Blood": {
+  "rating": 2.77
+ },
+ "370653: Claustrophobia": {
+  "rating": 3.658
+ },
+ "370654: Shock": {
+  "rating": 3.552
+ },
+ "370655: Shadowborn Demon": {
+  "rating": 3.651
+ },
+ "370656: Primeval Bounty": {
+  "rating": 3.684
+ },
+ "370657: Verdant Haven": {
+  "rating": 2.931
+ },
+ "370658: Liliana of the Dark Realms": {
+  "rating": 3.663
+ },
+ "370659: Chandra's Outrage": {
+  "rating": 3.519
+ },
+ "370660: Dragon Egg": {
+  "rating": 3.591
+ },
+ "370661: Bubbling Cauldron": {
+  "rating": 3.553
+ },
+ "370662: Ogre Battledriver": {
+  "rating": 3.636
+ },
+ "370663: Traumatize": {
+  "rating": 3.856
+ },
+ "370664: Trollhide": {
+  "rating": 3.42
+ },
+ "370665: Woodborn Behemoth": {
+  "rating": 3.629
+ },
+ "370666: Celestial Flare": {
+  "rating": 3.651
+ },
+ "370667: Coral Merfolk": {
+  "rating": 1.744
+ },
+ "370668: Rod of Ruin": {
+  "rating": 1.406
+ },
+ "370669: Plains": {
+  "rating": 3.455
+ },
+ "370670: Strionic Resonator": {
+  "rating": 3.846
+ },
+ "370671: Sanguine Bond": {
+  "rating": 3.406
+ },
+ "370672: Zephyr Charge": {
+  "rating": 3.554
+ },
+ "370673: Indestructibility": {
+  "rating": 3.643
+ },
+ "370674: Goblin Diplomats": {
+  "rating": 3.636
+ },
+ "370675: Darksteel Ingot": {
+  "rating": 4.261
+ },
+ "370676: Staff of the Mind Magus": {
+  "rating": 1.917
+ },
+ "370677: Altar's Reap": {
+  "rating": 3.598
+ },
+ "370678: Frost Breath": {
+  "rating": 3.417
+ },
+ "370679: Plains": {
+  "rating": 3.227
+ },
+ "370680: Ajani, Caller of the Pride": {
+  "rating": 3.717
+ },
+ "370681: Elixir of Immortality": {
+  "rating": 3.516
+ },
+ "370682: Gnawing Zombie": {
+  "rating": 3.293
+ },
+ "370683: Minotaur Abomination": {
+  "rating": 2.175
+ },
+ "370684: Garruk's Horde": {
+  "rating": 3.598
+ },
+ "370685: Colossal Whale": {
+  "rating": 3.641
+ },
+ "370686: Pyromancer's Gauntlet": {
+  "rating": 3.633
+ },
+ "370687: Garruk, Caller of Beasts": {
+  "rating": 3.512
+ },
+ "370688: Air Servant": {
+  "rating": 3.447
+ },
+ "370689: Nightmare": {
+  "rating": 4.025
+ },
+ "370690: Wall of Frost": {
+  "rating": 3.229
+ },
+ "370691: Chandra's Phoenix": {
+  "rating": 3.709
+ },
+ "370692: Trained Condor": {
+  "rating": 3.426
+ },
+ "370693: Rootwalla": {
+  "rating": 3.183
+ },
+ "370694: Essence Scatter": {
+  "rating": 3.527
+ },
+ "370695: Mindsparker": {
+  "rating": 3.64
+ },
+ "370696: Burning Earth": {
+  "rating": 3.393
+ },
+ "370697: Wall of Swords": {
+  "rating": 3.5
+ },
+ "370698: Blood Bairn": {
+  "rating": 3.2
+ },
+ "370699: Door of Destinies": {
+  "rating": 3.786
+ },
+ "370700: Kalonian Tusker": {
+  "rating": 3.709
+ },
+ "370701: Illusionary Armor": {
+  "rating": 1.329
+ },
+ "370702: Undead Minotaur": {
+  "rating": 2.133
+ },
+ "370703: Swamp": {
+  "rating": 3.533
+ },
+ "370704: Siege Mastodon": {
+  "rating": 1.529
+ },
+ "370705: Nightwing Shade": {
+  "rating": 1.71
+ },
+ "370706: Tome Scour": {
+  "rating": 3.312
+ },
+ "370707: Shiv's Embrace": {
+  "rating": 3.617
+ },
+ "370708: Master of Diversion": {
+  "rating": 3.682
+ },
+ "370709: Vampire Warlord": {
+  "rating": 1.694
+ },
+ "370710: Savage Summoning": {
+  "rating": 3.606
+ },
+ "370711: Mind Rot": {
+  "rating": 2.882
+ },
+ "370712: Fortify": {
+  "rating": 3.185
+ },
+ "370713: Seismic Stomp": {
+  "rating": 3.295
+ },
+ "370714: Quag Sickness": {
+  "rating": 3.52
+ },
+ "370715: Fireshrieker": {
+  "rating": 3.632
+ },
+ "370716: Gladecover Scout": {
+  "rating": 3.402
+ },
+ "370717: Dragon Hatchling": {
+  "rating": 3.468
+ },
+ "370718: Howl of the Night Pack": {
+  "rating": 3.07
+ },
+ "370719: Negate": {
+  "rating": 4.459
+ },
+ "370720: Suntail Hawk": {
+  "rating": 3.408
+ },
+ "370721: Dawnstrike Paladin": {
+  "rating": 2.833
+ },
+ "370722: Shrivel": {
+  "rating": 3.2
+ },
+ "370723: Lifebane Zombie": {
+  "rating": 3.66
+ },
+ "370724: Sengir Vampire": {
+  "rating": 4.053
+ },
+ "370725: Mountain": {
+  "rating": 4
+ },
+ "370726: Devout Invocation": {
+  "rating": 3.637
+ },
+ "370727: Swamp": {
+  "rating": 3.682
+ },
+ "370728: Jace, Memory Adept": {
+  "rating": 3.49
+ },
+ "370729: Forest": {
+  "rating": 3.559
+ },
+ "370730: Solemn Offering": {
+  "rating": 3.241
+ },
+ "370731: Swamp": {
+  "rating": 3.971
+ },
+ "370732: Diabolic Tutor": {
+  "rating": 3.719
+ },
+ "370733: Mutavault": {
+  "rating": 4.378
+ },
+ "370734: Darksteel Forge": {
+  "rating": 3.681
+ },
+ "370735: Academy Raider": {
+  "rating": 2.354
+ },
+ "370736: Tidebinder Mage": {
+  "rating": 3.736
+ },
+ "370737: Millstone": {
+  "rating": 3.635
+ },
+ "370738: Advocate of the Beast": {
+  "rating": 3.397
+ },
+ "370739: Briarpack Alpha": {
+  "rating": 3.588
+ },
+ "370740: Liliana's Reaver": {
+  "rating": 3.125
+ },
+ "370741: Fleshpulper Giant": {
+  "rating": 1.514
+ },
+ "370742: Pay No Heed": {
+  "rating": 2.821
+ },
+ "370743: Hunt the Weak": {
+  "rating": 2.594
+ },
+ "370744: Elvish Mystic": {
+  "rating": 3.879
+ },
+ "370745: Predatory Sliver": {
+  "rating": 3.606
+ },
+ "370746: Shadowborn Apostle": {
+  "rating": 3.598
+ },
+ "370747: Elite Arcanist": {
+  "rating": 3.645
+ },
+ "370748: Divine Favor": {
+  "rating": 3.019
+ },
+ "370749: Vastwood Hydra": {
+  "rating": 3.598
+ },
+ "370750: Ajani's Chosen": {
+  "rating": 3.615
+ },
+ "370751: Opportunity": {
+  "rating": 3.689
+ },
+ "370752: Syphon Sliver": {
+  "rating": 2.968
+ },
+ "370753: Archaeomancer": {
+  "rating": 3.581
+ },
+ "370754: Plains": {
+  "rating": 3.25
+ },
+ "370755: Cancel": {
+  "rating": 2.792
+ },
+ "370756: Forest": {
+  "rating": 3.955
+ },
+ "370757: Canyon Minotaur": {
+  "rating": 2.21
+ },
+ "370758: Bogbrew Witch": {
+  "rating": 3.148
+ },
+ "370759: Wring Flesh": {
+  "rating": 3.104
+ },
+ "370760: Nephalia Seakite": {
+  "rating": 3.1
+ },
+ "370761: Blightcaster": {
+  "rating": 3.468
+ },
+ "370762: Merfolk Spy": {
+  "rating": 3.364
+ },
+ "370763: Oath of the Ancient Wood": {
+  "rating": 1.796
+ },
+ "370764: Rumbling Baloth": {
+  "rating": 3.194
+ },
+ "370765: Pillarfield Ox": {
+  "rating": 1.723
+ },
+ "370766: Kalonian Hydra": {
+  "rating": 3.888
+ },
+ "370767: Lay of the Land": {
+  "rating": 2.439
+ },
+ "370768: Charging Griffin": {
+  "rating": 2.269
+ },
+ "370769: Encroaching Wastes": {
+  "rating": 2.922
+ },
+ "370770: Imposing Sovereign": {
+  "rating": 3.669
+ },
+ "370771: Forest": {
+  "rating": 3.643
+ },
+ "370772: Festering Newt": {
+  "rating": 3.573
+ },
+ "370773: Island": {
+  "rating": 3.5
+ },
+ "370774: Glimpse the Future": {
+  "rating": 1.315
+ },
+ "370775: Deathgaze Cockatrice": {
+  "rating": 3.286
+ },
+ "370776: Grim Return": {
+  "rating": 3.594
+ },
+ "370777: Stonehorn Chanter": {
+  "rating": 1.357
+ },
+ "370778: Brindle Boar": {
+  "rating": 3.188
+ },
+ "370779: Show of Valor": {
+  "rating": 2.607
+ },
+ "370780: Sensory Deprivation": {
+  "rating": 2.167
+ },
+ "370781: Giant Spider": {
+  "rating": 3.296
+ },
+ "370782: Dark Favor": {
+  "rating": 2.946
+ },
+ "370783: Domestication": {
+  "rating": 2.356
+ },
+ "370784: Smelt": {
+  "rating": 4.255
+ },
+ "370785: Swamp": {
+  "rating": 3.944
+ },
+ "370786: Fiendslayer Paladin": {
+  "rating": 3.694
+ },
+ "370787: Mark of the Vampire": {
+  "rating": 3.3
+ },
+ "370788: Giant Growth": {
+  "rating": 4.311
+ },
+ "370789: Angelic Wall": {
+  "rating": 3.054
+ },
+ "370790: Wild Ricochet": {
+  "rating": 3.516
+ },
+ "370791: Wild Guess": {
+  "rating": 3.094
+ },
+ "370792: Griffin Sentinel": {
+  "rating": 3.4
+ },
+ "370793: Auramancer": {
+  "rating": 3.651
+ },
+ "370794: Megantic Sliver": {
+  "rating": 3.534
+ },
+ "370795: Lightning Talons": {
+  "rating": 2.979
+ },
+ "370796: Dismiss into Dream": {
+  "rating": 3.642
+ },
+ "370797: Enlarge": {
+  "rating": 3.608
+ },
+ "370798: Path of Bravery": {
+  "rating": 3.671
+ },
+ "370799: Vile Rebirth": {
+  "rating": 3.569
+ },
+ "370800: Corpse Hauler": {
+  "rating": 2.946
+ },
+ "370801: Bonescythe Sliver": {
+  "rating": 3.623
+ },
+ "370802: Naturalize": {
+  "rating": 3.909
+ },
+ "370803: Ranger's Guile": {
+  "rating": 3.621
+ },
+ "370804: Congregate": {
+  "rating": 3.621
+ },
+ "370805: Regathan Firecat": {
+  "rating": 3.192
+ },
+ "370806: Witchstalker": {
+  "rating": 3.69
+ },
+ "370807: Messenger Drake": {
+  "rating": 2.914
+ },
+ "370808: Planar Cleansing": {
+  "rating": 3.548
+ },
+ "370809: Water Servant": {
+  "rating": 3.483
+ },
+ "370810: Windreader Sphinx": {
+  "rating": 3.59
+ },
+ "370811: Accursed Spirit": {
+  "rating": 3.03
+ },
+ "370812: Pacifism": {
+  "rating": 4.032
+ },
+ "370813: Sentinel Sliver": {
+  "rating": 3.556
+ },
+ "370814: Voracious Wurm": {
+  "rating": 3.632
+ },
+ "370815: Warden of Evos Isle": {
+  "rating": 3.658
+ },
+ "370816: Brave the Elements": {
+  "rating": 3.558
+ },
+ "370817: Hive Stirrings": {
+  "rating": 3.281
+ },
+ "370818: Disperse": {
+  "rating": 3.762
+ },
+ "370819: Blessing": {
+  "rating": 3.153
+ },
+ "370820: Thorncaster Sliver": {
+  "rating": 3.17
+ },
+ "370821: Capashen Knight": {
+  "rating": 3.181
+ },
+ "370822: Barrage of Expendables": {
+  "rating": 3.45
+ },
+ "370823: Child of Night": {
+  "rating": 3.278
+ },
+ "370824: Flames of the Firebrand": {
+  "rating": 3.556
+ },
+ "370825: Shivan Dragon": {
+  "rating": 3.925
+ }
+}

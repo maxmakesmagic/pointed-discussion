@@ -1,0 +1,599 @@
+{
+ "3040: Aesthir Glider": {
+  "rating": 1.818
+ },
+ "3041: Aesthir Glider": {
+  "rating": 1.787
+ },
+ "3042: Ashnod's Cylix": {
+  "rating": 2.529
+ },
+ "3043: Astrolabe": {
+  "rating": 2.983
+ },
+ "3044: Astrolabe": {
+  "rating": 2.967
+ },
+ "3045: Floodwater Dam": {
+  "rating": 2.804
+ },
+ "3046: Gustha's Scepter": {
+  "rating": 3.338
+ },
+ "3047: Helm of Obedience": {
+  "rating": 4.373
+ },
+ "3048: Lodestone Bauble": {
+  "rating": 3.87
+ },
+ "3049: Mishra's Groundbreaker": {
+  "rating": 2.704
+ },
+ "3050: Mystic Compass": {
+  "rating": 3.219
+ },
+ "3051: Phyrexian Devourer": {
+  "rating": 2.389
+ },
+ "3052: Phyrexian Portal": {
+  "rating": 2.806
+ },
+ "3053: Phyrexian War Beast": {
+  "rating": 3.821
+ },
+ "3054: Phyrexian War Beast": {
+  "rating": 3.982
+ },
+ "3055: Scarab of the Unseen": {
+  "rating": 2.212
+ },
+ "3056: Shield Sphere": {
+  "rating": 4.163
+ },
+ "3057: Sol Grail": {
+  "rating": 2.412
+ },
+ "3058: Soldevi Digger": {
+  "rating": 3.195
+ },
+ "3059: Soldevi Sentry": {
+  "rating": 1.882
+ },
+ "3060: Soldevi Sentry": {
+  "rating": 2.295
+ },
+ "3061: Soldevi Steam Beast": {
+  "rating": 1.018
+ },
+ "3062: Soldevi Steam Beast": {
+  "rating": 1.239
+ },
+ "3063: Storm Cauldron": {
+  "rating": 3.871
+ },
+ "3064: Urza's Engine": {
+  "rating": 2.427
+ },
+ "3065: Whirling Catapult": {
+  "rating": 2.55
+ },
+ "3066: Balduvian Dead": {
+  "rating": 3.458
+ },
+ "3067: Casting of Bones": {
+  "rating": 3.402
+ },
+ "3068: Casting of Bones": {
+  "rating": 3.59
+ },
+ "3069: Contagion": {
+  "rating": 4.431
+ },
+ "3070: Diseased Vermin": {
+  "rating": 3.303
+ },
+ "3071: Dystopia": {
+  "rating": 4.048
+ },
+ "3072: Fatal Lore": {
+  "rating": 2.932
+ },
+ "3073: Feast or Famine": {
+  "rating": 3.333
+ },
+ "3074: Feast or Famine": {
+  "rating": 3.471
+ },
+ "3075: Fevered Strength": {
+  "rating": 1.92
+ },
+ "3076: Fevered Strength": {
+  "rating": 1.838
+ },
+ "3077: Insidious Bookworms": {
+  "rating": 3.44
+ },
+ "3078: Insidious Bookworms": {
+  "rating": 3.25
+ },
+ "3079: Keeper of Tresserhorn": {
+  "rating": 2.479
+ },
+ "3080: Krovikan Horror": {
+  "rating": 3.372
+ },
+ "3081: Krovikan Plague": {
+  "rating": 2.685
+ },
+ "3082: Lim-Dûl's High Guard": {
+  "rating": 3.421
+ },
+ "3083: Lim-Dûl's High Guard": {
+  "rating": 3.24
+ },
+ "3084: Misinformation": {
+  "rating": 3.121
+ },
+ "3085: Phantasmal Fiend": {
+  "rating": 3.062
+ },
+ "3086: Phantasmal Fiend": {
+  "rating": 2.779
+ },
+ "3087: Phyrexian Boon": {
+  "rating": 3.103
+ },
+ "3088: Phyrexian Boon": {
+  "rating": 3.037
+ },
+ "3089: Ritual of the Machine": {
+  "rating": 3.85
+ },
+ "3090: Soldevi Adnate": {
+  "rating": 3.958
+ },
+ "3091: Soldevi Adnate": {
+  "rating": 4.062
+ },
+ "3092: Stench of Decay": {
+  "rating": 2.789
+ },
+ "3093: Stench of Decay": {
+  "rating": 2.485
+ },
+ "3094: Stromgald Spy": {
+  "rating": 3.269
+ },
+ "3095: Swamp Mosquito": {
+  "rating": 3.311
+ },
+ "3096: Swamp Mosquito": {
+  "rating": 3.294
+ },
+ "3097: Arcane Denial": {
+  "rating": 3.667
+ },
+ "3098: Arcane Denial": {
+  "rating": 3.858
+ },
+ "3099: Awesome Presence": {
+  "rating": 3.452
+ },
+ "3100: Awesome Presence": {
+  "rating": 2.986
+ },
+ "3101: Benthic Explorers": {
+  "rating": 2.875
+ },
+ "3102: Benthic Explorers": {
+  "rating": 2.655
+ },
+ "3103: Browse": {
+  "rating": 3.667
+ },
+ "3104: Diminishing Returns": {
+  "rating": 4.245
+ },
+ "3105: False Demise": {
+  "rating": 4.041
+ },
+ "3106: False Demise": {
+  "rating": 4.098
+ },
+ "3107: Force of Will": {
+  "rating": 4.816
+ },
+ "3108: Foresight": {
+  "rating": 3.771
+ },
+ "3109: Foresight": {
+  "rating": 3.507
+ },
+ "3110: Lat-Nam's Legacy": {
+  "rating": 3.625
+ },
+ "3111: Lat-Nam's Legacy": {
+  "rating": 3.5
+ },
+ "3112: Library of Lat-Nam": {
+  "rating": 2.577
+ },
+ "3113: Phantasmal Sphere": {
+  "rating": 1.744
+ },
+ "3114: Soldevi Heretic": {
+  "rating": 1.554
+ },
+ "3115: Soldevi Heretic": {
+  "rating": 1.587
+ },
+ "3116: Soldevi Sage": {
+  "rating": 2.351
+ },
+ "3117: Soldevi Sage": {
+  "rating": 2.393
+ },
+ "3118: Spiny Starfish": {
+  "rating": 3.977
+ },
+ "3119: Storm Crow": {
+  "rating": 3.923
+ },
+ "3120: Storm Crow": {
+  "rating": 4.086
+ },
+ "3121: Storm Elemental": {
+  "rating": 1.635
+ },
+ "3122: Suffocation": {
+  "rating": 2.821
+ },
+ "3123: Thought Lash": {
+  "rating": 2.442
+ },
+ "3124: Tidal Control": {
+  "rating": 3
+ },
+ "3125: Viscerid Armor": {
+  "rating": 2.327
+ },
+ "3126: Viscerid Armor": {
+  "rating": 2.78
+ },
+ "3127: Viscerid Drone": {
+  "rating": 2.939
+ },
+ "3128: Bounty of the Hunt": {
+  "rating": 2.571
+ },
+ "3129: Deadly Insect": {
+  "rating": 3.079
+ },
+ "3130: Deadly Insect": {
+  "rating": 3.1
+ },
+ "3131: Elvish Bard": {
+  "rating": 2.846
+ },
+ "3132: Elvish Ranger": {
+  "rating": 2.516
+ },
+ "3133: Elvish Ranger": {
+  "rating": 3.759
+ },
+ "3134: Elvish Spirit Guide": {
+  "rating": 4.451
+ },
+ "3135: Fyndhorn Druid": {
+  "rating": 2.613
+ },
+ "3136: Fyndhorn Druid": {
+  "rating": 2.883
+ },
+ "3137: Gargantuan Gorilla": {
+  "rating": 3.076
+ },
+ "3138: Gift of the Woods": {
+  "rating": 3.452
+ },
+ "3139: Gift of the Woods": {
+  "rating": 3.288
+ },
+ "3140: Gorilla Berserkers": {
+  "rating": 3.76
+ },
+ "3141: Gorilla Berserkers": {
+  "rating": 3.716
+ },
+ "3142: Gorilla Chieftain": {
+  "rating": 3.029
+ },
+ "3143: Gorilla Chieftain": {
+  "rating": 2.931
+ },
+ "3144: Hail Storm": {
+  "rating": 3.061
+ },
+ "3145: Kaysa": {
+  "rating": 4.021
+ },
+ "3146: Nature's Chosen": {
+  "rating": 3.846
+ },
+ "3147: Nature's Wrath": {
+  "rating": 3.652
+ },
+ "3148: Splintering Wind": {
+  "rating": 2.085
+ },
+ "3149: Taste of Paradise": {
+  "rating": 2.45
+ },
+ "3150: Taste of Paradise": {
+  "rating": 2.72
+ },
+ "3151: Tornado": {
+  "rating": 2.75
+ },
+ "3152: Undergrowth": {
+  "rating": 3.976
+ },
+ "3153: Undergrowth": {
+  "rating": 4.421
+ },
+ "3154: Whip Vine": {
+  "rating": 3.033
+ },
+ "3155: Whip Vine": {
+  "rating": 2.803
+ },
+ "3156: Yavimaya Ancients": {
+  "rating": 2.682
+ },
+ "3157: Yavimaya Ancients": {
+  "rating": 3.074
+ },
+ "3158: Yavimaya Ants": {
+  "rating": 3.911
+ },
+ "3159: Agent of Stromgald": {
+  "rating": 3.737
+ },
+ "3160: Agent of Stromgald": {
+  "rating": 3.356
+ },
+ "3161: Balduvian Horde": {
+  "rating": 3.585
+ },
+ "3162: Balduvian War-Makers": {
+  "rating": 2.586
+ },
+ "3163: Balduvian War-Makers": {
+  "rating": 2.438
+ },
+ "3164: Bestial Fury": {
+  "rating": 3.816
+ },
+ "3165: Bestial Fury": {
+  "rating": 3.311
+ },
+ "3166: Burnout": {
+  "rating": 3.893
+ },
+ "3167: Chaos Harlequin": {
+  "rating": 2.045
+ },
+ "3168: Death Spark": {
+  "rating": 3.111
+ },
+ "3169: Enslaved Scout": {
+  "rating": 1.738
+ },
+ "3170: Enslaved Scout": {
+  "rating": 1.929
+ },
+ "3171: Gorilla Shaman": {
+  "rating": 4.336
+ },
+ "3172: Gorilla Shaman": {
+  "rating": 4.438
+ },
+ "3173: Gorilla War Cry": {
+  "rating": 3.097
+ },
+ "3174: Gorilla War Cry": {
+  "rating": 2.811
+ },
+ "3175: Guerrilla Tactics": {
+  "rating": 3.806
+ },
+ "3176: Guerrilla Tactics": {
+  "rating": 3.848
+ },
+ "3177: Omen of Fire": {
+  "rating": 3.612
+ },
+ "3178: Pillage": {
+  "rating": 4.216
+ },
+ "3179: Primitive Justice": {
+  "rating": 3.115
+ },
+ "3180: Pyrokinesis": {
+  "rating": 4.144
+ },
+ "3181: Rogue Skycaptain": {
+  "rating": 2.647
+ },
+ "3182: Soldier of Fortune": {
+  "rating": 3.758
+ },
+ "3183: Storm Shaman": {
+  "rating": 3.095
+ },
+ "3184: Storm Shaman": {
+  "rating": 3
+ },
+ "3185: Varchild's Crusader": {
+  "rating": 2.5
+ },
+ "3186: Varchild's Crusader": {
+  "rating": 2.589
+ },
+ "3187: Varchild's War-Riders": {
+  "rating": 3.72
+ },
+ "3188: Veteran's Voice": {
+  "rating": 2.647
+ },
+ "3189: Veteran's Voice": {
+  "rating": 2.132
+ },
+ "3190: Carrier Pigeons": {
+  "rating": 1.658
+ },
+ "3191: Carrier Pigeons": {
+  "rating": 1.798
+ },
+ "3192: Errand of Duty": {
+  "rating": 2.917
+ },
+ "3193: Errand of Duty": {
+  "rating": 3.065
+ },
+ "3194: Exile": {
+  "rating": 4.196
+ },
+ "3195: Inheritance": {
+  "rating": 3.411
+ },
+ "3196: Ivory Gargoyle": {
+  "rating": 3.133
+ },
+ "3197: Juniper Order Advocate": {
+  "rating": 3.343
+ },
+ "3198: Kjeldoran Escort": {
+  "rating": 3
+ },
+ "3199: Kjeldoran Escort": {
+  "rating": 2.211
+ },
+ "3200: Kjeldoran Home Guard": {
+  "rating": 3.236
+ },
+ "3201: Kjeldoran Pride": {
+  "rating": 2.419
+ },
+ "3202: Kjeldoran Pride": {
+  "rating": 3.214
+ },
+ "3203: Martyrdom": {
+  "rating": 3.706
+ },
+ "3204: Martyrdom": {
+  "rating": 3.324
+ },
+ "3205: Noble Steeds": {
+  "rating": 1.661
+ },
+ "3206: Noble Steeds": {
+  "rating": 1.706
+ },
+ "3207: Reinforcements": {
+  "rating": 3.955
+ },
+ "3208: Reinforcements": {
+  "rating": 3.843
+ },
+ "3209: Reprisal": {
+  "rating": 4.08
+ },
+ "3210: Reprisal": {
+  "rating": 4.014
+ },
+ "3211: Royal Decree": {
+  "rating": 3.318
+ },
+ "3212: Royal Herbalist": {
+  "rating": 2.184
+ },
+ "3213: Royal Herbalist": {
+  "rating": 1.913
+ },
+ "3214: Scars of the Veteran": {
+  "rating": 3.214
+ },
+ "3215: Seasoned Tactician": {
+  "rating": 1.986
+ },
+ "3216: Sustaining Spirit": {
+  "rating": 3.103
+ },
+ "3217: Sworn Defender": {
+  "rating": 3.716
+ },
+ "3218: Unlikely Alliance": {
+  "rating": 2.028
+ },
+ "3219: Wild Aesthir": {
+  "rating": 3.25
+ },
+ "3220: Wild Aesthir": {
+  "rating": 3.147
+ },
+ "3221: Energy Arc": {
+  "rating": 3.429
+ },
+ "3222: Lim-Dûl's Paladin": {
+  "rating": 3.887
+ },
+ "3223: Lim-Dûl's Vault": {
+  "rating": 4.617
+ },
+ "3224: Lord of Tresserhorn": {
+  "rating": 3.973
+ },
+ "3225: Misfortune": {
+  "rating": 3.7
+ },
+ "3226: Nature's Blessing": {
+  "rating": 3.449
+ },
+ "3227: Phelddagrif": {
+  "rating": 4.044
+ },
+ "3228: Surge of Strength": {
+  "rating": 3.329
+ },
+ "3229: Wandering Mage": {
+  "rating": 2.686
+ },
+ "3230: Winter's Night": {
+  "rating": 2.216
+ },
+ "3231: Balduvian Trading Post": {
+  "rating": 3.952
+ },
+ "3232: Heart of Yavimaya": {
+  "rating": 3.056
+ },
+ "3233: Kjeldoran Outpost": {
+  "rating": 4.235
+ },
+ "3234: Lake of the Dead": {
+  "rating": 4.208
+ },
+ "3235: School of the Unseen": {
+  "rating": 2.094
+ },
+ "3236: Sheltered Valley": {
+  "rating": 2.511
+ },
+ "3237: Soldevi Excavations": {
+  "rating": 4.211
+ },
+ "3238: Thawing Glaciers": {
+  "rating": 4.202
+ }
+}

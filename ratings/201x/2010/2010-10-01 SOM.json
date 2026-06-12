@@ -1,0 +1,749 @@
+{
+ "194046: Glimmerpoint Stag": {
+  "rating": 3.809
+ },
+ "194049: Glint Hawk Idol": {
+  "rating": 3.713
+ },
+ "194052: Necropede": {
+  "rating": 3.61
+ },
+ "194056: Perilous Myr": {
+  "rating": 4.11
+ },
+ "194061: Plated Seastrider": {
+  "rating": 3.032
+ },
+ "194063: Copper Myr": {
+  "rating": 2.919
+ },
+ "194069: Rusted Relic": {
+  "rating": 3.243
+ },
+ "194074: Vector Asp": {
+  "rating": 2.98
+ },
+ "194078: Memnite": {
+  "rating": 4.506
+ },
+ "194083: Kemba's Skyguard": {
+  "rating": 3.009
+ },
+ "194092: Ezuri's Archers": {
+  "rating": 4.092
+ },
+ "194097: Wing Puncture": {
+  "rating": 2.325
+ },
+ "194103: Sky-Eel School": {
+  "rating": 2.175
+ },
+ "194105: Grasp of Darkness": {
+  "rating": 4.029
+ },
+ "194106: Melt Terrain": {
+  "rating": 3
+ },
+ "194109: Neurok Invisimancer": {
+  "rating": 3.541
+ },
+ "194110: Halt Order": {
+  "rating": 2.692
+ },
+ "194119: Assault Strobe": {
+  "rating": 3.85
+ },
+ "194123: Revoke Existence": {
+  "rating": 4.365
+ },
+ "194124: Ghalma's Warden": {
+  "rating": 2.664
+ },
+ "194127: Culling Dais": {
+  "rating": 3.007
+ },
+ "194130: Liege of the Tangle": {
+  "rating": 3.989
+ },
+ "194134: Grindclock": {
+  "rating": 3.457
+ },
+ "194147: Shatter": {
+  "rating": 3.353
+ },
+ "194150: Contagious Nim": {
+  "rating": 3.051
+ },
+ "194158: Blight Mamba": {
+  "rating": 3.762
+ },
+ "194160: Untamed Might": {
+  "rating": 3.071
+ },
+ "194165: Blade-Tribe Berserkers": {
+  "rating": 2.946
+ },
+ "194168: Iron Myr": {
+  "rating": 3.186
+ },
+ "194177: Ichor Rats": {
+  "rating": 3.616
+ },
+ "194178: Lumengrid Drake": {
+  "rating": 2.18
+ },
+ "194201: Shape Anew": {
+  "rating": 3.573
+ },
+ "194202: Embersmith": {
+  "rating": 3.018
+ },
+ "194204: Leaden Myr": {
+  "rating": 3.071
+ },
+ "194206: Seize the Initiative": {
+  "rating": 2.511
+ },
+ "194210: Painsmith": {
+  "rating": 3.5
+ },
+ "194213: Oxidda Daredevil": {
+  "rating": 1.829
+ },
+ "194217: Darkslick Drake": {
+  "rating": 3.364
+ },
+ "194223: Necrogen Censer": {
+  "rating": 2.957
+ },
+ "194232: Trigon of Infestation": {
+  "rating": 3
+ },
+ "194239: Kuldotha Rebirth": {
+  "rating": 3.947
+ },
+ "194243: Ezuri, Renegade Leader": {
+  "rating": 4
+ },
+ "194255: Bloodshot Trainee": {
+  "rating": 2.909
+ },
+ "194256: Ichorclaw Myr": {
+  "rating": 4.097
+ },
+ "194265: Vault Skyward": {
+  "rating": 2.945
+ },
+ "194266: Viridian Revel": {
+  "rating": 2.721
+ },
+ "194270: Copperhorn Scout": {
+  "rating": 3.841
+ },
+ "194273: Dross Hopper": {
+  "rating": 2.022
+ },
+ "194281: Oxidda Scrapmelter": {
+  "rating": 3.541
+ },
+ "194297: Blackcleave Goblin": {
+  "rating": 2.483
+ },
+ "194303: Turn Aside": {
+  "rating": 3.722
+ },
+ "194309: Moriok Reaver": {
+  "rating": 2.027
+ },
+ "194314: Golem Foundry": {
+  "rating": 3.244
+ },
+ "194316: Barrage Ogre": {
+  "rating": 2.685
+ },
+ "194317: Ferrovore": {
+  "rating": 2.857
+ },
+ "194320: Vulshok Heartstoker": {
+  "rating": 2.339
+ },
+ "194323: Razor Hippogriff": {
+  "rating": 3.323
+ },
+ "194326: Kuldotha Phoenix": {
+  "rating": 3.897
+ },
+ "194332: Thrummingbird": {
+  "rating": 4.106
+ },
+ "194337: Corpse Cur": {
+  "rating": 3.259
+ },
+ "194340: Carrion Call": {
+  "rating": 3.093
+ },
+ "194341: Contagion Clasp": {
+  "rating": 4.242
+ },
+ "194349: Instill Infection": {
+  "rating": 1.572
+ },
+ "194361: Steady Progress": {
+  "rating": 3.707
+ },
+ "194363: Inexorable Tide": {
+  "rating": 3.886
+ },
+ "194371: Abuna Acolyte": {
+  "rating": 2.667
+ },
+ "194373: Goblin Gaveleer": {
+  "rating": 3.852
+ },
+ "194374: Furnace Celebration": {
+  "rating": 2.976
+ },
+ "194378: Silver Myr": {
+  "rating": 3.473
+ },
+ "194384: Gold Myr": {
+  "rating": 3.075
+ },
+ "194391: Tempered Steel": {
+  "rating": 4.095
+ },
+ "194393: Trigon of Rage": {
+  "rating": 3
+ },
+ "202635: Dissipation Field": {
+  "rating": 3.585
+ },
+ "202636: Tel-Jilad Defiance": {
+  "rating": 2.7
+ },
+ "202638: Bonds of Quicksilver": {
+  "rating": 2.24
+ },
+ "202640: Corrupted Harvester": {
+  "rating": 1.938
+ },
+ "202643: Riddlesmith": {
+  "rating": 3.69
+ },
+ "202651: Alpha Tyrranax": {
+  "rating": 2.409
+ },
+ "202652: Wall of Tanglecord": {
+  "rating": 3.764
+ },
+ "202653: Necrogen Scudder": {
+  "rating": 3.162
+ },
+ "202675: Throne of Geth": {
+  "rating": 3.733
+ },
+ "202686: Trigon of Corruption": {
+  "rating": 2.714
+ },
+ "202687: Blistergrub": {
+  "rating": 3.31
+ },
+ "204958: Skinrender": {
+  "rating": 4.185
+ },
+ "205472: Golem's Heart": {
+  "rating": 2.673
+ },
+ "205476: Trigon of Thought": {
+  "rating": 2.038
+ },
+ "205477: Cystbearer": {
+  "rating": 3.606
+ },
+ "205480: Infiltration Lens": {
+  "rating": 4.178
+ },
+ "205482: Ratchet Bomb": {
+  "rating": 4.468
+ },
+ "205483: Tel-Jilad Fallen": {
+  "rating": 3.009
+ },
+ "205484: Soliton": {
+  "rating": 3.007
+ },
+ "205485: Tangle Angler": {
+  "rating": 3.573
+ },
+ "205486: Blunt the Assault": {
+  "rating": 2.833
+ },
+ "205488: Fulgent Distraction": {
+  "rating": 1.65
+ },
+ "205489: Vigil for the Lost": {
+  "rating": 1.845
+ },
+ "205491: Salvage Scout": {
+  "rating": 3.01
+ },
+ "206343: Arc Trail": {
+  "rating": 4.019
+ },
+ "206344: Strider Harness": {
+  "rating": 3.01
+ },
+ "206345: Psychic Miasma": {
+  "rating": 2.273
+ },
+ "206348: Precursor Golem": {
+  "rating": 4.429
+ },
+ "206349: Whitesun's Passage": {
+  "rating": 2.175
+ },
+ "206351: Steel Hellkite": {
+  "rating": 4.524
+ },
+ "206354: Bladed Pinions": {
+  "rating": 3.153
+ },
+ "206357: Carnifex Demon": {
+  "rating": 3.871
+ },
+ "206358: Glint Hawk": {
+  "rating": 3.851
+ },
+ "206360: Golem Artisan": {
+  "rating": 3.426
+ },
+ "206361: Tunnel Ignus": {
+  "rating": 3.383
+ },
+ "207857: Sylvok Lifestaff": {
+  "rating": 3.589
+ },
+ "207863: Scrapdiver Serpent": {
+  "rating": 2.882
+ },
+ "207864: Tower of Calamities": {
+  "rating": 2.73
+ },
+ "207865: Darksteel Sentinel": {
+  "rating": 3.192
+ },
+ "207870: Strata Scythe": {
+  "rating": 3.642
+ },
+ "207871: Putrefax": {
+  "rating": 4.014
+ },
+ "207874: Quicksilver Gargantuan": {
+  "rating": 3.5
+ },
+ "207875: Wurmcoil Engine": {
+  "rating": 4.595
+ },
+ "207876: Necrotic Ooze": {
+  "rating": 4.172
+ },
+ "207882: Genesis Wave": {
+  "rating": 4.088
+ },
+ "207883: Mimic Vat": {
+  "rating": 4.304
+ },
+ "207884: Grand Architect": {
+  "rating": 4.241
+ },
+ "207885: Loxodon Wayfarer": {
+  "rating": 2.377
+ },
+ "208248: Mox Opal": {
+  "rating": 4.206
+ },
+ "208249: Auriok Sunchaser": {
+  "rating": 3
+ },
+ "208250: Carapace Forger": {
+  "rating": 3.651
+ },
+ "208251: Galvanic Blast": {
+  "rating": 4.177
+ },
+ "208252: Lifesmith": {
+  "rating": 2.936
+ },
+ "208253: Twisted Image": {
+  "rating": 3.797
+ },
+ "208254: Slice in Twain": {
+  "rating": 3.098
+ },
+ "208255: Barbed Battlegear": {
+  "rating": 2.913
+ },
+ "208256: Flameborn Hellion": {
+  "rating": 2.925
+ },
+ "208257: Vedalken Certarch": {
+  "rating": 3.873
+ },
+ "208260: Auriok Edgewright": {
+  "rating": 3.384
+ },
+ "208261: Plague Stinger": {
+  "rating": 3.975
+ },
+ "208262: True Conviction": {
+  "rating": 4.038
+ },
+ "208999: Flesh Allergy": {
+  "rating": 2.853
+ },
+ "209000: Darksteel Myr": {
+  "rating": 3.005
+ },
+ "209001: Volition Reins": {
+  "rating": 3.725
+ },
+ "209002: Semblance Anvil": {
+  "rating": 4.083
+ },
+ "209005: Fume Spitter": {
+  "rating": 3.876
+ },
+ "209006: Bleak Coven Vampires": {
+  "rating": 2.692
+ },
+ "209007: Arrest": {
+  "rating": 3.969
+ },
+ "209008: Sunspear Shikari": {
+  "rating": 3.377
+ },
+ "209009: Prototype Portal": {
+  "rating": 4.151
+ },
+ "209010: Snapsail Glider": {
+  "rating": 2.375
+ },
+ "209011: Darksteel Juggernaut": {
+  "rating": 3.942
+ },
+ "209015: Dispense Justice": {
+  "rating": 3.624
+ },
+ "209033: Darksteel Axe": {
+  "rating": 3.495
+ },
+ "209034: Vulshok Replica": {
+  "rating": 2.962
+ },
+ "209035: Withstand Death": {
+  "rating": 3.284
+ },
+ "209037: Moriok Replica": {
+  "rating": 3.33
+ },
+ "209039: Neurok Replica": {
+  "rating": 2.733
+ },
+ "209040: Trinket Mage": {
+  "rating": 4.455
+ },
+ "209042: Echo Circlet": {
+  "rating": 2.627
+ },
+ "209043: Glimmerpost": {
+  "rating": 3.654
+ },
+ "209044: Mindslaver": {
+  "rating": 4.441
+ },
+ "209045: Grafted Exoskeleton": {
+  "rating": 3.766
+ },
+ "209046: Accorder's Shield": {
+  "rating": 3.346
+ },
+ "209048: Bellowing Tanglewurm": {
+  "rating": 4.062
+ },
+ "209049: Tainted Strike": {
+  "rating": 3.742
+ },
+ "209050: Heavy Arbalest": {
+  "rating": 2.369
+ },
+ "209051: Auriok Replica": {
+  "rating": 2.543
+ },
+ "209052: Sylvok Replica": {
+  "rating": 3.442
+ },
+ "209278: Clone Shell": {
+  "rating": 2.988
+ },
+ "209280: Sword of Body and Mind": {
+  "rating": 4.162
+ },
+ "209281: Screeching Silcaw": {
+  "rating": 3.196
+ },
+ "209282: Rust Tick": {
+  "rating": 2.808
+ },
+ "209287: Leonin Arbiter": {
+  "rating": 4.388
+ },
+ "209289: Nim Deathmantle": {
+  "rating": 3.973
+ },
+ "209290: Acid Web Spider": {
+  "rating": 2.881
+ },
+ "209399: Seachrome Coast": {
+  "rating": 4.271
+ },
+ "209400: Darkslick Shores": {
+  "rating": 4.256
+ },
+ "209401: Blackcleave Cliffs": {
+  "rating": 4.257
+ },
+ "209403: Molder Beast": {
+  "rating": 2.953
+ },
+ "209404: Spikeshot Elder": {
+  "rating": 3.858
+ },
+ "209407: Razorverge Thicket": {
+  "rating": 4.275
+ },
+ "209408: Copperline Gorge": {
+  "rating": 4.27
+ },
+ "209712: Myrsmith": {
+  "rating": 3.727
+ },
+ "209714: Chimeric Mass": {
+  "rating": 3.624
+ },
+ "209717: Myr Battlesphere": {
+  "rating": 4.502
+ },
+ "209719: Turn to Slag": {
+  "rating": 2.781
+ },
+ "209720: Relic Putrescence": {
+  "rating": 2.25
+ },
+ "209725: Razorfield Thresher": {
+  "rating": 1.739
+ },
+ "210226: Nihil Spellbomb": {
+  "rating": 4.366
+ },
+ "210229: Horizon Spellbomb": {
+  "rating": 2.84
+ },
+ "210232: Tumble Magnet": {
+  "rating": 3.684
+ },
+ "210233: Flight Spellbomb": {
+  "rating": 2.296
+ },
+ "210234: Panic Spellbomb": {
+  "rating": 2.722
+ },
+ "210235: Exsanguinate": {
+  "rating": 4.048
+ },
+ "210236: Lux Cannon": {
+  "rating": 3.858
+ },
+ "210239: Origin Spellbomb": {
+  "rating": 3.586
+ },
+ "212238: Koth of the Hammer": {
+  "rating": 4.055
+ },
+ "212239: Livewire Lash": {
+  "rating": 3.932
+ },
+ "212240: Venser, the Sojourner": {
+  "rating": 3.945
+ },
+ "212241: Elspeth Tirel": {
+  "rating": 3.998
+ },
+ "212242: Disperse": {
+  "rating": 3.627
+ },
+ "212243: Painful Quandary": {
+  "rating": 4.042
+ },
+ "212247: Chrome Steed": {
+  "rating": 2.42
+ },
+ "212248: Indomitable Archangel": {
+  "rating": 4.027
+ },
+ "212249: Skithiryx, the Blight Dragon": {
+  "rating": 4.177
+ },
+ "212251: Palladium Myr": {
+  "rating": 4.043
+ },
+ "212252: Contagion Engine": {
+  "rating": 4.133
+ },
+ "212703: Stoic Rebuttal": {
+  "rating": 3.803
+ },
+ "212705: Soul Parry": {
+  "rating": 2.88
+ },
+ "212707: Ezuri's Brigade": {
+  "rating": 3.973
+ },
+ "212709: Liquimetal Coating": {
+  "rating": 4.154
+ },
+ "212710: Scoria Elemental": {
+  "rating": 1.496
+ },
+ "212714: Trigon of Mending": {
+  "rating": 1.787
+ },
+ "212716: Molten Psyche": {
+  "rating": 3.131
+ },
+ "212717: Saberclaw Golem": {
+  "rating": 2.341
+ },
+ "213926: Golden Urn": {
+  "rating": 2.659
+ },
+ "214665: Forest": {
+  "rating": 4.231
+ },
+ "214666: Island": {
+  "rating": 4.329
+ },
+ "214667: Mountain": {
+  "rating": 4.463
+ },
+ "214668: Mountain": {
+  "rating": 3.875
+ },
+ "214669: Swamp": {
+  "rating": 3.985
+ },
+ "214670: Forest": {
+  "rating": 3.944
+ },
+ "214671: Plains": {
+  "rating": 4.333
+ },
+ "214672: Island": {
+  "rating": 4.577
+ },
+ "214673: Forest": {
+  "rating": 3.819
+ },
+ "214674: Swamp": {
+  "rating": 4.152
+ },
+ "214675: Mountain": {
+  "rating": 4.5
+ },
+ "214676: Swamp": {
+  "rating": 4.517
+ },
+ "214677: Plains": {
+  "rating": 3.95
+ },
+ "214678: Island": {
+  "rating": 4.378
+ },
+ "214679: Plains": {
+  "rating": 4.232
+ },
+ "214680: Forest": {
+  "rating": 3.939
+ },
+ "214681: Mountain": {
+  "rating": 4.339
+ },
+ "214682: Island": {
+  "rating": 4.596
+ },
+ "214683: Plains": {
+  "rating": 4.269
+ },
+ "214684: Swamp": {
+  "rating": 4.143
+ },
+ "215069: Myr Propagator": {
+  "rating": 3.302
+ },
+ "215073: Cerebral Eruption": {
+  "rating": 3.487
+ },
+ "215074: Hoard-Smelter Dragon": {
+  "rating": 3.89
+ },
+ "215076: Geth, Lord of the Vault": {
+  "rating": 4.034
+ },
+ "215079: Venser's Journal": {
+  "rating": 3.44
+ },
+ "215080: Engulfing Slagwurm": {
+  "rating": 4.122
+ },
+ "215082: Asceticism": {
+  "rating": 4.171
+ },
+ "215085: Argent Sphinx": {
+  "rating": 3.786
+ },
+ "215086: Hand of the Praetors": {
+  "rating": 4.173
+ },
+ "215089: Molten-Tail Masticore": {
+  "rating": 4.048
+ },
+ "215091: Kemba, Kha Regent": {
+  "rating": 3.943
+ },
+ "215092: Platinum Emperion": {
+  "rating": 4.309
+ },
+ "215098: Kuldotha Forgemaster": {
+  "rating": 4.413
+ },
+ "215099: Etched Champion": {
+  "rating": 4.136
+ },
+ "215101: Ogre Geargrabber": {
+  "rating": 2.833
+ },
+ "215103: Memoricide": {
+  "rating": 4.177
+ },
+ "215111: Sunblast Angel": {
+  "rating": 4.092
+ },
+ "215114: Myr Reservoir": {
+  "rating": 3.629
+ },
+ "217967: Argentum Armor": {
+  "rating": 3.876
+ },
+ "220364: Myr Galvanizer": {
+  "rating": 4.173
+ }
+}

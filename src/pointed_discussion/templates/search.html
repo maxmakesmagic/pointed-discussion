@@ -64,7 +64,7 @@
                             {% for card in highest_rated[:5] %}
                             <li>
                                 <a href="cards/{{ card.multiverse_id }}.html">{{ card.display_name }}</a>
-                                <span class="rating">{{ "★" * (card.avg_rating|int) }}{{ "☆" * (5 - (card.avg_rating|int)) }}</span>
+                                <span class="rating">{{ "★" * (card.rating|int) }}{{ "☆" * (5 - (card.rating|int)) }} {{ "%.2f"|format(card.rating) }}</span>
                             </li>
                             {% endfor %}
                         </ul>
@@ -93,7 +93,7 @@
                                     <span class="card-name">{{ card.display_name }}</span>
                                     <span class="card-meta">
                                         {{ card.comments|length }} comment{{ 's' if card.comments|length != 1 else '' }}
-                                        {% if card.avg_rating > 0 %} • {{ "★" * (card.avg_rating|int) }}{% endif %}
+                                        {% if card.rating > 0 %} • {{ "★" * (card.rating|int) }}{% endif %}
                                     </span>
                                 </a>
                             </div>

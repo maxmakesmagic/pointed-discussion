@@ -1,0 +1,905 @@
+{
+ "83811: Evil Eye of Urborg": {
+  "rating": 3.903
+ },
+ "106630: Chronatog Totem": {
+  "rating": 2.419
+ },
+ "106632: Tendrils of Corruption": {
+  "rating": 4.062
+ },
+ "106643: Savage Thallid": {
+  "rating": 2.897
+ },
+ "106648: Watcher Sliver": {
+  "rating": 3.111
+ },
+ "106652: Foriysian Interceptor": {
+  "rating": 2.528
+ },
+ "106653: Flowstone Channeler": {
+  "rating": 2.304
+ },
+ "106654: Temporal Isolation": {
+  "rating": 3.936
+ },
+ "106657: Pull from Eternity": {
+  "rating": 3.777
+ },
+ "106658: Mana Skimmer": {
+  "rating": 2.815
+ },
+ "106668: Crookclaw Transmuter": {
+  "rating": 2.609
+ },
+ "108788: Eternity Snare": {
+  "rating": 1.176
+ },
+ "108792: Basal Sliver": {
+  "rating": 3.642
+ },
+ "108795: Ophidian Eye": {
+  "rating": 2.955
+ },
+ "108796: Fungal Reaches": {
+  "rating": 3.378
+ },
+ "108797: Shadow Sliver": {
+  "rating": 3.11
+ },
+ "108798: Urborg Syphon-Mage": {
+  "rating": 3.278
+ },
+ "108799: Blazing Blade Askari": {
+  "rating": 2.686
+ },
+ "108802: Search for Tomorrow": {
+  "rating": 3.782
+ },
+ "108804: Sudden Death": {
+  "rating": 4.248
+ },
+ "108807: Durkwood Baloth": {
+  "rating": 2.93
+ },
+ "108808: Havenwood Wurm": {
+  "rating": 3.138
+ },
+ "108809: Weatherseed Totem": {
+  "rating": 3.343
+ },
+ "108814: Divine Congregation": {
+  "rating": 2.643
+ },
+ "108817: Dreadship Reef": {
+  "rating": 3.682
+ },
+ "108819: Gaze of Justice": {
+  "rating": 3.559
+ },
+ "108822: Phyrexian Totem": {
+  "rating": 3.711
+ },
+ "108823: Think Twice": {
+  "rating": 3.639
+ },
+ "108830: Greenseeker": {
+  "rating": 3.628
+ },
+ "108832: Call to the Netherworld": {
+  "rating": 3.5
+ },
+ "108838: Ghitu Firebreathing": {
+  "rating": 2.988
+ },
+ "108839: Saltcrusted Steppe": {
+  "rating": 3.536
+ },
+ "108841: Trespasser il-Vec": {
+  "rating": 3.129
+ },
+ "108846: Flickering Spirit": {
+  "rating": 2.224
+ },
+ "108850: Drudge Reavers": {
+  "rating": 2.76
+ },
+ "108851: Two-Headed Sliver": {
+  "rating": 3.551
+ },
+ "108852: Aether Web": {
+  "rating": 3.289
+ },
+ "108857: Traitor's Clutch": {
+  "rating": 3.303
+ },
+ "108858: Dream Stalker": {
+  "rating": 3.49
+ },
+ "108860: Molten Slagheap": {
+  "rating": 3.378
+ },
+ "108870: Flamecore Elemental": {
+  "rating": 1.333
+ },
+ "108874: Pentarch Ward": {
+  "rating": 3.737
+ },
+ "108884: Premature Burial": {
+  "rating": 1.465
+ },
+ "108887: Duskrider Peregrine": {
+  "rating": 2.7
+ },
+ "108889: Gustcloak Cavalier": {
+  "rating": 3.071
+ },
+ "108891: Keldon Halberdier": {
+  "rating": 3.705
+ },
+ "108892: Feebleness": {
+  "rating": 1.7
+ },
+ "108894: Mindstab": {
+  "rating": 2.625
+ },
+ "108897: Snapback": {
+  "rating": 3.924
+ },
+ "108898: Zealot il-Vec": {
+  "rating": 2.684
+ },
+ "108900: Icatian Crier": {
+  "rating": 3.062
+ },
+ "108901: Bogardan Rager": {
+  "rating": 2.5
+ },
+ "108903: Cavalry Master": {
+  "rating": 3.895
+ },
+ "108904: Foriysian Totem": {
+  "rating": 3.397
+ },
+ "108905: Ground Rift": {
+  "rating": 2.391
+ },
+ "108907: Tolarian Sentinel": {
+  "rating": 1.986
+ },
+ "108909: Errant Ephemeron": {
+  "rating": 3.069
+ },
+ "108910: Corpulent Corpse": {
+  "rating": 2.473
+ },
+ "108915: Rift Bolt": {
+  "rating": 4.137
+ },
+ "108918: Drifter il-Dal": {
+  "rating": 3.117
+ },
+ "108926: Plunder": {
+  "rating": 2.052
+ },
+ "108930: Calciform Pools": {
+  "rating": 3.477
+ },
+ "108931: Thunder Totem": {
+  "rating": 3.021
+ },
+ "109668: Dementia Sliver": {
+  "rating": 2.51
+ },
+ "109671: Stronghold Overseer": {
+  "rating": 3.884
+ },
+ "109673: Clockspinning": {
+  "rating": 3.942
+ },
+ "109675: Thrill of the Hunt": {
+  "rating": 2.671
+ },
+ "109680: Spirit Loop": {
+  "rating": 3.94
+ },
+ "109685: Sulfurous Blast": {
+  "rating": 3.658
+ },
+ "109686: Pardic Dragon": {
+  "rating": 2.883
+ },
+ "109689: Spike Tiller": {
+  "rating": 3.118
+ },
+ "109691: Careful Consideration": {
+  "rating": 3.702
+ },
+ "109697: Bonesplitter Sliver": {
+  "rating": 3.67
+ },
+ "109702: Squall Line": {
+  "rating": 3.924
+ },
+ "109703: Thick-Skinned Goblin": {
+  "rating": 4.131
+ },
+ "109706: Harmonic Sliver": {
+  "rating": 4.234
+ },
+ "109707: Spell Burst": {
+  "rating": 3.522
+ },
+ "109709: Return to Dust": {
+  "rating": 4.026
+ },
+ "109710: Strangling Soot": {
+  "rating": 2.957
+ },
+ "109711: Opaline Sliver": {
+  "rating": 3.541
+ },
+ "109715: Riftwing Cloudskate": {
+  "rating": 3.708
+ },
+ "109717: Ghostflame Sliver": {
+  "rating": 3.118
+ },
+ "109719: Faceless Devourer": {
+  "rating": 2.098
+ },
+ "109721: Paradox Haze": {
+  "rating": 4.204
+ },
+ "109722: Fury Sliver": {
+  "rating": 3.693
+ },
+ "109726: Nantuko Shaman": {
+  "rating": 3.03
+ },
+ "109727: Firewake Sliver": {
+  "rating": 3.188
+ },
+ "109729: Reiterate": {
+  "rating": 4.066
+ },
+ "109731: Haunting Hymn": {
+  "rating": 2.414
+ },
+ "109733: Momentary Blink": {
+  "rating": 4.189
+ },
+ "109735: Empty the Warrens": {
+  "rating": 4.363
+ },
+ "109741: Ivory Giant": {
+  "rating": 3.359
+ },
+ "109751: Ancient Grudge": {
+  "rating": 4.256
+ },
+ "109752: Jaya Ballard, Task Mage": {
+  "rating": 3.704
+ },
+ "109756: Ignite Memories": {
+  "rating": 4.074
+ },
+ "109758: Phthisis": {
+  "rating": 3.964
+ },
+ "109762: Barbed Shocker": {
+  "rating": 3.802
+ },
+ "109763: Might of Old Krosa": {
+  "rating": 4.134
+ },
+ "109765: Vesuvan Shapeshifter": {
+  "rating": 4.261
+ },
+ "109766: Verdant Embrace": {
+  "rating": 3.738
+ },
+ "110499: Trickbind": {
+  "rating": 4.434
+ },
+ "110502: Chronosavant": {
+  "rating": 1.734
+ },
+ "110504: Angel's Grace": {
+  "rating": 4.335
+ },
+ "110507: Evangelize": {
+  "rating": 2.786
+ },
+ "110508: Primal Forcemage": {
+  "rating": 3.877
+ },
+ "110510: Plated Pegasus": {
+  "rating": 2.848
+ },
+ "110511: Coral Trickster": {
+  "rating": 3.065
+ },
+ "110514: Griffin Guide": {
+  "rating": 4.043
+ },
+ "110517: Walk the Aeons": {
+  "rating": 4.163
+ },
+ "110524: Scarwood Treefolk": {
+  "rating": 1.463
+ },
+ "110525: Children of Korlis": {
+  "rating": 4.463
+ },
+ "110532: Fledgling Mawcor": {
+  "rating": 3.075
+ },
+ "110533: Pentarch Paladin": {
+  "rating": 3.924
+ },
+ "111041: Bogardan Hellkite": {
+  "rating": 4.243
+ },
+ "111042: Might Sliver": {
+  "rating": 4.02
+ },
+ "111048: Greater Gargadon": {
+  "rating": 4.068
+ },
+ "111049: Curse of the Cabal": {
+  "rating": 3.815
+ },
+ "111051: Quilled Sliver": {
+  "rating": 2.86
+ },
+ "111057: Draining Whelk": {
+  "rating": 4.11
+ },
+ "111058: Mystical Teachings": {
+  "rating": 4.269
+ },
+ "111064: Firemaw Kavu": {
+  "rating": 2.338
+ },
+ "111068: Sporesower Thallid": {
+  "rating": 3.973
+ },
+ "111069: Viashino Bladescout": {
+  "rating": 2.793
+ },
+ "111073: Spinneret Sliver": {
+  "rating": 3.085
+ },
+ "111076: Voidmage Husher": {
+  "rating": 3.851
+ },
+ "111079: Nightshade Assassin": {
+  "rating": 3.369
+ },
+ "111082: Viscid Lemures": {
+  "rating": 1.959
+ },
+ "111083: Pendelhaven Elder": {
+  "rating": 3.692
+ },
+ "111085: Telekinetic Sliver": {
+  "rating": 3.875
+ },
+ "113505: Ancestral Vision": {
+  "rating": 4.317
+ },
+ "113506: Deep-Sea Kraken": {
+  "rating": 4.14
+ },
+ "113507: Cloudchaser Kestrel": {
+  "rating": 3.682
+ },
+ "113509: Amrou Seekers": {
+  "rating": 3.115
+ },
+ "113512: Norin the Wary": {
+  "rating": 4.127
+ },
+ "113513: Locket of Yesterdays": {
+  "rating": 3.443
+ },
+ "113518: D'Avenant Healer": {
+  "rating": 2.636
+ },
+ "113519: Serra Avenger": {
+  "rating": 4.207
+ },
+ "113520: Restore Balance": {
+  "rating": 2.89
+ },
+ "113521: Living End": {
+  "rating": 4
+ },
+ "113522: Lim-Dûl the Necromancer": {
+  "rating": 4.024
+ },
+ "113523: Cancel": {
+  "rating": 2.863
+ },
+ "113525: Sudden Spoiling": {
+  "rating": 4.327
+ },
+ "113527: Endrek Sahr, Master Breeder": {
+  "rating": 3.838
+ },
+ "113528: Wheel of Fate": {
+  "rating": 3.652
+ },
+ "113529: Candles of Leng": {
+  "rating": 2.743
+ },
+ "113530: Clockwork Hydra": {
+  "rating": 3.519
+ },
+ "113531: Smallpox": {
+  "rating": 4.244
+ },
+ "113533: Hypergenesis": {
+  "rating": 4.263
+ },
+ "113536: Kaervek the Merciless": {
+  "rating": 4
+ },
+ "113537: Glass Asp": {
+  "rating": 2.258
+ },
+ "113539: Mishra, Artificer Prodigy": {
+  "rating": 4.086
+ },
+ "113540: Saffi Eriksdotter": {
+  "rating": 4.051
+ },
+ "113541: Dralnu, Lich Lord": {
+  "rating": 3.942
+ },
+ "113543: Vesuva": {
+  "rating": 4.338
+ },
+ "113553: Kher Keep": {
+  "rating": 4.093
+ },
+ "113558: Aetherflame Wall": {
+  "rating": 3.358
+ },
+ "113559: Psionic Sliver": {
+  "rating": 3.667
+ },
+ "113563: Mangara of Corondor": {
+  "rating": 4.226
+ },
+ "113567: Lightning Axe": {
+  "rating": 4.119
+ },
+ "113571: Jedit's Dragoons": {
+  "rating": 1.908
+ },
+ "113575: Pulmonic Sliver": {
+  "rating": 4.1
+ },
+ "113579: Unyaro Bees": {
+  "rating": 4.034
+ },
+ "113583: Wormwood Dryad": {
+  "rating": 2.238
+ },
+ "113611: Subterranean Shambler": {
+  "rating": 2.106
+ },
+ "113614: Castle Raptors": {
+  "rating": 2.161
+ },
+ "113615: Viscerid Deepwalker": {
+  "rating": 2.684
+ },
+ "113616: Tectonic Fiend": {
+  "rating": 0.955
+ },
+ "113618: Coal Stoker": {
+  "rating": 3.78
+ },
+ "113619: Amrou Scout": {
+  "rating": 3.5
+ },
+ "114902: Orcish Cannonade": {
+  "rating": 2.429
+ },
+ "114903: Ith, High Arcanist": {
+  "rating": 3.773
+ },
+ "114904: Lotus Bloom": {
+  "rating": 4.111
+ },
+ "114905: Ashcoat Bear": {
+  "rating": 4.105
+ },
+ "114908: Fallen Ideal": {
+  "rating": 3.735
+ },
+ "114909: Conflagrate": {
+  "rating": 3.641
+ },
+ "114911: Sudden Shock": {
+  "rating": 4.085
+ },
+ "114912: Ib Halfheart, Goblin Tactician": {
+  "rating": 4.104
+ },
+ "114913: Swarmyard": {
+  "rating": 4.129
+ },
+ "114914: Molder": {
+  "rating": 3.128
+ },
+ "114915: Cyclopean Giant": {
+  "rating": 2.988
+ },
+ "114916: Assembly-Worker": {
+  "rating": 3.011
+ },
+ "114917: Wurmcalling": {
+  "rating": 3.91
+ },
+ "114918: Assassinate": {
+  "rating": 2.616
+ },
+ "114919: Triskelavus": {
+  "rating": 3.711
+ },
+ "114921: Sarpadian Empires, Vol. VII": {
+  "rating": 3.608
+ },
+ "116379: Errant Doomsayers": {
+  "rating": 2.023
+ },
+ "116381: Thallid Germinator": {
+  "rating": 3.135
+ },
+ "116383: Sengir Nosferatu": {
+  "rating": 4.144
+ },
+ "116384: Urza's Factory": {
+  "rating": 3.359
+ },
+ "116385: Slipstream Serpent": {
+  "rating": 1
+ },
+ "116386: Sprite Noble": {
+  "rating": 3.926
+ },
+ "116387: Hivestone": {
+  "rating": 3.948
+ },
+ "116391: Moonlace": {
+  "rating": 2.218
+ },
+ "116396: Pit Keeper": {
+  "rating": 3.27
+ },
+ "116721: Dread Return": {
+  "rating": 4.565
+ },
+ "116723: Ironclaw Buzzardiers": {
+  "rating": 2.274
+ },
+ "116724: Stuffy Doll": {
+  "rating": 4.158
+ },
+ "116725: Academy Ruins": {
+  "rating": 4.473
+ },
+ "116726: Tromp the Domains": {
+  "rating": 2.812
+ },
+ "116727: Psychotic Episode": {
+  "rating": 3.207
+ },
+ "116728: Detainment Spell": {
+  "rating": 2.708
+ },
+ "116730: Strength in Numbers": {
+  "rating": 3.23
+ },
+ "116731: Thallid Shell-Dweller": {
+  "rating": 4.027
+ },
+ "116732: Fortify": {
+  "rating": 3.35
+ },
+ "116733: Flagstones of Trokair": {
+  "rating": 4.338
+ },
+ "116736: Tivadar of Thorn": {
+  "rating": 3.563
+ },
+ "116737: Thelon of Havenwood": {
+  "rating": 4.107
+ },
+ "116739: Mogg War Marshal": {
+  "rating": 4.235
+ },
+ "116740: Aspect of Mongoose": {
+  "rating": 3.862
+ },
+ "116741: Sangrophage": {
+  "rating": 2.84
+ },
+ "116742: Nether Traitor": {
+  "rating": 4.141
+ },
+ "116743: Deathspore Thallid": {
+  "rating": 3.877
+ },
+ "116745: Scion of the Ur-Dragon": {
+  "rating": 4.047
+ },
+ "116747: Opal Guardian": {
+  "rating": 3.562
+ },
+ "116748: Plague Sliver": {
+  "rating": 3.737
+ },
+ "118867: Mindlash Sliver": {
+  "rating": 3.229
+ },
+ "118868: Phantom Wurm": {
+  "rating": 3.243
+ },
+ "118870: Word of Seizing": {
+  "rating": 4.152
+ },
+ "118871: Spectral Force": {
+  "rating": 3.641
+ },
+ "118872: Demonic Collusion": {
+  "rating": 3.404
+ },
+ "118873: Herd Gnarr": {
+  "rating": 2.714
+ },
+ "118874: Terramorphic Expanse": {
+  "rating": 3.787
+ },
+ "118876: Brass Gnat": {
+  "rating": 1.683
+ },
+ "118878: Skittering Monstrosity": {
+  "rating": 1.622
+ },
+ "118879: Jhoira's Timebug": {
+  "rating": 3.15
+ },
+ "118880: Prismatic Lens": {
+  "rating": 3.618
+ },
+ "118881: Fungus Sliver": {
+  "rating": 3.432
+ },
+ "118882: Grapeshot": {
+  "rating": 4.38
+ },
+ "118883: Basalt Gargoyle": {
+  "rating": 2.393
+ },
+ "118884: Yavimaya Dryad": {
+  "rating": 3.99
+ },
+ "118887: Temporal Eddy": {
+  "rating": 2.58
+ },
+ "118888: Mwonvuli Acid-Moss": {
+  "rating": 4.149
+ },
+ "118890: Stonewood Invocation": {
+  "rating": 3.679
+ },
+ "118891: Chromatic Star": {
+  "rating": 3.567
+ },
+ "118892: Dark Withering": {
+  "rating": 3.185
+ },
+ "118893: Durkwood Tracker": {
+  "rating": 2.5
+ },
+ "118894: Stormcloud Djinn": {
+  "rating": 1.6
+ },
+ "118895: Brine Elemental": {
+  "rating": 3.316
+ },
+ "118898: Skulking Knight": {
+  "rating": 2.724
+ },
+ "118899: Penumbra Spider": {
+  "rating": 3.816
+ },
+ "118900: Vampiric Sliver": {
+  "rating": 3.633
+ },
+ "118901: Bewilder": {
+  "rating": 1.288
+ },
+ "118902: Outrider en-Kor": {
+  "rating": 3.784
+ },
+ "118903: Swamp": {
+  "rating": 4.81
+ },
+ "118904: Swamp": {
+  "rating": 4.78
+ },
+ "118905: Island": {
+  "rating": 4.679
+ },
+ "118906: Forest": {
+  "rating": 4.464
+ },
+ "118907: Knight of the Holy Nimbus": {
+  "rating": 4.173
+ },
+ "118908: Sidewinder Sliver": {
+  "rating": 4.085
+ },
+ "118910: Truth or Tale": {
+  "rating": 2.914
+ },
+ "118911: Wipe Away": {
+  "rating": 3.959
+ },
+ "118912: Fathom Seer": {
+  "rating": 3.31
+ },
+ "118913: Spiketail Drakeling": {
+  "rating": 4.114
+ },
+ "118914: Sage of Epityr": {
+  "rating": 4.3
+ },
+ "118915: Stonebrow, Krosan Hero": {
+  "rating": 4.033
+ },
+ "118917: Sedge Sliver": {
+  "rating": 4.129
+ },
+ "118918: Looter il-Kor": {
+  "rating": 4.082
+ },
+ "118921: Mountain": {
+  "rating": 4.704
+ },
+ "118922: Gemhide Sliver": {
+  "rating": 4.121
+ },
+ "118923: Gorgon Recluse": {
+  "rating": 3.5
+ },
+ "118924: Scryb Ranger": {
+  "rating": 4.215
+ },
+ "118925: Chameleon Blur": {
+  "rating": 1.583
+ },
+ "118926: Mountain": {
+  "rating": 4.606
+ },
+ "118927: Forest": {
+  "rating": 4.643
+ },
+ "121206: Volcanic Awakening": {
+  "rating": 2.878
+ },
+ "121271: Teferi, Mage of Zhalfir": {
+  "rating": 4.241
+ },
+ "122076: Swamp": {
+  "rating": 4.706
+ },
+ "122077: Island": {
+  "rating": 4.345
+ },
+ "122078: Swamp": {
+  "rating": 4.692
+ },
+ "122079: Sprout": {
+  "rating": 2.713
+ },
+ "122080: Mountain": {
+  "rating": 4.806
+ },
+ "122082: Benalish Cavalry": {
+  "rating": 3.725
+ },
+ "122083: Forest": {
+  "rating": 4.406
+ },
+ "122084: Plains": {
+  "rating": 4.781
+ },
+ "122085: Plains": {
+  "rating": 4.5
+ },
+ "122087: Plains": {
+  "rating": 4.727
+ },
+ "122088: Forest": {
+  "rating": 4.036
+ },
+ "122089: Island": {
+  "rating": 4.722
+ },
+ "122090: Mountain": {
+  "rating": 4.481
+ },
+ "122091: Paradise Plume": {
+  "rating": 3.081
+ },
+ "122092: Plains": {
+  "rating": 4.773
+ },
+ "122094: Gemstone Caverns": {
+  "rating": 4.029
+ },
+ "122095: Island": {
+  "rating": 4.685
+ },
+ "122387: Screeching Sliver": {
+  "rating": 3.265
+ },
+ "124220: Gauntlet of Power": {
+  "rating": 4.157
+ },
+ "124313: Ixidron": {
+  "rating": 4.143
+ },
+ "124758: Goblin Skycutter": {
+  "rating": 2.971
+ },
+ "125866: Venser's Sliver": {
+  "rating": 1.563
+ },
+ "126273: Magus of the Candelabra": {
+  "rating": 4.133
+ },
+ "126274: Krosan Grip": {
+  "rating": 4.5
+ },
+ "126275: Thelonite Hermit": {
+  "rating": 3.925
+ },
+ "126278: Magus of the Mirror": {
+  "rating": 3.684
+ },
+ "126279: Magus of the Scroll": {
+  "rating": 3.585
+ },
+ "126280: Undying Rage": {
+  "rating": 2.617
+ },
+ "126281: Celestial Crusader": {
+  "rating": 3.903
+ },
+ "126283: Weathered Bodyguards": {
+  "rating": 3.056
+ },
+ "126285: Liege of the Pit": {
+  "rating": 3.83
+ },
+ "126287: Magus of the Jar": {
+  "rating": 3.9
+ },
+ "126289: Fortune Thief": {
+  "rating": 4.164
+ },
+ "126294: Fool's Demise": {
+  "rating": 4.123
+ },
+ "126298: Magus of the Disk": {
+  "rating": 4.188
+ }
+}

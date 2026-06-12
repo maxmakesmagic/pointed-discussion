@@ -1,0 +1,452 @@
+{
+ "220451: Chameleon Colossus": {
+  "rating": 3.949
+ },
+ "220452: Fertilid": {
+  "rating": 3.056
+ },
+ "220453: Taurean Mauler": {
+  "rating": 4.264
+ },
+ "220454: Agony Warp": {
+  "rating": 3.677
+ },
+ "220455: Branching Bolt": {
+  "rating": 3.018
+ },
+ "220456: Dragon Fodder": {
+  "rating": 3.436
+ },
+ "220457: Dregscape Zombie": {
+  "rating": 3.061
+ },
+ "220458: Flameblast Dragon": {
+  "rating": 3.515
+ },
+ "220459: Infest": {
+  "rating": 4.167
+ },
+ "220460: Metallurgeon": {
+  "rating": 3.125
+ },
+ "220461: Obelisk of Esper": {
+  "rating": 2.468
+ },
+ "220462: Sanctum Gargoyle": {
+  "rating": 3.227
+ },
+ "220464: Imperial Hellkite": {
+  "rating": 3.87
+ },
+ "220465: Kilnmouth Dragon": {
+  "rating": 4.112
+ },
+ "220466: Skirk Marauder": {
+  "rating": 3.5
+ },
+ "220467: Graypelt Refuge": {
+  "rating": 3.109
+ },
+ "220468: Hellkite Charger": {
+  "rating": 3.873
+ },
+ "220469: Inferno Trap": {
+  "rating": 2.062
+ },
+ "220470: Kazandu Refuge": {
+  "rating": 3.529
+ },
+ "220471: Ryusei, the Falling Star": {
+  "rating": 3.991
+ },
+ "220472: Two-Headed Dragon": {
+  "rating": 4.22
+ },
+ "220473: Dragon Breath": {
+  "rating": 4.344
+ },
+ "220474: Dragonspeaker Shaman": {
+  "rating": 4.179
+ },
+ "220475: Fierce Empath": {
+  "rating": 4.281
+ },
+ "220476: Cemetery Reaper": {
+  "rating": 3.956
+ },
+ "220477: Dragon Whelp": {
+  "rating": 3.797
+ },
+ "220478: Fireball": {
+  "rating": 4.273
+ },
+ "220479: Fog": {
+  "rating": 4.12
+ },
+ "220480: Sign in Blood": {
+  "rating": 3.74
+ },
+ "220481: Terramorphic Expanse": {
+  "rating": 3.539
+ },
+ "220482: Beacon of Unrest": {
+  "rating": 4.325
+ },
+ "220483: Furnace Whelp": {
+  "rating": 3.432
+ },
+ "220484: Juggernaut": {
+  "rating": 4.033
+ },
+ "220485: Molimo, Maro-Sorcerer": {
+  "rating": 4.043
+ },
+ "220487: Barren Moor": {
+  "rating": 3.633
+ },
+ "220488: Battering Craghorn": {
+  "rating": 2.661
+ },
+ "220489: Festering Goblin": {
+  "rating": 4.3
+ },
+ "220490: Kamahl, Fist of Krosa": {
+  "rating": 4.317
+ },
+ "220491: Krosan Tusker": {
+  "rating": 4.11
+ },
+ "220492: Secluded Steppe": {
+  "rating": 3.727
+ },
+ "220493: Skirk Commando": {
+  "rating": 3.297
+ },
+ "220494: Tranquil Thicket": {
+  "rating": 3.778
+ },
+ "220495: Gathan Raiders": {
+  "rating": 3.934
+ },
+ "220496: Llanowar Reborn": {
+  "rating": 3.959
+ },
+ "220497: Spin into Myth": {
+  "rating": 3.667
+ },
+ "220498: Armadillo Cloak": {
+  "rating": 4.139
+ },
+ "220499: Breath of Darigaaz": {
+  "rating": 4.147
+ },
+ "220500: Fires of Yavimaya": {
+  "rating": 4.349
+ },
+ "220501: Heroes' Reunion": {
+  "rating": 3.988
+ },
+ "220502: Wax // Wane": {
+  "rating": 4.148
+ },
+ "220504: Gruul Signet": {
+  "rating": 3.267
+ },
+ "220505: Savage Twister": {
+  "rating": 4.088
+ },
+ "220506: Thran Dynamo": {
+  "rating": 4.386
+ },
+ "220507: Extractor Demon": {
+  "rating": 3.217
+ },
+ "220508: Infectious Horror": {
+  "rating": 2.929
+ },
+ "220509: Magister Sphinx": {
+  "rating": 3.883
+ },
+ "220510: Master Transmuter": {
+  "rating": 4.516
+ },
+ "220511: Path to Exile": {
+  "rating": 4.344
+ },
+ "220512: Volcanic Fallout": {
+  "rating": 4.402
+ },
+ "220513: Chandra's Outrage": {
+  "rating": 3.152
+ },
+ "220514: Plummet": {
+  "rating": 3.533
+ },
+ "220515: Reassembling Skeleton": {
+  "rating": 3.611
+ },
+ "220517: Architects of Will": {
+  "rating": 2.885
+ },
+ "220518: Bituminous Blast": {
+  "rating": 3.667
+ },
+ "220519: Colossal Might": {
+  "rating": 3.203
+ },
+ "220520: Ethersworn Shieldmage": {
+  "rating": 2.87
+ },
+ "220521: Fieldmist Borderpost": {
+  "rating": 2.841
+ },
+ "220522: Mistvein Borderpost": {
+  "rating": 2.913
+ },
+ "220523: Pale Recluse": {
+  "rating": 3.042
+ },
+ "220524: Terminate": {
+  "rating": 4.468
+ },
+ "220525: Aether Spellbomb": {
+  "rating": 4.192
+ },
+ "220526: Duplicant": {
+  "rating": 4.508
+ },
+ "220527: Leonin Abunas": {
+  "rating": 4
+ },
+ "220528: Lightning Greaves": {
+  "rating": 4.547
+ },
+ "220529: March of the Machines": {
+  "rating": 4.312
+ },
+ "220530: Sun Droplet": {
+  "rating": 3.473
+ },
+ "220531: Synod Sanctum": {
+  "rating": 3.92
+ },
+ "220532: Memnarch": {
+  "rating": 4.548
+ },
+ "220533: Sundering Titan": {
+  "rating": 4.467
+ },
+ "220534: Everflowing Chalice": {
+  "rating": 3.802
+ },
+ "220535: Khalni Garden": {
+  "rating": 3.8
+ },
+ "220536: Lodestone Golem": {
+  "rating": 4.567
+ },
+ "220537: Skullcage": {
+  "rating": 3.6
+ },
+ "220538: Synod Centurion": {
+  "rating": 3.741
+ },
+ "220539: Avatar of Discord": {
+  "rating": 3.764
+ },
+ "220540: Azorius Signet": {
+  "rating": 3.625
+ },
+ "220541: Rakdos Carnarium": {
+  "rating": 3.562
+ },
+ "220542: Rakdos Guildmage": {
+  "rating": 3.392
+ },
+ "220543: Rakdos Signet": {
+  "rating": 3.561
+ },
+ "220544: Krosan Verge": {
+  "rating": 4.181
+ },
+ "220545: Nantuko Monastery": {
+  "rating": 4.257
+ },
+ "220546: Incremental Blight": {
+  "rating": 3.364
+ },
+ "220547: Torrent of Souls": {
+  "rating": 3.536
+ },
+ "220548: Dimir Signet": {
+  "rating": 3.576
+ },
+ "220549: Selesnya Guildmage": {
+  "rating": 3.451
+ },
+ "220550: Vitu-Ghazi, the City-Tree": {
+  "rating": 3.25
+ },
+ "220551: Watchwolf": {
+  "rating": 4.016
+ },
+ "220552: Unbender Tine": {
+  "rating": 3.227
+ },
+ "220553: Artisan of Kozilek": {
+  "rating": 3.938
+ },
+ "220554: Dreamstone Hedron": {
+  "rating": 3.55
+ },
+ "220555: Spider Umbra": {
+  "rating": 3.791
+ },
+ "220556: Bog Witch": {
+  "rating": 4
+ },
+ "220557: Kaervek the Merciless": {
+  "rating": 4
+ },
+ "220558: Thelonite Hermit": {
+  "rating": 4.167
+ },
+ "220559: Urborg Syphon-Mage": {
+  "rating": 3.542
+ },
+ "220560: Yavimaya Dryad": {
+  "rating": 4.17
+ },
+ "220561: Seething Song": {
+  "rating": 4.422
+ },
+ "220562: Avatar of Woe": {
+  "rating": 4.178
+ },
+ "220563: Hunting Moa": {
+  "rating": 4.018
+ },
+ "220564: Twisted Abomination": {
+  "rating": 3.976
+ },
+ "220565: Verdeloth the Ancient": {
+  "rating": 4.012
+ },
+ "220566: Wall of Roots": {
+  "rating": 4.43
+ },
+ "220567: Corpse Connoisseur": {
+  "rating": 2.841
+ },
+ "220568: Leaf Gilder": {
+  "rating": 2.48
+ },
+ "220569: Makeshift Mannequin": {
+  "rating": 3.689
+ },
+ "220570: Mosswort Bridge": {
+  "rating": 3.7
+ },
+ "220571: Primal Command": {
+  "rating": 4.133
+ },
+ "220572: Shriekmaw": {
+  "rating": 4.21
+ },
+ "220573: Batwing Brume": {
+  "rating": 3.736
+ },
+ "220574: Unmake": {
+  "rating": 4.274
+ },
+ "220575: Wickerbough Elder": {
+  "rating": 4.174
+ },
+ "220576: Reanimate": {
+  "rating": 4.479
+ },
+ "220577: Rancor": {
+  "rating": 4.529
+ },
+ "220578: Vampiric Dragon": {
+  "rating": 4.07
+ },
+ "220579: Zombie Infestation": {
+  "rating": 4.048
+ },
+ "220580: Zombify": {
+  "rating": 4.237
+ },
+ "220581: Thunderstaff": {
+  "rating": 3.926
+ },
+ "220582: Sakura-Tribe Elder": {
+  "rating": 4.113
+ },
+ "220583: Forgotten Ancient": {
+  "rating": 4.353
+ },
+ "220584: Harmonize": {
+  "rating": 4.319
+ },
+ "220585: Gleeful Sabotage": {
+  "rating": 4.032
+ },
+ "220586: Oblivion Ring": {
+  "rating": 4.388
+ },
+ "220587: Shinen of Life's Roar": {
+  "rating": 3.486
+ },
+ "220588: Scion of Darkness": {
+  "rating": 4.09
+ },
+ "220684: Feral Hydra": {
+  "rating": 3
+ },
+ "221295: Forest": {
+  "rating": 4.614
+ },
+ "221296: Forest": {
+  "rating": 4.456
+ },
+ "221297: Forest": {
+  "rating": 4.692
+ },
+ "221300: Island": {
+  "rating": 4.2
+ },
+ "221301: Island": {
+  "rating": 4.395
+ },
+ "221302: Island": {
+  "rating": 4.635
+ },
+ "221303: Mountain": {
+  "rating": 4.523
+ },
+ "221304: Mountain": {
+  "rating": 4.577
+ },
+ "221305: Mountain": {
+  "rating": 4.688
+ },
+ "221309: Plains": {
+  "rating": 4.326
+ },
+ "221310: Plains": {
+  "rating": 4.533
+ },
+ "221311: Swamp": {
+  "rating": 4.44
+ },
+ "221312: Swamp": {
+  "rating": 4.519
+ },
+ "221313: Swamp": {
+  "rating": 4.5
+ },
+ "222702: Sorcerer's Strongbox": {
+  "rating": 2.405
+ }
+}

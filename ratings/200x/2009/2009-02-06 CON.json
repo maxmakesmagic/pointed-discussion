@@ -1,0 +1,437 @@
+{
+ "137936: Armillary Sphere": {
+  "rating": 2.931
+ },
+ "138571: Nacatl Hunt-Pride": {
+  "rating": 2.875
+ },
+ "142298: Worldly Counsel": {
+  "rating": 2.934
+ },
+ "142301: Rupture Spire": {
+  "rating": 3.383
+ },
+ "150807: Reliquary Tower": {
+  "rating": 3.679
+ },
+ "150810: Might of Alara": {
+  "rating": 2.667
+ },
+ "150826: Asha's Favor": {
+  "rating": 3
+ },
+ "150833: Rotting Rats": {
+  "rating": 2.883
+ },
+ "150847: Voices from the Void": {
+  "rating": 1.582
+ },
+ "153946: Aerie Mystics": {
+  "rating": 2.755
+ },
+ "154081: Inkwell Leviathan": {
+  "rating": 4.54
+ },
+ "157732: Infectious Horror": {
+  "rating": 3.065
+ },
+ "158598: Mirror-Sigil Sergeant": {
+  "rating": 3.979
+ },
+ "159610: Bloodhall Ooze": {
+  "rating": 3.739
+ },
+ "159612: Cliffrunner Behemoth": {
+  "rating": 3.414
+ },
+ "159629: Dreadwing": {
+  "rating": 2.745
+ },
+ "159634: Rhox Meditant": {
+  "rating": 2.934
+ },
+ "170956: Toxic Iguanar": {
+  "rating": 2.967
+ },
+ "174791: Jhessian Balmgiver": {
+  "rating": 3.118
+ },
+ "174792: Scepter of Dominance": {
+  "rating": 3.394
+ },
+ "174799: Hellspark Elemental": {
+  "rating": 3.617
+ },
+ "174907: Wretched Banquet": {
+  "rating": 2.926
+ },
+ "174953: Skyward Eye Prophets": {
+  "rating": 2.991
+ },
+ "175021: Parasitic Strix": {
+  "rating": 3.056
+ },
+ "175026: Lapse of Certainty": {
+  "rating": 3.155
+ },
+ "175034: Shard Convergence": {
+  "rating": 3.074
+ },
+ "175035: Ethersworn Adjudicator": {
+  "rating": 3.792
+ },
+ "175401: Worldheart Phoenix": {
+  "rating": 2.988
+ },
+ "177924: Rhox Bodyguard": {
+  "rating": 2.107
+ },
+ "177927: Grixis Illusionist": {
+  "rating": 2.673
+ },
+ "177931: Beacon Behemoth": {
+  "rating": 2.787
+ },
+ "177932: Unsummon": {
+  "rating": 4.074
+ },
+ "177940: Kranioceros": {
+  "rating": 2.053
+ },
+ "178560: Martial Coup": {
+  "rating": 4.049
+ },
+ "179235: Path to Exile": {
+  "rating": 4.341
+ },
+ "179239: Drag Down": {
+  "rating": 2.392
+ },
+ "179245: Viashino Slaughtermaster": {
+  "rating": 3.14
+ },
+ "179248: Matca Rioters": {
+  "rating": 2.674
+ },
+ "179252: Master Transmuter": {
+  "rating": 4.439
+ },
+ "179254: Salvage Slasher": {
+  "rating": 2.95
+ },
+ "179434: Noble Hierarch": {
+  "rating": 4.598
+ },
+ "179437: Conflux": {
+  "rating": 3.049
+ },
+ "179438: Charnelhoard Wurm": {
+  "rating": 3.092
+ },
+ "179439: Filigree Fracture": {
+  "rating": 2.671
+ },
+ "179440: Quenchable Fire": {
+  "rating": 3.018
+ },
+ "179441: Nicol Bolas, Planeswalker": {
+  "rating": 4.134
+ },
+ "179443: Fusion Elemental": {
+  "rating": 3.473
+ },
+ "179487: Goblin Razerunners": {
+  "rating": 3.25
+ },
+ "179488: Sacellum Archers": {
+  "rating": 2.602
+ },
+ "179489: Wild Leotau": {
+  "rating": 2.484
+ },
+ "179496: Progenitus": {
+  "rating": 4.159
+ },
+ "179505: Gleam of Resistance": {
+  "rating": 2.093
+ },
+ "179508: Traumatic Visions": {
+  "rating": 2.169
+ },
+ "179512: Gluttonous Slime": {
+  "rating": 3
+ },
+ "179513: Absorb Vis": {
+  "rating": 2.312
+ },
+ "179518: Pestilent Kathari": {
+  "rating": 3
+ },
+ "179519: Fiery Fall": {
+  "rating": 2.31
+ },
+ "179523: Sylvan Bounty": {
+  "rating": 2.216
+ },
+ "179804: Grixis Slavedriver": {
+  "rating": 3.032
+ },
+ "179878: Paragon of the Amesha": {
+  "rating": 2.973
+ },
+ "179884: Fleshformer": {
+  "rating": 2.189
+ },
+ "179886: Meglonoth": {
+  "rating": 4.171
+ },
+ "179891: Yoke of the Damned": {
+  "rating": 2.548
+ },
+ "179892: Magister Sphinx": {
+  "rating": 3.864
+ },
+ "180147: Brackwater Elemental": {
+  "rating": 2.836
+ },
+ "180158: Esperzoa": {
+  "rating": 3.965
+ },
+ "180159: Manaforce Mace": {
+  "rating": 2.277
+ },
+ "180265: Knotvine Mystic": {
+  "rating": 3.109
+ },
+ "180267: Blood Tyrant": {
+  "rating": 3.737
+ },
+ "180271: Sigil of the Empty Throne": {
+  "rating": 3.996
+ },
+ "180272: Constricting Tendrils": {
+  "rating": 1.559
+ },
+ "180274: Volcanic Fallout": {
+  "rating": 4.368
+ },
+ "180278: Aven Trailblazer": {
+  "rating": 2.212
+ },
+ "180279: Wandering Goblins": {
+  "rating": 2.082
+ },
+ "180322: Cumber Stone": {
+  "rating": 3
+ },
+ "180334: Darklit Gargoyle": {
+  "rating": 3.038
+ },
+ "180341: Thornling": {
+  "rating": 3.587
+ },
+ "180344: Vagrant Plowbeasts": {
+  "rating": 3.028
+ },
+ "180345: Suicidal Charge": {
+  "rating": 2.368
+ },
+ "180516: Child of Alara": {
+  "rating": 3.321
+ },
+ "182306: Sedraxis Alchemist": {
+  "rating": 3.059
+ },
+ "182607: Court Homunculus": {
+  "rating": 3.162
+ },
+ "182608: Faerie Mechanist": {
+  "rating": 2.972
+ },
+ "182609: Maniacal Rage": {
+  "rating": 2.7
+ },
+ "183018: Obelisk of Alara": {
+  "rating": 3.426
+ },
+ "183019: Sludge Strider": {
+  "rating": 3.009
+ },
+ "183022: Nacatl Savage": {
+  "rating": 2.412
+ },
+ "183024: Elder Mastery": {
+  "rating": 2.929
+ },
+ "183025: Scarland Thrinax": {
+  "rating": 2.982
+ },
+ "183053: Controlled Instincts": {
+  "rating": 2.038
+ },
+ "183054: Corrupted Roots": {
+  "rating": 2.262
+ },
+ "183055: Celestial Purge": {
+  "rating": 3.621
+ },
+ "183056: Ignite Disorder": {
+  "rating": 2.114
+ },
+ "183058: View from Above": {
+  "rating": 2.511
+ },
+ "183063: Vectis Agents": {
+  "rating": 2.172
+ },
+ "183068: Apocalypse Hydra": {
+  "rating": 3.901
+ },
+ "184983: Esper Cormorants": {
+  "rating": 2.444
+ },
+ "184984: Valiant Guard": {
+  "rating": 2.386
+ },
+ "184988: Molten Frame": {
+  "rating": 2.01
+ },
+ "184989: Scepter of Insight": {
+  "rating": 2.542
+ },
+ "184990: Ember Weaver": {
+  "rating": 3.161
+ },
+ "184991: Shambling Remains": {
+  "rating": 3.509
+ },
+ "184992: Aven Squire": {
+  "rating": 2.988
+ },
+ "184993: Frontline Sage": {
+  "rating": 2.12
+ },
+ "184994: Canyon Minotaur": {
+  "rating": 1.697
+ },
+ "184995: Tukatongue Thallid": {
+  "rating": 3.407
+ },
+ "185136: Maelstrom Archangel": {
+  "rating": 4.091
+ },
+ "185137: Soul's Majesty": {
+  "rating": 3.08
+ },
+ "185138: Zombie Outlander": {
+  "rating": 2.952
+ },
+ "185140: Nacatl Outlander": {
+  "rating": 2.821
+ },
+ "185141: Vedalken Outlander": {
+  "rating": 2.991
+ },
+ "185142: Goblin Outlander": {
+  "rating": 2.97
+ },
+ "185143: Dark Temper": {
+  "rating": 2.918
+ },
+ "185144: Valeron Outlander": {
+  "rating": 2.906
+ },
+ "185810: Rakka Mar": {
+  "rating": 3.482
+ },
+ "185811: Gwafa Hazid, Profiteer": {
+  "rating": 3.308
+ },
+ "185812: Malfegor": {
+  "rating": 3.791
+ },
+ "185828: Scattershot Archer": {
+  "rating": 3.64
+ },
+ "185829: Spore Burst": {
+  "rating": 2.461
+ },
+ "186327: Countersquall": {
+  "rating": 3.915
+ },
+ "186328: Scornful Aether-Lich": {
+  "rating": 2.921
+ },
+ "186329: Voracious Dragon": {
+  "rating": 3.41
+ },
+ "186392: Dragonsoul Knight": {
+  "rating": 3.014
+ },
+ "186613: Banefire": {
+  "rating": 4.344
+ },
+ "186614: Giltspire Avenger": {
+  "rating": 3.342
+ },
+ "186615: Mark of Asylum": {
+  "rating": 3.236
+ },
+ "186616: Nyxathid": {
+  "rating": 3.932
+ },
+ "189078: Unstable Frontier": {
+  "rating": 2.789
+ },
+ "189079: Sphinx Summoner": {
+  "rating": 3.422
+ },
+ "189080: Kederekt Parasite": {
+  "rating": 3.794
+ },
+ "189081: Cylian Sunsinger": {
+  "rating": 2.893
+ },
+ "189082: Extractor Demon": {
+  "rating": 3.344
+ },
+ "189084: Scepter of Fugue": {
+  "rating": 3.401
+ },
+ "189085: Telemin Performance": {
+  "rating": 4.319
+ },
+ "189145: Knight of the Reliquary": {
+  "rating": 4.443
+ },
+ "189146: Hellkite Hatchling": {
+  "rating": 3.198
+ },
+ "189147: Font of Mythos": {
+  "rating": 3.418
+ },
+ "189269: Mana Cylix": {
+  "rating": 3.271
+ },
+ "189270: Bone Saw": {
+  "rating": 2.933
+ },
+ "189271: Ancient Ziggurat": {
+  "rating": 4.137
+ },
+ "189272: Kaleidostone": {
+  "rating": 2.974
+ },
+ "189273: Exotic Orchard": {
+  "rating": 3.209
+ },
+ "189378: Exploding Borders": {
+  "rating": 2.968
+ },
+ "189873: Paleoloth": {
+  "rating": 3.066
+ },
+ "189874: Wall of Reverence": {
+  "rating": 3.75
+ }
+}

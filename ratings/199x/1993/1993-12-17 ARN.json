@@ -1,0 +1,278 @@
+{
+ "900: Aladdin's Lamp": {
+  "rating": 1.94
+ },
+ "901: Aladdin's Ring": {
+  "rating": 1.444
+ },
+ "902: Bottle of Suleiman": {
+  "rating": 2.9
+ },
+ "903: Brass Man": {
+  "rating": 3.56
+ },
+ "904: City in a Bottle": {
+  "rating": 3
+ },
+ "905: Dancing Scimitar": {
+  "rating": 2.885
+ },
+ "906: Ebony Horse": {
+  "rating": 2.221
+ },
+ "907: Flying Carpet": {
+  "rating": 2.27
+ },
+ "908: Jandor's Ring": {
+  "rating": 1.321
+ },
+ "909: Jandor's Saddlebags": {
+  "rating": 2.412
+ },
+ "910: Jeweled Bird": {
+  "rating": 2.274
+ },
+ "911: Pyramids": {
+  "rating": 1.978
+ },
+ "912: Ring of Ma'rûf": {
+  "rating": 3.761
+ },
+ "913: Sandals of Abdallah": {
+  "rating": 1.327
+ },
+ "914: Cuombajj Witches": {
+  "rating": 3.197
+ },
+ "915: El-Hajjâj": {
+  "rating": 2.059
+ },
+ "916: Erg Raiders": {
+  "rating": 3.8
+ },
+ "917: Erg Raiders": {
+  "rating": 3.659
+ },
+ "918: Guardian Beast": {
+  "rating": 4.266
+ },
+ "919: Hasran Ogress": {
+  "rating": 2.372
+ },
+ "920: Hasran Ogress": {
+  "rating": 2.567
+ },
+ "921: Junún Efreet": {
+  "rating": 3.012
+ },
+ "922: Juzám Djinn": {
+  "rating": 4.308
+ },
+ "923: Khabál Ghoul": {
+  "rating": 3.682
+ },
+ "924: Oubliette": {
+  "rating": 3.686
+ },
+ "925: Oubliette": {
+  "rating": 3.894
+ },
+ "926: Sorceress Queen": {
+  "rating": 4.149
+ },
+ "927: Stone-Throwing Devils": {
+  "rating": 4
+ },
+ "928: Stone-Throwing Devils": {
+  "rating": 3.886
+ },
+ "929: Dandân": {
+  "rating": 2.663
+ },
+ "930: Fishliver Oil": {
+  "rating": 1.412
+ },
+ "931: Fishliver Oil": {
+  "rating": 1.958
+ },
+ "932: Flying Men": {
+  "rating": 4.246
+ },
+ "933: Giant Tortoise": {
+  "rating": 3.203
+ },
+ "934: Giant Tortoise": {
+  "rating": 3.344
+ },
+ "935: Island Fish Jasconius": {
+  "rating": 2.367
+ },
+ "936: Merchant Ship": {
+  "rating": 2.13
+ },
+ "937: Old Man of the Sea": {
+  "rating": 3.931
+ },
+ "938: Serendib Djinn": {
+  "rating": 3.25
+ },
+ "939: Serendib Efreet": {
+  "rating": 4.583
+ },
+ "940: Sindbad": {
+  "rating": 3.061
+ },
+ "941: Unstable Mutation": {
+  "rating": 4.037
+ },
+ "942: Cyclone": {
+  "rating": 2.742
+ },
+ "943: Desert Twister": {
+  "rating": 3.447
+ },
+ "944: Drop of Honey": {
+  "rating": 4.145
+ },
+ "945: Erhnam Djinn": {
+  "rating": 3.902
+ },
+ "946: Ghazbán Ogre": {
+  "rating": 3.411
+ },
+ "947: Ifh-Bíff Efreet": {
+  "rating": 3.842
+ },
+ "948: Metamorphosis": {
+  "rating": 2.833
+ },
+ "949: Nafs Asp": {
+  "rating": 3.353
+ },
+ "950: Nafs Asp": {
+  "rating": 3.341
+ },
+ "951: Sandstorm": {
+  "rating": 3.271
+ },
+ "952: Singing Tree": {
+  "rating": 3.585
+ },
+ "953: Wyluli Wolf": {
+  "rating": 2.85
+ },
+ "954: Wyluli Wolf": {
+  "rating": 2.9
+ },
+ "955: Aladdin": {
+  "rating": 3.594
+ },
+ "956: Ali Baba": {
+  "rating": 2.547
+ },
+ "957: Ali from Cairo": {
+  "rating": 3.743
+ },
+ "958: Bird Maiden": {
+  "rating": 2.4
+ },
+ "959: Bird Maiden": {
+  "rating": 2.231
+ },
+ "960: Desert Nomads": {
+  "rating": 2.627
+ },
+ "961: Hurr Jackal": {
+  "rating": 2.891
+ },
+ "962: Kird Ape": {
+  "rating": 4.494
+ },
+ "963: Magnetic Mountain": {
+  "rating": 3.179
+ },
+ "964: Mijae Djinn": {
+  "rating": 3.42
+ },
+ "965: Rukh Egg": {
+  "rating": 3.667
+ },
+ "966: Rukh Egg": {
+  "rating": 3.808
+ },
+ "967: Ydwen Efreet": {
+  "rating": 4.149
+ },
+ "968: Abu Ja'far": {
+  "rating": 3.67
+ },
+ "969: Army of Allah": {
+  "rating": 2.828
+ },
+ "970: Army of Allah": {
+  "rating": 3.123
+ },
+ "971: Camel": {
+  "rating": 3.049
+ },
+ "972: Eye for an Eye": {
+  "rating": 3.515
+ },
+ "973: Jihad": {
+  "rating": 3.931
+ },
+ "974: King Suleiman": {
+  "rating": 3.089
+ },
+ "975: Moorish Cavalry": {
+  "rating": 3.148
+ },
+ "976: Moorish Cavalry": {
+  "rating": 3.296
+ },
+ "977: Piety": {
+  "rating": 2.16
+ },
+ "978: Piety": {
+  "rating": 1.943
+ },
+ "979: Repentant Blacksmith": {
+  "rating": 2.92
+ },
+ "980: Shahrazad": {
+  "rating": 4.185
+ },
+ "981: War Elephant": {
+  "rating": 2.117
+ },
+ "982: War Elephant": {
+  "rating": 2.706
+ },
+ "983: Mountain": {
+  "rating": 4.405
+ },
+ "984: Bazaar of Baghdad": {
+  "rating": 4.724
+ },
+ "985: City of Brass": {
+  "rating": 4.548
+ },
+ "986: Desert": {
+  "rating": 3.993
+ },
+ "987: Diamond Valley": {
+  "rating": 4.186
+ },
+ "988: Elephant Graveyard": {
+  "rating": 3.611
+ },
+ "989: Island of Wak-Wak": {
+  "rating": 3.769
+ },
+ "990: Library of Alexandria": {
+  "rating": 4.827
+ },
+ "991: Oasis": {
+  "rating": 2.333
+ }
+}
