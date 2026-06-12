@@ -12,3 +12,5 @@ V1 of this repository contained comments scraped from the Wayback machine, and a
 
 V2 of this repository contains a complete set of data gathered by `cardologist` on Reddit, who has graciously allowed me to archive it here.
 For more information, please check out the [data README.md](data/README.md)
+
+The `ratings/` directory contains per-printing community ratings for cards on Gatherer. This companion data set covers 24,692 rated printings across 163 sets and follows the same directory structure as the comment archive (organized by year and set). For more information, please check out the [ratings README.md](ratings/README.md)
